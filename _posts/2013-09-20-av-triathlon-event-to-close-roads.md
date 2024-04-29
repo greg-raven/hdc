@@ -18,7 +18,7 @@ Street closures, which run 6:30 a.m. to 10:15 a.m., include:
 - Dale Evans Parkway and Bell Mountain Road from Waalew to Corwin roads.
 - Waalew Road from Corwin Road to Comanche Road.
 
-![](https://www.hdcycling.org/_assets/img/2013/09/28-triathlon.jpg)  
+![](https://www.hdcycling.org/assets/img/2013/09/28-triathlon.jpg)  
 Access to Highway 18 will be made through Rancherias Road or Corwin Road to the west, and Navajo or Flathead roads to the east.
 
 Citizens on Patrol volunteers will assist residents who live within the closure areas to navigate safely to one of the detour points.

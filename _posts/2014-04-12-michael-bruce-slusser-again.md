@@ -3,7 +3,7 @@ title: "Michael Bruce Slusser, again"
 date: '2014-04-12T06:07:59-07:00'
 layout: post
 enclosure:
-    - "https://www.hdcycling.org/_assets/video/20140400-Slusser-In-Bz.mp4\n3908654\nvideo/mp4\n"
+    - "https://www.hdcycling.org/assets/video/20140400-Slusser-In-Bz.mp4\n3908654\nvideo/mp4\n"
 categories:
     - Information
 tags:
@@ -26,4 +26,4 @@ Because of the apparent difficulty in gaining traction with the authorities abou
 
 If you know anyone who might be in a position to push (or undertake) an investigation of the allegations of Slusser’ recent travels out of the country, please [contact me](https://www.hdcycling.org/about/contact/ "Contact me") and I will forward the information to the appropriate persons.
 
-<div class="wp-video" style="width: 640px;"><video class="wp-video-shortcode" controls="controls" height="360" id="video-3975-1" preload="metadata" width="640"><source src="https://www.hdcycling.org/_assets/video/20140400-Slusser-In-Bz.mp4?_=1" type="video/mp4"></source>[https://www.hdcycling.org/\_assets/video/20140400-Slusser-In-Bz.mp4](https://www.hdcycling.org/_assets/video/20140400-Slusser-In-Bz.mp4)</video></div>Is this Michael Bruce Slusser at 3:00 PM on April 8th, 2014, in front of 91 North Front Street, Belize City, Belize?
+<div class="wp-video" style="width: 640px;"><video class="wp-video-shortcode" controls="controls" height="360" id="video-3975-1" preload="metadata" width="640"><source src="https://www.hdcycling.org/assets/video/20140400-Slusser-In-Bz.mp4?_=1" type="video/mp4"></source>[https://www.hdcycling.org/\_assets/video/20140400-Slusser-In-Bz.mp4](https://www.hdcycling.org/assets/video/20140400-Slusser-In-Bz.mp4)</video></div>Is this Michael Bruce Slusser at 3:00 PM on April 8th, 2014, in front of 91 North Front Street, Belize City, Belize?

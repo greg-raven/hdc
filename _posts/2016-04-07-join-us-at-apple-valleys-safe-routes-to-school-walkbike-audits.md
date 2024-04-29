@@ -27,4 +27,4 @@ Check out our Apple Valley Safe Routes to School Facebook and Twitter posts from
 | Sitting Bull Academy | April 29, 2016 | Friday | a.m. | 8:10 a.m. | 9:40 a.m. |
 | Desert Knolls Elementary | April 29, 2016 | Friday | p.m. | 2:00 p.m. | 3:25 p.m. |
 
-![20160407-srts](/_assets/img/2016/20160407-srts.jpg)
+![20160407-srts](/assets/img/2016/20160407-srts.jpg)

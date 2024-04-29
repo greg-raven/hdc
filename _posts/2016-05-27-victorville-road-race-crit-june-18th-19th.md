@@ -77,4 +77,4 @@ Go to majesticcycling.com or Majestic Cycling on FB for more information
 
 For all Hotel accommodation call the Green Tree Inn for special room rates
 
-<iframe class="pdf" src="/_assets/pdf/20160618-victorville-races.pdf"></iframe>
+<iframe class="pdf" src="/assets/pdf/20160618-victorville-races.pdf"></iframe>

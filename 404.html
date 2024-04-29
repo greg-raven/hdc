@@ -1,4 +1,5 @@
 ---
+title: 404 error --- Page not found
 layout: base
 ---
 
@@ -20,5 +21,13 @@ layout: base
   <h1>404</h1>
 
   <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p>The requested page could not be found. Perhaps try a search?</p>
 </div>
+
+{% include search-lunr.html %}
+
+<hr>
+
+Files on this site:
+
+{% include files-on-this-site.html %}

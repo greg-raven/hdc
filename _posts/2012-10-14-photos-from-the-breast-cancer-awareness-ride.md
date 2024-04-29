@@ -9,7 +9,7 @@ categories:
 
 [Here are some photos](https://www.dropbox.com/sh/5nhhqtejx1ccoee/AAD6ci3l8yJ4h5H2mgiwH83ka?dl=0) from the 2012 Breast Cancer Awareness Ride (BCAR), which took place on Saturday, October 13th, at Victorville Cycles.
 
-<figure>![2012 Breast Cancer Awareness Ride poster](https://www.hdcycling.org/_assets/img/2012/10/13-BCAR.png)<figcaption> 2012 Breast Cancer Awareness Ride</figcaption></figure>This was the fourth year for this event, and the turn-out seemed huge. Participants consumed virtually all parking at Wimbledon Village, and the riders had to be started in waves to reduce congestion.
+<figure>![2012 Breast Cancer Awareness Ride poster](https://www.hdcycling.org/assets/img/2012/10/13-BCAR.png)<figcaption> 2012 Breast Cancer Awareness Ride</figcaption></figure>This was the fourth year for this event, and the turn-out seemed huge. Participants consumed virtually all parking at Wimbledon Village, and the riders had to be started in waves to reduce congestion.
 
 There didn’t seem to be many course markers, although there was a volunteer at one otherwise unmarked intersection to direct riders, which was very nice.
 

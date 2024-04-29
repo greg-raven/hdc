@@ -6,7 +6,7 @@ categories:
     - Information
 ---
 
-![Victorville-cycles](https://www.hdcycling.org/_assets/img/2014/01/Victorville-Cycles-exterior.jpg)  
+![Victorville-cycles](https://www.hdcycling.org/assets/img/2014/01/Victorville-Cycles-exterior.jpg)  
   
 Victorville Cycles has officially moved to 12120 Ridgecrest Rd, Ste 204, Victorville, CA 92395-5904 (at Bear Valley Road and Ridgecrest). It will be closed today to complete the move, but open tomorrow (Wednesday, January 29th).
 

@@ -15,4 +15,4 @@ Got a call today from a rider who lives outside our area, who had heard about th
 3. Each rider gets a number plate and a wristband. The wristband is color-coded based on which of the rides you are doing.
 4. This is a ride, not a race, so there will be no timing nor record kept of the finishing order.
 
-![VVBT](https://www.hdcycling.org/_assets/img/2015/04/vvbt15.png)
+![VVBT](https://www.hdcycling.org/assets/img/2015/04/vvbt15.png)

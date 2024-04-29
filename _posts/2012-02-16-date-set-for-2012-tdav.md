@@ -10,7 +10,7 @@ tags:
 
 This year’s Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!  
   
-![2012 Tour de Apple Valley](https://www.hdcycling.org/_assets/img/2012/02/16-tour-de-apple-valley.png)  
+![2012 Tour de Apple Valley](https://www.hdcycling.org/assets/img/2012/02/16-tour-de-apple-valley.png)  
 The routes have changed from previous years. There are now going to be three rides, 10 miles, 25 miles, and 50 miles.
 
 All rides start at 10:00 AM, with the 50-mile riders leaving first, then the 25-mile riders, then the 10-mile family riders. On-site registration starts at 8:30.

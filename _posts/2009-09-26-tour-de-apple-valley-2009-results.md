@@ -82,4 +82,4 @@ tags:
 | 39 | Michael Hanson | 137 | M | 2:50:31 | 5:30 |
 | 40 | Eugene Reynolds | 114 | M | 3:33:35 | 6:53 |
 
-<figure>![2009 Tour de Apple Valley](https://www.hdcycling.org/_assets/img/2009/09/26-tdav-poster.jpg)<figcaption>2009 Tour de Apple Valley poster</figcaption></figure>
+![2009 Tour de Apple Valley](/assets/img/2009/09/26-tdav-poster.jpg)

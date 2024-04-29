@@ -12,4 +12,4 @@ The project includes the installation of marking, striping, and new signs to mee
 
 The proposal includes a map of the locations to be upgraded.
 
-<iframe class="pdf" height="150" loading="lazy" src="/_assets/pdf/20170926-TOAV-bikeway-upgrade.pdf" width="300"></iframe>
+<iframe class="pdf" height="150" loading="lazy" src="/assets/pdf/20170926-TOAV-bikeway-upgrade.pdf" width="300"></iframe>
