@@ -26,7 +26,7 @@ While some teams in the league are focused on titles, Rea has a different approa
 
 The team is a part of the SoCal High School cycling League, which offers races throughout Southern California and a few road trips to Northern California. The team trains from November through May. It next travels to Keysville and then prepares for the state championships in May.
 
-Information about the race series and league can be found on the websites [socaldirt.org](http://socaldirt.org/) and [nationalmtb.org](http://www.nationalmtb.org/).
+Information about the race series and league can be found on the websites [socaldirt.org](https://socaldirt.org/) and [nationalmtb.org](https://www.nationalmtb.org/).
 
 To participate or to contact the team, email vvhstraildogs@gmail.com.
 

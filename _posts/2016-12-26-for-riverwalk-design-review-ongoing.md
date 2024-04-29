@@ -20,4 +20,4 @@ The Riverwalk project has underscored the city’s ambitions to boost it bicycle
 
 City Engineer Brian Gengler said this month that the city expects construction on the Riverwalk, which will be grant-funded, to begin in the fall of 2017.
 
-Source: Shea Johnson, [Daily Press](http://www.vvdailypress.com/news/20161226/for-riverwalk-design-review-ongoing)
+Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com/news/20161226/for-riverwalk-design-review-ongoing)

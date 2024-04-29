@@ -42,4 +42,4 @@ For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycl
 
 ![20161028-dp-vvbt](https://www.hdcycling.org/wp-content/uploads/2016/10/20161028-DP-vvbt-300x143.png)
 
-Source: Matt Cabe, [Daily Press](http://www.vvdailypress.com/news/20161027/bicycle-racers-are-coming-your-way-victor-valley-bicycle-tour-returns-for-2nd-year)
+Source: Matt Cabe, [Daily Press](https://www.vvdailypress.com/news/20161027/bicycle-racers-are-coming-your-way-victor-valley-bicycle-tour-returns-for-2nd-year)

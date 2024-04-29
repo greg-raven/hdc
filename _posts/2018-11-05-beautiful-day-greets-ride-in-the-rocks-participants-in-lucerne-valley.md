@@ -26,4 +26,4 @@ Besides donating thousands of dollars annually for science camp participation, t
 
 To view photos of the event, visit www.rideintherocks.com.
 
-Source: Peter Day, Daily Press (http://www.vvdailypress.com/news/20181105/beautiful-day-greets-ride-in-rocks-participants-in-lucerne-valley)
+Source: Peter Day, Daily Press (https://www.vvdailypress.com/news/20181105/beautiful-day-greets-ride-in-rocks-participants-in-lucerne-valley)

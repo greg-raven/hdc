@@ -10,7 +10,7 @@ categories:
 
 Thanks to everyone who participated in the Ride for Bike Lanes Monday afternoon (May 3rd, 2010). There was a great turn-out, and it’s a fun ride when you get a critical mass of cyclists all together!
 
-The route of the six-mile ride started at the parking lot next to [Lowe’s and Baja Fresh in Victorville](http://goo.gl/maps/LmiA), and proceeds down Bear Valley Road, ending at the [Automobile Club office in Jess Ranch](http://goo.gl/maps/jivn) Marketplace.
+The route of the six-mile ride started at the parking lot next to [Lowe’s and Baja Fresh in Victorville](https://goo.gl/maps/LmiA), and proceeds down Bear Valley Road, ending at the [Automobile Club office in Jess Ranch](https://goo.gl/maps/jivn) Marketplace.
 
 <figure class="wp-block-image">![2010 Ride for Bike Lanes start](/assets/img/2010/05/03-ride-start.jpg)</figure>---
 

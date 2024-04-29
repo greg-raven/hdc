@@ -12,6 +12,6 @@ Beginning Monday, April 17th Sully Miller will begin excavation in the median ar
 
 One lane will be open in each direction for the duration of the work, unless extenuating circumstances prevent this condition. The project is expected to last 60 working days, and is anticipated to be complete in Summer 2017. Left turn pockets at Navajo Road and Kiowa Road have been closed, but detours are available. Please follow all prescribed detours in the construction zone. Construction crews have placed temporary striping, channelizers, signage, and portable changeable message signs (CMS) to alert motorists of the temporary traffic pattern.
 
-Source: [CalTrans](http://sv08data.dot.ca.gov/memos/files/comalert/041417_0.pdf) (PDF)
+Source: [CalTrans](https://sv08data.dot.ca.gov/memos/files/comalert/041417_0.pdf) (PDF)
 
-See also: [Caltrans project in Apple Valley to begin Monday](http://www.vvdailypress.com/news/20170414/caltrans-project-in-apple-valley-to-begin-monday)
+See also: [Caltrans project in Apple Valley to begin Monday](https://www.vvdailypress.com/news/20170414/caltrans-project-in-apple-valley-to-begin-monday)

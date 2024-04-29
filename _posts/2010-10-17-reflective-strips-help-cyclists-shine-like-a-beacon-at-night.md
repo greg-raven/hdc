@@ -32,4 +32,4 @@ Dr Wood’s research pointed out that studies had shown about 40 per cent of cyc
 
 \[…\]
 
-From [The Age](http://www.theage.com.au/victoria/reflective-strips-help-cyclists-shine-like-a-beacon-at-night-20101016-16odw.html)
+From [The Age](https://www.theage.com.au/victoria/reflective-strips-help-cyclists-shine-like-a-beacon-at-night-20101016-16odw.html)

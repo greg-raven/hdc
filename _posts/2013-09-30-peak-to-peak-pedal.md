@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-The 2013 [Peak to Peak Pedal](http://usarc.org/peak-to-peak-pedal), a charity bike ride from Big Bear to Mammoth in support of the [United States Adaptive Recreation Center](http://usarc.org/) (USARC), starts October 9th.  
+The 2013 [Peak to Peak Pedal](https://usarc.org/peak-to-peak-pedal), a charity bike ride from Big Bear to Mammoth in support of the [United States Adaptive Recreation Center](https://usarc.org/) (USARC), starts October 9th.  
   
 The first two of the five stages go through the high desert: Big Bear to Barstow, and Barstow to Ridgecrest.
 

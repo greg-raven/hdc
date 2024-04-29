@@ -20,7 +20,7 @@ We are including Strava segments with prizes. Keep an eye on [our Facebook page]
 
 The mission of the Victor Valley Bicycle Tour is to raise awareness of safe bicycling in our communities and to promote cycling as a healthy lifestyle for both recreation and transportation.
 
-For the most up to date information on the 6th Victor Valley Bicycle Tour, please visit [our website](http://victorvalleybicycletour.com) or [Facebook page](https://www.facebook.com/victorvalleybicycletour/).
+For the most up to date information on the 6th Victor Valley Bicycle Tour, please visit [our website](https://victorvalleybicycletour.com) or [Facebook page](https://www.facebook.com/victorvalleybicycletour/).
 
 ## Event details and schedule
 

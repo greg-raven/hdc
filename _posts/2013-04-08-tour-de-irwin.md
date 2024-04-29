@@ -16,6 +16,6 @@ If you are not interested in racing, though riders are welcome to practice the r
 
 This seems an excellent opportunity to see this normally-restricted area, without having to commit to a race.
 
-See the Tour de Irwin website here: http://fortirwinfmwr.com/tourdeirwin/
+See the Tour de Irwin website here: https://fortirwinfmwr.com/tourdeirwin/
 
 Update: Changed the date from May 4th to May 18th.

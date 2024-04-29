@@ -40,4 +40,4 @@ Several videos documenting the progress of work on the bridge have been made, an
 
 More information on the Yucca Loma project can be found at www.yuccalomabridge. com. To see photos and videos of the project, visit the Yucca Loma Bridge Facebook page at www.facebook.com/YuccaLomaBridge.
 
-Source: Matthew Cabe, [Daily Press](http://www.vvdailypress.com/)
+Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com/)

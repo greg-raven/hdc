@@ -13,4 +13,4 @@ Filmmaker Michael Bauch showed his 37-minute film, “Riding Bikes with the Dutc
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/yU5ScmJrp1c?feature=oembed" title="Riding Bikes with the Dutch - Movie Trailer 5" width="840"></iframe>
 
-(There are other videos on [his YouTube channel](http://www.youtube.com/user/MichaelWBauch "Michael Bauch's YouTube channel").)
+(There are other videos on [his YouTube channel](https://www.youtube.com/user/MichaelWBauch "Michael Bauch's YouTube channel").)

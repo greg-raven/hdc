@@ -32,4 +32,4 @@ Once complete, the Mojave Riverwalk South will include several access paths into
 
 Source: Matthew Cabe, Daily Press
 
-[Read the full article here](http://www.vvdailypress.com/news/20161129/mojave-riverwalk-south-completion-pushed-to-february).
+[Read the full article here](https://www.vvdailypress.com/news/20161129/mojave-riverwalk-south-completion-pushed-to-february).

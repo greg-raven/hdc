@@ -12,4 +12,4 @@ It’s anyone’s guess why another distribution center is being located so far 
 
 I’ve scanned the agreement documents for this proposal, but have yet to find what traffic mitigation is in the works for cyclists. The Town of Apple Valley is known for being opportunistic (rather than pro-active) in establishing bike lanes and infrastructure, though, so perhaps this will be a good thing when all is said and done.
 
-[See the agreement documents here](http://waterwedoing.website/docs/toav/2015/20150609-TOAV-OPA-with-big-lots.php).
+[See the agreement documents here](https://waterwedoing.website/docs/toav/2015/20150609-TOAV-OPA-with-big-lots.php).

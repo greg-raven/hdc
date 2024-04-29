@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-Victorville Cycles is once again hosting the local [Breast Cancer Awareness Ride](http://www.trekbikes.com/us/en/community/rides/breast_cancer_awareness_ride/).  
+Victorville Cycles is once again hosting the local [Breast Cancer Awareness Ride](https://www.trekbikes.com/us/en/community/rides/breast_cancer_awareness_ride/).  
   
 THE RIDE
 
@@ -17,12 +17,12 @@ THE LOCATION
 The ride will start and finish at Victorville Cycles. The address is:
 
 [12408 Hesperia Rd #4  
-Victorville CA 92395](http://victorvillecycles.com/storelocator/)
+Victorville CA 92395](https://victorvillecycles.com/storelocator/)
 
 THE ROUTE
 
-There are two loops, one of [10 miles](http://www.mapmyride.com/us/hesperia-ca/breast-cancer-ride-10mile-route-9943501) and one of [25 miles](http://www.mapmyride.com/us/hesperia-ca/23-02-mi-run-in-victorville-on-oct-13-20-route-23687756).
+There are two loops, one of [10 miles](https://www.mapmyride.com/us/hesperia-ca/breast-cancer-ride-10mile-route-9943501) and one of [25 miles](https://www.mapmyride.com/us/hesperia-ca/23-02-mi-run-in-victorville-on-oct-13-20-route-23687756).
 
 REGISTRATION
 
-[Click here to register](http://bcar-victorvillecycles.eventbrite.com).
+[Click here to register](https://bcar-victorvillecycles.eventbrite.com).

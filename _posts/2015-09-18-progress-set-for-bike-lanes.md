@@ -28,4 +28,4 @@ Measure I is the half-cent sales tax used for transportation improvements and wa
 
 Shea Johnson may be reached at 760-955-5368 or SJohnson@VVDaily-Press.com. Follow him on Twitter at @DP\_Shea.
 
-Source: [Daily Press](http://www.vvdailypress.com/)
+Source: [Daily Press](https://www.vvdailypress.com/)

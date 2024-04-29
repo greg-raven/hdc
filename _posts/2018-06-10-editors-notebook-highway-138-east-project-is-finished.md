@@ -25,4 +25,4 @@ So overall, I’m happy with the wideness and straightness of the new road, but 
 
 \[…\]
 
-Source: Steve Hunt, [Daily Press](http://www.vvdailypress.com/news/20180609/editors-notebook-highway-138-east-project-is-finished)
+Source: Steve Hunt, [Daily Press](https://www.vvdailypress.com/news/20180609/editors-notebook-highway-138-east-project-is-finished)

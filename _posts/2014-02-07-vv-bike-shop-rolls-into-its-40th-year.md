@@ -16,6 +16,6 @@ The couple said their shop is open for business and will be announcing a grand o
 
 \[…\]
 
-The couple said they are excited about the future, and said they will continue to serve their customers as they spread the word about the healthy and financial benefits of cycling. “The High Desert is bike-loving area and we appreciative their sup port over the years, Kevin Kraatz said. “We don’t care what people ride, we just want to help those who do ride.” Victorville Cycles is at [12120 Ridgecrest Road Suite 208](http://binged.it/1eHhtp1). For more information, call 760-245-5900 or visit [victorvillecycles.com](http://www.victorvillecycles.com/).
+The couple said they are excited about the future, and said they will continue to serve their customers as they spread the word about the healthy and financial benefits of cycling. “The High Desert is bike-loving area and we appreciative their sup port over the years, Kevin Kraatz said. “We don’t care what people ride, we just want to help those who do ride.” Victorville Cycles is at [12120 Ridgecrest Road Suite 208](https://binged.it/1eHhtp1). For more information, call 760-245-5900 or visit [victorvillecycles.com](https://www.victorvillecycles.com/).
 
 Source: vvdailypress.com/articles/shop-44912-victorville-year.html

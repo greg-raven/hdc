@@ -10,9 +10,9 @@ Majestic Cycling is putting on the Second Annual Victorville Time Trial, Road Ra
 
 As with last year, the time trial and road race will be held at George AFB. Sunday’s criterium course will again be at Victorville Civic Center.
 
-[Click here for the official website](http://majesticcycling.com/victorville-road-race-and-crit/).
+[Click here for the official website](https://majesticcycling.com/victorville-road-race-and-crit/).
 
-[Click here to download a copy of the race bible](http://nebula.wsimg.com/47c65c68bdd440063417d798c1c79e49?AccessKeyId=BE1C0E0C7FC560B5D77F&disposition=0&alloworigin=1).
+[Click here to download a copy of the race bible](https://nebula.wsimg.com/47c65c68bdd440063417d798c1c79e49?AccessKeyId=BE1C0E0C7FC560B5D77F&disposition=0&alloworigin=1).
 
 This may be the most annoying promo video ever:
 

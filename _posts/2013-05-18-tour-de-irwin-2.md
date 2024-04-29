@@ -39,4 +39,4 @@ REGISTRATION FORMS:
 Please print and fill out the appropriate registration form, and turn it in at Outdoor Recreation, Building 4100 on Goldstone Road. Payment can be made via cash, check, or debit/credit card.  
 If you are coming from off-post to participate in the race, you can register and pay over the phone via credit card by calling the Outdoor Recreation office at (760) 380-4327. You can also email your filled out registration form to ftirwinodr@yahoo.com. If you prefer to mail in your registration and payment, it must be post marked no later than May 4, 2013.
 
-For entry fees and other information including photos, visit the Tour de Irwin website: http://fortirwinfmwr.com/tourdeirwin/
+For entry fees and other information including photos, visit the Tour de Irwin website: https://fortirwinfmwr.com/tourdeirwin/

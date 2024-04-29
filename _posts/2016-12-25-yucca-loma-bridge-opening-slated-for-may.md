@@ -28,4 +28,4 @@ That $45 million project will eventually stretch Green Tree Boulevard about a mi
 
 Construction is expected to start in late 2018, according to Victorville City Manager Doug Robertson.
 
-Source: Matthew Cabe, [Daily Press](http://www.vvdailypress.com/news/20161225/yucca-loma-bridge-opening-slated-for-may)
+Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com/news/20161225/yucca-loma-bridge-opening-slated-for-may)

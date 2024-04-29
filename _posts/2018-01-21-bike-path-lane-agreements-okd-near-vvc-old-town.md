@@ -24,4 +24,4 @@ Green Tree Boulevard and Seventh Street will complete a bike lane loop with Hesp
 
 Construction is expected to begin in 2018.
 
-Source: [Daily Press](http://www.vvdailypress.com/news/20180120/bike-path-lane-agreements-okd-near-vvc-old-town)
+Source: [Daily Press](https://www.vvdailypress.com/news/20180120/bike-path-lane-agreements-okd-near-vvc-old-town)

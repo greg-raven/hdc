@@ -32,6 +32,6 @@ Kline is one of 10 runners selected to participate in The Race Across USA to rai
 
 Kline’s team will leave California on Jan. 16, 2015, and visit schools along the route with the hope of starting new clubs, helping kids explore their physical and mental limitations and raising funds to sponsor students who cannot afford the cost of the 100 Mile Club.
 
-Those who wish to sponsor Kline can send tax-deductible donations to 100 Mile Club, 2191 Fifth St., Suite 211, Norco, CA 92860. Include “RAUSA Vanessa Kline” in the memo portion of the check. For personal sponsorships, call Kline at 714-381-4612. For more information on the race, go to [raceacrossusa.org](http://www.raceacrossusa.org). For more information on the 100 Mile Club, go to [100mileclub.com](http://www.100mileclub.com/).
+Those who wish to sponsor Kline can send tax-deductible donations to 100 Mile Club, 2191 Fifth St., Suite 211, Norco, CA 92860. Include “RAUSA Vanessa Kline” in the memo portion of the check. For personal sponsorships, call Kline at 714-381-4612. For more information on the race, go to [raceacrossusa.org](https://www.raceacrossusa.org). For more information on the 100 Mile Club, go to [100mileclub.com](https://www.100mileclub.com/).
 
 Source: vvdailypress.com/articles/hesperia-44274-marathoner-stolen.html

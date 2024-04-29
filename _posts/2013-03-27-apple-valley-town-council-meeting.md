@@ -22,7 +22,7 @@ Here is the text of my presentation:
 > 
 > I know as a cyclist that rumble strips are not fun to ride on, even when crossing them as you sometimes must. Therefore, I am attaching copies of an analysis of installing rumble strips, which covers the inclusion of passing zones that are accessible to bicycle traffic without diminishing their effectiveness in guiding wayward motor vehicles back into their proper lane.
 > 
-> Attached: [Analysis of Gap Patterns in Longitudinal Rumble Strips to Accommodate Bicycle Travel](http://www.richardcmoeur.com/docs/rumblgap.pdf).
+> Attached: [Analysis of Gap Patterns in Longitudinal Rumble Strips to Accommodate Bicycle Travel](https://www.richardcmoeur.com/docs/rumblgap.pdf).
 
 It was perhaps fortunate that I followed a gentleman who has been after the Town Council for months (years?) about safety on Apple Valley Road. He pointed out that the mandatory road surveys have not been done properly, so that traffic conditions, cross streets, driveways, population density, and other factors have been misstated. His recommendation seems to be to lower the speed limit on Apple Valley Road, and as part of his presentation he mentioned that a pedestrian had been struck by a car recently.
 

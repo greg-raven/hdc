@@ -8,7 +8,7 @@ categories:
 
 *Adventure Cycling’s planned 2,400-mile bicycle-friendly route will revitalize the “Main Street of America” — this time with touring cyclists.*
 
-**Missoula, Montana** — [Adventure Cycling Association](http://www.adventurecycling.org/) today announced that its next long-distance cycling route will be Bicycle Route 66. Embracing the spirit of “The Mother Road,” the new route will follow the famous corridor from Chicago to Los Angeles on roads appropriate for cyclists and, when possible, on sections of the historic highway.
+**Missoula, Montana** — [Adventure Cycling Association](https://www.adventurecycling.org/) today announced that its next long-distance cycling route will be Bicycle Route 66. Embracing the spirit of “The Mother Road,” the new route will follow the famous corridor from Chicago to Los Angeles on roads appropriate for cyclists and, when possible, on sections of the historic highway.
 
 “Route 66 was the overwhelming favorite among our members for a new long-distance route,” said Carla Majernik, Adventure Cycling’s routes and mapping director. “It’s a legendary corridor and, for our route network, a critical link through areas where we have no routes, such as Oklahoma.”
 
@@ -30,6 +30,6 @@ Preliminary development of Bicycle Route 66 will begin this winter, with the pub
 
 ---
 
-*Adventure Cycling Association is the premier bicycle travel organization in North America with over 44,000 members. A nonprofit organization, its mission is to inspire people of all ages to travel by bicycle. It produces routes and maps for cycling in North America, organizes more than 45 tours annually, and publishes the best bicycle-travel information anywhere, including* Adventure Cyclist *magazine and* The Cyclists’ Yellow Pages *online. With 40,699 meticulously mapped miles in the Adventure Cycling Route Network, Adventure Cycling gives cyclists the tools and confidence to create their own bike travel adventures. Contact the office at (800) 755-BIKE (2453), info@adventurecycling.org, or visit [adventurecycling.org](http://www.adventurecycling.org/)*.
+*Adventure Cycling Association is the premier bicycle travel organization in North America with over 44,000 members. A nonprofit organization, its mission is to inspire people of all ages to travel by bicycle. It produces routes and maps for cycling in North America, organizes more than 45 tours annually, and publishes the best bicycle-travel information anywhere, including* Adventure Cyclist *magazine and* The Cyclists’ Yellow Pages *online. With 40,699 meticulously mapped miles in the Adventure Cycling Route Network, Adventure Cycling gives cyclists the tools and confidence to create their own bike travel adventures. Contact the office at (800) 755-BIKE (2453), info@adventurecycling.org, or visit [adventurecycling.org](https://www.adventurecycling.org/)*.
 
 Source: adventurecycling.org/news/20101122.cfm?use=web

@@ -58,4 +58,4 @@ If enacted, he predicts that instead of cautiously riding through stop signs, bi
 
 Youngsters on bikes will be particularly at risk, he said. They haven’t developed the physical skill or the personal judgment to determine how much of a risk oncoming or opposing traffic poses, he said.
 
-Source: Joshua Stewart, [SFGate.com](http://www.sfgate.com/news/article/Proposed-state-law-would-let-bicyclists-roll-past-10976533.php)
+Source: Joshua Stewart, [SFGate.com](https://www.sfgate.com/news/article/Proposed-state-law-would-let-bicyclists-roll-past-10976533.php)

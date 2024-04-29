@@ -16,6 +16,6 @@ As you might be aware, thieves are “mashing up” information from various on-
 
 By blanking out your home address on Strava, you can take a big step toward making it more difficult for the thieves to pin-point your whereabouts.
 
-There are other steps you can take, of course, such as not publishing any location information on-line, hardening your home and/or garage (especially the garage door), and [installing an RFID tag on your bike](http://www.carvinguitars.com/products/SNG1 "RFID tags").
+There are other steps you can take, of course, such as not publishing any location information on-line, hardening your home and/or garage (especially the garage door), and [installing an RFID tag on your bike](https://www.carvinguitars.com/products/SNG1 "RFID tags").
 
 For roll-up garage doors, one of the common ways thieves gain access is to bend in the center of the door at the top, and then with a “fishing” tool reach in and grab the tether for the release catch. They then pull the end of the tether out, give it a yank, and manually roll up the door. To prevent this, simply shorten the tether as much as possible so there’s nothing for the thieves to grab. It may mean using a stool or ladder when you want to release the catch, but this seems a small price to pay.

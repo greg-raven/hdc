@@ -8,4 +8,4 @@ tags:
 - VVBT
 ---
 
-If you haven’t signed up already, it’s not too late. Head over to the [VVBT website](http://victorvalleybicycletour.com/wp/) for all the details.
+If you haven’t signed up already, it’s not too late. Head over to the [VVBT website](https://victorvalleybicycletour.com/wp/) for all the details.

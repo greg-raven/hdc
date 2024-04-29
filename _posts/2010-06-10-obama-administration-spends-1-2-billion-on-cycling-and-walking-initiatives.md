@@ -22,4 +22,4 @@ Together, the two modes account for 11.9 per cent of all reported trips by Ameri
 
 “Americans want and need safe alternatives to driving,” Mr LaHood said in a statement. “By making biking and walking safer and more accessible, we’ll be able to provide Americans with more choices and help foster more active, liveable communities.”
 
-From the [UK Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7834334/Obama-administration-spends-1.2-billion-on-cycling-and-walking-initiatives.html).
+From the [UK Telegraph](https://www.telegraph.co.uk/news/worldnews/northamerica/usa/7834334/Obama-administration-spends-1.2-billion-on-cycling-and-walking-initiatives.html).

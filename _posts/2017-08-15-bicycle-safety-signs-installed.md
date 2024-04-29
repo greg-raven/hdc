@@ -30,6 +30,6 @@ This year’s VVBT, which will include numerous routes through Apple Valley, Hes
 
 The tour begins at Civic Park in Apple Valley and will include routes of 10, 25, 62 and 100 miles.
 
-For registration and general information, visit [victorvalleybicycletour.com](http://www.victorvalleybicycletour.com/).
+For registration and general information, visit [victorvalleybicycletour.com](https://www.victorvalleybicycletour.com/).
 
-Source: Rene Ray De La Cruz, [Hesperia Star](http://www.hesperiastar.com/)
+Source: Rene Ray De La Cruz, [Hesperia Star](https://www.hesperiastar.com/)

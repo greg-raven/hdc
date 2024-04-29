@@ -26,4 +26,4 @@ Cyndi Spadafora, BEARS vice president said this event wouldn’t be possible wit
 
 “Doris Davies would be so pleased to know her legacy of serving the community continues to live on through the generosity of these caring sponsors,” Spadafora said.
 
-Source: Monica Solano, [Daily Press](http://www.vvdailypress.com/)
+Source: Monica Solano, [Daily Press](https://www.vvdailypress.com/)

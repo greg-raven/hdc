@@ -24,5 +24,5 @@ Interim Town Manager Lori Lamson noted that the completion of the Safe Routes to
 
 For more information on the Safe Routes to Schools Master Plan, call (760) 240-7000, x 7530.
 
-Source: [](<http://www.applevalley.org></a>Town of Apple Vally</p>
+Source: [](<https://www.applevalley.org></a>Town of Apple Vally</p>
 \>)
