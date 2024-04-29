@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-APPLE VALLEY — The Apple Valley Fire Protection District has implemented the High Desert’s first and only bicycle paramedic program in an effort to improve response times and safety during crowded, outdoor events.
+APPLE VALLEY --- The Apple Valley Fire Protection District has implemented the High Desert’s first and only bicycle paramedic program in an effort to improve response times and safety during crowded, outdoor events.
 
 “Our community has always called on us to provide service and save money, so that’s exactly what we did,” AVFPD Chief Sid Hultquist said. “We don’t have to have a big, expensive fire truck on standby now, we can just have these guys go out on their bikes and take care of things.”
 

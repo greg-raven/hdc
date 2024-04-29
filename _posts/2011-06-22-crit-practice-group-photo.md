@@ -9,4 +9,4 @@ categories:
 
 Here’s the Wednesday crit practice crew just before take-off.  
   
-![Victor Valley Velo crit practice](https://www.hdcycling.org/assets/img/2011/06/22-crit-practice.jpg)
+![Victor Valley Velo crit practice](/assets/img/2011/06/22-crit-practice.jpg)

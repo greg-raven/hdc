@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — Determined to add 46.1 miles of bikeways over the next five years, the City Council this week authorized spending $34,300 with an Ontario consultant to develop preliminary plans and cost estimates for several streets where bike lanes are planned.
+VICTORVILLE --- Determined to add 46.1 miles of bikeways over the next five years, the City Council this week authorized spending $34,300 with an Ontario consultant to develop preliminary plans and cost estimates for several streets where bike lanes are planned.
 
 Victorville officials have acknowledged that the city lags behind neighboring municipalities in bicycle and pedestrian-friendly infrastructure. The approved agreement signals another step forward in a wider plan to install 46 miles of centerline bikeways within the city, and the ambitious plan will be part of a larger network of routes connecting with Hesperia and Apple Valley.
 

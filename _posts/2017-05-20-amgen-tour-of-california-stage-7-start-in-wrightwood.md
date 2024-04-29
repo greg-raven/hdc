@@ -12,7 +12,7 @@ The starting time of this stage (which this year ran from Wrightwood to Pasadena
 
 Not only were none of the teams there yet, but I was the first spectator as far as I could tell. The two guys manning the driveway entrance to the event seemed uncaring about where I parked, and just waved me through.
 
-Once there, I found that there were only four tents set up — one for Amgen merchandise and one as an informal media gathering point, leaving the other two empty. No one else was selling anything, including food or beverages.
+Once there, I found that there were only four tents set up --- one for Amgen merchandise and one as an informal media gathering point, leaving the other two empty. No one else was selling anything, including food or beverages.
 
 The teams didn’t start filtering in until after nine-ish. Only BMC, Cannondale, and UHC had the full team bus. The others had small Class C recreational vehicles that each seemed to have been rented from El Monte RV.
 

@@ -23,4 +23,4 @@ Congratulations to each of the riders.
 | Brian O. | 21:54 | 19.84 | 03:01 |
 | Evan Tolson | 22:07 | 19.64 | 03:03 |
 
-<figure>![Victor Valley Velo time trial group](https://www.hdcycling.org/assets/img/2011/07/26-time-trial.jpg)<figcaption>The July time trial crew</figcaption></figure>
+<figure>![Victor Valley Velo time trial group](/assets/img/2011/07/26-time-trial.jpg)<figcaption>The July time trial crew</figcaption></figure>

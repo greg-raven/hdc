@@ -12,10 +12,10 @@ The series will run from March through September with one time trial per month. 
 
 There will be different classes of competition:
 
-- Time trial bicycles — male
-- Time trial bicycles — female
-- Road bikes — male
-- Road bikes — female
+- Time trial bicycles --- male
+- Time trial bicycles --- female
+- Road bikes --- male
+- Road bikes --- female
 
 Road bikes will be allowed aero bars.
 

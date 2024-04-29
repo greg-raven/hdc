@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — Road work is expected over the next several months along a portion of Bear Valley Road as a Class 1 bike path is constructed.
+VICTORVILLE --- Road work is expected over the next several months along a portion of Bear Valley Road as a Class 1 bike path is constructed.
 
 Crews with the City of Victorville will construct the bike path on the north side of Bear Valley Road between Mojave Fish Hatchery Road and Jacaranda Avenue, adjacent to Victor Valley College.
 

@@ -10,7 +10,7 @@ APPLE VALLEY – With construction on a nearly mile-long stretch of Yucca Loma R
 
 Town spokeswoman Kathie Martin told the Daily Press the Yucca Loma Bridge will open to traffic May 22, almost two months ahead of schedule.
 
-A ribbon-cutting ceremony and community bike ride — scheduled for May 19 and May 20, respectively — will precede the official opening, though all dates remain open to change, according to Martin.
+A ribbon-cutting ceremony and community bike ride --- scheduled for May 19 and May 20, respectively --- will precede the official opening, though all dates remain open to change, according to Martin.
 
 “Of course, this is a major construction project,” she said, “and there could still be unforeseen issues that impact the schedule, but we are working toward that date as of now.”
 

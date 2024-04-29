@@ -8,7 +8,7 @@ tags:
 - VVBT
 ---
 
-APPLE VALLEY — Bicyclists on the road should be a lot safer after the Victor Valley Bicycle Tour donated hundreds bike safety signs to three High Desert municipalities and the county.
+APPLE VALLEY --- Bicyclists on the road should be a lot safer after the Victor Valley Bicycle Tour donated hundreds bike safety signs to three High Desert municipalities and the county.
 
 Thurston ‘Smitty’ Smith, chairman of the VVBT, told the Review the first of 150 “PASS 3 FT MIN” signs have been installed in the Town of Apple Valley. San Bernardino County, along with Hesperia and Victorville, were each given 150 signs that will soon be installed.
 

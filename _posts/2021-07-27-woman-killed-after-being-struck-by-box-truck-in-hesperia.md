@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA, Calif. (VVNG.com) — A woman is dead after she was hit by a truck in Hesperia Tuesday afternoon.
+HESPERIA, Calif. (VVNG.com) --- A woman is dead after she was hit by a truck in Hesperia Tuesday afternoon.
 
 It happened at 12:05 pm, on July 27th on Cottonwood Avenue between Yucca and Main streets.
 

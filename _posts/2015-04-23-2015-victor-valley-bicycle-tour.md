@@ -12,7 +12,7 @@ Last night I attended a board meeting for the 2015 Victor Valley Bicycle Tour (V
 
 Before I go any further, save this date: Saturday, October 24, 2015.
 
-<figure class="wp-block-image">![VVBT](https://www.hdcycling.org/assets/img/2015/04/vvbt15.png)</figure>The 2015 VVBT will offer five route options. These are:
+<figure class="wp-block-image">![VVBT](/assets/img/2015/04/vvbt15.png)</figure>The 2015 VVBT will offer five route options. These are:
 
 | Ride | Distance | Climbing | SAG stops | Cost |
 |---|---|---|---|---|

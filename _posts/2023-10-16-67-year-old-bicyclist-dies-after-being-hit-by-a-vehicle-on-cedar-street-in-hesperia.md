@@ -8,7 +8,7 @@ categories:
 
 - Eugene was a bicyclist struck and killed in Hesperia
 
-HESPERIA, Calif. (VVNG.com) — A 67-year-old bicyclist has died after being hit by a vehicle Thursday evening in Hesperia.
+HESPERIA, Calif. (VVNG.com) --- A 67-year-old bicyclist has died after being hit by a vehicle Thursday evening in Hesperia.
 
 The San Bernardino County Coroner’s Office identified the deceased as Eugenio R. Arayata, more commonly referred to by those who knew him as Eugene.
 

@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA — A 33-year-old bicyclist was transported to a local hospital after a Friday morning collision on Ranchero Road.
+HESPERIA --- A 33-year-old bicyclist was transported to a local hospital after a Friday morning collision on Ranchero Road.
 
 Authorities responded to the collision near Topaz Avenue a little before 7 a.m., California Highway Patrol spokesman Matt Hunt said.
 

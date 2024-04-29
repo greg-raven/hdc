@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — A bicyclist was killed after being struck by a vehicle that fled the scene of the crash, officials said.
+VICTORVILLE, Calif. (VVNG.com) --- A bicyclist was killed after being struck by a vehicle that fled the scene of the crash, officials said.
 
 It happened at 12:29 a.m. on March 3, 2021, in the area of Mojave Drive east of Amethyst Road in the City of Victorville.
 

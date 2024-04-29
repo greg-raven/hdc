@@ -18,7 +18,7 @@ One such difference was much better support by the sheriffs. There were voluntee
 
 Perhaps the most dramatic difference was that the powers that be allowed the race organizers to cross Highway 18 for the first time in the history of the ride. It was nice to be able to give the metric century riders a change of scenery for the second half of the ride, even though it meant using roads that had yet to be cleared of sand, dirt, gravel, and other debris from our recent storms.
 
-Thanks to Chuck and Pat Hanson for putting on another great ride. Thanks, too, to each of the volunteers who helped make this ride possible. And finally, thanks to the sponsors — Walmart, Farmer Boys, and Del Taco — for the food, water, and freebies available to the riders.
+Thanks to Chuck and Pat Hanson for putting on another great ride. Thanks, too, to each of the volunteers who helped make this ride possible. And finally, thanks to the sponsors --- Walmart, Farmer Boys, and Del Taco --- for the food, water, and freebies available to the riders.
 
 Here are the results for each group.
 

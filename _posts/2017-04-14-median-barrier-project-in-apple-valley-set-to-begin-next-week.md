@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-SAN BERNARDINO — The California Department of Transportation (Caltrans) and Sully-Miller Contracting began work on a raised curb median project on State Route 18 (SR-18) in Apple Valley. The construction area is approximately .75 miles, with the project limits from Navajo Road to Kiowa Road. The $1.1 million construction plan was identified as a necessary safety project.
+SAN BERNARDINO --- The California Department of Transportation (Caltrans) and Sully-Miller Contracting began work on a raised curb median project on State Route 18 (SR-18) in Apple Valley. The construction area is approximately .75 miles, with the project limits from Navajo Road to Kiowa Road. The $1.1 million construction plan was identified as a necessary safety project.
 
 Beginning Monday, April 17th Sully Miller will begin excavation in the median area. The planned working hours are from 6:00 a.m. to 2:00 p.m. for the north bound \[*sic*\] portion and 10:00 a.m. through 6:00 p.m. for the south bound \[sic\] portion. No night work is expected. Work will be limited on Friday for south bound motorists, and on Sunday for north bound travelers.
 

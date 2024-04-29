@@ -18,9 +18,9 @@ In the spring, summer and fall it’s all about the lake! The centerpiece pictur
 
 Big Bear Lake is where all cultures speak the same language of leisure and outdoor recreation. Elevate your next trip to California and LIVE IT. UP. in Big Bear Lake!
 
-“Big Bear is honored to serve as a time trial for the 2015 Amgen Tour of California. In 2010 and 2012, we served as a mountaintop finish and the Tour helped put Big Bear on the international map for cycling.” — Mayor Jay Obernolte
+“Big Bear is honored to serve as a time trial for the 2015 Amgen Tour of California. In 2010 and 2012, we served as a mountaintop finish and the Tour helped put Big Bear on the international map for cycling.” --- Mayor Jay Obernolte
 
-“Road cycling continues to grow into the cornerstone of our signature outdoor sporting and athletic events. Our unique location and environment make Big Bear the ideal high-altitude venue for training and competition!” — Mayor Jay Obernolte
+“Road cycling continues to grow into the cornerstone of our signature outdoor sporting and athletic events. Our unique location and environment make Big Bear the ideal high-altitude venue for training and competition!” --- Mayor Jay Obernolte
 
 **Route Information: May 16, 2015 – Stage 7 Start**
 
@@ -36,6 +36,6 @@ Mt. Baldy is located 45 miles from downtown Los Angeles and is a popular locatio
 
 Whether it’s the local bighorn sheep or world-class cyclists, fans should have plenty to see when the fierce competition unfolds on this legendary mountain on Saturday, May 16!
 
-“The Amgen Tour de California has done so much to put Mt Baldy and its world class climb in the cycling world spot light. We are honored to be part of the race in 2015 and many others to come.” — Robby Ellingson, General Manager, Mt Baldy Ski Lifts
+“The Amgen Tour de California has done so much to put Mt Baldy and its world class climb in the cycling world spot light. We are honored to be part of the race in 2015 and many others to come.” --- Robby Ellingson, General Manager, Mt Baldy Ski Lifts
 
 For more information: amgentourofcalifornia.com/host-cities?utm\_source=Host+City+Announcement+&amp;utm\_campaign=Crush+Challenge+&amp;utm\_medium=email

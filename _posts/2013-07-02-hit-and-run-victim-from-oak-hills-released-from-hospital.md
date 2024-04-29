@@ -6,13 +6,13 @@ categories:
 - Information
 ---
 
-HESPERIA • A 16-year-old boy who was struck while riding a bicycle and airlifted to a trauma center last week was released Monday night and is expected to make a full recovery, according to his grandmother.
+HESPERIA --- A 16-year-old boy who was struck while riding a bicycle and airlifted to a trauma center last week was released Monday night and is expected to make a full recovery, according to his grandmother.
 
 Henry Chavez Jr., of Oak Hills, was struck by an unidentified white pickup truck while riding his younger sister’s pink Huffy bicycle along Mesquite Road near Mesa Vista Road in unincorporated Hesperia around 9 p.m. on June 27, according to his grandmother Denise Crow, of Oak Hills.
 
 “He was very lucky,” Crow said. “They had to remove part of his spleen and he needed 22 stitches to the top of his head, but he will be all right.”
 
-The white pickup truck — possibly a Toyota — was traveling eastbound on Mesquite Road. Chavez was riding the bike in the same direction when the front of the vehicle struck the rear wheel of the bicycle, ejecting the teen, according to California Highway Patrol spokesman Matt Hunt.
+The white pickup truck --- possibly a Toyota --- was traveling eastbound on Mesquite Road. Chavez was riding the bike in the same direction when the front of the vehicle struck the rear wheel of the bicycle, ejecting the teen, according to California Highway Patrol spokesman Matt Hunt.
 
 “I can’t believe someone would hit him and leave him there in the road,” Crow said. “He is a human being.”
 

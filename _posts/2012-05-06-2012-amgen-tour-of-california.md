@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=YJV-lvZjnv0
 
 Here are the specifics about Stage 6, which is closest to our area:
 
-START: Palmdale — Friday, May 18th, 10:25am  
+START: Palmdale --- Friday, May 18th, 10:25am  
 DISTANCE: 115.7 miles  
 SPRINTS: Crestline, Fawnskin  
 KOMs: Mt. Emma, Wrightwood, CA 138, CA 18  

@@ -8,11 +8,11 @@ categories:
 
 - George Puleikis and his family reflect on 30 years in business before they shutter the shop for good this summer
 
-Hi-Desert Bikes — a business fixture in Hesperia for over 30 years — will be closing its doors in August, and for George Puleikis, the shop’s owner, retirement has come earlier than expected.
+Hi-Desert Bikes --- a business fixture in Hesperia for over 30 years --- will be closing its doors in August, and for George Puleikis, the shop’s owner, retirement has come earlier than expected.
 
 Puleikis and his family have run the store since the year after they settled in Hesperia in 1990.
 
-Puleikis said the strain on inventory caused by the COVID-19 pandemic — combined with the rise of easy online shopping over the last several years — were the major deciding factors in his decision to shutter Hi-Desert Bikes’ doors.
+Puleikis said the strain on inventory caused by the COVID-19 pandemic --- combined with the rise of easy online shopping over the last several years --- were the major deciding factors in his decision to shutter Hi-Desert Bikes’ doors.
 
 “There’s no product, the manufacturers are just out of everything … the warehouses are completely empty,” Puleikis said. “With the way things are, I think it’s the perfect opportunity for me to close the chapter and move on with my life, and not die over the counter, even though I loved my business.”
 
@@ -20,7 +20,7 @@ Puleikis said the strain on inventory caused by the COVID-19 pandemic — combin
 
 When Puleikis and his family moved to Hesperia three decades ago, he was giving the High Desert a second chance. At 20 years old, he had built his first home in Hesperia on a plot of land picked by his mother, Lorraine Puleikis. But they later moved to the Los Angeles area with George Puleikis’ two recently born children, Michelle and Scott, for better work. There, George Puleikis did auto-mechanic work for doctors and celebrities.
 
-Eventually, Lorraine Puleikis suggested they move to what was then a retirement community in Hesperia, a place quiet and spacious enough to raise a family. After moving, Puleikis saw an unfilled niche for bike equipment in the area — and no one willing to fill it.
+Eventually, Lorraine Puleikis suggested they move to what was then a retirement community in Hesperia, a place quiet and spacious enough to raise a family. After moving, Puleikis saw an unfilled niche for bike equipment in the area --- and no one willing to fill it.
 
 “The bike shop just came about through lack of product. We’d go into a store and it was like ‘Nah, we don’t have it’ … People at that time weren’t hungry enough,” Puleikis said. “I figured, hey, I can do a better job at this … I (thought), well, I’m either going to fall on my face or I’m going to do OK.”
 
@@ -42,7 +42,7 @@ When Lorraine Puleikis died in 2009, Michelle Puleikis said the dynamics of the 
 
 **Changing channels**
 
-Over the last 30 years, Hi-Desert Bikes has served all High Desert customer demographics — from kids with money to burn to people at their most financially desperate.
+Over the last 30 years, Hi-Desert Bikes has served all High Desert customer demographics --- from kids with money to burn to people at their most financially desperate.
 
 “One family, I remember, were really young. They had a bunch of kids. They didn’t have a car. All they had was bikes. And I took care of these kids for years and years,” George Puleikis said. “They were one of my first customers … They were pushing baby carriages at 15 years old.”
 

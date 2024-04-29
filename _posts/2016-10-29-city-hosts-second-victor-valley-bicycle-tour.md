@@ -8,7 +8,7 @@ tags:
 - VVBT
 ---
 
-HESPERIA — Laces tied and sweatbands on, cyclists readied themselves at the starting line as they rode across the High Desert for the 2nd Annual Victor Valley Bicycle Tour in honor of two local bicycle enthusiasts who died this year.
+HESPERIA --- Laces tied and sweatbands on, cyclists readied themselves at the starting line as they rode across the High Desert for the 2nd Annual Victor Valley Bicycle Tour in honor of two local bicycle enthusiasts who died this year.
 
 The morning event kicked off Saturday morning near Mountain Vista and Main Street in Hesperia with a 100-mile ride as riders took off as early as 8 a.m. to pedal their way to the finish line with 3rd District Assemblyman Jay Obernolte leading the pack.
 

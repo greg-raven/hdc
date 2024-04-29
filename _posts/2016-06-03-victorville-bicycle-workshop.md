@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — The community is invited to attend a workshop about the City of Victorville’s “Complete Streets” improvement project. The workshop will be held June 8 at 4:30 p.m. at Mojave Vista Elementary School.
+VICTORVILLE --- The community is invited to attend a workshop about the City of Victorville’s “Complete Streets” improvement project. The workshop will be held June 8 at 4:30 p.m. at Mojave Vista Elementary School.
 
 The “Complete Streets” project would add bike lanes, sidewalks, and ADA-compliant curb ramps along Arrowhead Drive and Seventh Avenue between Green Tree Road and Bear Valley Road. Residents are invited to share their ideas and aspirations for this improvement project at the workshop on June 8.
 

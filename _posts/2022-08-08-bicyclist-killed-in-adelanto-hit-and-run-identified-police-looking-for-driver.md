@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-ADELANTO, Calif. (VVNG.com) — Authorities are attempting to locate a 38-year-old Adelanto woman wanted in connection to a fatal hit-and-run involving a bicyclist on Saturday night.
+ADELANTO, Calif. (VVNG.com) --- Authorities are attempting to locate a 38-year-old Adelanto woman wanted in connection to a fatal hit-and-run involving a bicyclist on Saturday night.
 
 It happened at about 10:21 pm, on August 6, 2022, at the intersection of US Highway 395 and Cactus Road.
 

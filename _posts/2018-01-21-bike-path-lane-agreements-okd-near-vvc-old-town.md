@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — The City Council this week unanimously approved construction and maintenance agreements with stakeholders for bike pathway as part of the Mojave Riverwalk project.
+VICTORVILLE --- The City Council this week unanimously approved construction and maintenance agreements with stakeholders for bike pathway as part of the Mojave Riverwalk project.
 
 In two separate actions, the Council signed off on agreements with the San Bernardino County Public Works and Regional Parks departments and Victor Valley College and Southern California Edison.
 

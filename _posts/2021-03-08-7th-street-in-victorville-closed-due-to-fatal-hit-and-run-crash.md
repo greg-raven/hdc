@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — Authorities in Victorville are looking for a hit-and-run driver that struck and killed a bicyclist early Monday morning.
+VICTORVILLE, Calif. (VVNG.com) --- Authorities in Victorville are looking for a hit-and-run driver that struck and killed a bicyclist early Monday morning.
 
 It happened just before 6:00 AM, on March 8, 2021, along the 14400 block of Seventh Street in front of the Auto Zone, near Lorene Drive.
 

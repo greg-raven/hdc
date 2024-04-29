@@ -6,7 +6,7 @@ categories:
 - 'Event news'
 ---
 
-CLAREMONT — One of cycling’s well-known races will be rolling up and over Inland Valley foothills in May.  
+CLAREMONT --- One of cycling’s well-known races will be rolling up and over Inland Valley foothills in May.  
   
 A press conference and celebration was held Thursday afternoon to celebrate the city of Claremont being one of the host cities in the May 2011 Amgen Tour of California.
 

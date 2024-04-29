@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-LUCERNE VALLEY • A bicyclist was found dead on the side of the road Thursday morning after apparently being struck and killed by a hit-and-run driver.  
+LUCERNE VALLEY --- A bicyclist was found dead on the side of the road Thursday morning after apparently being struck and killed by a hit-and-run driver.  
   
 “Most likely it happened sometime in the night,” said California Highway Patrol Officer Robert Grieve.
 

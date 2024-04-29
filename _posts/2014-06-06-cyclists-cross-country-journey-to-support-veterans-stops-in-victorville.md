@@ -6,7 +6,7 @@ categories:
 - 'Event news'
 ---
 
-VICTORVILLE • After Tracy Draper and her team of cyclists finished a 109-mile bicycle ride with 6,000 feet of climbing, a room normally used for belly dancing at Hook Community Center was an amazing place for a good night’s sleep.
+VICTORVILLE --- After Tracy Draper and her team of cyclists finished a 109-mile bicycle ride with 6,000 feet of climbing, a room normally used for belly dancing at Hook Community Center was an amazing place for a good night’s sleep.
 
 “I had a dream a few years ago of riding across America,” Draper said Thursday. “It just became time to do it. It was now or never.”
 

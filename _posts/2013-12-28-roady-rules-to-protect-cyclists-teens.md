@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-As the new year approaches, several new traffic safety laws — including two aimed at bicyclists and teenage drivers — could help make High Desert roadways safer for residents as they take effect in 2014, California Highway Patrol spokesman Matt Hunt said.  
+As the new year approaches, several new traffic safety laws --- including two aimed at bicyclists and teenage drivers --- could help make High Desert roadways safer for residents as they take effect in 2014, California Highway Patrol spokesman Matt Hunt said.  
   
 “Safety on the roadways here in the High Desert is paramount every year and the CHP is always striving to keep our California motorists safe,” Hunt said.
 

@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA • With two boys hurt and another killed in less than a week, many are wondering what can be done to improve bicycle safety in Hesperia and the rest of the Victor Valley — and there are no easy answers.  
+HESPERIA --- With two boys hurt and another killed in less than a week, many are wondering what can be done to improve bicycle safety in Hesperia and the rest of the Victor Valley --- and there are no easy answers.  
   
 Henry Chavez Jr., 16, was hospitalized for days after the bike he was riding was struck by a hit-and-run driver on Mesquite Road near Mesa Vista Road in unincorporated Hesperia on June 27. In another hit-and-run crash, Daniel Sanchez, 17, was struck on his bicycle on Monday near Main Street and Escondido Avenue. Sanchez died from head trauma a day later.
 

@@ -8,7 +8,7 @@ categories:
 
 - Work will include overlay of Dale Evans Parkway, widening of Ramona Road
 
-APPLE VALLEY — A change order unanimously approved by the Apple Valley Town Council during last week’s Council meeting authorized a nearly $300,000 increase for a construction project currently under way near Rancho Verde Elementary School.
+APPLE VALLEY --- A change order unanimously approved by the Apple Valley Town Council during last week’s Council meeting authorized a nearly $300,000 increase for a construction project currently under way near Rancho Verde Elementary School.
 
 The $296,703 increase was the result of additional work requested by town staff to “overlay Dale Evans Parkway from Thunderbird Road to Otoe Road,” which will “replace the existing striping along the deteriorating one-mile-long segment of road,” according to a staff report on the project.
 

@@ -12,7 +12,7 @@ The governor approved [Assembly Bill 1193](https://leginfo.legislature.ca.gov/fa
 
 **State To Create Standards Supporting Protected Bike Lanes**
 
-A.B. 1193, by Assemblymember Phil Ting (D-San Francisco), will require Caltrans to create engineering standards for protected bike lanes, which until now have been discouraged by a complex approval processes and a lack of state guidance. This new class of lane — called cycletracks, or “class IV bikeways,” in Caltrans terms — are separated from motor traffic using a physical barrier, such as curbs, planters, or parked cars.
+A.B. 1193, by Assemblymember Phil Ting (D-San Francisco), will require Caltrans to create engineering standards for protected bike lanes, which until now have been discouraged by a complex approval processes and a lack of state guidance. This new class of lane --- called cycletracks, or “class IV bikeways,” in Caltrans terms --- are separated from motor traffic using a physical barrier, such as curbs, planters, or parked cars.
 
 Protected bike lanes have been [shown](https://usa.streetsblog.org/2014/06/02/get-ready-for-a-landmark-study-of-americas-protected-bike-lanes/) to increase the number of people bicycling on them, to make cyclists feel safer, and to decrease the number of wrong-way and sidewalk riders on streets that have them.
 
@@ -22,7 +22,7 @@ The new law will also allow cities and counties to build cycletracks without [co
 
 S.B. 1183, from Senator Mark DeSaulnier (D-Concord) allows local jurisdictions in California to propose <span style="line-height: 1.5em;">a small vehicle registration fee (no more than $5) on their local</span><span style="line-height: 1.5em;"> ballot, requiring approval from at least 2/3 of local voters, to fund bike trails and paths on park district land.</span>
 
-Bike trails have suffered from a lack of stable funding sources, unlike roads and highways, which are funded by a combination of fuel and sales taxes. A motor vehicle surcharge could help fund maintenance and improvements for existing paths — thus creating safe, convenient routes for commuters, students, shoppers, and recreational riders.
+Bike trails have suffered from a lack of stable funding sources, unlike roads and highways, which are funded by a combination of fuel and sales taxes. A motor vehicle surcharge could help fund maintenance and improvements for existing paths --- thus creating safe, convenient routes for commuters, students, shoppers, and recreational riders.
 
 S.B. 1183 was sponsored by the [East Bay Regional Park District](https://www.ebparks.org/), which straddles Alameda and Contra Costa counties in Northern California. The park district maintains over 1,200 miles of trails that are open to bicycles, and about 100 miles of paved bicycle paths, some of which are important commute routes for bicyclists.
 

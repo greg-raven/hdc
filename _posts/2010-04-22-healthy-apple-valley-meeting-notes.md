@@ -12,15 +12,15 @@ Ralph Wright, Shira Mathis, Elizabeth Walker, Valerie Smith, Linda Mayfield, Kev
 
 The following items were discussed:
 
-Sat., May 1 — *Kids Safety Fair*
+Sat., May 1 --- *Kids Safety Fair*
 
 Committee members signed up to participate in the HEALTHY APPLE VALLEY booth.
 
 Various committee members volunteered to bring items for the booth (Pam Cupp, Anya Sage &amp; Allen Christensen, Hansons, Valerie Smith). Ralph will check on availability of having the SMOOTHIE BIKE at our booth, too.
 
-\*\* Members not in attendance at the meeting can STILL participate by coming to the Civic Center Park — look for our booth, come on in, and be an advocate for Healthy Apple Valley, by talking to residents! Fair is from 11am-2pm
+\*\* Members not in attendance at the meeting can STILL participate by coming to the Civic Center Park --- look for our booth, come on in, and be an advocate for Healthy Apple Valley, by talking to residents! Fair is from 11am-2pm
 
-Mon., May 3 — *[Ride for Bike Lanes](https://www.hdcycling.org/2010/04/join-the-ride-for-bike-lanes/ "Join the Ride for Bike Lanes")*
+Mon., May 3 --- *[Ride for Bike Lanes](https://www.hdcycling.org/2010/04/join-the-ride-for-bike-lanes/ "Join the Ride for Bike Lanes")*
 
 Committee members signed up to participate at the end of the ride by distributing a HEALTHY APPLE VALLEY survey and a flyer about HEALTHY APPLE VALLEY.
 
@@ -28,7 +28,7 @@ Committee members signed up to participate at the end of the ride by distributin
 
 Allen Christensen will bring the survey and Valerie Smith will bring flyers for distribution.
 
-Tues., May 25 — *SAVE THE DATE!*
+Tues., May 25 --- *SAVE THE DATE!*
 
 We will notify you by 5/10 if we will be participating in a town council presentation relating to Healthy Apple Valley. If we are, we will also be holding our monthly meeting at 5pm (before the council meeting at 6:30pm) There will be NO meeting on 5/27.
 
@@ -52,13 +52,13 @@ Here’s who has volunteered, so far.
 
 - Chuck &amp; Pat Hanson
 - Lori Cooper
-- Kevin Mahany — chair
+- Kevin Mahany --- chair
 - Linda Mayfield
 
 <span style="text-decoration: underline;">ACCESS TO HEALTHY FOODS</span>
 
 - Allen Christensen
-- Gary House — chair
+- Gary House --- chair
 - Shira Mathis
 - Elizabeth Walker
 
@@ -67,7 +67,7 @@ Here’s who has volunteered, so far.
 - Kathy Martin
 - Ralph Wright
 - Casey Armstrong
-- Anya Sage — chair
+- Anya Sage --- chair
 
 \*\* Three Town employees will serve as liaisons for our Healthy Apple Valley committee:
 

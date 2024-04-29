@@ -9,7 +9,7 @@ tags:
 - TdAV
 ---
 
-APPLE VALLEY • A local man with more than 400,000 miles on his bicycle is organizing one of the High Desert’s largest bike rides.
+APPLE VALLEY --- A local man with more than 400,000 miles on his bicycle is organizing one of the High Desert’s largest bike rides.
 
 After moving to Apple Valley nearly 15 years ago, Chuck Hanson, 83, created several High Desert bike events, including the annual Chuck Hanson Tour de Apple Valley, which takes over a few miles of roadway on Oct. 19.
 

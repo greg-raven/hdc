@@ -8,7 +8,7 @@ categories:
 
 - The 5th annual event, which played out Saturday, included locals and professionals who rode to promote bicycle safety.
 
-APPLE VALLEY — On a warm Saturday morning, resident Ryan Jastrab, 19, decided to return to the roots of his professional cycling career to help raise awareness for road safety.
+APPLE VALLEY --- On a warm Saturday morning, resident Ryan Jastrab, 19, decided to return to the roots of his professional cycling career to help raise awareness for road safety.
 
 Jastrab was among more than 200 cyclists who gathered at Civic Center Park for the 5th annual Victor Valley Bicycle Tour.
 

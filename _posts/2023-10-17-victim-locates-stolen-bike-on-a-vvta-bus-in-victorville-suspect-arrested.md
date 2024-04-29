@@ -8,7 +8,7 @@ categories:
 
 - Man found with narcotics, loaded gun after stealing a bike in Victorville
 
-VICTORVILLE, Calif. (VVNG.com) — A 34-year-old Victorville man was arrested for narcotics and a loaded gun after a bike he stole was located by the victims on a city bus.
+VICTORVILLE, Calif. (VVNG.com) --- A 34-year-old Victorville man was arrested for narcotics and a loaded gun after a bike he stole was located by the victims on a city bus.
 
 On Sunday, October 15, 2023, at approximately 3:45 p.m., deputies from the Victor Valley Transit Division responded to the Victor Valley Transit Center, located at 16838 D Street in Victorville, regarding a fight between several males.
 

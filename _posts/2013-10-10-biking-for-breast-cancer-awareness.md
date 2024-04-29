@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-VICTORVILLE • Hundreds of bicyclists will take to Victor Valley roads together this Saturday in a ride for National Breast Cancer Awareness Month.  
+VICTORVILLE --- Hundreds of bicyclists will take to Victor Valley roads together this Saturday in a ride for National Breast Cancer Awareness Month.  
   
 “Our first year we had 84 riders, and last year it was 266,” said Carol Kraatz, owner of Victorville Cycles. “I have more and more people that want to get involved every year.”
 
@@ -15,7 +15,7 @@ This will be Kraatz’s fifth year hosting the Trek Breast Cancer Awareness Ride
 
 When Kraatz organized the High Desert’s first Trek ride in 2009, she didn’t know anyone personally who had been affected by the disease. Sadly, that’s changed in five years.
 
-Her aunt as well as several of her friends have been diagnosed with breast cancer since then. Most, including her aunt, are survivors — but she’s seen friends younger than herself lose their lives to the disease.
+Her aunt as well as several of her friends have been diagnosed with breast cancer since then. Most, including her aunt, are survivors --- but she’s seen friends younger than herself lose their lives to the disease.
 
 Kraatz said a man came into the shop recently to register for the event and to purchase cards to wear on the ride, which designate a breast cancer victim the participant is riding for. He bought half a dozen.
 

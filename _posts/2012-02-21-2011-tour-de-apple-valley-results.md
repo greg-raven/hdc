@@ -10,7 +10,7 @@ tags:
 
 The results are now available for the 2011 Tour de Apple Valley.  
   
-Thanks to Chuck and Pat Hanson for putting on another great ride. Thanks, too, to each of the volunteers who helped make this ride possible. And finally, thanks to each of the sponsors — Walmart, Victorville Cycles, Starbucks, Chipotle, AMR, DreamCars European Auto Repair, US ProTech, Hattrix, Happoldt Flooring, Italian Kitchen, Creative Memories, and Mary Kay.
+Thanks to Chuck and Pat Hanson for putting on another great ride. Thanks, too, to each of the volunteers who helped make this ride possible. And finally, thanks to each of the sponsors --- Walmart, Victorville Cycles, Starbucks, Chipotle, AMR, DreamCars European Auto Repair, US ProTech, Hattrix, Happoldt Flooring, Italian Kitchen, Creative Memories, and Mary Kay.
 
 Here are the results for each group.
 

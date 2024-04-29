@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE, Calif. — Today, the City of Victorville announced that it will break ground on its Green Tree Extension on June 2.
+VICTORVILLE, Calif. --- Today, the City of Victorville announced that it will break ground on its Green Tree Extension on June 2.
 
 The City will extend Green Tree Boulevard 1.5 miles from Hesperia Road to Ridgecrest/Yates Road connecting the communities of Victorville and Apple Valley. The Green Tree Extension will create another East/West corridor benefitting the Victor Valley and providing much-needed congestion relief to Bear Valley Road.
 

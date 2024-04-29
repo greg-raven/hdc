@@ -8,7 +8,7 @@ categories:
 
 Authorities: No suspect information or arrests
 
-VICTORVILLE — San Bernardino County Sheriff’s Department authorities continue to search for two suspects who reportedly stole over $10,000 worth of merchandise from a local bicycle shop late Tuesday.
+VICTORVILLE --- San Bernardino County Sheriff’s Department authorities continue to search for two suspects who reportedly stole over $10,000 worth of merchandise from a local bicycle shop late Tuesday.
 
 The incident occurred just before 9 p.m. Tuesday at the Victorville Cycles store in the 12000 block of Ridgecrest Road. According to store manager Carol Kraatz, the suspects reportedly used a large crowbar to bend the door frame and enter the store.
 

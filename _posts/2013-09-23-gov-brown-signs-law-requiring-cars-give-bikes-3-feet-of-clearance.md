@@ -12,7 +12,7 @@ Promoted by the California Bicycling Coalition as “Give Me 3,” Assembly Bill
 
 Existing law requires drives to pass while keeping at a “safe distance,” but the new law establishes exactly what that distance is: 3 feet.
 
-The city of Los Angeles — known for generations as a car-centric locale that presents difficult conditions for biking — sponsored the bill.
+The city of Los Angeles --- known for generations as a car-centric locale that presents difficult conditions for biking --- sponsored the bill.
 
 In recent years, enthusiasm for cycling in L.A. has been buoyed by the support of a growing activist community and that of politicians such at former Mayor Antonio Villaraigosa. The city in 2010 launched a “Give Me 3″ graphic campaign encouraging drivers to create a safe cushion between vehicles and bicyclists.
 

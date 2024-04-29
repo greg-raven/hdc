@@ -15,7 +15,7 @@ It’s a pleasure to not have to navigate the switchbacks anymore and will cut a
 
 Yes, Highway 138′s new lanes are wider and there are now paved shoulders available if you have car problems or a flat tire, but don’t expect to be able to go 55 mph on this new section all the time.
 
-We got stuck behind a guy driving an RV — actually we were in a line of cars about 10 deep — who was going downhill at about 35 mph. You can’t pass on the new road, so you’re stuck at whatever speed the cars or trucks ahead of you are going.
+We got stuck behind a guy driving an RV --- actually we were in a line of cars about 10 deep --- who was going downhill at about 35 mph. You can’t pass on the new road, so you’re stuck at whatever speed the cars or trucks ahead of you are going.
 
 You expected that on the old road, because you couldn’t go very fast on the switchbacks unless you wanted to chance flying off the side of the mountain. But on the new road it would be nice if there were another lane so you could pass the slowpokes.
 

@@ -11,7 +11,7 @@ Supporters of cycling said the biggest factor cities can play in promoting bikin
   
 “The issue is safety and if we want to create a commuter ethic we need to give them safety,” said Jane Block, a member of Riverside’s bicycle advisory committee.
 
-She said cycling often gets lost in how to develop safe roads and trails. The ideal, she said, would be a Class A system — a dedicated bike trail free of cars and pedestrians, in all local cities.
+She said cycling often gets lost in how to develop safe roads and trails. The ideal, she said, would be a Class A system --- a dedicated bike trail free of cars and pedestrians, in all local cities.
 
 “I think we should have a competition to see who can do it quickest,” she laughed. “I would love to see and would feel a personal victory if there was a Class A loop around all the cities.”
 

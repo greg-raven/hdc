@@ -10,6 +10,6 @@ The Town of Apple Valley has been doing a lot of slurry seal work. Bear Valley R
   
 This has two ramifications for cyclists:
 
-First, all lane markers — including bike lane markers — are gone until they restripe the roads.
+First, all lane markers --- including bike lane markers --- are gone until they restripe the roads.
 
 Second, although the slurry seal process is great for filling in cracks and small gaps in the roadway, the uniform-looking newly blackened surface hides bumps, which are not mitigated by the slurry seal process.

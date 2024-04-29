@@ -10,6 +10,6 @@ categories:
   
 Last year we had 84 riders, third best in California, and 11th best in the nation! We are also in need of raffle prize donations, so if you know of anyone that would like to donate contact Carol at Victorville Cycles (760-245-5900). Forward this to all your cycling friends, and we’ll see you there!
 
-![2010 Breast Cancer Awereness Ride poster](https://www.hdcycling.org/assets/img/2010/08/09-bcar-poster.jpg)
+![2010 Breast Cancer Awereness Ride poster](/assets/img/2010/08/09-bcar-poster.jpg)
 
 Note that the Victor Valley Bicycle Club is putting on a [7:30 AM pre-ride](https://www.hdcycling.org/2010/10/05/vvbc-bcar-pre-ride/).

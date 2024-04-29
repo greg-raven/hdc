@@ -8,7 +8,7 @@ categories:
 
 Journey of Hope team to raise funds, bring awareness for those struggling with disabilities
 
-VICTORVILLE — As members of the Journey of Hope South Team slowly made their way to Victorville’s Hook Community Center on Saturday morning, the cheers began to grow as weary cyclists battled rising heat to bring their cause into focus.
+VICTORVILLE --- As members of the Journey of Hope South Team slowly made their way to Victorville’s Hook Community Center on Saturday morning, the cheers began to grow as weary cyclists battled rising heat to bring their cause into focus.
 
 With a group of 90 men split up in three teams of 30 men from the Pi Kappa Phi chapters across the country, the Journey of Hope South Team rode into the High Desert for the 29th annual Journey of Hope Bicycle Fundraiser in order to raise awareness and funds for those with disabilities.
 

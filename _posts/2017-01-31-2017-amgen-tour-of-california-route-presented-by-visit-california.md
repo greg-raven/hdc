@@ -8,7 +8,7 @@ categories:
 
 - Nation’s first men’s cycling race designated as a UCI Worldtour Event. Women’s and Men’s Premier Stage Races Will Bring the World’s Most Talented and Popular Cycling Stars Back to California. Former Champions Kristin Armstrong, Jens Voigt and Freddie Rodriguez Named Official Race Ambassadors
 
-LOS ANGELES, Calif. — Amgen Tour of California organizer AEG announced the 575-mile course for the 2017 UCI WorldTour race, which will take many of the world’s best cyclists on an always picturesque, challenging and highly competitive competition through California’s iconic highways, byways and coastlines this spring. The four-day Amgen Breakaway from Heart Disease™ Women’s Race empowered with SRAM will bring the best in the sport to race in Northern California May 11-14, followed by the men’s seven-day stage race May 14-20. The twelfth annual edition of the men’s race will visit 12 Host Cities from Sacramento to Pasadena.
+LOS ANGELES, Calif. --- Amgen Tour of California organizer AEG announced the 575-mile course for the 2017 UCI WorldTour race, which will take many of the world’s best cyclists on an always picturesque, challenging and highly competitive competition through California’s iconic highways, byways and coastlines this spring. The four-day Amgen Breakaway from Heart Disease™ Women’s Race empowered with SRAM will bring the best in the sport to race in Northern California May 11-14, followed by the men’s seven-day stage race May 14-20. The twelfth annual edition of the men’s race will visit 12 Host Cities from Sacramento to Pasadena.
 
 https://youtu.be/ruCgV7ASmJg
 

@@ -10,4 +10,4 @@ The American Automobile Association (AAA) wants Congress to cut funds that suppo
   
 Sign the [Rails-to-Trails petition](https://www.railstotrails.org) to tell AAA that you are one of tens of millions of Americans who want safe, convenient places to bicycle and walk. AAA, be a part of America’s transportation future!
 
-Say YES to the federal programs that fund all ways of getting around — including trails, bicycling and walking!
+Say YES to the federal programs that fund all ways of getting around --- including trails, bicycling and walking!

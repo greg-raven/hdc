@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — A 30-year-old bicyclist was seriously injured after he was hit by a hit-and-run driver in Victorville.
+VICTORVILLE, Calif. (VVNG.com) --- A 30-year-old bicyclist was seriously injured after he was hit by a hit-and-run driver in Victorville.
 
 It happened at about 9:48 am, on Tuesday, May 18, 2021, in the area of Seventh Street and Tatum Road.
 

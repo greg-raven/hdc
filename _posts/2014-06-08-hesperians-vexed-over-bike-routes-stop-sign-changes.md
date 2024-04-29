@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA • Progress on the area’s longest bicycle trail system is advancing with some unforeseen consequences. Motor vehicle collisions have increased markedly at one intersection following traffic-control changes that are part of the city’s bike-lane plan.
+HESPERIA --- Progress on the area’s longest bicycle trail system is advancing with some unforeseen consequences. Motor vehicle collisions have increased markedly at one intersection following traffic-control changes that are part of the city’s bike-lane plan.
 
 Stop signs were changed from east-west to north-south in September along Sequoia Avenue at Locust, Fifth and Second avenues as part of a plan to make bicycling along the city’s northern border safer, Hesperia spokeswoman Rachel Molina said.
 

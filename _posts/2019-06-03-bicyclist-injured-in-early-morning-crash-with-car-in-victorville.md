@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — A bicyclist was transported to a local hospital after crashing with a car Monday morning.
+VICTORVILLE, Calif. (VVNG.com) --- A bicyclist was transported to a local hospital after crashing with a car Monday morning.
 
 It happened at about 9:30 am, at the intersection of Second Avenue and Nisqualli Road.
 

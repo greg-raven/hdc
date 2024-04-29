@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — The City of Victorville will host an event to celebrate the Grand Opening of the Victorville Mojave Riverwalk on Nov. 2.
+VICTORVILLE, Calif. (VVNG.com) --- The City of Victorville will host an event to celebrate the Grand Opening of the Victorville Mojave Riverwalk on Nov. 2.
 
 The Fun Run/Walk will begin at 9 a.m., the Ribbon Cutting will take place at 10 a.m., and the Inaugural Bike Ride will immediately follow the Ceremony.
 

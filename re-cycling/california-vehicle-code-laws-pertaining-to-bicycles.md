@@ -8,7 +8,7 @@ guid: 'https://localhost/wordpress/'
 
 ### California Vehicle Code laws pertaining to bicycles
 
-Safe bicycling involves more than wearing the proper safety equipment and keeping your bike in good mechanical order — you must also learn the rules of the road.
+Safe bicycling involves more than wearing the proper safety equipment and keeping your bike in good mechanical order --- you must also learn the rules of the road.
 
 The following are important excerpts from the California Vehicle Code (VC) relating to the operation and equipping of bicycles.
 
@@ -103,9 +103,9 @@ b) Such prohibitory regulations shall be effective when appropriate signs giving
 
 All required signals given by hand and arm shall be given in the following manner:
 
-1. Left turn — hand and arm extended horizontally beyond the side of the bicycle.
-2. Right turn — left hand and arm extended upward beyond the side of the bicycle or right hand and arm extended horizontally to the right side of the bicycle.
-3. Stop or sudden decrease of speed signal — left hand and arm extended downward beyond the side of the bicycle.
+1. Left turn --- hand and arm extended horizontally beyond the side of the bicycle.
+2. Right turn --- left hand and arm extended upward beyond the side of the bicycle or right hand and arm extended horizontally to the right side of the bicycle.
+3. Stop or sudden decrease of speed signal --- left hand and arm extended downward beyond the side of the bicycle.
 
 #### Toll Crossing. VC 23330
 

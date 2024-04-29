@@ -8,7 +8,7 @@ categories:
 
 I was fortunate to have dinner with Tim Brummer over the weekend. Brummer is the brain behind [Lightning Cycle Dynamics](https://www.lightningbikes.com/) in Lompoc. He’s been designing, building, and racing record-setting bikes for decades, giving him more cycling experience than anyone else I can think of off the top of my head.  
   
-As the conversation turned to the sometimes difficult car/bike interface, I mentioned that while I’m riding on the back roads here in the High Desert most motorists give me a wide berth. But on Apple Valley Road — which with its generous vehicle lanes, wide bike lanes, markings, and signs, should be one of the safest places to cycle — we’d had two bad accidents.
+As the conversation turned to the sometimes difficult car/bike interface, I mentioned that while I’m riding on the back roads here in the High Desert most motorists give me a wide berth. But on Apple Valley Road --- which with its generous vehicle lanes, wide bike lanes, markings, and signs, should be one of the safest places to cycle --- we’d had two bad accidents.
 
 Tim’s response was immediate: “Are there rumble strips?” he asked.
 

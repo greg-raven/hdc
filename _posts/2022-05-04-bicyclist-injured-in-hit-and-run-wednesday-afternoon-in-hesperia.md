@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA, Calif. (VVNG.com) — A bicyclist was transported to a hospital after he was injured in by a hit-and-run driver in Hesperia.
+HESPERIA, Calif. (VVNG.com) --- A bicyclist was transported to a hospital after he was injured in by a hit-and-run driver in Hesperia.
 
 It happened at about 3:30 pm, on May 4, 2022, at the intersection of Main Street and Fith Avenue near the corner of the Fast Trip Liquor.
 

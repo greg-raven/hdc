@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE • After four decades of economic highs and lows, one High Desert business is not only standing, but thriving.  
+VICTORVILLE --- After four decades of economic highs and lows, one High Desert business is not only standing, but thriving.  
   
 Kevin and Carol Kraatz, owners of Victorville Cycles, are celebrating their shop’s 40th year of operation in Victorville. They recently moved into a 3,200-square-foot building near Spring Valley Lake.
 

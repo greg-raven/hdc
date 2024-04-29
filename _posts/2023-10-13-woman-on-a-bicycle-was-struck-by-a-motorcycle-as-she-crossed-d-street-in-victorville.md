@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE, Calif. (VVNG.com) — A woman on a bicycle was struck by a motorcycle as she crossed a busy roadway.
+VICTORVILLE, Calif. (VVNG.com) --- A woman on a bicycle was struck by a motorcycle as she crossed a busy roadway.
 
 It happened at about 3:30 p.m. on Friday, October 13, 2023, on D Street near Eight Street in old town Victorville.
 

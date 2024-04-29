@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-APPLE VALLEY, Calif. (VVNG.com) — Authorities investigated after a bicyclist was struck and killed Tuesday evening in the Town of Apple Valley.
+APPLE VALLEY, Calif. (VVNG.com) --- Authorities investigated after a bicyclist was struck and killed Tuesday evening in the Town of Apple Valley.
 
 It happened at about 5:48 PM on December 19, 2023, near Navajo Road and Ottawa Road.
 

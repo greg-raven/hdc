@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — Explaining a major push to boost the city’s bicycle and pedestrian-friendly infrastructure, City Engineer Brian Gengler acknowledged last week it was one area where Victorville trailed neighboring municipalities.
+VICTORVILLE --- Explaining a major push to boost the city’s bicycle and pedestrian-friendly infrastructure, City Engineer Brian Gengler acknowledged last week it was one area where Victorville trailed neighboring municipalities.
 
 “It’s no secret from anyone that we’re behind,” Gengler said. “Hesperia has installed a number of bike lanes and so has Apple Valley. We know … it’s overdue.”
 

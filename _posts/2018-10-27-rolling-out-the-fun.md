@@ -8,13 +8,13 @@ tags:
 - VVBT
 ---
 
-APPLE VALLEY — It was a beautiful Saturday morning at Apple Valley Civic Center as Robert Love and his two children prepared for their ten-mile bicycle ride.
+APPLE VALLEY --- It was a beautiful Saturday morning at Apple Valley Civic Center as Robert Love and his two children prepared for their ten-mile bicycle ride.
 
-“We’re getting a really late start, but here we are,” Love said, as he loaded up his son, Ace, and daughter Evianna — all dressed up in their Halloween costumes for the occasion — into a small bicycle trailer attached to his bike.
+“We’re getting a really late start, but here we are,” Love said, as he loaded up his son, Ace, and daughter Evianna --- all dressed up in their Halloween costumes for the occasion --- into a small bicycle trailer attached to his bike.
 
 “We’re just waiting for our mom to get here,” Ace Love said, as he watched other cyclists gear up during the Victor Valley Bicycle Tour on Saturday. “Then, we’ll be ready to go.”
 
-And less than ten minutes later, the Loves — now joined by mom Cynthia, dressed up as a superhero, began their route up to Apple Valley Airport.
+And less than ten minutes later, the Loves --- now joined by mom Cynthia, dressed up as a superhero, began their route up to Apple Valley Airport.
 
 Over 200 riders came out for the fourth annual bicycle tour, which winds through portions of Apple Valley, Hesperia, and Victorville. The tour was created to highlight the benefits of bicycling and promote bicycle safety throughout the High Desert.
 
@@ -26,7 +26,7 @@ The tour is organized by the Town of Apple Valley and the cities of Hesperia and
 
 The Family Ride, which began at 10 a.m., was the shortest and easier of the routes, spanning 10 miles towards Apple Valley Airport then looping back to the park. It was expressly geared for those with youngsters, with children 12 and under riding free with a parent.
 
-Rider Dannah Rae Rutledge got the honor of being the youngest cyclist riding solo in the Family Ride — and at five years old, the youngest to finish first.
+Rider Dannah Rae Rutledge got the honor of being the youngest cyclist riding solo in the Family Ride --- and at five years old, the youngest to finish first.
 
 “She’s just got a lot of stamina, I guess,” her father, Brandon Rutledge, said. “She’s been riding since she was around three years old.”
 

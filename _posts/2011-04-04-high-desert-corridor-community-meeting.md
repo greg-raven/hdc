@@ -18,8 +18,8 @@ Apple Valley, CA 92307
 
 **Meeting Agenda:**
 
-6:00 – 6:30 pm — Orientation/Open House  
-6:30 – 8:00 pm — Presentation and Public Meeting
+6:00 – 6:30 pm --- Orientation/Open House  
+6:30 – 8:00 pm --- Presentation and Public Meeting
 
 **Live webcast:**
 

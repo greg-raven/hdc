@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE — Crews have begun work on a concrete bike trail along the Mojave River near the lower campus of Victor Valley College.
+VICTORVILLE --- Crews have begun work on a concrete bike trail along the Mojave River near the lower campus of Victor Valley College.
 
 City of Victorville spokeswoman Sue Jones told the Daily Press that work crews began grading and prepping the trailhead last week for the new four-mile Mojave Riverwalk that sits north of Bear Valley Road.
 

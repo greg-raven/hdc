@@ -37,7 +37,7 @@ We have an opportunity to pass Stop-As-Yield in California. Here is a letter I r
 > 
 > Please let me know if you send a support letter. We&#146;d like to keep track.
 > 
-> The bill was made a two-year bill and won&#146;’t be heard again in committee until January 2018. However, if it moves out of committee, it would need to be approved by the full Assembly by the end of January&#151; — a compressed schedule. We are trying to generate as much support as possible before then.
+> The bill was made a two-year bill and won&#146;’t be heard again in committee until January 2018. However, if it moves out of committee, it would need to be approved by the full Assembly by the end of January&#151; --- a compressed schedule. We are trying to generate as much support as possible before then.
 > 
 > Thanks very much.
 > 

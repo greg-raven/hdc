@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-APPLE VALLEY, Calif. (VVNG.com) — The San Bernardino County Coroner’s Office identified a bicyclist killed Tuesday afternoon as 36-year-old Dontril Biggs, a resident of Apple Valley.
+APPLE VALLEY, Calif. (VVNG.com) --- The San Bernardino County Coroner’s Office identified a bicyclist killed Tuesday afternoon as 36-year-old Dontril Biggs, a resident of Apple Valley.
 
 On August 31, 2021, at approximately 12:52 p.m., deputies from the Apple Valley Station, and rescue personnel from the Apple Valley Fire Protection District and American Medical Response responded to a vehicle versus bicyclist collision at the intersection of Pine Ridge Avenue and Jicarilla Road in the Town of Apple Valley.
 

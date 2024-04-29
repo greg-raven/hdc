@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-APPLE VALLEY • As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.  
+APPLE VALLEY --- As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.  
   
 “We don’t have funding,” said Apple Valley’s Parks and Recreation manager Ralph Wright, with an anticipated price tag for the park and related upgrades of $600,000.
 
@@ -24,9 +24,9 @@ Brooke Edwards may be reached at (760) 955-5358 or at bedwards@VVDailyPress.com.
 
 Four ways to help:
 
-- Buy a T-shirt — Proceeds from shirts by Riders Against Discrimination and FURM LIFE go to help build the bike park. The first shirt costs $20 and two or more are $15 each, with details available at MySpace.com/furmlife or by calling (760) 927-4655.
-- Buy a custom LINQ Bicycles frame — Frames average $400, with a portion of the proceeds going to the bike park fund. Details are available at linqbmx.com.
-- Donate to the grassroots fundraising effort — Send a check payable to High Desert Community Foundation with “BMX Fund” in the memo section to P.O. Box 2028 Apple Valley, CA 92307.
-- Donate cash, materials or labor through the town — To give to the Apple Valley Community Resource Foundation, call Karen Kelly at (760) 240-7000 ext. 7074.
+- Buy a T-shirt --- Proceeds from shirts by Riders Against Discrimination and FURM LIFE go to help build the bike park. The first shirt costs $20 and two or more are $15 each, with details available at MySpace.com/furmlife or by calling (760) 927-4655.
+- Buy a custom LINQ Bicycles frame --- Frames average $400, with a portion of the proceeds going to the bike park fund. Details are available at linqbmx.com.
+- Donate to the grassroots fundraising effort --- Send a check payable to High Desert Community Foundation with “BMX Fund” in the memo section to P.O. Box 2028 Apple Valley, CA 92307.
+- Donate cash, materials or labor through the town --- To give to the Apple Valley Community Resource Foundation, call Karen Kelly at (760) 240-7000 ext. 7074.
 
 Source: vvdailypress.com/news/park-19835-apple-underway.html

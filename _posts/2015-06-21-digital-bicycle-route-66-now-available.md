@@ -18,6 +18,6 @@ Included in the download are:
 
 - Digital Data Agreement
 - Support Pages for Digital Route Data products
-- Map Addenda — Always be sure to check for map addenda before leaving on your trip.
+- Map Addenda --- Always be sure to check for map addenda before leaving on your trip.
 - Temporary Road Closure Information
 - Frequently Asked Questions

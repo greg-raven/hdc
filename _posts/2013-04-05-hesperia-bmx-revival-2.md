@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA • After 10 years without one, Hesperia finally has a bicycle motocross park again.  
+HESPERIA --- After 10 years without one, Hesperia finally has a bicycle motocross park again.  
   
 The national anthem played as 21-year-old Brad Orescanin rode the length of the track carrying the American flag during the ribbon-cutting ceremony of the BMX Park at Live Oak Park in Hesperia on Friday. His father, Pat Orescanin, 54, and fellow riders Devan Searle, 20, and Gavin Rodriguez, 4, rode beside him.
 
@@ -30,7 +30,7 @@ Dalton and others, such as Mayor Pro Tem Thurston “Smitty” Smith, were able 
 
 Jason McGuire, editor and photographer of Pull Magazine for USA BMX, said “the big thing the sport does is it keeps kids doing something active, safe and fun.”
 
-The park offers two tracks — one for more seasoned or older riders and a separate track for beginners. Dalton said children as young as 18 months old can learn the sport by riding a strider bike on the strider track.
+The park offers two tracks --- one for more seasoned or older riders and a separate track for beginners. Dalton said children as young as 18 months old can learn the sport by riding a strider bike on the strider track.
 
 “People don’t understand that it’s not just a venue for kids to ride a bike, it changes live,” said Mike Lampignano, who operated a track at Live Oak in the ’90s.
 

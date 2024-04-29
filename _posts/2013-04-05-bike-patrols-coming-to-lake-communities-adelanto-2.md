@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-ADELANTO • The Silver Lakes and Spring Valley Lake associations donated about $7,500 to the San Bernardino County Sheriff’s Victor Valley Station to buy a trailer to field a bike unit in the local lake communities and Adelanto.  
+ADELANTO --- The Silver Lakes and Spring Valley Lake associations donated about $7,500 to the San Bernardino County Sheriff’s Victor Valley Station to buy a trailer to field a bike unit in the local lake communities and Adelanto.  
   
 The Mojave Air Quality Management District donated fully equipped bicycles for deputies to use on patrol. The Byrne Justice Assistance Grant funded patrol operations for the city of Adelanto.
 

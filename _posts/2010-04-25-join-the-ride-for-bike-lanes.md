@@ -14,4 +14,4 @@ We’re hoping to see mayors from each of the cities here in the high desert, an
 
 If you have any questions, contact Chuck at 760-961-2708.
 
-![2010 Ride for Bike Lanes poster](https://www.hdcycling.org/assets/img/2010/04/03-ride-poster.jpg)
+![2010 Ride for Bike Lanes poster](/assets/img/2010/04/03-ride-poster.jpg)

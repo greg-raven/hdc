@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA — A 10-year-old boy died Thursday night after he was struck by a vehicle while riding a bicycle at the intersection of Main Street and Third Avenue, according to the San Bernardino County Sheriff-Coroner Department.
+HESPERIA --- A 10-year-old boy died Thursday night after he was struck by a vehicle while riding a bicycle at the intersection of Main Street and Third Avenue, according to the San Bernardino County Sheriff-Coroner Department.
 
 Authorities said Sheriff’s deputies and San Bernardino County firefighters responded to the location just after 8:45 p.m. and found Arnold Covarrubias, 10, with trauma to the upper and lower body.
 

@@ -6,15 +6,15 @@ categories:
 - Information
 ---
 
-HESPERIA • With the attitude of an angry mama bear, Vanessa Kline was determined to get her bicycle back after it was stolen.  
+HESPERIA --- With the attitude of an angry mama bear, Vanessa Kline was determined to get her bicycle back after it was stolen.  
   
 Kline, 32, who is training for her 3,000-mile cross-country run beginning in 2015, said the last thing she needed was for someone to steal one of her and her fiance’s only modes of transportation.
 
-“Tommy had momentarily left the bike out back of where he worked, at Gator’s in Victorville,” Kline said. “He got sidetracked and forgot to bring it in — that is when someone stole it.”
+“Tommy had momentarily left the bike out back of where he worked, at Gator’s in Victorville,” Kline said. “He got sidetracked and forgot to bring it in --- that is when someone stole it.”
 
 Kline, who owns a smaller model of the stolen bike, quickly snapped a photo of it and shared it on numerous Facebook sites the following day.
 
-After the photo was shared more than 400 times on Facebook, someone had seen the bike advertised on Craigslist — the seller lived in Hesperia, Kline said.
+After the photo was shared more than 400 times on Facebook, someone had seen the bike advertised on Craigslist --- the seller lived in Hesperia, Kline said.
 
 After the police didn’t “move fast enough” to retrieve the bike, Kline said she decided to take matters into her own hands by calling and texting the seller numerous times in a 30-minute period.
 

@@ -10,7 +10,7 @@ tags:
 
 By Matthew Cabe
 
-APPLE VALLEY — The Chuck Hansen Tour de Apple Valley bicycle tour was canceled last year — after six years in the town — when complications halted the expansion of the event into Hesperia and Victorville, but a new, regional bicycle tour will come to the High Desert in the wake of Tour de Apple Valley’s demise.
+APPLE VALLEY --- The Chuck Hansen Tour de Apple Valley bicycle tour was canceled last year --- after six years in the town --- when complications halted the expansion of the event into Hesperia and Victorville, but a new, regional bicycle tour will come to the High Desert in the wake of Tour de Apple Valley’s demise.
 
 The Victor Valley Bicycle Tour will begin at 6 a.m. Saturday in Hesperia, and Apple Valley Mayor Pro Tem Barb Stanton called the event one of her proudest accomplishments.
 

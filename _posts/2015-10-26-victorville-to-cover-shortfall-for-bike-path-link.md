@@ -8,7 +8,7 @@ categories:
 
 Apple Valley-led project seen as critical connector in eventual network of bikeways
 
-VICTORVILLE — The City Council recently authorized funding up to $274,000 to cover a shortfall in Apple Valley’s Bear Valley Road Bike Path Project, seen as critical connector in a proposed regional network of bikeways.
+VICTORVILLE --- The City Council recently authorized funding up to $274,000 to cover a shortfall in Apple Valley’s Bear Valley Road Bike Path Project, seen as critical connector in a proposed regional network of bikeways.
 
 The project will construct a bike path along the north side of Bear Valley Road from Reata Road to Jacaranda Avenue, according to a city staff report.
 

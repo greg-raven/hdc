@@ -8,7 +8,7 @@ tags:
 - VVBT
 ---
 
-APPLE VALLEY — More than 200 riders are expected to participate in the 4th Annual Victor Valley Bicycle Tour that returns to the High Desert this weekend.
+APPLE VALLEY --- More than 200 riders are expected to participate in the 4th Annual Victor Valley Bicycle Tour that returns to the High Desert this weekend.
 
 The tour, which winds through a portion of the Victor Valley, was created to emphasize bicycle safety and to promote the health benefits of bicycling, tour President Thurston “Smitty” Smith told the Daily Press.
 

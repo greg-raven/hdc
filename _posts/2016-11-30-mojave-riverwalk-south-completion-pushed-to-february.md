@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-APPLE VALLEY — The nearly 3-mile-long walking path atop the eastern bank of the Mojave River is approximately 60 percent complete, but the finish date has been pushed several weeks to accommodate an extension of the project to the town’s southern border.
+APPLE VALLEY --- The nearly 3-mile-long walking path atop the eastern bank of the Mojave River is approximately 60 percent complete, but the finish date has been pushed several weeks to accommodate an extension of the project to the town’s southern border.
 
 Work on the Mojave Riverwalk South project began on Oct. 19, Town spokeswoman Kathie Martin confirmed Tuesday, and will result in a 12-foot-wide concrete trail from the Bear Valley Road bridge south to Poppy Road. Officials previously said the project would take 90 days to finish, an estimate that came with a mid-January completion date.
 

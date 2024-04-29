@@ -9,7 +9,7 @@ categories:
 
 **SACRAMENTO —** California’s jump into the nation’s top 10 bicycle-friendly states and creation of the nation’s largest active transportation program are two achievements highlighted in Caltrans’ annual Non-Motorized Transportation Facilities Report. But while officials lauded the advances, some locals still wonder if the Golden State is doing enough for cyclists.
 
-The state’s jump from 19th to ninth in the nation in The League of American Bicyclists’ latest annual report is due to progress in legislation, funding, and policy that will make it easier to build bike lanes and mandate drivers to give cyclists 3 feet of space when they pass. One law, The Protected Bikeways Act of 2014, provides for a new class of bikeway — a cycle track or separated bikeway — that has some type of physical separation between the bicycle path and vehicular traffic.
+The state’s jump from 19th to ninth in the nation in The League of American Bicyclists’ latest annual report is due to progress in legislation, funding, and policy that will make it easier to build bike lanes and mandate drivers to give cyclists 3 feet of space when they pass. One law, The Protected Bikeways Act of 2014, provides for a new class of bikeway --- a cycle track or separated bikeway --- that has some type of physical separation between the bicycle path and vehicular traffic.
 
 Still, No. 1 Washington and seven other states, including cold-weather locales like Wisconsin and Minnesota, ranked higher in bike friendliness. The report’s categories are bike policies/programs, legislation/enforcement, education/encouragement, infrastructure/funding and evaluation/planning. The state’s lowest score on the report card was a 3 out of a possible 5 in the infrastructure/funding category.
 

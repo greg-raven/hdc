@@ -8,7 +8,7 @@ categories:
 
 - Funding for final design approved; 11 miles of bike infrastructure is part of a wider overhaul
 
-VICTORVILLE — The City Council signed off this week on funding the final design for the $4.4 million Mojave Riverwalk project, an 11.1-mile, two-area mixture of bike paths and lanes with a trailhead ending near Victor Valley College.
+VICTORVILLE --- The City Council signed off this week on funding the final design for the $4.4 million Mojave Riverwalk project, an 11.1-mile, two-area mixture of bike paths and lanes with a trailhead ending near Victor Valley College.
 
 \[…\]
 

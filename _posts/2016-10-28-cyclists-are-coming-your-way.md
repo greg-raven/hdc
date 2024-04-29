@@ -18,7 +18,7 @@ VVBT President Thurston “Smitty” Smith told the Daily Press some 80 particip
 
 “It’s already becoming a Southern California event,” Smith said, “and we’re hoping it keeps growing. We have riders coming from outside the area. San Diego, Ventura, Malibu, Orange County, Rancho Cucamonga, Riverside, Los Angeles. They’re all coming, and I’m really excited because when I get involved in something, I’m all the way in.”
 
-Four routes are available for riders of all skill levels, including distances of 10, 25 and 62 miles that cut challenging or fun paths — depending on the distance — through Hesperia, Oak Hills, Apple Valley and Victorville.
+Four routes are available for riders of all skill levels, including distances of 10, 25 and 62 miles that cut challenging or fun paths --- depending on the distance --- through Hesperia, Oak Hills, Apple Valley and Victorville.
 
 VVBT board member Michele Rivas designed each of this year’s routes, according to Smith.
 

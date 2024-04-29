@@ -8,7 +8,7 @@ categories:
 
 Yucca Loma Bridge nears completion but won’t be open to traffic until 2017
 
-APPLE VALLEY — Officials say construction of the Yucca Loma Bridge is 85 to 90 percent complete but the entire project won’t be fully done until late 2017 due to administrative challenges that have delayed the start of the Yucca Loma Road widening project.
+APPLE VALLEY --- Officials say construction of the Yucca Loma Bridge is 85 to 90 percent complete but the entire project won’t be fully done until late 2017 due to administrative challenges that have delayed the start of the Yucca Loma Road widening project.
 
 With that said, town spokeswoman Charlene Engeron added that the bridge spanning the Mojave River could be open to traffic in early 2017, even if the widening of Yucca Loma Road isn’t concluded at that time.
 
@@ -22,7 +22,7 @@ Bidding for the road-widening project was originally expected to take place this
 
 The schedule for the completion of the 1,600-foot-long bridge has been pushed it back slightly, according to Miller, but he said it will still be close to the original October completion schedule.
 
-The bridge — essentially three independent bridges connected by joints — is the first component of the overall Yucca Loma Road/Yates Road/Green Tree Boulevard Transportation Improvement Project, which will eventually connect Yucca Loma Road in Apple Valley to Hesperia Road in Victorville.
+The bridge --- essentially three independent bridges connected by joints --- is the first component of the overall Yucca Loma Road/Yates Road/Green Tree Boulevard Transportation Improvement Project, which will eventually connect Yucca Loma Road in Apple Valley to Hesperia Road in Victorville.
 
 The Green Tree Boulevard extension is in the right-of-way acquisition phase, according to Miller.
 
@@ -34,7 +34,7 @@ Once completed, the bridge will feature Class II bikeways, a barrier-protected s
 
 The bridge is expected to have a useful life of 75 to 100 years, town officials said in a previous Daily Press report.
 
-The budget for the bridge and Yates Road improvements is $41 million — $37.2 million in construction costs awarded to Security Paving and $4 million for project management by Parsons Corp., an engineering, construction and management services firm. Costs are being split by the town, at about 75 percent, and the county, at about 25 percent.
+The budget for the bridge and Yates Road improvements is $41 million --- $37.2 million in construction costs awarded to Security Paving and $4 million for project management by Parsons Corp., an engineering, construction and management services firm. Costs are being split by the town, at about 75 percent, and the county, at about 25 percent.
 
 Several videos documenting the progress of work on the bridge have been made, and Miller will present a compilation video to the Apple Valley Rotary Club on Oct. 29.
 

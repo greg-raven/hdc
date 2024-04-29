@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-VICTORVILLE — Bicycles of all sizes were given away to children Wednesday evening as the City of Victorville Parks and Recreation held their 12th annual bike giveaway at the High Desert Event Center.
+VICTORVILLE --- Bicycles of all sizes were given away to children Wednesday evening as the City of Victorville Parks and Recreation held their 12th annual bike giveaway at the High Desert Event Center.
 
 The event, known as the Doris Davies Memorial Bicycle Giveaway, was hosted by the nonprofit organization Benefit Everyone, Assist Recreation &amp; Sports, also known as BEARS. The group gave away over 150 bicycles and helmets to children who showed a need and achieved high performance in school.
 

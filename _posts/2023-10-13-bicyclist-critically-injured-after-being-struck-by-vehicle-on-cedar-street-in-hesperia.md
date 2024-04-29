@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-HESPERIA, Calif. (VVNG.com) — Authorities shut down a portion of Cedar Street after a bicyclist was struck by a vehicle Thursday evening.
+HESPERIA, Calif. (VVNG.com) --- Authorities shut down a portion of Cedar Street after a bicyclist was struck by a vehicle Thursday evening.
 
 At about 5:30 p.m., on October 12, 2023, police and San Bernardino County Fire responded to a traffic collision at the intersection of Longview Avenue in Hesperia.
 

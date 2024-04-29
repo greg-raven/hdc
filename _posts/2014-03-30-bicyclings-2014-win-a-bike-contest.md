@@ -10,7 +10,7 @@ categories:
 
 Here’s my entry:
 
-> Eddy was going to ride — when I rode with them. Off Vera Cruz, he said afterward over expressos. Instead, I turn before I emerge onto Sixth and head uphill once more. This time, one of the local pros blurred by. The handlebar instantly whipped sideways.
+> Eddy was going to ride --- when I rode with them. Off Vera Cruz, he said afterward over expressos. Instead, I turn before I emerge onto Sixth and head uphill once more. This time, one of the local pros blurred by. The handlebar instantly whipped sideways.
 > 
 > Bobby appeared beside me, said, “Hey, you stuck in there for that second one, didn’t you? You killed yourself.” Afterward the ragged field came by and ended up having a good day, a few more hours, down that hill and up the hill. We ride together so much because I admire this quality.
 > 

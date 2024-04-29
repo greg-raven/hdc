@@ -6,9 +6,9 @@ categories:
 - 'Ride news'
 ---
 
-*Adventure Cycling’s planned 2,400-mile bicycle-friendly route will revitalize the “Main Street of America” — this time with touring cyclists.*
+*Adventure Cycling’s planned 2,400-mile bicycle-friendly route will revitalize the “Main Street of America” --- this time with touring cyclists.*
 
-**Missoula, Montana** — [Adventure Cycling Association](https://www.adventurecycling.org/) today announced that its next long-distance cycling route will be Bicycle Route 66. Embracing the spirit of “The Mother Road,” the new route will follow the famous corridor from Chicago to Los Angeles on roads appropriate for cyclists and, when possible, on sections of the historic highway.
+**Missoula, Montana** --- [Adventure Cycling Association](https://www.adventurecycling.org/) today announced that its next long-distance cycling route will be Bicycle Route 66. Embracing the spirit of “The Mother Road,” the new route will follow the famous corridor from Chicago to Los Angeles on roads appropriate for cyclists and, when possible, on sections of the historic highway.
 
 “Route 66 was the overwhelming favorite among our members for a new long-distance route,” said Carla Majernik, Adventure Cycling’s routes and mapping director. “It’s a legendary corridor and, for our route network, a critical link through areas where we have no routes, such as Oklahoma.”
 

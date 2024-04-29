@@ -10,7 +10,7 @@ I made a presentation to the Apple Valley Town Council last night (Tuesday, Marc
   
 Here is the text of my presentation:
 
-> There are several roads around Apple Valley that now have bike lanes. I, as a cyclist, very much appreciate them. Unfortunately, Apple Valley Road — which should be one of our safest passageways given its generous vehicle and bike lanes — has seen two bad accidents in the past couple of years.
+> There are several roads around Apple Valley that now have bike lanes. I, as a cyclist, very much appreciate them. Unfortunately, Apple Valley Road --- which should be one of our safest passageways given its generous vehicle and bike lanes --- has seen two bad accidents in the past couple of years.
 > 
 > I mentioned this to a cycling friend the other day, and his response was immediate: “Are there rumble strips?” he asked.
 > 
@@ -28,9 +28,9 @@ It was perhaps fortunate that I followed a gentleman who has been after the Town
 
 This provided an excellent segue to my presentation, which seem to be well received by the council members. Mayor Pro Tem Art Bishop said that in his many years of experience as a fireman, he had seen how rumble strips save lives.
 
-Council member (and former mayor) Barb Stanton — long a supporter of cycling and bike safety in the High Desert — commented that although the Town has done a lot, it can still do better. She asked the Town staff to prepare a report on the current state of bike lanes in Apple Valley, along with plans for other bicycle-related projects (signage, road improvements, etc.), to be made public so everyone can see what has been done, what is being done, and what is planned for the future.
+Council member (and former mayor) Barb Stanton --- long a supporter of cycling and bike safety in the High Desert --- commented that although the Town has done a lot, it can still do better. She asked the Town staff to prepare a report on the current state of bike lanes in Apple Valley, along with plans for other bicycle-related projects (signage, road improvements, etc.), to be made public so everyone can see what has been done, what is being done, and what is planned for the future.
 
-Mayor Pro Tem Art Bishop did raise a question about what legal obstacles the Town might have to negotiate in order to add rumble strips. I was not given an opportunity to respond, but am e-mailing each member of the council that Hwy 246 — which is the major road that runs from Lompoc to Buellton to Solvang — has rumble strips. Hwy 246 is wider and straighter than Apple Valley Road, runs through a predominantly rural farming area, and the speed limit is (if memory serves) 10 mph lower than Apple Valley Road. When I visited that area recently, it was heavily patrolled by CHP. Even so, the bike lane is protected by rumble strips. Obviously, if we have to deal with CalTrans there well could be a problem getting anything done, but to the best of my knowledge, each of the roads in Apple Valley that has a bike lane is under the control of the Town, not CalTrans.
+Mayor Pro Tem Art Bishop did raise a question about what legal obstacles the Town might have to negotiate in order to add rumble strips. I was not given an opportunity to respond, but am e-mailing each member of the council that Hwy 246 --- which is the major road that runs from Lompoc to Buellton to Solvang --- has rumble strips. Hwy 246 is wider and straighter than Apple Valley Road, runs through a predominantly rural farming area, and the speed limit is (if memory serves) 10 mph lower than Apple Valley Road. When I visited that area recently, it was heavily patrolled by CHP. Even so, the bike lane is protected by rumble strips. Obviously, if we have to deal with CalTrans there well could be a problem getting anything done, but to the best of my knowledge, each of the roads in Apple Valley that has a bike lane is under the control of the Town, not CalTrans.
 
 I plan to stay in touch with Council Member Stanton, and will pass along any information I receive from her.
 

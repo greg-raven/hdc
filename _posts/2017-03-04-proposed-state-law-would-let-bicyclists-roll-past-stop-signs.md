@@ -16,7 +16,7 @@ In effect, it would legalize the so-called “California roll,” although just 
 
 The longer it takes for a bicyclist to pass through an intersection, the greater likelihood that they’ll get hit by an oncoming vehicle, he said, although some cyclists expressed concern the law could lead to uncertainty about stop sign rules which could be dangerous to cyclists, particularly in cities.
 
-The two-tiered approach to the rules of the road — one for cyclists and one for cars — is unlikely to ease growing tensions over sharing California’s roadways.
+The two-tiered approach to the rules of the road --- one for cyclists and one for cars --- is unlikely to ease growing tensions over sharing California’s roadways.
 
 In recent years, bike advocates have won victories such as laws requiring drivers to yield a 3-foot radius of maneuvering room to cyclists. Motorists, meanwhile, have expressed frustration that some cyclists pick and choose which laws to follow.
 

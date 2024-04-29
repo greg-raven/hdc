@@ -8,7 +8,7 @@ categories:
 
 Five-year plan’s funding mechanism will help road rehabs
 
-VICTORVILLE — A five-year $12 million plan to install about 44 centerline miles of bikeways throughout the city is essentially a street rehabilitation project in disguise, officials said this week.
+VICTORVILLE --- A five-year $12 million plan to install about 44 centerline miles of bikeways throughout the city is essentially a street rehabilitation project in disguise, officials said this week.
 
 Almost all the roads where bike lanes are planned will include a pavement rehabilitation element, with the bike lane-specific local transportation fund (LTF) contributing some to the rehab projects.
 
@@ -18,7 +18,7 @@ According to a city staff report, the LTF will pay 15 to 20 percent of the rehab
 
 The City Council, which was seeing the plan for the first time Tuesday, approved it 4-0, with Mayor Gloria Garcia absent. Over the next five years, the two-prong approach is expected to result in upgrades to major thoroughfares including Bear Valley, La Mesa, Hesperia, Amethyst and El Evado roads and Air Expressway.
 
-Adding striping to streets to create bike lanes, the expectation is that two bike loops will ultimately be constructed — one on the east and another on the west side of the city, officials said. The project includes the Mojave Riverwalk Project, consisting of a four-mile paved bicycle and pedestrian path from Bear Valley to Yucca Loma roads.
+Adding striping to streets to create bike lanes, the expectation is that two bike loops will ultimately be constructed --- one on the east and another on the west side of the city, officials said. The project includes the Mojave Riverwalk Project, consisting of a four-mile paved bicycle and pedestrian path from Bear Valley to Yucca Loma roads.
 
 Gengler has previously acknowledged the city has lagged behind other municipalities in its bicycle infrastructure and the project will also lead to routes connecting to Apple Valley and Hesperia.
 
