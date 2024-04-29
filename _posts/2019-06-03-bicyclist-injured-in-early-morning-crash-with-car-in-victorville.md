@@ -10,7 +10,7 @@ VICTORVILLE, Calif. (VVNG.com) --- A bicyclist was transported to a local hospit
 
 It happened at about 9:30 am, at the intersection of Second Avenue and Nisqualli Road.
 
-Victorville City Fire, American Medical Response, and San Bernardino County Sheriff’s deputies responded to the area and found the injured male sitting up on the southwest corner of the intersection.
+Victorville City Fire, American Medical Response, and San Bernardino County Sheriff's deputies responded to the area and found the injured male sitting up on the southwest corner of the intersection.
 
 A small SUV with front passenger side damage was stopped nearby and the driver was speaking with police.
 

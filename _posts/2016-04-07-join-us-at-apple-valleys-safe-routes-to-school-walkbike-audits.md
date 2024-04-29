@@ -8,7 +8,7 @@ categories:
 
 Hello Community Members,
 
-Apple Valley’s Safe Routes to School Walk/Bike Audits will be held throughout April.
+Apple Valley's Safe Routes to School Walk/Bike Audits will be held throughout April.
 
 At a quick glance, the SRTS walk/bike audits are in the calendar, below. We look forward to seeing you at one or more of the school sites.
 

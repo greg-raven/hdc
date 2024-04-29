@@ -8,11 +8,11 @@ categories:
 
 WRIGHTWOOD --- Tabletop Mountain Road was lined with Grim Reapers, neon wigs and a blue Smurf on Friday as cycling fans and fanatics cheered for the competitors of the Amgen Tour of California.
 
-The bicycle race was a heated suffer-fest with a climbing finish where Colombia’s Esteban Chaves broke away from the lead group to take the Stage 6 victory. Spain’s David De La Cruz and American Thomas Danielson rounded out the top three.
+The bicycle race was a heated suffer-fest with a climbing finish where Colombia's Esteban Chaves broke away from the lead group to take the Stage 6 victory. Spain's David De La Cruz and American Thomas Danielson rounded out the top three.
 
 Hundreds lined the final kilometer along Tabletop Mountain Road in Wrightwood --- in a tradition unique to cycling. Fans spilled out into the roadway on the steepest grade to cheer, taunt and get shoulder-to-shoulder with the competitors as they charged toward the finish line.
 
-Neal Thomas traveled from Phoenix to don a neon-yellow wig to cheer riders as they approached the last kilometer of the stage’s final 17-mile climb.
+Neal Thomas traveled from Phoenix to don a neon-yellow wig to cheer riders as they approached the last kilometer of the stage's final 17-mile climb.
 
 “I do it to stay young” Thomas said. “I turned 60 this year, and this keeps me young.”
 

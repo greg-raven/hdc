@@ -14,9 +14,9 @@ When officers arrived, they found 37-year-old Jesus Santa Cruz, a resident of Vi
 
 Several days later, the Victorville Police Department released images of the suspect vehicle, obtained from video surveillance the morning of the incident. Officials asked anyone who recognized the dark-colored older model Chevy or GMC pickup truck with front end-damage to contact police.
 
-Through investigation, the suspect was identified as Osmin Reyes Machado, a 53-year-old resident of Victorville. On Saturday, March 20th, Machado was interviewed at the Victorville Sheriff’s Station. Following the interview, and was arrested for Felony Hit and Run.
+Through investigation, the suspect was identified as Osmin Reyes Machado, a 53-year-old resident of Victorville. On Saturday, March 20th, Machado was interviewed at the Victorville Sheriff's Station. Following the interview, and was arrested for Felony Hit and Run.
 
-Anyone with information about this investigation is asked to contact Deputy S. Lenihan at the Victorville Police Department at (760) 241-2911 or Sheriff’s Dispatch at (760) 956-5001. Callers wishing to remain anonymous are urged to call the We-Tip Hotline at 1-800-78CRIME (27463) or you may leave information on the We-Tip website at www.wetip.com.
+Anyone with information about this investigation is asked to contact Deputy S. Lenihan at the Victorville Police Department at (760) 241-2911 or Sheriff's Dispatch at (760) 956-5001. Callers wishing to remain anonymous are urged to call the We-Tip Hotline at 1-800-78CRIME (27463) or you may leave information on the We-Tip website at www.wetip.com.
 
 RELATED ARTICLE: [7th Street in Victorville closed due to fatal hit-and-run crash](/2021/03/7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash/)
 

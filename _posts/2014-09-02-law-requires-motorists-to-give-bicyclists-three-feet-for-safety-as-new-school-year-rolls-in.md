@@ -16,7 +16,7 @@ According to data from the Statewide Integrated Traffic Records System, in 2012,
 
 “As important as it is for vehicles to be mindful of our bicyclists, those who ride must exercise safe practices and ride smart,” added Commissioner Farrow. “With both drivers and bicyclists doing their part, we can help reduce the number of tragedies involving bicyclists.”
 
-The danger surrounding motor vehicle traffic is just one aspect of a child’s safe passage to and from school. According to Safekids.org, more children ages 5 to 14 are seen in emergency rooms for injuries related to bicycling than any other sport. Bicycle helmets, which are required by law for children under 18 years of age in California, can reduce the risk of severe brain injuries by 88 percent – yet only 45 percent of children 14 and under usually wear them.
+The danger surrounding motor vehicle traffic is just one aspect of a child's safe passage to and from school. According to Safekids.org, more children ages 5 to 14 are seen in emergency rooms for injuries related to bicycling than any other sport. Bicycle helmets, which are required by law for children under 18 years of age in California, can reduce the risk of severe brain injuries by 88 percent – yet only 45 percent of children 14 and under usually wear them.
 
 The CHP joins with Safekids.org in offering the following traffic safety tips for bicyclists:
 

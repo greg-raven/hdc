@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-Here are some photos of this year’s Peak2Peak riders going through Lucerne Valley.  
+Here are some photos of this year's Peak2Peak riders going through Lucerne Valley.  
   
 Approaching Lucerne Valley
 

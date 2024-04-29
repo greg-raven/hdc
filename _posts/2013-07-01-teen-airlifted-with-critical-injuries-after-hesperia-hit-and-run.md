@@ -8,7 +8,7 @@ categories:
 
 HESPERIA --- A 17-year-old boy was airlifted to a trauma center with life-threatening injuries after he was hit by a vehicle while riding a bicycle on Monday morning, authorities said.  
   
-San Bernardino County Sheriff’s Hesperia Station deputies were dispatched to the hit-and-run collision at 1:33 a.m. in the vicinity of Main Street and Escondido Avenue.
+San Bernardino County Sheriff's Hesperia Station deputies were dispatched to the hit-and-run collision at 1:33 a.m. in the vicinity of Main Street and Escondido Avenue.
 
 The 17-year-old and his 16-year-old female companion were riding west on Main Street when he was struck by a white pickup, which fled the scene. The girl was not injured, according to a news release.
 

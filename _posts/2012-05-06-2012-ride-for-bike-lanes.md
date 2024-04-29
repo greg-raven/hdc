@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-Help us encourage our elected officials to provide bike lanes on *all* streets in the high desert. We’re meeting at the Lowe’s at Bear Valley and Amargosa (14333 Bear Valley Road, Victorville), and riding East to the US Bank Office in Jess Ranch Marketplace (19201 Bear Valley Road Suite E, Apple Valley).  
+Help us encourage our elected officials to provide bike lanes on *all* streets in the high desert. We're meeting at the Lowe's at Bear Valley and Amargosa (14333 Bear Valley Road, Victorville), and riding East to the US Bank Office in Jess Ranch Marketplace (19201 Bear Valley Road Suite E, Apple Valley).  
   
 Date: Monday, May 7th  
 Time: 6:00 PM

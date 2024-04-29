@@ -12,7 +12,7 @@ It happened at about 3:30 pm, on May 4, 2022, at the intersection of Main Street
 
 Emergency personnel arrived and located a black mountain bike near the driveway of the gas station along with a rider down on the ground.
 
-Sheriff’s spokeswoman Mara Rodriguez told the male victim was transported to the hospital and had no update on his condition.
+Sheriff's spokeswoman Mara Rodriguez told the male victim was transported to the hospital and had no update on his condition.
 
 Rodriguez said the investigation is still active but it appears that a hit and run collision occurred at the location.
 

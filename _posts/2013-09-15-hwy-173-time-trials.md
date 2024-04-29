@@ -17,4 +17,4 @@ According to the Pacific Sunset Velo website (https://psvelo.com), the schedule 
 - Thanksgiving Day, November 28
 - Sunday, December 8
 
-I’ve e-mailed them in hopes of getting more notice next time. Whatever I get, I’ll post here.
+I've e-mailed them in hopes of getting more notice next time. Whatever I get, I'll post here.

@@ -16,7 +16,7 @@ A nearly 1-mile-long and 10-foot-wide path extending into the park from Yates Ro
 
 The second and larger 7.1-mile portion of the project scope will be a bike lane connecting through Old Town to a bike path already at the Mojave River.
 
-The Riverwalk project has underscored the city’s ambitions to boost it bicycle infrastructure after acknowledging it lagged behind neighboring municipalities. A separate five-year, $12-million plan calls for installing 44 centerline miles of bikeways throughout the city.
+The Riverwalk project has underscored the city's ambitions to boost it bicycle infrastructure after acknowledging it lagged behind neighboring municipalities. A separate five-year, $12-million plan calls for installing 44 centerline miles of bikeways throughout the city.
 
 City Engineer Brian Gengler said this month that the city expects construction on the Riverwalk, which will be grant-funded, to begin in the fall of 2017.
 

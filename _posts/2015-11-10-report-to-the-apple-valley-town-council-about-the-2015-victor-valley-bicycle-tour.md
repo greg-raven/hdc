@@ -8,9 +8,9 @@ tags:
 - VVBT
 ---
 
-Smitty Smith of the VVBT reports that they raised enough money to donate $12,000 to children’s bicycle safety in Apple Valley, Hesperia, and Victorville.
+Smitty Smith of the VVBT reports that they raised enough money to donate $12,000 to children's bicycle safety in Apple Valley, Hesperia, and Victorville.
 
-The tentative date for next year’s event is October 29, 2016.
+The tentative date for next year's event is October 29, 2016.
 
 Part 1:
 

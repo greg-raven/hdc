@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-Here are the results of this month’s time trial, courtesy Dave Nocera.  
+Here are the results of this month's time trial, courtesy Dave Nocera.  
   
 Congratulations to each of the riders.
 

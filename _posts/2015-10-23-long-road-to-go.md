@@ -6,11 +6,11 @@ categories:
 - Information
 ---
 
-Yucca Loma Bridge nears completion but won’t be open to traffic until 2017
+Yucca Loma Bridge nears completion but won't be open to traffic until 2017
 
-APPLE VALLEY --- Officials say construction of the Yucca Loma Bridge is 85 to 90 percent complete but the entire project won’t be fully done until late 2017 due to administrative challenges that have delayed the start of the Yucca Loma Road widening project.
+APPLE VALLEY --- Officials say construction of the Yucca Loma Bridge is 85 to 90 percent complete but the entire project won't be fully done until late 2017 due to administrative challenges that have delayed the start of the Yucca Loma Road widening project.
 
-With that said, town spokeswoman Charlene Engeron added that the bridge spanning the Mojave River could be open to traffic in early 2017, even if the widening of Yucca Loma Road isn’t concluded at that time.
+With that said, town spokeswoman Charlene Engeron added that the bridge spanning the Mojave River could be open to traffic in early 2017, even if the widening of Yucca Loma Road isn't concluded at that time.
 
 “We have some federal funding already assigned (for Yucca Loma Road),” Town Engineer Brad Miller told the Daily Press, “but there are certain avenues we have to go down to get awarded contracts.”
 
@@ -18,7 +18,7 @@ The road-widening job was initially planned to be completed around the same time
 
 Bidding for the road-widening project was originally expected to take place this summer, according to a previous Daily Press report.
 
-“As with most projects of this size there are small details that will take time,” Miller said, “(but) we’re making very good progress. It’s not a critical issue because we’re going to be a little behind schedule (with the bridge).”
+“As with most projects of this size there are small details that will take time,” Miller said, “(but) we're making very good progress. It's not a critical issue because we're going to be a little behind schedule (with the bridge).”
 
 The schedule for the completion of the 1,600-foot-long bridge has been pushed it back slightly, according to Miller, but he said it will still be close to the original October completion schedule.
 
@@ -26,7 +26,7 @@ The bridge --- essentially three independent bridges connected by joints --- is 
 
 The Green Tree Boulevard extension is in the right-of-way acquisition phase, according to Miller.
 
-“We’re waiting on word for the (grant proposal) that we submitted,” Miller said. “All three agencies went to Washington last April to promote the Green Tree extension. We’re still waiting to hear what … funds will come our way.”
+“We're waiting on word for the (grant proposal) that we submitted,” Miller said. “All three agencies went to Washington last April to promote the Green Tree extension. We're still waiting to hear what … funds will come our way.”
 
 Two potential funding grants were requested in Washington, Miller said. The first was for $20 million, which would fund the project to completion. The second, which would serve as interim funding, was a fallback request of $13 million.
 

@@ -24,4 +24,4 @@ Street resurfacing (miles)
 | 2016 | 22 | 1.6 |
 | 2017 | 24 | 4 |
 
-Apple Valley’s CAFR states that there are 411 miles of roadway within the town limits. Hesperia’s CAFR seems not to include a figure for this statistic.
+Apple Valley's CAFR states that there are 411 miles of roadway within the town limits. Hesperia's CAFR seems not to include a figure for this statistic.

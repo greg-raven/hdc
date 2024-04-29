@@ -10,11 +10,11 @@ tags:
 
 Dear AB 1103 supporter,
 
-I intend to update you monthly on what’s happening related to the bill.
+I intend to update you monthly on what's happening related to the bill.
 
-First, I want to thank you all for your support. Your involvement makes a difference and vastly changes the bill’s prospects from earlier in the year when organizational support was minimal.
+First, I want to thank you all for your support. Your involvement makes a difference and vastly changes the bill's prospects from earlier in the year when organizational support was minimal.
 
-Here are all the current bill supporters I’m aware of.
+Here are all the current bill supporters I'm aware of.
 
 **Advocacy**
 
@@ -58,17 +58,17 @@ Here are all the current bill supporters I’m aware of.
 - Public Health Advocates
 - Yolo Solano Air Quality Management District
 
-I’m continuing to contact bicycle organizations that have not yet responded. I’m also reaching out to environmental and public health groups. If you are aware of organizations that might be interested in joining the list of supporters, please contact them or let me know about them.
+I'm continuing to contact bicycle organizations that have not yet responded. I'm also reaching out to environmental and public health groups. If you are aware of organizations that might be interested in joining the list of supporters, please contact them or let me know about them.
 
-I’ve contacted Bicycle Advisory Committee in major cities and asked them to consider support as a way to, in turn, enlist their city’s support.
+I've contacted Bicycle Advisory Committee in major cities and asked them to consider support as a way to, in turn, enlist their city's support.
 
-On October 5, the Delaware governor is slated to sign the second stop as yield statewide law, after Idaho. It’s a significant step that eventually should provide more data on how the law works. The provision is part of a more comprehensive Bicycle Friendly Delaware Act. I believe most observers don’t consider Delaware and Idaho bellwether states. That’s another reason California’s decision on AB 1103 is so important. California is a bellwether state. It’s the most populous and has taken the lead on many national issues.
+On October 5, the Delaware governor is slated to sign the second stop as yield statewide law, after Idaho. It's a significant step that eventually should provide more data on how the law works. The provision is part of a more comprehensive Bicycle Friendly Delaware Act. I believe most observers don't consider Delaware and Idaho bellwether states. That's another reason California's decision on AB 1103 is so important. California is a bellwether state. It's the most populous and has taken the lead on many national issues.
 
-I think it is inevitable that this bill will attract considerable media attention, locally, statewide and even nationally. I’ve drafted some talking points for us to think about if and when we need to respond to media inquiries. The talking points are attached and I welcome your comments on them. I’ve tried to keep them simple and short.
+I think it is inevitable that this bill will attract considerable media attention, locally, statewide and even nationally. I've drafted some talking points for us to think about if and when we need to respond to media inquiries. The talking points are attached and I welcome your comments on them. I've tried to keep them simple and short.
 
-I’ve started to schedule meetings with all 14 Assembly members on the Assembly Transportation Committee. I hope to find out if they have a position on the bill now and what their concerns are.
+I've started to schedule meetings with all 14 Assembly members on the Assembly Transportation Committee. I hope to find out if they have a position on the bill now and what their concerns are.
 
-If you’ve got suggestions or ideas about any of this, please let me know.
+If you've got suggestions or ideas about any of this, please let me know.
 
 Thanks again,
 

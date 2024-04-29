@@ -8,7 +8,7 @@ categories:
 
 Governor Jerry Brown signed two bills on Saturday that will make it easier for California cities to build better bike infrastructure.
 
-The governor approved [Assembly Bill 1193](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB1193), which means protected bike lanes, or cycletracks, will [become an official part of Caltrans’ guidelines](https://la.streetsblog.org/2014/08/29/protected-bike-lane-bill-approved-by-legislature-awaiting-governor/) on bike infrastructure. Brown also signed [Senate Bill 1183](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1183), which will allow local governments to [use a vehicle surcharge to pay for bike paths](https://la.streetsblog.org/2014/04/23/sb-1183-from-bike-tax-to-car-fee/) and bike facility maintenance.
+The governor approved [Assembly Bill 1193](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB1193), which means protected bike lanes, or cycletracks, will [become an official part of Caltrans' guidelines](https://la.streetsblog.org/2014/08/29/protected-bike-lane-bill-approved-by-legislature-awaiting-governor/) on bike infrastructure. Brown also signed [Senate Bill 1183](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1183), which will allow local governments to [use a vehicle surcharge to pay for bike paths](https://la.streetsblog.org/2014/04/23/sb-1183-from-bike-tax-to-car-fee/) and bike facility maintenance.
 
 **State To Create Standards Supporting Protected Bike Lanes**
 
@@ -16,7 +16,7 @@ A.B. 1193, by Assemblymember Phil Ting (D-San Francisco), will require Caltrans 
 
 Protected bike lanes have been [shown](https://usa.streetsblog.org/2014/06/02/get-ready-for-a-landmark-study-of-americas-protected-bike-lanes/) to increase the number of people bicycling on them, to make cyclists feel safer, and to decrease the number of wrong-way and sidewalk riders on streets that have them.
 
-The new law will also allow cities and counties to build cycletracks without [consulting Caltrans](https://sf.streetsblog.org/2014/01/31/govs-report-to-caltrans-get-out-of-the-way-of-protected-bike-lanes/), unless the facilities are built on state highways. [California cities that build protected bike lanes](https://la.streetsblog.org/2014/07/21/protected-bike-lanes-grow-in-ca-as-cities-face-down-old-concerns/) will have the option of using the standards to be developed by Caltrans or some other generally accepted standards, sparing them from Caltrans’ arduous approval process.
+The new law will also allow cities and counties to build cycletracks without [consulting Caltrans](https://sf.streetsblog.org/2014/01/31/govs-report-to-caltrans-get-out-of-the-way-of-protected-bike-lanes/), unless the facilities are built on state highways. [California cities that build protected bike lanes](https://la.streetsblog.org/2014/07/21/protected-bike-lanes-grow-in-ca-as-cities-face-down-old-concerns/) will have the option of using the standards to be developed by Caltrans or some other generally accepted standards, sparing them from Caltrans' arduous approval process.
 
 **Locals Can Now Pass Vehicle Fees to Build and Maintain Bikeways**
 

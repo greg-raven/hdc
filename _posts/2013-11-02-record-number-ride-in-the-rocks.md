@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-LUCERNE VALLEY --- Some walked or ran, but most participants in Saturday’s 5th Annual Ride in the Rocks event soaked up the desert scenery on their mountain bikes.  
+LUCERNE VALLEY --- Some walked or ran, but most participants in Saturday's 5th Annual Ride in the Rocks event soaked up the desert scenery on their mountain bikes.  
   
 A record 156 people participated on a glorious fall day that started and finished at Lucerne Valley High School.
 
@@ -30,7 +30,7 @@ Proceeds from the event went to the Mitsubishi Cement Corporation Educational Fo
 
 \[…\]
 
-“It’s so much fun,” said local teacher Cory Velasquez, who brought along several students and their families. “But the lunch (provided by Out of This World Barbecue) is the best part.”
+“It's so much fun,” said local teacher Cory Velasquez, who brought along several students and their families. “But the lunch (provided by Out of This World Barbecue) is the best part.”
 
 By PETER DAY, STAFF WRITER
 

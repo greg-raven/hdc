@@ -12,11 +12,11 @@ According to organizers, 178 participants either biked, ran or walked one of fiv
 
 Assemblyman Jay Obernolte, sporting serious mountain bike gear, was chosen to ceremoniously start the 23-mile ride. Obernolte also donated $500 to sponsor a Lucerne Valley fifth-grader to attend the annual science camp in Big Bear.
 
-Chuck Bell, who serves as president of the Lucerne Valley Economic Development Association, eschewed his normal 10-mile ride for a softer, gentler 5-miler. Bell’s late wife Julia Bell was a beloved educator who taught, served as principal of Lucerne Valley Elementary School and was elected to serve on the local school board. The Julia Bell Early Childhood Academy was dedicated in 2015 in Julia Bell’s honor.
+Chuck Bell, who serves as president of the Lucerne Valley Economic Development Association, eschewed his normal 10-mile ride for a softer, gentler 5-miler. Bell's late wife Julia Bell was a beloved educator who taught, served as principal of Lucerne Valley Elementary School and was elected to serve on the local school board. The Julia Bell Early Childhood Academy was dedicated in 2015 in Julia Bell's honor.
 
 Former Hesperia Councilman Thurston “Smitty” Smith helped promote the Ride in the Rocks. The previous Saturday the Victor Valley Bicycle Tour, which Smith also helped promote, had a turnout of nearly 300.
 
-Several area high school teams used Saturday’s event as training. A group from Academy of Academic Excellence in Apple Valley ran in the event as training for the L.A. Marathon next spring. Four members and the coach of the Big Bear High School’s mountain bike team participated in the Challenge Ride. Other participants came from all over Southern California to ride.
+Several area high school teams used Saturday's event as training. A group from Academy of Academic Excellence in Apple Valley ran in the event as training for the L.A. Marathon next spring. Four members and the coach of the Big Bear High School's mountain bike team participated in the Challenge Ride. Other participants came from all over Southern California to ride.
 
 The 10th annual event was the final Ride in the Rocks for organizer Millie Rader, who next year is handing the reins over to Sarah Alvarado, a competitive cyclist who currently is a photographer instructor at Victor Valley College. Rader and her husband David are lifelong Lucerne Valley residents who are among the most avid mountain bikers in town. David Rader is the safety coordinator at the local Mitsubishi Cement plant while Millie Rader serves as an administrator facilitator at the plant.
 

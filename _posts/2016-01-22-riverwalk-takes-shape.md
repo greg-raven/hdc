@@ -16,11 +16,11 @@ A 4-mile portion of the project will be a bike path that begins near Bear Valley
 
 “A trailhead parking lot, interpretive signs and a shade structure will be constructed at VVC,” according to a city staff report. “The Mojave Riverwalk Path will connect to a bicycle path that will be constructed on the north side of Bear Valley Road, the bicycle path on the south side of the Yucca Loma Bridge and bike lanes on the widened Yates Road.”
 
-Meanwhile, the second and larger 7.1-mile portion of the project’s scope will be a bike lane loop connecting through Old Town to a bike path already at the Mojave River.
+Meanwhile, the second and larger 7.1-mile portion of the project's scope will be a bike lane loop connecting through Old Town to a bike path already at the Mojave River.
 
 “Area 2 includes Hesperia Road from Green Tree Boulevard to Forrest Street, Sixth Street, C Street, Fourth Street, the Transportation Center, Sixth Street and to the Mojave River Levee,” the report said. “Green Tree Boulevard and Seventh Street complete the bike lane loop with Hesperia Road.”
 
-The Riverwalk project, combined with a separate five-year, $12 million plan to install about 44 centerline miles of bikeways throughout the city, has underscored the city’s ambitions to at last boost its bicycle infrastructure.
+The Riverwalk project, combined with a separate five-year, $12 million plan to install about 44 centerline miles of bikeways throughout the city, has underscored the city's ambitions to at last boost its bicycle infrastructure.
 
 Almost all the roads where bike lanes are planned within the 44-mile initiative also will include a pavement rehabilitation element, seen as a win-win, with bike-lane specific local transportation funds covering about 15 percent of the costs.
 

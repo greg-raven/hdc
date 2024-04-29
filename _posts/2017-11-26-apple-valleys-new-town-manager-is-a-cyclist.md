@@ -1,5 +1,5 @@
 ---
-title: "Apple Valley’s incoming Town Manager is a cyclist"
+title: "Apple Valley's incoming Town Manager is a cyclist"
 date: "2017-11-26T15:04:33-08:00"
 layout: post
 categories:
@@ -14,7 +14,7 @@ There are also rumors of a shake-up in the Town Council at the next election whi
 
 Now if Apple Valley could also poach Michele Rivas …
 
-Douglas B. “Doug” Robertson currently serves as the City Manager for the City of Victorville – a position he has held since July 2011. He has worked for the City approximately 15 years. Mr. Robertson has dedicated most of his career to the public sector. Prior to his service in Victorville, he held positions with California State University San Bernardino and the City of San Bernardino. He has lived in the High Desert for twenty-five years and currently resides in the Town of Apple Valley. He holds a Bachelor’s degree in Psychology and a Master’s degree in Public Administration (MPA).
+Douglas B. “Doug” Robertson currently serves as the City Manager for the City of Victorville – a position he has held since July 2011. He has worked for the City approximately 15 years. Mr. Robertson has dedicated most of his career to the public sector. Prior to his service in Victorville, he held positions with California State University San Bernardino and the City of San Bernardino. He has lived in the High Desert for twenty-five years and currently resides in the Town of Apple Valley. He holds a Bachelor's degree in Psychology and a Master's degree in Public Administration (MPA).
 
 The proposed Employment Agreement with Robertson includes:
 
@@ -24,6 +24,6 @@ The proposed Employment Agreement with Robertson includes:
 - Starting balances for administrative leave and sick leave shall each be 40 hours. The accrual rate for vacation, administrative leave, and sick leave shall be at the rate provided for employees with twenty years of service.
 - Vehicle allowance of $600 per month.
 - Reimbursement for any reasonable and necessary travel and business expenses.
-- A health reimbursement arrangement to reimburse premiums for medical, dental and/or vision insurance policies covering employee, his spouse and/or any eligible dependent following separation from the Town equivalent to the total maximum benefit allowance for premiums for insurance coverage under the Town’s Benefit Plan (currently $760 per month, subject to change from time-to-time).
-- Six months’ base salary severance payment for termination without cause and other, limited, circumstances. An additional six months’ base salary severance payment into the above-referenced health reimbursement arrangement if terminated within the first five years.
-- The Town is not obligated to make deferred compensation contributions on employee’s behalf.
+- A health reimbursement arrangement to reimburse premiums for medical, dental and/or vision insurance policies covering employee, his spouse and/or any eligible dependent following separation from the Town equivalent to the total maximum benefit allowance for premiums for insurance coverage under the Town's Benefit Plan (currently $760 per month, subject to change from time-to-time).
+- Six months' base salary severance payment for termination without cause and other, limited, circumstances. An additional six months' base salary severance payment into the above-referenced health reimbursement arrangement if terminated within the first five years.
+- The Town is not obligated to make deferred compensation contributions on employee's behalf.

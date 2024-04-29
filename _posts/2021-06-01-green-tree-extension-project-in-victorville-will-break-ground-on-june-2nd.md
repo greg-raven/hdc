@@ -12,7 +12,7 @@ The City will extend Green Tree Boulevard 1.5 miles from Hesperia Road to Ridgec
 
 Today, the City of Victorville hosted a Groundbreaking ceremony to celebrate the start of construction on this capital improvement project. Due to health order restrictions on public gatherings, attendance at the event was limited.
 
-During the Ceremony, Victorville Mayor Debra Jones expressed the City’s enthusiasm for starting work on this project that has been 50 years in the making. The Green Tree Extension was first envisioned in the 1970s. The project was added to the Victorville General Plan in 1988 and became a viable project in 2007.
+During the Ceremony, Victorville Mayor Debra Jones expressed the City's enthusiasm for starting work on this project that has been 50 years in the making. The Green Tree Extension was first envisioned in the 1970s. The project was added to the Victorville General Plan in 1988 and became a viable project in 2007.
 
 Integral to the project is a 600-foot-long bridge that will travel over the BNSF railroad. When complete, it will be the longest bridge in Victorville. City officials estimate more than one million pounds of rebar and 24 million pounds of concrete will be used in the new bridge.
 
@@ -28,7 +28,7 @@ The Green Tree Extension will be completed for a total cost of approximately $46
 
 To pay its portion, the City of Victorville has contributed $6.6 million in cash and is financing the remaining portion via a loan agreement with SBCTA that will be paid off utilizing future road development impact fees.
 
-The City’s construction contractor, Skanska USA will break ground on the project on June 2. Construction is expected to take 22 months to complete.
+The City's construction contractor, Skanska USA will break ground on the project on June 2. Construction is expected to take 22 months to complete.
 
 Source: [City of Victorville](https://www.victorvilleca.gov/Home/Components/News/News/759/16)
 

@@ -16,7 +16,7 @@ Re: California Active Transportation Program (ATP) Cycle 3 – City of Victorvil
 
 To Whom It May Concern:
 
-I am writing this letter of support on behalf of the City of Victorville for the City’s Arrowhead Drive and Seventh Avenue Complete Streets project application with the California Active Transportation Program (ATP). I am in favor of the City’s goals, and support facilitating pedestrian and bicycle use in building a healthier life style in the high desert.
+I am writing this letter of support on behalf of the City of Victorville for the City's Arrowhead Drive and Seventh Avenue Complete Streets project application with the California Active Transportation Program (ATP). I am in favor of the City's goals, and support facilitating pedestrian and bicycle use in building a healthier life style in the high desert.
 
 High Desert Cycling promotes more and better cycling in the high desert, through road and bike path projects, safety training for cyclists, cycling events, and group rides. High Desert Cycling advocates working toward a connected system of bicycle lanes and paths that links cities, schools, parks, and that is integrated with the U.S. Bicycle Route System. Ultimately, I would like to see the high desert achieve recognition as being a Bike-Friendly Community by the League of American Bicyclists.
 

@@ -24,7 +24,7 @@ Segment 1 consisted of approximately 1,055 linear feet of new concrete bikeway, 
 
 Construction costs were $393,973.63 and design was $76,600 (for all segments).
 
-**Q:** What was the Town’s contribution toward this total cost?
+**Q:** What was the Town's contribution toward this total cost?
 
 The Town is receiving reimbursement of $386,370 from SBCTA, and Victorville has agreed to pay a shared portion of the design cost making the final construction cost to the Town approximately $34,000.
 
@@ -34,7 +34,7 @@ The plans and specifications for the project have been forwarded to the City of 
 
 **Q:** An extension to the bike path extension up Mojave Fish Hatchery Road appeared on some of the earlier maps, but was not there as of two weeks ago. Has that section been delegated to Victorville now?
 
-I was just looking at the bid package for the full project, and it shows the last segment going from Fish Hatchery westerly toward the upper campus. It isn’t contiguous with BV Road, though. It cuts across the hill towards the PAC parking lot. A retaining wall would be necessary because of the hill, and that increased the expected costs. We did show a sidewalk going a short ways up FH, which wasn’t done, but there wasn’t a bike path segment in that direction. At least not in the bid packet. There may have been in some early concept. But either way, anything more will be under Victorville’s direction.
+I was just looking at the bid package for the full project, and it shows the last segment going from Fish Hatchery westerly toward the upper campus. It isn't contiguous with BV Road, though. It cuts across the hill towards the PAC parking lot. A retaining wall would be necessary because of the hill, and that increased the expected costs. We did show a sidewalk going a short ways up FH, which wasn't done, but there wasn't a bike path segment in that direction. At least not in the bid packet. There may have been in some early concept. But either way, anything more will be under Victorville's direction.
 
 **Q:** Any plans or speculation about redoing the Bear Valley Road bridge?
 

@@ -6,9 +6,9 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE --- Explaining a major push to boost the city’s bicycle and pedestrian-friendly infrastructure, City Engineer Brian Gengler acknowledged last week it was one area where Victorville trailed neighboring municipalities.
+VICTORVILLE --- Explaining a major push to boost the city's bicycle and pedestrian-friendly infrastructure, City Engineer Brian Gengler acknowledged last week it was one area where Victorville trailed neighboring municipalities.
 
-“It’s no secret from anyone that we’re behind,” Gengler said. “Hesperia has installed a number of bike lanes and so has Apple Valley. We know … it’s overdue.”
+“It's no secret from anyone that we're behind,” Gengler said. “Hesperia has installed a number of bike lanes and so has Apple Valley. We know … it's overdue.”
 
 To catch up, the city is eying an ambitious four-year plan that would install 31 miles of bike paths or bike lanes throughout the city. The lanes are expected to ultimately be part of a larger network of routes connecting with Hesperia and Apple Valley.
 
@@ -28,10 +28,10 @@ Cyclists from the Victor Valley Vello Road Cycling Facebook Group were cautiousl
 
 “I hope they seriously consider installing more than just a white line and some signs,” said Jeff Clemons of Hesperia. “A rumble strip or some other way to put a degree of separation between the bikes and traffic would be awesome.”
 
-“Bike lanes are great as long as the city maintains them,” Kevin Bilbee of Apple Valley said. “For example, as we all know they become debris fields and dangerous to ride in. The other issue I see with bike lanes is when someone is allowed to dig up the road then the bike lane is not put back into riding condition. Also, pave all the way to the edge of the bike lane when repaving, don’t stop in the middle of the lane leaving a mini ledge.”
+“Bike lanes are great as long as the city maintains them,” Kevin Bilbee of Apple Valley said. “For example, as we all know they become debris fields and dangerous to ride in. The other issue I see with bike lanes is when someone is allowed to dig up the road then the bike lane is not put back into riding condition. Also, pave all the way to the edge of the bike lane when repaving, don't stop in the middle of the lane leaving a mini ledge.”
 
-Victorville City Manager Doug Robertson, a member of the Facebook group, tried to allay Bilbee’s concerns.
+Victorville City Manager Doug Robertson, a member of the Facebook group, tried to allay Bilbee's concerns.
 
-“The reason it’s a four-year plan is many of the lanes will be added after repaving the road,” he wrote. “If we were to just stripe what we have it wouldn’t take long but the lanes wouldn’t be used due to pavement quality.”
+“The reason it's a four-year plan is many of the lanes will be added after repaving the road,” he wrote. “If we were to just stripe what we have it wouldn't take long but the lanes wouldn't be used due to pavement quality.”
 
 Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com/article/20150523/NEWS/150529852)

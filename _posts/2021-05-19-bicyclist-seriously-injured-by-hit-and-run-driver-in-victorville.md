@@ -10,7 +10,7 @@ VICTORVILLE, Calif. (VVNG.com) --- A 30-year-old bicyclist was seriously injured
 
 It happened at about 9:48 am, on Tuesday, May 18, 2021, in the area of Seventh Street and Tatum Road.
 
-Sheriff’s spokeswoman Mara Rodriguez said the male victim rode his bicycle across 7th Street, outside of a crosswalk, and was struck by a southbound car.
+Sheriff's spokeswoman Mara Rodriguez said the male victim rode his bicycle across 7th Street, outside of a crosswalk, and was struck by a southbound car.
 
 The female driver of the car involved stopped briefly before leaving the scene with the victim still lying in the roadway.
 

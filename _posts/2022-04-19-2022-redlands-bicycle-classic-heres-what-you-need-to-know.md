@@ -1,5 +1,5 @@
 ---
-title: "2022 Redlands Bicycle Classic: Here’s what you need to know"
+title: "2022 Redlands Bicycle Classic: Here's what you need to know"
 date: "2022-04-19T17:10:50-07:00"
 layout: post
 categories:
@@ -10,7 +10,7 @@ The Redlands Bicycle Classic is back this week after a two-year coronavirus hiat
 
 The race starts Wednesday, April 20, in Highland.
 
-That “stage is a ‘circuit’ race, which means the cyclists will be completing numerous laps around the course,” officials said in a mailer to community members. “This will give you an opportunity to see them up close and cheer them on as they pass by your location.”
+That “stage is a 'circuit' race, which means the cyclists will be completing numerous laps around the course,” officials said in a mailer to community members. “This will give you an opportunity to see them up close and cheer them on as they pass by your location.”
 
 Roads to be closed in Highland include eastbound Base Line, Jack Rabbit Lane, Foxtail Way, Glenheather Drive, Tonner Drive, Orange Street, Sycamore Drive, Webster Street and Church Street. Most of the roads are slated to be closed from 8 a.m. to 3 p.m.
 

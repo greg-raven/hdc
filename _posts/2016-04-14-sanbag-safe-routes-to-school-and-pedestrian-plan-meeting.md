@@ -8,11 +8,11 @@ categories:
 
 Hello Apple Valley Safe Routes to School Stakeholders,
 
-There’s a lot going on with bicycle and pedestrian improvements in San Bernardino County. In addition to our Apple Valley Safe Routes to School Plan, SANBAG is conducting similar projects.
+There's a lot going on with bicycle and pedestrian improvements in San Bernardino County. In addition to our Apple Valley Safe Routes to School Plan, SANBAG is conducting similar projects.
 
 SANBAG is holding a meeting on April 21, 2016, 10 am to 12 noon, at the Town of Apple Valley for a Countywide Points of Interest Pedestrian Plan (PIPP) and SANBAG Safe Routes to School Phase II (SRTS) project. See attached SANBAG Flyer.
 
-The meeting is being held for the general public to learn more about these projects and to provide feedback on the project’s progress to date. Let us know about our Apple Valley Safe Routes to School Plan as well as SANBAG’s programs.
+The meeting is being held for the general public to learn more about these projects and to provide feedback on the project's progress to date. Let us know about our Apple Valley Safe Routes to School Plan as well as SANBAG's programs.
 
 Please join us at the public meeting and come to our Apple Valley SRTS table:
 

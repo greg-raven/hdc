@@ -6,7 +6,7 @@ categories:
 - 'Event news'
 ---
 
-VICTORVILLE --- After Tracy Draper and her team of cyclists finished a 109-mile bicycle ride with 6,000 feet of climbing, a room normally used for belly dancing at Hook Community Center was an amazing place for a good night’s sleep.
+VICTORVILLE --- After Tracy Draper and her team of cyclists finished a 109-mile bicycle ride with 6,000 feet of climbing, a room normally used for belly dancing at Hook Community Center was an amazing place for a good night's sleep.
 
 “I had a dream a few years ago of riding across America,” Draper said Thursday. “It just became time to do it. It was now or never.”
 
@@ -18,13 +18,13 @@ The group is hoping to raise $30,000 and awareness for Hope for the Warriors, a 
 
 \[…\]
 
-Though they’re experienced riders, the desert-mountain climate presents a new challenge for them.
+Though they're experienced riders, the desert-mountain climate presents a new challenge for them.
 
-“When we reached the top (of the mountains) we couldn’t tell if it was heat or altitude (affecting the riders),” Bellew said. “We’re used to very humid weather; when you sweat you feel it. Here you don’t know how the heat is affecting you. The humidity is so low the sweat dries up right away.”
+“When we reached the top (of the mountains) we couldn't tell if it was heat or altitude (affecting the riders),” Bellew said. “We're used to very humid weather; when you sweat you feel it. Here you don't know how the heat is affecting you. The humidity is so low the sweat dries up right away.”
 
 The team will continue adapting to the desert as it rides toward the Grand Canyon, where the riders have their first scheduled rest day.
 
-Visit rideacrossusa.com to follow the team’s progress, or visit www.hopeforthewarriors.org to learn more about Hope for the Warriors.
+Visit rideacrossusa.com to follow the team's progress, or visit www.hopeforthewarriors.org to learn more about Hope for the Warriors.
 
 View video interviews with some of the cyclists here: https://bcove.me/6xste7c9
 

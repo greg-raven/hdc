@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-Here are the results of this month’s time trial. There was a slight breeze, but the temperature and humidity seemed just about perfect. The length of the course is approximately 7.24 miles.  
+Here are the results of this month's time trial. There was a slight breeze, but the temperature and humidity seemed just about perfect. The length of the course is approximately 7.24 miles.  
   
 Congratulations to each of the riders.
 

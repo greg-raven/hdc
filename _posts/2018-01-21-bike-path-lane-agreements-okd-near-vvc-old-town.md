@@ -1,5 +1,5 @@
 ---
-title: "Bike path, lane agreements OK’d near VVC, Old Town"
+title: "Bike path, lane agreements OK'd near VVC, Old Town"
 date: "2018-01-21T04:38:29-08:00"
 layout: post
 categories:

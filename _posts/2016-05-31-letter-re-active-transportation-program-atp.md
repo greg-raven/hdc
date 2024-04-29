@@ -27,7 +27,7 @@ In addition to this project, our goals are to:
 
 1. Connect all parks and schools with bike lanes or paths;
 2. Connect all existing and future bike lanes and paths to each other;
-3. Encourage cities in the high desert to cooperate with each other to ensure bike lanes don’t end at city limits;
+3. Encourage cities in the high desert to cooperate with each other to ensure bike lanes don't end at city limits;
 4. Encourage local schools, parks, and businesses to offer bike racks;
 5. Become recognized as a Bike-Friendly Community by the League of American Bicyclists;
 6. Incorporate our bike lanes and paths into the U.S. Bicycle Route System; and
@@ -40,6 +40,6 @@ Sincerely,
 Greg Raven  
 hdcycling.org  
 greg@hdcycling.org  
-Working toward more and better cycling in California’s high desert.
+Working toward more and better cycling in California's high desert.
 
 cc: Jennifer Heim, Town of Apple Valley

@@ -11,7 +11,7 @@ Brad Miller, engineer for the Town of Apple Valley, has advised the town council
   
 This rejection comes after [a suggestion to the town council](/2013/03/apple-valley-town-council-meeting/ "Apple Valley Town Council meeting") that rumble strips might help stop the slaughter of cyclists along Apple Valley Road while riding in what should be an ample bike lane.
 
-Mr. Miller’s advice to the Town Council is free of any alternatives that might improve the situation.
+Mr. Miller's advice to the Town Council is free of any alternatives that might improve the situation.
 
 Here is his report:
 

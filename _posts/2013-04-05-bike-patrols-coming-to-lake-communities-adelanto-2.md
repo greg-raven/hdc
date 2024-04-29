@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-ADELANTO --- The Silver Lakes and Spring Valley Lake associations donated about $7,500 to the San Bernardino County Sheriff’s Victor Valley Station to buy a trailer to field a bike unit in the local lake communities and Adelanto.  
+ADELANTO --- The Silver Lakes and Spring Valley Lake associations donated about $7,500 to the San Bernardino County Sheriff's Victor Valley Station to buy a trailer to field a bike unit in the local lake communities and Adelanto.  
   
 The Mojave Air Quality Management District donated fully equipped bicycles for deputies to use on patrol. The Byrne Justice Assistance Grant funded patrol operations for the city of Adelanto.
 
@@ -18,7 +18,7 @@ A wave of petty thefts and auto thefts inspired Deputy Dana Weinberg to approach
 
 Weinberg felt there was a need to have a citizen-friendly approach, as opposed to being in a patrol car. The bikes will be more effective at nabbing robbers who watch for vehicle headlights while committing a crime. The cycles will also come in handy during public gatherings, officials said.
 
-“We’ve had some petty theft and some cars being broken into,” Hall said. “This would be a perfect way to sneak up on thieves when they’re looking around for headlights on cars. It’s petty crime that we have right now (and) we want to take care of it.”
+“We've had some petty theft and some cars being broken into,” Hall said. “This would be a perfect way to sneak up on thieves when they're looking around for headlights on cars. It's petty crime that we have right now (and) we want to take care of it.”
 
 The Spring Valley Lake Association hosts various events throughout the year and also felt the need for a bike unit. The SVLA gave about $2,500.
 
@@ -30,6 +30,6 @@ Brown and Weinberg plan to coordinate with local businesses to put together “b
 
 Due to scarce resources, station officials are still uncertain of when and how often bicycle units will be on patrol.
 
-“There is not a lot of overtime funding for the lake areas because they are county areas,” Weinberg said. “We’re going to be out there as much as we can, four to six hours a day on a weekend. We have (the Spring Valley Lake) event calendar and will be there for Fourth of July, Labor Day and Halloween.”
+“There is not a lot of overtime funding for the lake areas because they are county areas,” Weinberg said. “We're going to be out there as much as we can, four to six hours a day on a weekend. We have (the Spring Valley Lake) event calendar and will be there for Fourth of July, Labor Day and Halloween.”
 
 Source: Jose Quintero, Staff Writer, vvdailypress.com/articles/adelanto-39743-bike-coming.html

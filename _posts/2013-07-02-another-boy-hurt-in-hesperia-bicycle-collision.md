@@ -10,7 +10,7 @@ HESPERIA --- A 12-year-old boy suffered major injuries when his bicycle collided
   
 It was the third traffic collision involving a juvenile on a bicycle in Hesperia in less than a week.
 
-San Bernardino County Sheriff’s and Fire Department personnel responded to the scene at approximately 3:15 p.m.
+San Bernardino County Sheriff's and Fire Department personnel responded to the scene at approximately 3:15 p.m.
 
 The boy was airlifted to Loma Linda University Medical Center with unspecified serious injuries.
 

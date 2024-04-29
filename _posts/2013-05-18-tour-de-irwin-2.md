@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-Here’s your opportunity to ride Fort Irwin without having to enlist.  
+Here's your opportunity to ride Fort Irwin without having to enlist.  
   
 TIMELINE:
 

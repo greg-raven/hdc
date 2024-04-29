@@ -20,9 +20,9 @@ Azzato was riding his mountain bike most likely near the white line on the south
 
 Grieve said tire marks just south of the incident indicate the driver of the vehicle briefly veered onto the dirt portion of the highway following the collision, but it appeared the driver did not come to a complete stop following the collision.
 
-San Bernardino County Deputy Coroner David Van Norman also arrived on the scene to process Azzato’s body and begin an investigation.
+San Bernardino County Deputy Coroner David Van Norman also arrived on the scene to process Azzato's body and begin an investigation.
 
-Authorities are calling on the public’s assistance to notify Azzato’s next of kin. Anyone with information can call the Coroner’s office at 909-387-2978.
+Authorities are calling on the public's assistance to notify Azzato's next of kin. Anyone with information can call the Coroner's office at 909-387-2978.
 
 Peter Day, Staff Writer
 

@@ -12,7 +12,7 @@ This was the fourth running of the event, which features a grueling 22-mile moun
 
 A large portion of the money will go toward the annual science camp trip for local fifth-graders, according to Millie Rader of the Mitsubishi Cement Corporation Educational ?Foundation, which puts on the event.
 
-The 167 participants topped last year’s number by 10, making it the largest turnout in the history of the event, Rader said.
+The 167 participants topped last year's number by 10, making it the largest turnout in the history of the event, Rader said.
 
 Two pro riders from Big Bear competed, with Romolo Forcino of Chains Required taking first place in the 22-mile with a time of 1 hour, 33 minutes.
 
@@ -24,10 +24,10 @@ Between them was a non-pro --- Omya California Plant Manager Peter Sutherland, w
 
 Sutherland was part of a 10-rider Omya team.
 
-San Bernardino County Supervisor Neil Derry’s field representative Alan Rasmussen and Lucerne Valley Unified School District Board of Trustees member Jim Harvey both rode the 10-mile course, finishing in 1:18 and 1:19 respectively.
+San Bernardino County Supervisor Neil Derry's field representative Alan Rasmussen and Lucerne Valley Unified School District Board of Trustees member Jim Harvey both rode the 10-mile course, finishing in 1:18 and 1:19 respectively.
 
 A small army of volunteers and sponsors made the event possible. Lucerne Valley Community Church provided 22 of the 36 volunteers and also had 12 riders.
 
-Sponsors included: Mitsubishi Cement Corporation Educational Foundation, the Daily Press, The Leader, Mitsubishi Cement Corporation, ICR Staffing Services, Gresham Savage, Out of this World BBQ, High Desert Party Rentals, Team Big Bear, Lucerne Valley Self Storage, Chains Required, Safety Employees Benefit Association (SEBA), Victorville Motors, Lucerne Valley Market and Hardware, Hi-Grade Materials, Kangan Water, Lucerne Valley Lions Club, Janette and Jason Graham, L.V. Community Church, Otwell Racing, Spankey---s, Raw Revolution, Apex Logistics, LLC, Specialty Minerals, Inc., Omya California, Butcher’s Block and Bear Valley Bikes.
+Sponsors included: Mitsubishi Cement Corporation Educational Foundation, the Daily Press, The Leader, Mitsubishi Cement Corporation, ICR Staffing Services, Gresham Savage, Out of this World BBQ, High Desert Party Rentals, Team Big Bear, Lucerne Valley Self Storage, Chains Required, Safety Employees Benefit Association (SEBA), Victorville Motors, Lucerne Valley Market and Hardware, Hi-Grade Materials, Kangan Water, Lucerne Valley Lions Club, Janette and Jason Graham, L.V. Community Church, Otwell Racing, Spankey---s, Raw Revolution, Apex Logistics, LLC, Specialty Minerals, Inc., Omya California, Butcher's Block and Bear Valley Bikes.
 
 Source: Kris Reilly, Daily Press (https://www.vvdailypress.com/article/20121024/NEWS/310249979)

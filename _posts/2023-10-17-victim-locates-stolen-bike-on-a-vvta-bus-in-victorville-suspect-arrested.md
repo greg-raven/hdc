@@ -20,10 +20,10 @@ A search of Galeano resulted in the discovery of a loaded .45 caliber, semi-auto
 
 The investigation revealed Galeano had stolen a bicycle and a school backpack from the backyard of a residence in Victorville.
 
-The victims of the theft located the bicycle on the front of a VVTA bus and followed the bus to the bus hub. When Galeano exited the bus, he wore the victim’s backpack and took the stolen bicycle off the bike rack. Galeano was confronted by the victim and a struggle over the property ensued. No injuries were reported.
+The victims of the theft located the bicycle on the front of a VVTA bus and followed the bus to the bus hub. When Galeano exited the bus, he wore the victim's backpack and took the stolen bicycle off the bike rack. Galeano was confronted by the victim and a struggle over the property ensued. No injuries were reported.
 
 Geovani Galeano was arrested and booked into the High Desert Detention Center in Adelanto. He is currently being held in lieu of $40,000 bail.
 
-The investigation is ongoing and anyone with information is asked to contact Deputy Jay Ko at Victor Valley Sheriff’s Station, 760-552-6800. Callers can remain anonymous and contact We-Tip at 800-78CRIME or www.wetip.com.
+The investigation is ongoing and anyone with information is asked to contact Deputy Jay Ko at Victor Valley Sheriff's Station, 760-552-6800. Callers can remain anonymous and contact We-Tip at 800-78CRIME or www.wetip.com.
 
 Source: Victor Valley News Group, vvng.com/victim-locates-stolen-bike-on-a-vvta-bus-in-victorville-suspect-arrested/

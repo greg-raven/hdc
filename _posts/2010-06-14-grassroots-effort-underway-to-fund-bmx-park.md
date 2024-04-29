@@ -8,17 +8,17 @@ categories:
 
 APPLE VALLEY --- As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.  
   
-“We don’t have funding,” said Apple Valley’s Parks and Recreation manager Ralph Wright, with an anticipated price tag for the park and related upgrades of $600,000.
+“We don't have funding,” said Apple Valley's Parks and Recreation manager Ralph Wright, with an anticipated price tag for the park and related upgrades of $600,000.
 
 The town has to wait until September to hear back on an application seeking $1.5 million from a Proposition 84 grant for improvements at James Woody Park on Navajo Road, including the BMX area planned at the northwest end of the park.
 
-“If this grant does not come through, our big question is, what is their alternative plan?” asked park proponent Josh Richling. “They haven’t answered that.”
+“If this grant does not come through, our big question is, what is their alternative plan?” asked park proponent Josh Richling. “They haven't answered that.”
 
-That’s why Richling helped create the High Desert Freestyle BMX Fund through the High Desert Community Foundation alongside the infamous William “Crazy Lacy” Furmage.
+That's why Richling helped create the High Desert Freestyle BMX Fund through the High Desert Community Foundation alongside the infamous William “Crazy Lacy” Furmage.
 
 “Next month will be five years since I started this cause which I am so passionate about,” Furmage said, with more than 100 council meeting appearances under his belt. “I find it sad they can keep dumping our tax dollars on an ailing country club, while our own BMX project is pushed back further.”
 
-To read the full story, see Monday’s Daily Press. To subscribe to the Daily Press in print or online, call (760) 241-7755, 1-800-553-2006 or click here.
+To read the full story, see Monday's Daily Press. To subscribe to the Daily Press in print or online, call (760) 241-7755, 1-800-553-2006 or click here.
 
 Brooke Edwards may be reached at (760) 955-5358 or at bedwards@VVDailyPress.com.
 

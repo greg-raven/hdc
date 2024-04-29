@@ -20,11 +20,11 @@ Even though traffic lanes will be shifted on Bear Valley Road, the number of tra
 
 In February, City crews began work on a concrete bike trail along the Mojave River near the lower campus of VVC. The work involved grading and prepping the trailhead for the new four-mile Mojave Riverwalk that sits north of Bear Valley Road.
 
-The trail will begin at Bear Valley Road near VVC and proceed north along the river’s western flank to Yates Road just north of Spring Valley Lake. The trail will end at Park Road, which leads into the Mojave Narrows Regional Park.
+The trail will begin at Bear Valley Road near VVC and proceed north along the river's western flank to Yates Road just north of Spring Valley Lake. The trail will end at Park Road, which leads into the Mojave Narrows Regional Park.
 
 This bike trail will branch into Mojave Narrows Park and lead bicyclists to Pelican Lake. The entire four-mile trail will be classified as a Class 1 bike path, with the work scheduled to be completed sometime this summer, Jones said.
 
-Part Two of the project will include the addition of bike lanes along Hesperia Road, Green Tree Boulevard and Seventh Street to create a large bike lane loop through Old Town connecting into the existing Riverwalk Trail near the city’s Transportation Center on D Street.
+Part Two of the project will include the addition of bike lanes along Hesperia Road, Green Tree Boulevard and Seventh Street to create a large bike lane loop through Old Town connecting into the existing Riverwalk Trail near the city's Transportation Center on D Street.
 
 The bike lane loop, comprised of Class II bike lanes, will be about 7 miles in length and will be designated with signage throughout Old Town.
 

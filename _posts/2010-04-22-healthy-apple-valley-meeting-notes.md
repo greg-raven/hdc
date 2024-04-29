@@ -46,7 +46,7 @@ Subcommittees WILL be meeting prior to our May 25 meeting. The designated chairs
 
 Subcommittee responsibilities were discussed. Responsibilities of the subcommittees, prior to the 5/25 meeting, will be to research what other communities are doing, determine what you think your subcommittee could do, set some goals, and be ready to provide some suggestions to the larger group.
 
-Here’s who has volunteered, so far.
+Here's who has volunteered, so far.
 
 <span style="text-decoration: underline;">ACTIVE TRANSPORTATION</span>
 

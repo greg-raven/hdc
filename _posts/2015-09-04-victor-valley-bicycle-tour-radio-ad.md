@@ -8,7 +8,7 @@ tags:
 - VVBT
 ---
 
-Here’s the first radio ad for the Victor Valley Bicycle Tour. It should be airing soon on KZXY, KIXA, KIXW, and KATJ.
+Here's the first radio ad for the Victor Valley Bicycle Tour. It should be airing soon on KZXY, KIXA, KIXW, and KATJ.
 
 <audio controls="controls">
 <source src="/assets/audio/VVBT-reserve-today-music-dry.mp3" type="audio/mpeg"></source>

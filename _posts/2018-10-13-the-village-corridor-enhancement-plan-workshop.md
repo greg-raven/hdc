@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-The Town of Apple Valley’s Village Corridor Enhancement Plan is seeking input about traffic patterns through The Village, including bike lanes. The second and final workshop for this project will be held October 30 between 5:30 and 7:30 p.m. at the council chambers at Town Hall, 14955 Dale Evans Parkway, Apple Valley, CA 92307.
+The Town of Apple Valley's Village Corridor Enhancement Plan is seeking input about traffic patterns through The Village, including bike lanes. The second and final workshop for this project will be held October 30 between 5:30 and 7:30 p.m. at the council chambers at Town Hall, 14955 Dale Evans Parkway, Apple Valley, CA 92307.
 
 For more information, contact the Town at (760) 240-7000 ext. 7530.
 

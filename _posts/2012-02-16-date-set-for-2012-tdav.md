@@ -8,7 +8,7 @@ tags:
 - TdAV
 ---
 
-This year’s Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!  
+This year's Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!  
   
 ![2012 Tour de Apple Valley](/assets/img/2012/02/16-tour-de-apple-valley.png)  
 The routes have changed from previous years. There are now going to be three rides, 10 miles, 25 miles, and 50 miles.
@@ -38,4 +38,4 @@ Make checks payable to:
 
 > The Chuck Hanson Foundation
 
-Last year’s event raised more than $4,000 for the Police Activities League. Way to go high desert cyclists! Going forward, proceeds will go toward promoting cycling and cycling activities.
+Last year's event raised more than $4,000 for the Police Activities League. Way to go high desert cyclists! Going forward, proceeds will go toward promoting cycling and cycling activities.

@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-*Hesperia mayor hopes people will ‘come to ride and decide to stay’ with return of BMX Park*  
+*Hesperia mayor hopes people will 'come to ride and decide to stay' with return of BMX Park*  
   
 After 10 years without one, Hesperia finally has a bicycle motocross park again.
 
@@ -14,4 +14,4 @@ The national anthem played as 21-year-old Brad Orescanin rode the length of the 
 
 Source: https://www.vvdailypress.com/articles/hesperia-39745-bmx-revival.html
 
-For the other side of this story, see Riders Against Discrimination’s page on Facebook: https://www.facebook.com/ridersagainstdiscrimination/
+For the other side of this story, see Riders Against Discrimination's page on Facebook: https://www.facebook.com/ridersagainstdiscrimination/

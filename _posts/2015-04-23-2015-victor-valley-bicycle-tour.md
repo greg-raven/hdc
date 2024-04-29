@@ -20,7 +20,7 @@ Before I go any further, save this date: Saturday, October 24, 2015.
 | 50 | 54 miles | 1,862 | 3 | $40 |
 | 25 | 23 miles | 971 | 1 | $30 |
 | 10 | 10 miles | Unk. | 0 | $20 |
-| Kid’s | n/a | flat | n/a | Free |
+| Kid's | n/a | flat | n/a | Free |
 
 The proceeds of this event will be used to raise awareness of safe bicycling in our communities and promote cycling as a healthy lifestyle for both recreation and transportation.
 
@@ -28,4 +28,4 @@ There will also be start/finish line activities (including a carnival and BMX ex
 
 Registration is not yet set up, but you will be able to register on-line through Active.com, as well as in person at the site, starting the night before the ride.
 
-I will be publishing updates here as I get them, or you can go to the ride’s website: VictorValleyBicycleTour.com
+I will be publishing updates here as I get them, or you can go to the ride's website: VictorValleyBicycleTour.com

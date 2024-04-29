@@ -8,7 +8,7 @@ categories:
 
 The Town of Apple Valley is seeking public input for its Corridor Connections Highway 18 Access Plan.
 
-Community input will be collected to identify needs for the Highway 18 corridor between Apple Valley Road and Bass Hill Road. The project is intended to improve Highway 18’s access for biking, walking and future mobility devices.
+Community input will be collected to identify needs for the Highway 18 corridor between Apple Valley Road and Bass Hill Road. The project is intended to improve Highway 18's access for biking, walking and future mobility devices.
 
 For more information, please call 760-240-7000.
 

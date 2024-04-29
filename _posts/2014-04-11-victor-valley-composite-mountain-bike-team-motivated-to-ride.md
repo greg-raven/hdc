@@ -10,7 +10,7 @@ The tires sloshed through the wet sandy soil as a series of lycra-clad teens cli
   
 This is not a team focused on winning leagues, titles or championships. It is a team focused on riding bikes as much as possible and racing on race day.
 
-“If it’s cold out, well, we’re practicing, if it’s hot out we’re practicing, if it’s windy, rainy, it doesn’t matter,” said team director Eddie Rea. “These guys are into it, they want to ride their bikes.”
+“If it's cold out, well, we're practicing, if it's hot out we're practicing, if it's windy, rainy, it doesn't matter,” said team director Eddie Rea. “These guys are into it, they want to ride their bikes.”
 
 The team consists of about a dozen junior high school- and high school-aged student-athletes. The team offers two or three organized rides per week, occasional bicycle maintenance clinics, and discussion groups about healthy diet and lifestyle.
 

@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-Keeping a focus on improving its roadways, the Town of Apple Valley has carved out a plan to upgrade and lengthen 34.45 miles of bicycle lanes that would include uniformed signage and clear markings for the Town’s system of Class 2 bicycle lanes.  
+Keeping a focus on improving its roadways, the Town of Apple Valley has carved out a plan to upgrade and lengthen 34.45 miles of bicycle lanes that would include uniformed signage and clear markings for the Town's system of Class 2 bicycle lanes.  
   
 While the Town had already budgeted $60,000 in Local Transportation Funds to create the plan, the Town was recently awarded nearly $406,000 to implement the improvements that are expected to be complete in two years. The funding is the result of a Highway Safety Improvement Program Grant that will bring the bike lanes up to current [California Manual of Uniform Traffic Control Devices](https://www.dot.ca.gov/hq/traffops/signtech/mutcdsupp/ca_mutcd2012.htm) standards.
 
@@ -16,6 +16,6 @@ The project includes improvements at 131 intersections, widening several section
 
 The Town recorded 27 traffic collisions along its Class 2 bike lanes over the last 10 years. Miller said, “Uniform and consistent application of signs and markings is how we minimize driver uncertainty and maximize stable and orderly traffic movement. In so doing, we expect to decrease this statistic dramatically.”
 
-In addition to fulfilling the traffic improvement goals of the Town’s strategic plan, the bicycle lanes are welcomed by the Healthy Apple Valley coalition that aims to improve the general health of our residents by promoting eating right and active living.
+In addition to fulfilling the traffic improvement goals of the Town's strategic plan, the bicycle lanes are welcomed by the Healthy Apple Valley coalition that aims to improve the general health of our residents by promoting eating right and active living.
 
 Source: Barb Stanton

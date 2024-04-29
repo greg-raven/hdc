@@ -22,11 +22,11 @@ Professional cyclist Patrick Caro, 49, of Claremont, marked his second year of c
 
 Victorville resident Bruno Mancinelli, 63, was the first rider to complete the 25-mile route on a mountain bike, which he said creates more of a challenge.
 
-“I have been here since 1978, and I think events like these are helping to promote safety,” Mancinelli said. “People are becoming more aware, whereas 15 years ago they wouldn’t even see you.”
+“I have been here since 1978, and I think events like these are helping to promote safety,” Mancinelli said. “People are becoming more aware, whereas 15 years ago they wouldn't even see you.”
 
 Hesperia resident Damian Gonzales, 28, and his wife, Ashley, 26, navigated the family route with their 2-year-old son Logan. Damian Gonzales said he rode his bike to work every week in preparation for the tour, saying he was glad to see an event promoting safety for cyclists.
 
-“I know it’s not realistic, but we need street lights on every main road,” he said. “I do a lot of night riding, and I can’t see.”
+“I know it's not realistic, but we need street lights on every main road,” he said. “I do a lot of night riding, and I can't see.”
 
 Victor Valley Bicycle Tour President Thurston “Smitty” Smith said proceeds from the event have helped provide local bike repair stations at area parks, 1,000 helmets for children in the community and 150 safety signs that remind motorists of the state law that requires them to give three feet before passing cyclists.
 

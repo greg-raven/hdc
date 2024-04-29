@@ -8,13 +8,13 @@ categories:
 
 - Tuesday evening crash leaves bicyclist dead
 
-APPLE VALLEY, CA, (December 19, 2023) --- Authorities have released the identity of a bicyclist hit and killed by a vehicle on a busy roadway in Apple Valley. The incident happened around 5:48 p.m. Tuesday near Navajo and Ottawa roads, according to the sheriff’s officials.
+APPLE VALLEY, CA, (December 19, 2023) --- Authorities have released the identity of a bicyclist hit and killed by a vehicle on a busy roadway in Apple Valley. The incident happened around 5:48 p.m. Tuesday near Navajo and Ottawa roads, according to the sheriff's officials.
 
 A preliminary investigation revealed that a white 2016 Chevrolet Colorado was traveling in the No. 1 southbound lane of Navajo Road, approaching Ottawa Road. At the same time, Gerald Duncan was riding his bicycle west across Navajo Road when he was hit by the Chevrolet, authorities said.
 
 Sadly, Duncan, 66, of Apple Valley, sustained major injuries and died at the scene.
 
-Anyone with information about the case is urged to call the Apple Valley sheriff’s station at (760) 240-7400.
+Anyone with information about the case is urged to call the Apple Valley sheriff's station at (760) 240-7400.
 
 The incident remains under investigation.
 

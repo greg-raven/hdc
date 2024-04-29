@@ -60,7 +60,7 @@ No person riding upon any motorcycle, motorized bicycle, bicycle, coaster, rolle
 
 a) No person operating a bicycle on a highway shall ride other than on a permanent and regular attached seat.
 
-b) No person operating a bicycle on a highway shall allow anyone to ride as a passenger other than on a separate attached seat. If the passenger is four years old or younger or weighs 40 pounds or less, the seat shall adequately retain the passenger in place and protect him/her from the bicycle’s moving parts.
+b) No person operating a bicycle on a highway shall allow anyone to ride as a passenger other than on a separate attached seat. If the passenger is four years old or younger or weighs 40 pounds or less, the seat shall adequately retain the passenger in place and protect him/her from the bicycle's moving parts.
 
 #### Carrying Articles. VC 21205
 
@@ -113,7 +113,7 @@ Except where a special permit has been obtained from the Department of Transport
 
 #### Headsets and Earplugs. VC 27400
 
-No person operating any vehicle, including a bicycle shall wear any headset covering, or any earplugs in, both ears. There are exceptions for persons operating authorized emergency vehicles, special construction or maintenance equipment and refuse collection equipment, and for any person wearing personal hearing protectors designed to attenuate injurious noise levels and which do not inhibit the wearers’ ability to hear a siren or horn from an emergency vehicle or horn form another motor vehicle, and for any person using a prosthetic device which aids the hard of hearing.
+No person operating any vehicle, including a bicycle shall wear any headset covering, or any earplugs in, both ears. There are exceptions for persons operating authorized emergency vehicles, special construction or maintenance equipment and refuse collection equipment, and for any person wearing personal hearing protectors designed to attenuate injurious noise levels and which do not inhibit the wearers' ability to hear a siren or horn from an emergency vehicle or horn form another motor vehicle, and for any person using a prosthetic device which aids the hard of hearing.
 
 #### License Requirement. VC 39002
 
@@ -121,7 +121,7 @@ a) A city or county may adopt a bicycle licensing ordinance or resolution provid
 
 b) Any bicycle not licensed under this division may be additionally regulated or licensed pursuant to local ordinance or may be licensed upon request of the owner.
 
-c) It is illegal for any person to to tamper with, destroy, mutilate or alter any license indicia (marking) or registration form or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency’s identifying symbol on any bicycle frame licensed under the provision of this division.
+c) It is illegal for any person to to tamper with, destroy, mutilate or alter any license indicia (marking) or registration form or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency's identifying symbol on any bicycle frame licensed under the provision of this division.
 
 #### Throwing Substances On Highways Or Adjoining Areas. VC 23111 7 23112
 

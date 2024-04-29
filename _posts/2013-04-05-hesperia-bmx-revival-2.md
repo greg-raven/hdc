@@ -22,7 +22,7 @@ Pat Orescanin said he was excited for the return of the sport to Hesperia and vo
 
 “BMX is the heartbeat of Hesperia in my opinion,” Pat Orescanin said.
 
-A variety of officials gathered for the ceremony, including Councilman Russ Blewett; Hesperia Chamber of Commerce President and CEO Yvonne Woytovich; San Bernardino County Sheriff’s Hesperia Station Chief Nils Bentsen; Dawn Sikes, field representative for Assemblyman Tim Donnelly; Rebecca Tennison, field representative for Sen. Steve Knight; and members from the Hesperia park district’s board of directors.
+A variety of officials gathered for the ceremony, including Councilman Russ Blewett; Hesperia Chamber of Commerce President and CEO Yvonne Woytovich; San Bernardino County Sheriff's Hesperia Station Chief Nils Bentsen; Dawn Sikes, field representative for Assemblyman Tim Donnelly; Rebecca Tennison, field representative for Sen. Steve Knight; and members from the Hesperia park district's board of directors.
 
 Recreation supervisor Don Webb said the projected budget for the track was $41,000 but they only had $15,000.
 
@@ -32,8 +32,8 @@ Jason McGuire, editor and photographer of Pull Magazine for USA BMX, said “the
 
 The park offers two tracks --- one for more seasoned or older riders and a separate track for beginners. Dalton said children as young as 18 months old can learn the sport by riding a strider bike on the strider track.
 
-“People don’t understand that it’s not just a venue for kids to ride a bike, it changes live,” said Mike Lampignano, who operated a track at Live Oak in the ’90s.
+“People don't understand that it's not just a venue for kids to ride a bike, it changes live,” said Mike Lampignano, who operated a track at Live Oak in the '90s.
 
-Mayor Bill Holland said he hopes the future will bring riders and families from different areas and “they’ll see what a jewel Hesperia is, come to ride and decide to stay.”
+Mayor Bill Holland said he hopes the future will bring riders and families from different areas and “they'll see what a jewel Hesperia is, come to ride and decide to stay.”
 
 Source: AMY ZILLNER, For the Daily Press, vvdailypress.com/news/hesperia-39745-bmx-revival.html

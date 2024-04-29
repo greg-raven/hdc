@@ -6,9 +6,9 @@ categories:
 - 'Ride news'
 ---
 
-LUCERNE VALLEY --- Preparations are well under way for this year’s Ride in the Rocks mountain biking competition, an event that organizers hope will bring riders from all over the West Coast.  
+LUCERNE VALLEY --- Preparations are well under way for this year's Ride in the Rocks mountain biking competition, an event that organizers hope will bring riders from all over the West Coast.  
   
-The two-day extravaganza is being organized by Millie Rader, a municipal advisory council member and the spokeswoman for Mitsubishi Cement. She’s overseeing it as part of her work for the Mitsubishi Educational Foundation, a fund set up by the company for use by the local schools.
+The two-day extravaganza is being organized by Millie Rader, a municipal advisory council member and the spokeswoman for Mitsubishi Cement. She's overseeing it as part of her work for the Mitsubishi Educational Foundation, a fund set up by the company for use by the local schools.
 
 “There are a lot of road races, but I wanted to do something geared towards mountain bikers,” Rader said.
 
@@ -22,7 +22,7 @@ The following day, the Lions Club will hold its chili cook-off at the location, 
 
 With the help of local biker Victoria Perry, who is a sponsored rider, organizers are hoping to have a large expo at the location where big-name stores and retailers can sell their mountain biking gear.
 
-“We’re starting to get a lot of vendors and sponsors,” Rader said, adding that there is always room for more.
+“We're starting to get a lot of vendors and sponsors,” Rader said, adding that there is always room for more.
 
 Event organizers are also looking for volunteers to help man the actual races, which will have levels of varying difficulty.
 

@@ -8,7 +8,7 @@ categories:
 
 The Trek Women Breast Cancer Awareness hosted by Victorville Cycles is set for October 13th at 10:00 A.M. Registration is available in store, online, or on the day of ride. Last year 266 riders turned out, making it their largest group yet.
 
-Lunch by Oggi’s for the first 250 riders. $25.00 donation for both the 10 &amp; 25 mile routes. See the [Victorville Cycles website](https://www.victorvillecycles.com/) for additional info. Sign up online or in store. All proceeds benefit The Breast Cancer Research Foundation.
+Lunch by Oggi's for the first 250 riders. $25.00 donation for both the 10 &amp; 25 mile routes. See the [Victorville Cycles website](https://www.victorvillecycles.com/) for additional info. Sign up online or in store. All proceeds benefit The Breast Cancer Research Foundation.
 
 The ride will Start and Finish at Victorville Cycles. The address is:
 

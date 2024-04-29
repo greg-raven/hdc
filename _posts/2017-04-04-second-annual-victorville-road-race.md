@@ -8,7 +8,7 @@ categories:
 
 Majestic Cycling is putting on the Second Annual Victorville Time Trial, Road Race, and Criterium April 7th-9th 2017. There will be SoCal Cup Points for PRO 1/2 Cat 3 and Women Pro 1/2/3.
 
-As with last year, the time trial and road race will be held at George AFB. Sunday’s criterium course will again be at Victorville Civic Center.
+As with last year, the time trial and road race will be held at George AFB. Sunday's criterium course will again be at Victorville Civic Center.
 
 [Click here for the official website](https://majesticcycling.com/victorville-road-race-and-crit/).
 
@@ -42,7 +42,7 @@ Same day license will be available at registration booth. For Cat 5 MEN, Fixed G
 - Drop bars, with bar tape, plugged ends and without brake levers are required for Road Race &amp; Crit
 - A lock-ring securing the cog is required
 - All components of the bike must be in good condition
-- Excessively large gear ratios are prohibited (determined on a case-by-case basis at the race director’s discretion)
+- Excessively large gear ratios are prohibited (determined on a case-by-case basis at the race director's discretion)
 - Lights and reflectors are prohibited
 - Time trial equipment is prohibited for Road Race and Crit. (Aero spokes, disc wheel, Spinergy, tri-spokes, rims deeper than 90mm, etc)
 - -Time trial equipment is allowed during the Time trial only.

@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-Here are the results from Tuesday night’s time trial on Deep Creek Road.  
+Here are the results from Tuesday night's time trial on Deep Creek Road.  
   
 <iframe frameborder="0" height="405" loading="lazy" scrolling="no" src="https://app.strava.com/segments/3692876/embed" width="590"><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span></iframe>
 

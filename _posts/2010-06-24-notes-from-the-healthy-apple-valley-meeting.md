@@ -15,7 +15,7 @@ The following items were discussed:
 - **Subcommittee updates:**
 - Be Active (active transportation) met with the Town Engineer. Learned about pathways in Apple Valley. Would like to have a celebration when the bike path gap is completed on Dale Evans. Working to pin point a completion date so we can begin celebration plans.
 - Live Better (promotion/branding) waiting on direction from Healthy AV to move forward with marketing. Logo completion in process.
-- Eat Smart (access to healthy food) hasn’t met at this time. Nhis subcommittee is looking for additional members to help get them up and running. If you or someone you know is interested please contact HealthyAV@applevalley.org.
+- Eat Smart (access to healthy food) hasn't met at this time. Nhis subcommittee is looking for additional members to help get them up and running. If you or someone you know is interested please contact HealthyAV@applevalley.org.
 - **Current Goals for HealthyAV**
 - Contact local business/organizations ask them to adopt a policy on healthy eating during staff meetings and trainings. Proved them with list of suggestions and ideas to make policy successful. Assist with creating policy for each group.
 - Recreation Department to create and implement policy on healthy eating for recreation activities and parties.

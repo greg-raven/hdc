@@ -6,17 +6,17 @@ categories:
 - Information
 ---
 
-VICTORVILLE --- Jason Conley awoke Sunday morning to find some one had broken into his garage, but when he looked inside he learned thieves bypassed his family’s cars and motorcycle but made off with more than $30,000 in bicycles and a wheel set.  
+VICTORVILLE --- Jason Conley awoke Sunday morning to find some one had broken into his garage, but when he looked inside he learned thieves bypassed his family's cars and motorcycle but made off with more than $30,000 in bicycles and a wheel set.  
   
-Conley, who races in amateur races, noticed his Pinerello Dogma worth about $13,000, his wife’s, Pinerello FP7 his Trek Top Fuel and a wheel set had been stolen from his home located near Pacioma and La Mesa roads.
+Conley, who races in amateur races, noticed his Pinerello Dogma worth about $13,000, his wife's, Pinerello FP7 his Trek Top Fuel and a wheel set had been stolen from his home located near Pacioma and La Mesa roads.
 
-San Bernardino County Sheriff’s Victorville station detectives are investigating.
+San Bernardino County Sheriff's Victorville station detectives are investigating.
 
-But this isn’t the first time thieves have targeted high-end bicycles. According to Conley, a Phelan man who is part of his riding group reported a similar incident about two months ago where a bicycle worth more than $1,000 was stolen.
+But this isn't the first time thieves have targeted high-end bicycles. According to Conley, a Phelan man who is part of his riding group reported a similar incident about two months ago where a bicycle worth more than $1,000 was stolen.
 
-It’s unclear if investigators think the two crimes are related.
+It's unclear if investigators think the two crimes are related.
 
-Sunday’s theft is still under investigation and authorities ask anyone with information on the case to contact Victorville authorities at (760) 241-2911 or call WeTip at (800) 78-CRIME.
+Sunday's theft is still under investigation and authorities ask anyone with information on the case to contact Victorville authorities at (760) 241-2911 or call WeTip at (800) 78-CRIME.
 
 Source: vvdailypress.com/news/steal-33979-victorville-accessories.html
 

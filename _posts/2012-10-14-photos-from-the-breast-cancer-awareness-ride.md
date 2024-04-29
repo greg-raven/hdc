@@ -11,6 +11,6 @@ categories:
 
 <figure>![2012 Breast Cancer Awareness Ride poster](/assets/img/2012/10/13-BCAR.png)<figcaption> 2012 Breast Cancer Awareness Ride</figcaption></figure>This was the fourth year for this event, and the turn-out seemed huge. Participants consumed virtually all parking at Wimbledon Village, and the riders had to be started in waves to reduce congestion.
 
-There didn’t seem to be many course markers, although there was a volunteer at one otherwise unmarked intersection to direct riders, which was very nice.
+There didn't seem to be many course markers, although there was a volunteer at one otherwise unmarked intersection to direct riders, which was very nice.
 
 Thanks to the drivers in Victorville who waited patiently at intersections for the riders to go by.

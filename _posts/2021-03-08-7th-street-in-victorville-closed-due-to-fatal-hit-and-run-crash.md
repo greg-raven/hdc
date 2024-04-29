@@ -14,7 +14,7 @@ Deputies responded and located a mangled bike in the roadway along with a male. 
 
 The driver and vehicle involved in the incident fled the scene before deputies arrived.
 
-Seventh Street will be closed in both directions for several hours while the Sheriff’s Major Accident Investigation Team (MAIT) processes the scene.
+Seventh Street will be closed in both directions for several hours while the Sheriff's Major Accident Investigation Team (MAIT) processes the scene.
 
 Anyone with information is asked to call the Victorville Police Department at 760-241-2911.
 

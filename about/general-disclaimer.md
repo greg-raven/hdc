@@ -4,7 +4,7 @@ date: "2014-12-14T16:17:29-08:00"
 layout: page
 ---
 
-The information on these pages, while correct to the best of our knowledge, is to be used only in combination with your knowledge, experience, and good sense. We cannot warrant that every piece of information is flawlessly accurate. We’re here to try to help, not to replace your own judgment.
+The information on these pages, while correct to the best of our knowledge, is to be used only in combination with your knowledge, experience, and good sense. We cannot warrant that every piece of information is flawlessly accurate. We're here to try to help, not to replace your own judgment.
 
 Each rider is responsible for his or her own safety, regardless of what this site says about routes, maps, or road conditions. HD Cycling assumes no responsibility for accidents or other incidents.
 
@@ -54,9 +54,9 @@ If you do not think they are reasonable, you must not use this website.
 
 ### Other Parties
 
-You accept that, as a limited liability entity, HDCycling.org has an interest in limiting the personal liability of its officers and employees. You agree that you will not bring any claim personally against HDCycling.org’s principals in respect of any losses you suffer in connection with the website.
+You accept that, as a limited liability entity, HDCycling.org has an interest in limiting the personal liability of its officers and employees. You agree that you will not bring any claim personally against HDCycling.org's principals in respect of any losses you suffer in connection with the website.
 
-Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect HDCycling.org’s officers, employees, agents, subsidiaries, successors, assigns, sub-contractors, and contributors, as well as HDCycling.org.
+Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect HDCycling.org's officers, employees, agents, subsidiaries, successors, assigns, sub-contractors, and contributors, as well as HDCycling.org.
 
 ### Unenforceable Provisions
 
