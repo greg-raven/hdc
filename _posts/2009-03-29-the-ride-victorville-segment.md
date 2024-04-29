@@ -19,4 +19,4 @@ Local cyclists include Alan Pellegrini, Tim Goforth, Rob Hanna, and [Ron Andring
 
 Keep your eyes peeled for actual video evidence that we do sometimes have to contend with wind events.
 
-[Read more about the local connection to this event here]({% post_url 2009-03-29-amazing-race-host-stops-in-victorville-as-he-bikes-across-america %}).
+[Read more about the local connection to this event here]({% post_url 2009-03-07-amazing-race-host-stops-in-victorville-as-he-bikes-across-america %}).
