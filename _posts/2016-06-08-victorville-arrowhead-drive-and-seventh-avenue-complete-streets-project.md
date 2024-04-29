@@ -12,7 +12,7 @@ Attention: Chief, Office of Active Transportation and Special Programs
 P.O. Box 942874  
 Sacramento, CA 94274-0001
 
-Re: California Active Transportation Program (ATP) Cycle 3 – City of Victorville Arrowhead Drive and Seventh Avenue Complete Streets Project
+Re: California Active Transportation Program (ATP) Cycle 3 --- City of Victorville Arrowhead Drive and Seventh Avenue Complete Streets Project
 
 To Whom It May Concern:
 

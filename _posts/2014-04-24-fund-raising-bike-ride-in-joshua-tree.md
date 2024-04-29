@@ -34,11 +34,11 @@ We just received word of a fund-raising bike ride coming up on May 3rd in the Jo
 > We're looking forward to seeing you on the road.
 > 
 > Jim Nutter  
-> Bike4Shoes – Chairman  
+> Bike4Shoes --- Chairman  
 > Rotary Club of Joshua Tree Foundation  
 > P.O. Box 1323, Joshua Tree, California 92252
 > 
-> The Rotary Club of Joshua Tree Foundation, Inc. is a Public Benefit 501 c (3) Non-Profit – Tax ID: 46-1171170
+> The Rotary Club of Joshua Tree Foundation, Inc. is a Public Benefit 501 c (3) Non-Profit --- Tax ID: 46-1171170
 
 <iframe class="scribd_iframe_embed" data-aspect-ratio="0.7729220222793488" frameborder="0" height="1000" id="250096458" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/250096458/content" title="20140503 Bike Ride for Shoes that Fit" width="840"></iframe><script type="text/javascript">          (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "https://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })()        </script>
 

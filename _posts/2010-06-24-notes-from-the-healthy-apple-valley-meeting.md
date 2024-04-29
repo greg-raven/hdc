@@ -22,7 +22,7 @@ The following items were discussed:
 - Send out interest letters to local businesses requesting their attendance / support / membership in HealthyAV
 - Complete logo
 - Complete website with information to include recipes, fun health facts, nutrition information, and healthy activities in the community.
-- **Healthy AV goals for July 1 – Dec 31**
+- **Healthy AV goals for July 1 --- Dec 31**
 - Establish a walking club that meets at Civic Center Park 1 time per week. With expectation that it would grow and we would be able to develop small neighborhood walking/biking groups in addition to Civic Center. Members of subcommittee Be Active would assist by welcoming walkers, explaining the HealthyAV role as well as using push pins to track what neighborhoods our walkers come from.
 - Cooking Classes/Education, recruit health educators to teach cooking classes with hands on experience. Assistance from the Eat Smart committee to locate stores who would like to donate/participate in the event.
 - Health Fair/Fitness Day, organize an event for the community to learn about health, medical and easy ways to be active.
@@ -41,7 +41,7 @@ The following items were discussed:
 
 **Next Meeting**
 
-> 7/22 3:30 – 4:30  
+> 7/22 3:30 --- 4:30  
 > Town Hall Recreation Center
 
 Any questions or comments please email: healthyav@applevalley.org

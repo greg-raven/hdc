@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-Apple Valley, CA – Feb. 22, 2021: When children resume in-person learning again at Mariana Academy, Sandia Academy , Apple Valley High School, and Rio Vista School of Applied Learning, they can walk or bike to school easier now that construction is complete on projects designed to improve access along commonly used routes to these schools.
+Apple Valley, CA --- Feb. 22, 2021: When children resume in-person learning again at Mariana Academy, Sandia Academy , Apple Valley High School, and Rio Vista School of Applied Learning, they can walk or bike to school easier now that construction is complete on projects designed to improve access along commonly used routes to these schools.
 
 Funded by a $3.4 million grant from the California Department of Transportation, Senate Bill1 Gas taxes were used to add curb, gutter, and sidewalk to portions of Manhasset and Sandia roads and reconstruct roughly two miles of the Class 1 bike path along portions of Navajo, and Tussing Ranch roads to Mendel Park.
 

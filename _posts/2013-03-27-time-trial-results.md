@@ -27,7 +27,7 @@ Here are my calculations, based on the time and a course length of 6.3 miles:
 | Aaron Christoffersen | 16:37 | 22.75 | 02:38 |
 | Sean Redmond | 16:37 | 22.75 | 02:38 |
 | Michele Rivas | 17:09 | 22.04 | 02:43 |
-| Route Troupe – Alex | 17:09 | 22.04 | 02:43 |
+| Route Troupe --- Alex | 17:09 | 22.04 | 02:43 |
 | russ morrison | 17:18 | 21.85 | 02:45 |
 | Ryan Soliman | 17:39 | 21.42 | 02:48 |
 | Jeff Friend | 17:40 | 21.40 | 02:48 |

@@ -14,7 +14,7 @@ There are also rumors of a shake-up in the Town Council at the next election whi
 
 Now if Apple Valley could also poach Michele Rivas ...
 
-Douglas B. "Doug" Robertson currently serves as the City Manager for the City of Victorville – a position he has held since July 2011. He has worked for the City approximately 15 years. Mr. Robertson has dedicated most of his career to the public sector. Prior to his service in Victorville, he held positions with California State University San Bernardino and the City of San Bernardino. He has lived in the High Desert for twenty-five years and currently resides in the Town of Apple Valley. He holds a Bachelor's degree in Psychology and a Master's degree in Public Administration (MPA).
+Douglas B. "Doug" Robertson currently serves as the City Manager for the City of Victorville --- a position he has held since July 2011. He has worked for the City approximately 15 years. Mr. Robertson has dedicated most of his career to the public sector. Prior to his service in Victorville, he held positions with California State University San Bernardino and the City of San Bernardino. He has lived in the High Desert for twenty-five years and currently resides in the Town of Apple Valley. He holds a Bachelor's degree in Psychology and a Master's degree in Public Administration (MPA).
 
 The proposed Employment Agreement with Robertson includes:
 

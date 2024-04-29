@@ -14,7 +14,7 @@ National Bicycle Awareness Month was first celebrated in 1956. The League of Ame
 
 National Bicycle Awareness Month campaigns have focused on bicycle safety in recent years. Many states in America have taken up this initiative to encourage cycling. For example, Florida encourages its residents to ride bicycles to work for one week in a "Bike To Work" initiative. The other states that show frequent participation in National Bicycle Safety Month include Austin, Boston, Pasadena, and Portland. In addition, several events are sponsored all over the country in local communities to encourage bicycle riding and promote safety awareness.
 
-Bicycles influence humanity as they are used by people from all walks of life – from mailmen to sales assistants, police officers, paramedics, and others. They also help reduce traffic congestion, air pollution, and noise pollution. Therefore, motorists and cyclists are encouraged to celebrate National Bicycle Safety Month, which is good for healthy living and society.
+Bicycles influence humanity as they are used by people from all walks of life --- from mailmen to sales assistants, police officers, paramedics, and others. They also help reduce traffic congestion, air pollution, and noise pollution. Therefore, motorists and cyclists are encouraged to celebrate National Bicycle Safety Month, which is good for healthy living and society.
 
 ## National Bicycle Safety Month timeline
 

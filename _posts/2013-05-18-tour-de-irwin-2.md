@@ -10,16 +10,16 @@ Here's your opportunity to ride Fort Irwin without having to enlist.
   
 TIMELINE:
 
-0600 – Sign-in  
-0645 – Safety brief  
-0700 – Races begin
+0600 --- Sign-in  
+0645 --- Safety brief  
+0700 --- Races begin
 
 THE RACE:
 
-- 41-mile race – The main event! Categories include ages 13-35, 36-45 (masters), and 46+ (silver).
-- 10.5-mile fun race – Categories include ages 13-35, 36-45 (masters), and 46+ (silver).
-- 2.5 mile youth race – For ages 12 and younger.
-- Team Racing – Available for the 41-mile race.
+- 41-mile race --- The main event! Categories include ages 13-35, 36-45 (masters), and 46+ (silver).
+- 10.5-mile fun race --- Categories include ages 13-35, 36-45 (masters), and 46+ (silver).
+- 2.5 mile youth race --- For ages 12 and younger.
+- Team Racing --- Available for the 41-mile race.
 
 THE ROUTE:
 

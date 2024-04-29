@@ -8,7 +8,7 @@ categories:
 
 From the Apple Valley Engineering department.
 
-YUCCA LOMA BRIDGE &amp; YATES ROAD IMPROVEMENTS – PROJECT NO. 2013-04
+YUCCA LOMA BRIDGE &amp; YATES ROAD IMPROVEMENTS --- PROJECT NO. 2013-04
 
 This project is the first component of the overall Yucca Loma Road/Yates Road/Green Tree Boulevard Transportation Improvement Project, which will connect Yucca Loma Road in the Town of Apple Valley to Hesperia Road in the City of Victorville. The new bridge will also feature facilities such as Class II bikeways, barrier protected sidewalk on the north side, and a barrier protected Class I bikeway on the south side.
 

@@ -32,10 +32,10 @@ Friday evening packet pickup will occur at the starting line from 4:30 p.m. to 6
 
 ## 2021 routes
 
-[Metric Century (62 mile) – 8:00 a.m.](https://drive.google.com/file/d/14QwovmRPSZzv4CPTQG53KKi1av1dNTOQ/view?usp=sharing)
+[Metric Century (62 mile) --- 8:00 a.m.](https://drive.google.com/file/d/14QwovmRPSZzv4CPTQG53KKi1av1dNTOQ/view?usp=sharing)
 
-[Half-Metric Century (31 mile) – 8:30 a.m.](https://drive.google.com/file/d/1JDXjylXrM7XiJdl4FKGZgVArJAjTWQ57/view?usp=sharing)
+[Half-Metric Century (31 mile) --- 8:30 a.m.](https://drive.google.com/file/d/1JDXjylXrM7XiJdl4FKGZgVArJAjTWQ57/view?usp=sharing)
 
-[10 mile – 10:00 a.m.](https://drive.google.com/file/d/1mXh9Aeu1HiNaQVI3ec8qKgoqGTO4avM0/view?usp=sharing)
+[10 mile --- 10:00 a.m.](https://drive.google.com/file/d/1mXh9Aeu1HiNaQVI3ec8qKgoqGTO4avM0/view?usp=sharing)
 
 All rides include a lunch.

@@ -18,7 +18,7 @@ Please join us at the public meeting and come to our Apple Valley SRTS table:
 
 SANBAG PIPP &amp; SRTS JOINT MEETING  
 April 21, 2016  
-10:00 AM – 12:00 PM  
+10:00 AM --- 12:00 PM  
 Apple Valley Town Hall  
 14975 Dale Evans Pkwy, Apple Valley, CA 92307
 

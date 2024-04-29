@@ -6,7 +6,7 @@ categories:
 - Advocacy
 ---
 
-VICTORVILLE – Children squealed in delight while each rode their new bicycles around the High Desert Event Center parking lot as the Victorville Parks and Recreation Department held its 13th annual Doris Davies Memorial Bicycle Giveaway Wednesday.
+VICTORVILLE --- Children squealed in delight while each rode their new bicycles around the High Desert Event Center parking lot as the Victorville Parks and Recreation Department held its 13th annual Doris Davies Memorial Bicycle Giveaway Wednesday.
 
 "I absolutely love my new bike," said 4-year-old Leaveh Johnson as she happily rode around the building.
 

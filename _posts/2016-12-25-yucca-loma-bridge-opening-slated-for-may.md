@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-APPLE VALLEY – With construction on a nearly mile-long stretch of Yucca Loma Road progressing, town officials have tentatively scheduled an opening date for the long-anticipated bridge to which the road leads.
+APPLE VALLEY --- With construction on a nearly mile-long stretch of Yucca Loma Road progressing, town officials have tentatively scheduled an opening date for the long-anticipated bridge to which the road leads.
 
 Town spokeswoman Kathie Martin told the Daily Press the Yucca Loma Bridge will open to traffic May 22, almost two months ahead of schedule.
 

@@ -24,7 +24,7 @@ Mon., May 3 --- *[Ride for Bike Lanes](/2010/04/join-the-ride-for-bike-lanes/ "J
 
 Committee members signed up to participate at the end of the ride by distributing a HEALTHY APPLE VALLEY survey and a flyer about HEALTHY APPLE VALLEY.
 
-\*\* Members not in attendance at the meeting can STILL participate by coming to the Jess Ranch parking lot by the AUTO CLUB building from 6:30pm – 7:00pm.
+\*\* Members not in attendance at the meeting can STILL participate by coming to the Jess Ranch parking lot by the AUTO CLUB building from 6:30pm --- 7:00pm.
 
 Allen Christensen will bring the survey and Valerie Smith will bring flyers for distribution.
 

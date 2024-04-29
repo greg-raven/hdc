@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE – Design plans for the $4.4 million Mojave Riverwalk project, which will mix bike paths and lanes and feature a trailhead ending near Victor Valley College, continue to be reviewed by the city, the school and San Bernardino County leading up to expected construction next fall.
+VICTORVILLE --- Design plans for the $4.4 million Mojave Riverwalk project, which will mix bike paths and lanes and feature a trailhead ending near Victor Valley College, continue to be reviewed by the city, the school and San Bernardino County leading up to expected construction next fall.
 
 \[...\]
 

@@ -13,7 +13,7 @@ The Fun Run/Walk will begin at 9 a.m., the Ribbon Cutting will take place at 10 
 
 The event will take place at the Mojave Riverwalk Trailhead located at 18564 Bear Valley Road on the Southeast corner of the Victor Valley College Campus. The Victorville City Council approved the Notice of Completion on the Mojave Riverwalk earlier this month.
 
-The Riverwalk is a Class I bike path and pedestrian trail that starts at Fish Hatchery Road at the Victor Valley College Campus, continues under the Yucca Loma Bridge and continues into Mojave Narrows Regional Park – a distance of 3.9 miles one way. The Riverwalk connects to a longer, seven-mile loop of Class II bike lanes and bike routes that travel throughout central and Old Town Victorville.
+The Riverwalk is a Class I bike path and pedestrian trail that starts at Fish Hatchery Road at the Victor Valley College Campus, continues under the Yucca Loma Bridge and continues into Mojave Narrows Regional Park --- a distance of 3.9 miles one way. The Riverwalk connects to a longer, seven-mile loop of Class II bike lanes and bike routes that travel throughout central and Old Town Victorville.
 
 "Our Mojave Riverwalk is a wonderful amenity for our community, and we are so proud to celebrate it with our community," said Victorville Mayor Gloria Garcia. "This project is a great example of agencies working together. We are grateful to the Victor Valley College, San Bernardino County, and the San Bernardino County Transportation Authority for their collaboration and support."
 

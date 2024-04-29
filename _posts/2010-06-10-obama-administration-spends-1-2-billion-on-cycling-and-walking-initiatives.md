@@ -14,7 +14,7 @@ The new focus on biking and walking represents a turnaround from the administrat
 
 In March, Mr Obama's transportation secretary, Ray LaHood, announced a policy "sea change" that gives biking and walking projects the same importance as automobiles in transportation planning and the selection of projects for federal money.
 
-The new policy is an extension of the Obama administration's livability initiative, which regards the creation of alternatives to driving – buses, streetcars and trains, as well as biking and walking – as central to solving the nation's transportation woes.
+The new policy is an extension of the Obama administration's livability initiative, which regards the creation of alternatives to driving --- buses, streetcars and trains, as well as biking and walking --- as central to solving the nation's transportation woes.
 
 Biking and walking is on the rise, according to the report, which is based on annual survey data. The number of reported walking trips has more than doubled since the first survey, from 18 billion in 1990 to 42.5 billion in 2009. Bicycling trips saw a similar increase, from 1.7 billion to 4 billion during the same period.
 
