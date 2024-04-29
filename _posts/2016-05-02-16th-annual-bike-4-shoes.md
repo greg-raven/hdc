@@ -23,4 +23,4 @@ jacque.guevara@gmail.com
 President Elect 16-17  
 Joshua Tree Rotary
 
-![bike4shoes.jpg](https://www.hdcycling.org/wp-content/uploads/2016/05/bike4shoes.jpg)
+![bike4shoes.jpg](/wp-content/uploads/2016/05/bike4shoes.jpg)

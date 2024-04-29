@@ -11,4 +11,4 @@ The 5th Victor Valley Bicycle Tour is scheduled for October 26, 2019, starting a
 
 The first 19 riders who sign up using coupon code FIRST19 will receive a 50% discount.
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://www.hdcycling.org/wp-content/uploads/2019/04/victor-valley-bicycle-tour.png)</figure></div>[Click here to register online at Active.com](https://www.active.com/apple-valley-ca/cycling/victor-valley-bicycle-tour-2019).
+<div class="wp-block-image"><figure class="aligncenter">![](/wp-content/uploads/2019/04/victor-valley-bicycle-tour.png)</figure></div>[Click here to register online at Active.com](https://www.active.com/apple-valley-ca/cycling/victor-valley-bicycle-tour-2019).

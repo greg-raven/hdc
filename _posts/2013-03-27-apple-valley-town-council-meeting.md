@@ -42,4 +42,4 @@ Just received this note from Council Member Scott Nassif:
 
 ## Update
 
-[Brad Miller, Town Engineer, has recommended against adding rumble strips to protect local cyclists](https://www.hdcycling.org/2013/06/apple-valley-rejects-rumble-strips/ "Apple Valley rejects rumble strips").
+[Brad Miller, Town Engineer, has recommended against adding rumble strips to protect local cyclists](/2013/06/apple-valley-rejects-rumble-strips/ "Apple Valley rejects rumble strips").

@@ -12,4 +12,4 @@ Last year we had 84 riders, third best in California, and 11th best in the natio
 
 ![2010 Breast Cancer Awereness Ride poster](/assets/img/2010/08/09-bcar-poster.jpg)
 
-Note that the Victor Valley Bicycle Club is putting on a [7:30 AM pre-ride](https://www.hdcycling.org/2010/10/05/vvbc-bcar-pre-ride/).
+Note that the Victor Valley Bicycle Club is putting on a [7:30 AM pre-ride](/2010/10/05/vvbc-bcar-pre-ride/).

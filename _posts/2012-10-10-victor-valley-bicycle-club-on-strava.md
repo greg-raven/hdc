@@ -12,6 +12,6 @@ The obvious first pick is the [VVBC Facebook page](https://www.facebook.com/grou
 
 The second pick might not be so obvious, but it represents a great example of how social media can bring people together. It’s the [VVBC “club” page on Strava](https://app.strava.com/clubs/victorvalley-bicycle-club "Victor Valley Velo's club page on Strava"). To be honest, I was shocked to find that VVBC had a club page on Strava, and to see how many riders here in the high desert are posting their GPS ride data on Strava. As good as it is, it could be even better: With only 24 high desert riders having joined the VictorValley Bicycle Club page on Strava, there’s a lot of potential for growth. If every rider in the high desert who is already using Strava joined the VVBC Strava club, the size of the group would more than double.
 
-If you’re already on Strava and you haven’t joined the VVBC club, surf over to the VVBC club page and add your two cents. If you’re worried about publishing your ride information on-line, [check out this](https://www.hdcycling.org/?p=3093 "Strava privacy settings") post.
+If you’re already on Strava and you haven’t joined the VVBC club, surf over to the VVBC club page and add your two cents. If you’re worried about publishing your ride information on-line, [check out this](/?p=3093 "Strava privacy settings") post.
 
 Hope to see you there!

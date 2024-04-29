@@ -12,9 +12,9 @@ As the conversation turned to the sometimes difficult car/bike interface, I ment
 
 Tim’s response was immediate: “Are there rumble strips?” he asked.
 
-Now, for [the drunk who ran down Tim “TJ” Moreno and Steve Stearns](https://www.hdcycling.org/2011/06/hit-and-run-on-apple-valley-road/ "Hit-and-run on Apple Valley Road"), rumble strips might not have made a difference, although perhaps the passenger could have intervened in time to prevent the incident.
+Now, for [the drunk who ran down Tim “TJ” Moreno and Steve Stearns](/2011/06/hit-and-run-on-apple-valley-road/ "Hit-and-run on Apple Valley Road"), rumble strips might not have made a difference, although perhaps the passenger could have intervened in time to prevent the incident.
 
-For the [“distracted driver” who struck and killed Kevin Olin](https://www.hdcycling.org/2013/03/bicyclist-killed-in-apple-valley/ "Bicyclist killed in Apple Valley"), though, the rumble strips might have been enough to return the driver’s attention to the proper operation of his vehicle, and Olin might still be with us.
+For the [“distracted driver” who struck and killed Kevin Olin](/2013/03/bicyclist-killed-in-apple-valley/ "Bicyclist killed in Apple Valley"), though, the rumble strips might have been enough to return the driver’s attention to the proper operation of his vehicle, and Olin might still be with us.
 
 I would like to propose to the Town of Apple Valley that rumble strips be carved into the asphalt on Apple Valley Road, and furthermore, I want those rumble strips to be on the “vehicle side” of the fog / bike-lane line. That is, I don’t want the rumble strips encroaching on the bike lane, which already seems to be too narrow to prevent vehicular mayhem on its occupants.
 

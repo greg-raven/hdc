@@ -13,7 +13,7 @@ The existing highway configuration has many nonstandard horizontal and vertical 
 
 This project will improve operational efficiency by taking out some of the curves and steep grades, widen existing lanes to 12 feet, and add eight-foot shoulders, at an estimated cost of $23 million. There will also be three wildlife crossings and an off-highway vehicle crossing. Even though there does not seem to be any consideration of a bicycle lane, virtually nothing could be worse than the existing highway configuration, and with any luck, the eight-foot shoulders will provide a modicum of safety for cyclists even though the roadway on either end will not be improved at this time.
 
-[![](https://www.hdcycling.org/wp-content/uploads/2017/10/sr-138-east-construction-map-600x401.jpg)](https://www.hdcycling.org/wp-content/uploads/2017/10/sr-138-east-construction-map.jpg)
+[![](/wp-content/uploads/2017/10/sr-138-east-construction-map-600x401.jpg)](/wp-content/uploads/2017/10/sr-138-east-construction-map.jpg)
 
 Construction began in the Summer of 2016, and the expected completion date is Summer 2018.
 

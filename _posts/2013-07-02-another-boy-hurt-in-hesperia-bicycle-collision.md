@@ -20,6 +20,6 @@ The incident was under investigation, and further details were not available as 
 
 Two hit-and-run collisions involving teen boys on bicycles were reported in Hesperia within the past week, including the Monday crash that killed 17-year-old Daniel Sanchez of Hesperia.
 
-[Henry Chavez Jr.](https://www.hdcycling.org/2013/07/hit-and-run-victim-from-oak-hills-released-from-hospital/ "Hit-and-run victim from Oak Hills released from hospital"), 16, of Oak Hills, survived after a hit-and-run driver hit the bike he was riding on June 27.
+[Henry Chavez Jr.](/2013/07/hit-and-run-victim-from-oak-hills-released-from-hospital/ "Hit-and-run victim from Oak Hills released from hospital"), 16, of Oak Hills, survived after a hit-and-run driver hit the bike he was riding on June 27.
 
 Source: vvdailypress.com/articles/hesperia-41129-hurt-bicycle.html

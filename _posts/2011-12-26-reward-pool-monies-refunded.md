@@ -14,4 +14,4 @@ However, it did not seem that anyone had earned the reward, bank fees were gradu
 
 Thanks to each person who contributed. It was gratifying to see the response of the local cycling community to this near tragedy.
 
-[Here are the details on this reward pool](https://www.hdcycling.org/2011/06/reward-pool/ "Reward pool").
+[Here are the details on this reward pool](/2011/06/reward-pool/ "Reward pool").

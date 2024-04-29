@@ -27,4 +27,4 @@ Lucerne Valley to Barstow
 
 If you have trouble viewing this slideshow here, [see it on Flickr here](https://www.flickr.com/photos/gregraven/sets/72157636372921995/with/10179559213/).
 
-Our [announcement about this ride is here](https://www.hdcycling.org/2013/09/peak-to-peak-pedal/ "Peak to Peak Pedal"), and you can visit [USARC on-line here](https://usarc.org/).
+Our [announcement about this ride is here](/2013/09/peak-to-peak-pedal/ "Peak to Peak Pedal"), and you can visit [USARC on-line here](https://usarc.org/).

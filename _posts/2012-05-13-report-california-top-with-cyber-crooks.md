@@ -20,4 +20,4 @@ Victorville man resident Jason Conley fell prey to the thieves and had nearly $3
 
 Source: vvdailypress.com/news/california-34448-report-complaints.html
 
-See the related story [Three arrested for bicycle thefts are linked to local cases](https://www.hdcycling.org/2012/05/three-arrested-for-bicycle-thefts-are-linked-to-local-cases/ "Three arrested for bicycle thefts are linked to local cases").
+See the related story [Three arrested for bicycle thefts are linked to local cases](/2012/05/three-arrested-for-bicycle-thefts-are-linked-to-local-cases/ "Three arrested for bicycle thefts are linked to local cases").

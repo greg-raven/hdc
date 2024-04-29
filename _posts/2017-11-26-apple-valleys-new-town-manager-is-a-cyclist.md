@@ -10,7 +10,7 @@ On Tuesday, November 28, the Apple Valley Town Council will vote to hire Doug Ro
 
 There are also rumors of a shake-up in the Town Council at the next election which, if true, result in a very cyclist-friendly member of the community acquiring a seat on the Town Council.
 
-<figure aria-describedby="caption-attachment-4406" class="wp-caption alignnone" id="attachment_4406" style="width: 459px">![Doug Robertson](https://www.hdcycling.org/wp-content/uploads/2017/11/Doug-Robertson-459x600.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4406">Doug Robertson</figcaption></figure>
+<figure aria-describedby="caption-attachment-4406" class="wp-caption alignnone" id="attachment_4406" style="width: 459px">![Doug Robertson](/wp-content/uploads/2017/11/Doug-Robertson-459x600.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4406">Doug Robertson</figcaption></figure>
 
 Now if Apple Valley could also poach Michele Rivas …
 

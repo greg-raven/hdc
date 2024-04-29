@@ -19,6 +19,6 @@ There are going to be 10-mile and 25-mile casual rides casual rides, jumping off
 - Refreshments
 - And more
 
-Last year there was a huge turn-out with 186 riders, so everyone will have to attend if we hope to do better this year. [Here are some photos of last year’s event](https://www.hdcycling.org/2010/10/09/bcar-wrap-up/ "2010 Victorville BCAR"). If you can’t make it, you can still donate.
+Last year there was a huge turn-out with 186 riders, so everyone will have to attend if we hope to do better this year. [Here are some photos of last year’s event](/2010/10/09/bcar-wrap-up/ "2010 Victorville BCAR"). If you can’t make it, you can still donate.
 
 There is also going to be a raffle, so if you know of anyone who would like to donate goods or services for this, contact Carol at Victorville Cycles (760-245-5900). Forward this to all your cycling friends, and we’ll see you there!

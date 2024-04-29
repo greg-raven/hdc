@@ -10,4 +10,4 @@ tags:
 
 Save the date: October 28, 2017.
 
-![2017-vvbt-announce-1](https://www.hdcycling.org/wp-content/uploads/2016/10/2017-vvbt-announce-1-300x191.jpg) ![2017-vvbt-announce-2](https://www.hdcycling.org/wp-content/uploads/2016/10/2017-vvbt-announce-2-300x192.jpg)
+![2017-vvbt-announce-1](/wp-content/uploads/2016/10/2017-vvbt-announce-1-300x191.jpg) ![2017-vvbt-announce-2](/wp-content/uploads/2016/10/2017-vvbt-announce-2-300x192.jpg)

@@ -32,4 +32,4 @@ Detectives said the thieves scanned Craigslist and Facebook to prey on the growi
 
 Source: vvdailypress.com/articles/cases-34399-arrested-three.html
 
-See related stories [here](https://www.hdcycling.org/2012/04/crooks-steal-33000-in-bikes-accessories/ "Crooks steal $33,000 in bikes, accessories") and [here](https://www.hdcycling.org/2012/05/report-california-top-with-cyber-crooks/ "Report: California top with cyber-crooks").
+See related stories [here](/2012/04/crooks-steal-33000-in-bikes-accessories/ "Crooks steal $33,000 in bikes, accessories") and [here](/2012/05/report-california-top-with-cyber-crooks/ "Report: California top with cyber-crooks").
