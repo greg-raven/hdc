@@ -9,7 +9,7 @@ description: Working toward more and better cycling in California's high desert.
 
 # Build settings
 
-remote_theme: minima
+theme: minima
 
 url: "https://greg-raven.GitHub.io/hdc" # the base hostname & protocol for your site
 
