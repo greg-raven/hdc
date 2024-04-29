@@ -34,4 +34,4 @@ Marina del Rey, CA 90292
 Leslie@LScottConsulting  
 LesScottCo@aol.com
 
-<iframe class="pdf" height="150" loading="lazy" src="/assets/pdf/20160414-SanBAG-PIPP-SRTS-Meeting.pdf" width="300"></iframe>
+<iframe class="pdf" src="/assets/pdf/20160414-SanBAG-PIPP-SRTS-Meeting.pdf"></iframe>
