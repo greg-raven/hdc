@@ -1,9 +1,9 @@
 ---
 title: "Driver accused of killing a Victorville man in hit-and-run crash arrested"
-date: '2021-03-21T14:14:10-07:00'
+date: "2021-03-21T14:14:10-07:00"
 layout: post
 categories:
-    - Uncategorized
+- Uncategorized
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — A driver accused of hitting a bicyclist and leaving him in the roadway to die has been arrested.

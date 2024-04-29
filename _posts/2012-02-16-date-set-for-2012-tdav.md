@@ -1,11 +1,11 @@
 ---
 title: "Date set for 2012 TdAV"
-date: '2012-02-16T22:36:49-08:00'
+date: "2012-02-16T22:36:49-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 This year’s Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!  

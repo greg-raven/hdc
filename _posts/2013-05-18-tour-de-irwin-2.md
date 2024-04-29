@@ -1,9 +1,9 @@
 ---
 title: "Tour de Irwin"
-date: '2013-05-18T18:27:55-07:00'
+date: "2013-05-18T18:27:55-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Here’s your opportunity to ride Fort Irwin without having to enlist.  

@@ -1,9 +1,9 @@
 ---
 title: "Community looks for answers after bike crashes"
-date: '2013-07-07T18:47:34-07:00'
+date: "2013-07-07T18:47:34-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • With two boys hurt and another killed in less than a week, many are wondering what can be done to improve bicycle safety in Hesperia and the rest of the Victor Valley — and there are no easy answers.  

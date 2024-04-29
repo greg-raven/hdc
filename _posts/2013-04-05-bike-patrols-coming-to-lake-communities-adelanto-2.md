@@ -1,9 +1,9 @@
 ---
 title: "Bike patrols coming to lake communities, Adelanto"
-date: '2013-04-05T18:17:23-07:00'
+date: "2013-04-05T18:17:23-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 ADELANTO • The Silver Lakes and Spring Valley Lake associations donated about $7,500 to the San Bernardino County Sheriff’s Victor Valley Station to buy a trailer to field a bike unit in the local lake communities and Adelanto.  

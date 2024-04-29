@@ -1,9 +1,9 @@
 ---
 title: "Date set for 2012 BCAR"
-date: '2012-02-27T22:35:12-08:00'
+date: "2012-02-27T22:35:12-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 The Trek Women Breast Cancer Awareness hosted by Victorville Cycles is set for October 13th at 10:00 A.M. Registration is available in store, online, or on the day of ride. Last year 266 riders turned out, making it their largest group yet.

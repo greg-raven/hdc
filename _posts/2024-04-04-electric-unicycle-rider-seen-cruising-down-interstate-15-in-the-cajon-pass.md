@@ -1,9 +1,9 @@
 ---
 title: "Electric unicycle rider seen cruising down Interstate 15 in the Cajon Pass"
-date: '2024-04-04T06:49:41-07:00'
+date: "2024-04-04T06:49:41-07:00"
 layout: post
 categories:
-    - Uncategorized
+- Uncategorized
 ---
 
 It’s not every day that you see someone riding an electric unicycle on Interstate 15 in the Cajon Pass.

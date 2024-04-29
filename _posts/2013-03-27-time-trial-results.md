@@ -1,9 +1,9 @@
 ---
 title: "Time trial results"
-date: '2013-03-27T04:56:33-07:00'
+date: "2013-03-27T04:56:33-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Here are the results from Tuesday night’s time trial on Deep Creek Road.  

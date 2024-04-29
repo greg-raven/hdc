@@ -1,9 +1,9 @@
 ---
 title: "Possibly drunk bicyclist hit by truck"
-date: '2023-12-09T14:16:32-08:00'
+date: "2023-12-09T14:16:32-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA, Calif. (VVNG) Witnesses believe that alcohol may have played a role in an accident Friday morning involving a bicyclist and a truck.

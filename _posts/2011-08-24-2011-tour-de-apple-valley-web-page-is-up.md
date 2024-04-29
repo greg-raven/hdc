@@ -1,11 +1,11 @@
 ---
 title: "2011 Tour de Apple Valley web page is up"
-date: '2011-08-24T14:00:12-07:00'
+date: "2011-08-24T14:00:12-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 The Town of Apple Valley has put up a page with all the details on the 2011 Tour de Apple Valley, which will be held Saturday, October 22nd this year.  

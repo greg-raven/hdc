@@ -1,9 +1,9 @@
 ---
 title: "Amgen Tour of California 2015 local stages"
-date: '2014-12-01T08:06:28-08:00'
+date: "2014-12-01T08:06:28-08:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 **Route Information: May 15, 2015 – Stage 6 Time Trial**

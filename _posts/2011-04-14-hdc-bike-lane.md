@@ -1,9 +1,9 @@
 ---
 title: "HDC bike lane?"
-date: '2011-04-14T06:21:26-07:00'
+date: "2011-04-14T06:21:26-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 The powers-that-be behind the proposed High Desert Corridor (HDC) held another community-outreach meeting last night at the Apple Valley town hall to report on the progress being made in this, the environmental impact, portion of the project.  

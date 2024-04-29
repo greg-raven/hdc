@@ -1,10 +1,10 @@
 ---
 title: "BMX allowed at James A. Woody Park"
-date: '2011-04-10T05:23:01-07:00'
+date: "2011-04-10T05:23:01-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
+- Advocacy
+- 'Bike lanes'
 ---
 
 The Victorville Daily Press (Sunday, April 30th) reports that James A. Woody park re-opened Saturday after remodeling the facilities there to allow BMX bike riding. Congratulations to the local cyclists that kept after the Town Council until this got done, and thanks to the Town of Apple Valley for making this a reality.

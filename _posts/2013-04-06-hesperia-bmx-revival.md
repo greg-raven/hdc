@@ -1,9 +1,9 @@
 ---
 title: "Hesperia BMX revival"
-date: '2013-04-06T05:50:42-07:00'
+date: "2013-04-06T05:50:42-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 *Hesperia mayor hopes people will ‘come to ride and decide to stay’ with return of BMX Park*  

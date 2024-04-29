@@ -1,9 +1,9 @@
 ---
 title: "Healthy Apple Valley Active Transportation Sub-committee minutes"
-date: '2010-05-13T23:33:15-07:00'
+date: "2010-05-13T23:33:15-07:00"
 layout: post
 categories:
-    - 'Healthy High Desert'
+- 'Healthy High Desert'
 ---
 
  PRESENT: Linda Mayfield, Greg Raven, Pat Hansen, Chuck Hansen, Kevin Mahany

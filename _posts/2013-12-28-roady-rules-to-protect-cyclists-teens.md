@@ -1,9 +1,9 @@
 ---
 title: "Roady rules to protect cyclists, teens"
-date: '2013-12-28T05:11:40-08:00'
+date: "2013-12-28T05:11:40-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 As the new year approaches, several new traffic safety laws — including two aimed at bicyclists and teenage drivers — could help make High Desert roadways safer for residents as they take effect in 2014, California Highway Patrol spokesman Matt Hunt said.  

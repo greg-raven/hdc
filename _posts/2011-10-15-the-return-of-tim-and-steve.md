@@ -1,12 +1,12 @@
 ---
 title: "The return of Tim and Steve"
-date: '2011-10-15T13:44:56-07:00'
+date: "2011-10-15T13:44:56-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 tags:
-    - 'Michael Bruce Slusser'
+- 'Michael Bruce Slusser'
 ---
 
 This morning, Tim “TJ” Moreno and Steve Sterns returned to Apple Valley Road to finish the ride they started on June 11th of this year, a ride [cut short by a hit-and-run driver](https://www.hdcycling.org/2011/06/11/hit-and-run-on-apple-valley-road/).

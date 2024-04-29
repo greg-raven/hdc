@@ -1,9 +1,9 @@
 ---
 title: "Snakes on a road"
-date: '2011-06-02T14:14:59-07:00'
+date: "2011-06-02T14:14:59-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Now that the weather is supposedly getting better (for those who don’t consider wind to be part of “the weather”), you’ve probably read stories about how we’re going to have another bumper crop of snakes.  

@@ -1,12 +1,12 @@
 ---
 title: "Photos from the 2012 Tour de Apple Valley"
-date: '2012-10-20T07:14:33-07:00'
+date: "2012-10-20T07:14:33-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 Here are some photos from the registration area and starting line of the 2012 Tour de Apple Valley.  

@@ -1,10 +1,10 @@
 ---
 title: "Sunday morning time trial results"
-date: '2011-01-16T13:29:21-08:00'
+date: "2011-01-16T13:29:21-08:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Dave Nocera set up a [local time trial](https://www.hdcycling.org/2011/01/16/sunday-morning-time-trial/) so high desert riders wouldn’t have to go down the hill (and pay an entry fee). For this first time trial of the series, the riders were Dave Nocera, Greg Nowacki, and Tommie Stephenson.  

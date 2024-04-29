@@ -1,13 +1,13 @@
 ---
 title: "Victor Valley Bicycle Tour radio ad"
-date: '2015-09-04T04:48:42-07:00'
+date: "2015-09-04T04:48:42-07:00"
 layout: post
 enclosure:
-    - "https://www.hdcycling.org/assets/audio/VVBT-reserve-today-music-dry.mp3\r\n746945\r\naudio/mpeg\r\n"
+- "https://www.hdcycling.org/assets/audio/VVBT-reserve-today-music-dry.mp3\r\n746945\r\naudio/mpeg\r\n"
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Here’s the first radio ad for the Victor Valley Bicycle Tour. It should be airing soon on KZXY, KIXA, KIXW, and KATJ.

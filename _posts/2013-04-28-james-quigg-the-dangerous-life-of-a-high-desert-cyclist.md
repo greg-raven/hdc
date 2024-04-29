@@ -1,9 +1,9 @@
 ---
 title: "James Quigg: The dangerous life of a High Desert cyclist"
-date: '2013-04-28T05:36:13-07:00'
+date: "2013-04-28T05:36:13-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Two things really matter in my life: God and my family. Just beyond that, it’s photos and cycling. Really I can live without just about anything else.  

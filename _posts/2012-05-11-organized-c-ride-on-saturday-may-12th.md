@@ -1,9 +1,9 @@
 ---
 title: "Organized &#8216;C&#8217; Ride on Saturday, May 12th"
-date: '2012-05-11T15:43:00-07:00'
+date: "2012-05-11T15:43:00-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Sarah Matthews’ husband has set up a “C” ride tomorrow, Saturday May 12th, for anyone who is interested. The start / stop point will be in the parking lot of the Home Depot at Apple Valley Road and Bear Valley Road. The ride starts at 7:00 a.m.

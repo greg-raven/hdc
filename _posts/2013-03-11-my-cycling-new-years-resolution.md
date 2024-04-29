@@ -1,9 +1,9 @@
 ---
 title: "My (cycling) New Year&#8217;s resolution"
-date: '2013-03-11T16:30:29-07:00'
+date: "2013-03-11T16:30:29-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 After pondering how many flats I typically get while cycling around the High Desert, I realized what my New Year’s Cycling Resolution should be.  

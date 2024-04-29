@@ -1,9 +1,9 @@
 ---
 title: "Median barrier project in Apple Valley set to begin next week"
-date: '2017-04-14T18:06:10-07:00'
+date: "2017-04-14T18:06:10-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 SAN BERNARDINO — The California Department of Transportation (Caltrans) and Sully-Miller Contracting began work on a raised curb median project on State Route 18 (SR-18) in Apple Valley. The construction area is approximately .75 miles, with the project limits from Navajo Road to Kiowa Road. The $1.1 million construction plan was identified as a necessary safety project.

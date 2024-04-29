@@ -1,9 +1,9 @@
 ---
 title: "Hesperia BMX revival"
-date: '2013-04-05T18:20:44-07:00'
+date: "2013-04-05T18:20:44-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • After 10 years without one, Hesperia finally has a bicycle motocross park again.  

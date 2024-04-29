@@ -1,10 +1,10 @@
 ---
 title: "Letter RE: Active Transportation Program (ATP)"
-date: '2016-05-31T16:55:26-07:00'
+date: "2016-05-31T16:55:26-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
+- Advocacy
+- 'Bike lanes'
 ---
 
 Apple Valley, Bear Valley Road Bike/Ped Pathway Connector

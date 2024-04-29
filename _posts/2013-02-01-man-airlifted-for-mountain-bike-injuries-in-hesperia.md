@@ -1,9 +1,9 @@
 ---
 title: "Man airlifted for mountain bike injuries in Hesperia"
-date: '2013-02-01T18:23:53-08:00'
+date: "2013-02-01T18:23:53-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • An unidentified male was airlifted to Loma Linda University Medical Center after he fell from his mountain bike Friday afternoon, San Bernardino County sheriff’s spokeswoman Cindy Bachman said.  

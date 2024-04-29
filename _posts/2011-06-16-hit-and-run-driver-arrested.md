@@ -1,11 +1,11 @@
 ---
 title: "Hit-and-run driver arrested"
-date: '2011-06-16T06:05:50-07:00'
+date: "2011-06-16T06:05:50-07:00"
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Michael Bruce Slusser'
+- 'Michael Bruce Slusser'
 ---
 
 The man authorities believe injured two bicyclists over the weekend then fled the scene was arrested late Wednesday night, San Bernardino County Sheriff’s Apple Valley station officials said.  

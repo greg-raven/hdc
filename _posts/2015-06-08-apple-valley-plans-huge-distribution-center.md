@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley plans huge new distribution center"
-date: '2015-06-08T09:33:17-07:00'
+date: "2015-06-08T09:33:17-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The Town of Apple Valley is in negotiations with a major company (probably Big Lots) to build a 1.3 million square foot distribution center in north Apple Valley. The new distribution center would be south of the Victor Valley College Public Safety Campus and north of Altadena Street, with an entrance off of Navajo Road.

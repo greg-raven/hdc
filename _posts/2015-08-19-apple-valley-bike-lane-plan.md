@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley bike lane plan"
-date: '2015-08-19T17:12:18-07:00'
+date: "2015-08-19T17:12:18-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 From the State of the Town address (Council member Curt Emick).

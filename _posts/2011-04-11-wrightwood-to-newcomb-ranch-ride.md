@@ -1,9 +1,9 @@
 ---
 title: "Wrightwood to Newcomb Ranch ride"
-date: '2011-04-11T17:15:57-07:00'
+date: "2011-04-11T17:15:57-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 [Aaron Christoffersen](http://www.facebook.com/aaron.christoffersen1) and the [Victor Valley Bicycle Club](https://www.facebook.com/groups/84235983842/) are putting together a ride from Wrightwood to Newcomb Ranch for Saturday, April 23rd. It should run from 7:30 AM to 10:30 AM.  

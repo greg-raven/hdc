@@ -1,10 +1,10 @@
 ---
 title: "Bike ride for bike lanes"
-date: '2011-04-19T15:55:40-07:00'
+date: "2011-04-19T15:55:40-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
-    - 'Ride news'
+- 'Bike lanes'
+- 'Ride news'
 ---
 
 The High Desert Cyclists invite you to join the Bike Ride for Bike lanes, Monday, May 2, 2011.  

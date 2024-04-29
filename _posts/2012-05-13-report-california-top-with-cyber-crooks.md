@@ -1,9 +1,9 @@
 ---
 title: "Report: California top with cyber-crooks"
-date: '2012-05-13T16:48:37-07:00'
+date: "2012-05-13T16:48:37-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The Internet Crime Complain Center receives more cyber scam complaints from California than any other state in the nation, according to a recently released report, and some of the most popular scams are making the rounds locally.  

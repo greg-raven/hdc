@@ -1,9 +1,9 @@
 ---
 title: "Winter road conditions"
-date: '2011-01-01T07:27:51-08:00'
+date: "2011-01-01T07:27:51-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The recent rains have left a lot of debris on the roads, but the road crews seem to be getting things cleaned up pretty quickly. You still have to pay attention to the deeper piles and sand, dirt, and mud, as the narrow tires commonly found on road bikes don’t negotiate these too well. You also have to pay attention to the gravel that’s washed out onto the roadway, as some of the pieces are sharp enough to slice your sidewalls.  

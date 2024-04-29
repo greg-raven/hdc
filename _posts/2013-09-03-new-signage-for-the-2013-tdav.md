@@ -1,11 +1,11 @@
 ---
 title: "New signage for the 2013 TdAV"
-date: '2013-09-03T15:02:54-07:00'
+date: "2013-09-03T15:02:54-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 The Tour de Apple Valley has some new signage for the ride this year. Thanks go out to Patrick Weber Designs.  

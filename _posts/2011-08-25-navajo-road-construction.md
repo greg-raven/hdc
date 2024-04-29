@@ -1,9 +1,9 @@
 ---
 title: "Navajo Road construction"
-date: '2011-08-25T14:58:25-07:00'
+date: "2011-08-25T14:58:25-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The north end of Navajo Road, just south of Johnson Road, is torn up for construction.  

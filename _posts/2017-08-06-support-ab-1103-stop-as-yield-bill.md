@@ -1,11 +1,11 @@
 ---
 title: "Support AB 1103 (Stop as Yield Bill)"
-date: '2017-08-06T15:36:24-07:00'
+date: "2017-08-06T15:36:24-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 tags:
-    - 'AB 1103'
+- 'AB 1103'
 ---
 
 We have an opportunity to pass Stop-As-Yield in California. Here is a letter I received from Walt Seifert at Sacramento TrailNet, and a sample letter to send to the chairman of the California Committee on Transportation in support of this measure.

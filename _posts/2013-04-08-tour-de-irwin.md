@@ -1,9 +1,9 @@
 ---
 title: "Tour de Irwin"
-date: '2013-04-08T05:07:08-07:00'
+date: "2013-04-08T05:07:08-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 The Tour de Irwin is coming up (Saturday, May 18th). This is an actual race (as opposed to a ride).  

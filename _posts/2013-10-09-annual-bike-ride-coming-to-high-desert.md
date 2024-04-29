@@ -1,12 +1,12 @@
 ---
 title: "Annual bike ride coming to High Desert"
-date: '2013-10-09T07:36:11-07:00'
+date: "2013-10-09T07:36:11-07:00"
 layout: post
 categories:
-    - Information
-    - 'Ride news'
+- Information
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 APPLE VALLEY • A local man with more than 400,000 miles on his bicycle is organizing one of the High Desert’s largest bike rides.

@@ -1,9 +1,9 @@
 ---
 title: "Construction of bike path to begin on Bear Valley Road"
-date: '2019-05-18T05:01:02-07:00'
+date: "2019-05-18T05:01:02-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 VICTORVILLE — Road work is expected over the next several months along a portion of Bear Valley Road as a Class 1 bike path is constructed.

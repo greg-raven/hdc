@@ -1,10 +1,10 @@
 ---
 title: "July time trial results"
-date: '2011-07-26T21:45:16-07:00'
+date: "2011-07-26T21:45:16-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Here are the results of this month’s time trial. There was a slight breeze, but the temperature and humidity seemed just about perfect. The length of the course is approximately 7.24 miles.  

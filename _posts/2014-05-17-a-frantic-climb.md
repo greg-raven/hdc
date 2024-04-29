@@ -1,9 +1,9 @@
 ---
 title: "A frantic climb"
-date: '2014-05-17T05:04:39-07:00'
+date: "2014-05-17T05:04:39-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 WRIGHTWOOD • Tabletop Mountain Road was lined with Grim Reapers, neon wigs and a blue Smurf on Friday as cycling fans and fanatics cheered for the competitors of the Amgen Tour of California.

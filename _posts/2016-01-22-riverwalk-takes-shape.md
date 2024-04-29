@@ -1,9 +1,9 @@
 ---
 title: "Riverwalk takes shape"
-date: '2016-01-22T05:53:22-08:00'
+date: "2016-01-22T05:53:22-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 - Funding for final design approved; 11 miles of bike infrastructure is part of a wider overhaul

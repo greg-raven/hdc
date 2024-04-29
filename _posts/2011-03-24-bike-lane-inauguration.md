@@ -1,10 +1,10 @@
 ---
 title: "Bike lane inauguration"
-date: '2011-03-24T19:29:21-07:00'
+date: "2011-03-24T19:29:21-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
-    - Photos
+- 'Bike lanes'
+- Photos
 ---
 
 About a dozen brave folks gathered tonight’s bike ride to inaugurate the [bike lane on Dale Evans Parkway](https://www.hdcycling.org/2010/12/07/dale-evans-bike-lane-kick-off/). We had a great time despite the late hour, chilly weather, and the even chillier wind. Thank you to everyone who came out and supported Healthy Apple Valley, and cycling in the high desert.

@@ -1,11 +1,11 @@
 ---
 title: "Bicycle safety signs installed"
-date: '2017-08-15T18:28:05-07:00'
+date: "2017-08-15T18:28:05-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 tags:
-    - VVBT
+- VVBT
 ---
 
 APPLE VALLEY — Bicyclists on the road should be a lot safer after the Victor Valley Bicycle Tour donated hundreds bike safety signs to three High Desert municipalities and the county.

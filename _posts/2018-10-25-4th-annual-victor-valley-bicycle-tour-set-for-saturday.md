@@ -1,11 +1,11 @@
 ---
 title: "4th Annual Victor Valley Bicycle Tour set for Saturday"
-date: '2018-10-25T09:36:23-07:00'
+date: "2018-10-25T09:36:23-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 APPLE VALLEY — More than 200 riders are expected to participate in the 4th Annual Victor Valley Bicycle Tour that returns to the High Desert this weekend.

@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley’s incoming Town Manager is a cyclist"
-date: '2017-11-26T15:04:33-08:00'
+date: "2017-11-26T15:04:33-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 On Tuesday, November 28, the Apple Valley Town Council will vote to hire Doug Robertson as the new Town Manager. The good news is that this would dramatically increase the number of cyclists in Apple Valley government from approximately zero to one, as Robertson is a cyclist.

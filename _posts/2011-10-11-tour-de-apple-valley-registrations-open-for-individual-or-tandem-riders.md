@@ -1,11 +1,11 @@
 ---
 title: "Tour de Apple Valley registrations open for individual or tandem riders"
-date: '2011-10-11T14:41:42-07:00'
+date: "2011-10-11T14:41:42-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 Ride into fall by participating in the Fourth Annual Chuck Hanson Tour de Apple Valley October 22. Check in at Apple Valley Civic Center Park at 6 a.m. for the 7 a.m. ride.

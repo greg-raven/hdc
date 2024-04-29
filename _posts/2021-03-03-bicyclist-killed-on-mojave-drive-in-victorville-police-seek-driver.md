@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist killed on Mojave Drive in Victorville; Police seek driver"
-date: '2021-03-03T15:06:45-08:00'
+date: "2021-03-03T15:06:45-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — A bicyclist was killed after being struck by a vehicle that fled the scene of the crash, officials said.

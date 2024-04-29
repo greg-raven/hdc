@@ -1,9 +1,9 @@
 ---
 title: "67-year-old bicyclist dies after being hit by a vehicle on Cedar Street in Hesperia"
-date: '2023-10-16T07:09:09-07:00'
+date: "2023-10-16T07:09:09-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 - Eugene was a bicyclist struck and killed in Hesperia

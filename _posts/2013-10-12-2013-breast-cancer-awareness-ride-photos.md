@@ -1,10 +1,10 @@
 ---
 title: "2013 Breast Cancer Awareness Ride (photos)"
-date: '2013-10-12T16:19:38-07:00'
+date: "2013-10-12T16:19:38-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Here are some photos from this year’s Breast Cancer Awareness Ride, ably hosted by [Victorville Cycles](http://victorvillecycles.com/).  

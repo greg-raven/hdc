@@ -1,7 +1,7 @@
 ---
 id: 4270
 title: "Taming the Bicycle, by Mark Twain"
-date: '2016-05-23T16:43:36-07:00'
+date: "2016-05-23T16:43:36-07:00"
 layout: page
 guid: 'https://www.hdcycling.org/?page_id=4270'
 ---

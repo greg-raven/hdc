@@ -1,9 +1,9 @@
 ---
 title: "High desert street maintenance"
-date: '2018-06-29T08:10:59-07:00'
+date: "2018-06-29T08:10:59-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 I noticed that the Comprehensive Annual Financial Reports for both [Hesperia](http://www.cityofhesperia.us/DocumentCenter/View/14686/2016-17-CAFR?bidId=) and [Apple Valley](https://www.auditav.org/cafr/20171228-toav-2016-2017-cafr) include figures for how many miles of roadway have been resurfaced (Adelanto and Victorville seem not to include these figures).

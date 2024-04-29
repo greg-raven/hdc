@@ -1,9 +1,9 @@
 ---
 title: "August time trial results"
-date: '2011-08-23T19:06:00-07:00'
+date: "2011-08-23T19:06:00-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Here are the results of this month’s time trial, courtesy Dave Nocera.  

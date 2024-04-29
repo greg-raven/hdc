@@ -1,9 +1,9 @@
 ---
 title: "Ride 2 Freedom passes through Victor Valley"
-date: '2015-06-14T08:07:44-07:00'
+date: "2015-06-14T08:07:44-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 The 3,000-mile [Ride 2 Freedom](http://ride2freedom.us) from Los Angeles to Washington, D.C. passed through the Victor Valley on Sunday morning.

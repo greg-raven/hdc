@@ -1,9 +1,9 @@
 ---
 title: "Teen airlifted with critical injuries after Hesperia hit-and-run"
-date: '2013-07-01T18:49:47-07:00'
+date: "2013-07-01T18:49:47-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • A 17-year-old boy was airlifted to a trauma center with life-threatening injuries after he was hit by a vehicle while riding a bicycle on Monday morning, authorities said.  

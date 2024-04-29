@@ -1,11 +1,11 @@
 ---
 title: "AB 1103 stop as yield update"
-date: '2017-09-29T13:47:33-07:00'
+date: "2017-09-29T13:47:33-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 tags:
-    - 'AB 1103'
+- 'AB 1103'
 ---
 
 Dear AB 1103 supporter,

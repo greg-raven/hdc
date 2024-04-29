@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley Town Council meeting"
-date: '2013-03-27T05:25:52-07:00'
+date: "2013-03-27T05:25:52-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 I made a presentation to the Apple Valley Town Council last night (Tuesday, March 26th) about adding rumble strips to bike lanes.  

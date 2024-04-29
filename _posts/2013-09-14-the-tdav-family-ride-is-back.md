@@ -1,11 +1,11 @@
 ---
 title: "The TdAV Family Ride is back"
-date: '2013-09-14T14:58:40-07:00'
+date: "2013-09-14T14:58:40-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 Due to popular demand, the Tour de Apple Valley Family Ride is back! The 10-mile family ride allows you to bring the entire family for one, low price.  

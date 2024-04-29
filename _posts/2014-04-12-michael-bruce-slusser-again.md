@@ -1,13 +1,13 @@
 ---
 title: "Michael Bruce Slusser, again"
-date: '2014-04-12T06:07:59-07:00'
+date: "2014-04-12T06:07:59-07:00"
 layout: post
 enclosure:
-    - "https://www.hdcycling.org/assets/video/20140400-Slusser-In-Bz.mp4\n3908654\nvideo/mp4\n"
+- "https://www.hdcycling.org/assets/video/20140400-Slusser-In-Bz.mp4\n3908654\nvideo/mp4\n"
 categories:
-    - Information
+- Information
 tags:
-    - 'Michael Bruce Slusser'
+- 'Michael Bruce Slusser'
 ---
 
 It seems that [Michael Bruce Slusser](https://www.hdcycling.org/tag/michael-bruce-slusser/) is back in the news again.  

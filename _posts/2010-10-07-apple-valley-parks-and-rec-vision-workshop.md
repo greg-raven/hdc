@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley Parks and Rec Vision Workshop"
-date: '2010-10-07T07:38:37-07:00'
+date: "2010-10-07T07:38:37-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The Town of Apple Valley held a “vision workshop” last night (Wednesday, October 6th), with the expressed goal of help set policies for the parks and recreation department for the next 20 years. For the most part, this was a waste of two perfectly good hours, as Apple Valley has contracted with a firm called MIG to help them with their “vision,” and MIG’s representative seemed set on making the process so general as to be meaningless.  

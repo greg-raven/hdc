@@ -1,9 +1,9 @@
 ---
 title: "Town of Apple Valley granted $3.4 million for safe routes to school"
-date: '2017-11-02T15:08:04-07:00'
+date: "2017-11-02T15:08:04-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Children at Mariana Academy, Sandia Academy, and Apple Valley High School will soon find it easier to walk or bike to school thanks to a $3.4 million grant from the California Department of Transportation.

@@ -1,9 +1,9 @@
 ---
 title: "AV Triathlon event to close roads"
-date: '2013-09-20T14:28:22-07:00'
+date: "2013-09-20T14:28:22-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 APPLE VALLEY • The town of Apple Valley has announced that some local roads will be closed during the fourth annual Reverse Triathlon.  

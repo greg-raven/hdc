@@ -1,9 +1,9 @@
 ---
 title: "Bicycling&#8217;s 2014 Win-A-Bike contest"
-date: '2014-03-30T14:50:44-07:00'
+date: "2014-03-30T14:50:44-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 *Bicycling* magazine has a win-a-bike competition going. To enter, you have to parody the writing of Bill Strickland, one of its regular writers.

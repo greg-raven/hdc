@@ -1,9 +1,9 @@
 ---
 title: "5 mountain biking tips"
-date: '2016-03-21T05:23:06-07:00'
+date: "2016-03-21T05:23:06-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Mountain biking has gained in popularity in recent years, especially here in the High Desert. It’s easy to understand why. There is a lot of natural beauty in the desert, along with easy access to trails, hills and yes, even mountains.

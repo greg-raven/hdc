@@ -1,11 +1,11 @@
 ---
 title: "Victor Valley Bicycle Tour update"
-date: '2015-09-03T09:09:25-07:00'
+date: "2015-09-03T09:09:25-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Got a call today from a rider who lives outside our area, who had heard about the Victor Valley Bicycle Tour we have coming up on October 24. He had a couple questions, so I contacted one of the ride organizers to get the answers. Just in case these same questions have crossed your mind, here’s what I found.

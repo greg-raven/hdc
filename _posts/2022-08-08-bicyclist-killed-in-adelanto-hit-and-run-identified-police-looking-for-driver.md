@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist killed in Adelanto hit-and-run identified, police looking for driver"
-date: '2022-08-08T15:16:00-07:00'
+date: "2022-08-08T15:16:00-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 ADELANTO, Calif. (VVNG.com) — Authorities are attempting to locate a 38-year-old Adelanto woman wanted in connection to a fatal hit-and-run involving a bicyclist on Saturday night.

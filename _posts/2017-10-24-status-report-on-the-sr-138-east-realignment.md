@@ -1,10 +1,10 @@
 ---
 title: "Status report on the SR-138 (East) realignment"
-date: '2017-10-24T16:05:37-07:00'
+date: "2017-10-24T16:05:37-07:00"
 layout: post
 image: /wp-content/uploads/2017/10/sr-138-east-construction-940x198.jpg
 categories:
-    - Information
+- Information
 ---
 
 CalTrans crews are hard at work “realigning” State Route 138 east (A.K.A. Highway 138, A.K.A. Rim of the World Highway) from 1.9 miles east of Interstate 15 (A.K.A. I-15) to just west of Post Office Road. Apparently, “realignment” is CalTrans-speak for scrapping the previous road and replacing it with something completely different.

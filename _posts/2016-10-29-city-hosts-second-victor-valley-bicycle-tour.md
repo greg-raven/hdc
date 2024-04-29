@@ -1,11 +1,11 @@
 ---
 title: "City hosts second Victor Valley Bicycle Tour"
-date: '2016-10-29T18:44:23-07:00'
+date: "2016-10-29T18:44:23-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 HESPERIA — Laces tied and sweatbands on, cyclists readied themselves at the starting line as they rode across the High Desert for the 2nd Annual Victor Valley Bicycle Tour in honor of two local bicycle enthusiasts who died this year.

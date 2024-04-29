@@ -1,10 +1,10 @@
 ---
 title: "All-around strength"
-date: '2010-11-28T15:58:52-08:00'
+date: "2010-11-28T15:58:52-08:00"
 layout: post
 categories:
-    - Information
-    - Photos
+- Information
+- Photos
 ---
 
 The December 2010 issue of *Bicycling* magazine (pg. 46) had an article on how to work out to supplement your cycling. Unfortunately, the regimen and process discussed won’t be for everyone.  

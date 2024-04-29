@@ -1,9 +1,9 @@
 ---
 title: "Hit-and-run on Apple Valley Road"
-date: '2011-06-11T18:16:52-07:00'
+date: "2011-06-11T18:16:52-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 This morning on Apple Valley Road around Symeron, a passing truck hit Tim “TJ” Moreno in the back of the head with its mirror. Moreno went down, taking Steve Stearns with him. Stearns “only” has major road rash; Moreno had to be taken to the hospital in Loma Linda.  

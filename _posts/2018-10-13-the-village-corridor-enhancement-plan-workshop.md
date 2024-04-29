@@ -1,9 +1,9 @@
 ---
 title: "The Village Corridor Enhancement Plan workshop"
-date: '2018-10-13T07:07:22-07:00'
+date: "2018-10-13T07:07:22-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The Town of Apple Valley’s Village Corridor Enhancement Plan is seeking input about traffic patterns through The Village, including bike lanes. The second and final workshop for this project will be held October 30 between 5:30 and 7:30 p.m. at the council chambers at Town Hall, 14955 Dale Evans Parkway, Apple Valley, CA 92307.

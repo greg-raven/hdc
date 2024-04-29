@@ -1,9 +1,9 @@
 ---
 title: "Letter to the editor: Road safety"
-date: '2017-11-20T06:32:32-08:00'
+date: "2017-11-20T06:32:32-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The seemingly endless resurfacing project on Apple Valley Road, has me wondering who the project manager is. My project managing experience comes from being involved with space track stations and major Communication sites. This project has so many loose ends I am glad my name isn’t connected with it.

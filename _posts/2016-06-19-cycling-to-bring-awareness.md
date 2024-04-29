@@ -1,9 +1,9 @@
 ---
 title: "Cycling to bring awareness"
-date: '2016-06-19T14:28:09-07:00'
+date: "2016-06-19T14:28:09-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 Journey of Hope team to raise funds, bring awareness for those struggling with disabilities

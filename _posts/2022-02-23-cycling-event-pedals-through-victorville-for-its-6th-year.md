@@ -1,9 +1,9 @@
 ---
 title: "Cycling event pedals through Victorville for its 6th year"
-date: '2022-02-23T04:13:00-08:00'
+date: "2022-02-23T04:13:00-08:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 A cycling event took place over the weekend in Victorville.

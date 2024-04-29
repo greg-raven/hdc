@@ -1,10 +1,10 @@
 ---
 title: "Bicyclists unite to bring awareness to drivers"
-date: '2013-04-28T05:26:49-07:00'
+date: "2013-04-28T05:26:49-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Ride news'
+- Advocacy
+- 'Ride news'
 ---
 
 After a popular High Desert bicyclist was killed during a recent morning ride, a group of bike riders are hoping that this year’s “Bike Ride for Bike Lanes” ride will bring more awareness to drivers who share the road with them.  

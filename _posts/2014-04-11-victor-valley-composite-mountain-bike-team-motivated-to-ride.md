@@ -1,9 +1,9 @@
 ---
 title: "Victor Valley composite mountain bike team motivated to ride"
-date: '2014-04-11T14:25:11-07:00'
+date: "2014-04-11T14:25:11-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The tires sloshed through the wet sandy soil as a series of lycra-clad teens climbed their way up a steep trail between the Joshua trees and juniper bushes. At the top they were greeted with a view spanning the entire Summit Valley and San Bernardino National Forest. The way down was faster with a couple yells of joy. This ride, south of Hesperia, is a typical practice for the Victor Valley composite mountain biking team.  

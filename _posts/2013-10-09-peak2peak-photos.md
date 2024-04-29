@@ -1,10 +1,10 @@
 ---
 title: "Peak2Peak (photos)"
-date: '2013-10-09T18:31:59-07:00'
+date: "2013-10-09T18:31:59-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Here are some photos of this year’s Peak2Peak riders going through Lucerne Valley.  

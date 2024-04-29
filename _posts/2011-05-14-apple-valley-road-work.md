@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley road work"
-date: '2011-05-14T05:30:04-07:00'
+date: "2011-05-14T05:30:04-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The Town of Apple Valley has been doing a lot of slurry seal work. Bear Valley Road, Outer Highway 18, Thunderbird, and a bunch of smaller streets are getting the treatment.  

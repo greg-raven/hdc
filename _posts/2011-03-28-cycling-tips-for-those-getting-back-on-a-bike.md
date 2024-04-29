@@ -1,9 +1,9 @@
 ---
 title: "Cycling tips for those getting back on a bike"
-date: '2011-03-28T15:53:41-07:00'
+date: "2011-03-28T15:53:41-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The weather’s finally getting nicer, so the local news is [running stories about cycling](https://abc7.com/archive/8037905/).  

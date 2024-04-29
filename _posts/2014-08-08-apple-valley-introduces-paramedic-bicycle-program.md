@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley introduces paramedic bicycle program"
-date: '2014-08-08T05:41:49-07:00'
+date: "2014-08-08T05:41:49-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 APPLE VALLEY — The Apple Valley Fire Protection District has implemented the High Desert’s first and only bicycle paramedic program in an effort to improve response times and safety during crowded, outdoor events.

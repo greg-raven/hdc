@@ -1,11 +1,11 @@
 ---
 title: "The 2023 Victor Valley Bicycle Tour"
-date: '2023-06-04T05:47:00-07:00'
+date: "2023-06-04T05:47:00-07:00"
 layout: post
 footnotes:
-    - ''
+- ''
 categories:
-    - Uncategorized
+- Uncategorized
 ---
 
 October 28, 2023 — Apple Valley Civic Center, CA

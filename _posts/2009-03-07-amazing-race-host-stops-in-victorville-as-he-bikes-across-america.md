@@ -1,9 +1,9 @@
 ---
 title: "Amazing Race host stops in Victorville as he bikes across America"
-date: '2009-03-07T14:38:49-08:00'
+date: "2009-03-07T14:38:49-08:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 VICTORVILLE • The host of the Emmy-winning reality show Amazing Race is embarking on a cross-country bike trek. His first stop? Victorville.  

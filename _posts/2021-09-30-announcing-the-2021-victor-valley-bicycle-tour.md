@@ -1,9 +1,9 @@
 ---
 title: "Announcing the 2021 Victor Valley Bicycle Tour"
-date: '2021-09-30T04:40:38-07:00'
+date: "2021-09-30T04:40:38-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 <div class="wp-block-image"><figure class="aligncenter size-large">![](https://www.hdcycling.org/wp-content/uploads/2021/09/vvbt-600x338.jpg)</figure></div>The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride this year. There are a few changes this year such as routes, lunch, and more. If you haven’t signed up yet, use coupon code VVBT2021 at checkout to save $5.

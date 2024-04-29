@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley bike paths"
-date: '2010-03-01T13:06:38-08:00'
+date: "2010-03-01T13:06:38-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Current as of March 2010.

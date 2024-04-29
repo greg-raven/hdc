@@ -1,9 +1,9 @@
 ---
 title: "Long road to go"
-date: '2015-10-23T06:13:34-07:00'
+date: "2015-10-23T06:13:34-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Yucca Loma Bridge nears completion but won’t be open to traffic until 2017

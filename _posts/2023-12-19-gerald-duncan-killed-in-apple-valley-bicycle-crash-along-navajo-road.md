@@ -1,9 +1,9 @@
 ---
 title: "Gerald Duncan killed in Apple Valley bicycle crash along Navajo road"
-date: '2023-12-19T15:25:07-08:00'
+date: "2023-12-19T15:25:07-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 - Tuesday evening crash leaves bicyclist dead

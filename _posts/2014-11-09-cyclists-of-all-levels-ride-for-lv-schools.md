@@ -1,9 +1,9 @@
 ---
 title: "Cyclists of all levels ride for LV schools"
-date: '2014-11-09T07:18:26-08:00'
+date: "2014-11-09T07:18:26-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 LUCERNE VALLEY • Riders of all ability levels converged in Lucerne Valley on Saturday morning for one purpose: to help local students.

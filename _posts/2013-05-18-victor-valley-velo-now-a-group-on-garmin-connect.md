@@ -1,9 +1,9 @@
 ---
 title: "Victor Valley Velo now a group on Garmin Connect"
-date: '2013-05-18T13:44:45-07:00'
+date: "2013-05-18T13:44:45-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The Victor Valley Bicycle Club — AKA Victor Valley Velo, AKA V3 — now has a presence on Garmin Connect as a group.  

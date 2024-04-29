@@ -1,10 +1,10 @@
 ---
 title: "Crit practice &#8212; group photo"
-date: '2011-06-22T18:25:21-07:00'
+date: "2011-06-22T18:25:21-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Here’s the Wednesday crit practice crew just before take-off.  

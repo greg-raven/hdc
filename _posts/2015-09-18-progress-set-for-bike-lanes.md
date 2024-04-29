@@ -1,9 +1,9 @@
 ---
 title: "Progress set for bike lanes"
-date: '2015-09-18T07:30:38-07:00'
+date: "2015-09-18T07:30:38-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 VICTORVILLE — Determined to add 46.1 miles of bikeways over the next five years, the City Council this week authorized spending $34,300 with an Ontario consultant to develop preliminary plans and cost estimates for several streets where bike lanes are planned.

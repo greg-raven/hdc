@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist critically injured after being struck by vehicle on Cedar Street in Hesperia"
-date: '2023-10-13T15:41:10-07:00'
+date: "2023-10-13T15:41:10-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA, Calif. (VVNG.com) — Authorities shut down a portion of Cedar Street after a bicyclist was struck by a vehicle Thursday evening.

@@ -1,9 +1,9 @@
 ---
 title: "Victor Valley Bicycle Club on Strava"
-date: '2012-10-10T15:25:42-07:00'
+date: "2012-10-10T15:25:42-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 With all the different “social media” options, it’s difficult to decide which to use, let alone which are worthy of your participation. Thanks to the members of the Victor Valley Bicycle Club, two of your choices are easy.  

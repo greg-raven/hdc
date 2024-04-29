@@ -1,9 +1,9 @@
 ---
 title: "Coyote sighting"
-date: '2011-06-27T18:39:13-07:00'
+date: "2011-06-27T18:39:13-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 We’ve seen rattlesnakes, and wondered about mountain lions, but never considered that coyotes may be a threat, too.  

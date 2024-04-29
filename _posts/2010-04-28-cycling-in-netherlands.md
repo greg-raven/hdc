@@ -1,9 +1,9 @@
 ---
 title: "Cycling in Netherlands (video)"
-date: '2010-04-28T01:51:21-07:00'
+date: "2010-04-28T01:51:21-07:00"
 layout: post
 categories:
-    - Videos
+- Videos
 ---
 
 Great footage of a busy intersection in the Netherlands, showing cars, buses, and bikes all sharing the road.

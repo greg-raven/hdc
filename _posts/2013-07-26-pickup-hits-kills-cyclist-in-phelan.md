@@ -1,9 +1,9 @@
 ---
 title: "Pickup hits, kills cyclist in Phelan"
-date: '2013-07-26T18:44:10-07:00'
+date: "2013-07-26T18:44:10-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 PHELAN • A 29-year-old man riding a bicycle was struck and killed Thursday night on Highway 138 near Gramercy Road in Phelan, according to California Highway Patrol spokesman Matt Hunt.  

@@ -1,9 +1,9 @@
 ---
 title: "Reward pool monies refunded"
-date: '2011-12-26T22:43:00-08:00'
+date: "2011-12-26T22:43:00-08:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 All PayPal donations for the reward pool have been returned to the donor. In the case of donations by check, the checks have been shredded.  

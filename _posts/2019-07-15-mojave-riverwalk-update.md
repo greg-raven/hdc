@@ -1,9 +1,9 @@
 ---
 title: "Mojave Riverwalk update"
-date: '2019-07-15T15:32:23-07:00'
+date: "2019-07-15T15:32:23-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The next stage of the Mojave Riverwalk, a concrete bike trail along the Mojave River near the lower campus of Victor Valley College, is approaching completion. (See “City begins building Mojave Riverwalk.”)

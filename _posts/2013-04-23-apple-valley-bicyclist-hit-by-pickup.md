@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley bicyclist hit by pickup"
-date: '2013-04-23T10:30:03-07:00'
+date: "2013-04-23T10:30:03-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 An Apple Valley bicyclist was taken to a local hospital with minor injuries after being hit by a pickup truck that ran a stop sign, California Highway Patrol officials said Tuesday.  

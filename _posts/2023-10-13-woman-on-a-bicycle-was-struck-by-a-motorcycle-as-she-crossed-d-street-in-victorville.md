@@ -1,9 +1,9 @@
 ---
 title: "Woman on a bicycle was struck by a motorcycle as she crossed D Street in Victorville"
-date: '2023-10-13T15:42:48-07:00'
+date: "2023-10-13T15:42:48-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — A woman on a bicycle was struck by a motorcycle as she crossed a busy roadway.

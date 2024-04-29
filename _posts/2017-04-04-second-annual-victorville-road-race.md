@@ -1,9 +1,9 @@
 ---
 title: "Second Annual Victorville Road Race"
-date: '2017-04-04T08:07:04-07:00'
+date: "2017-04-04T08:07:04-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 Majestic Cycling is putting on the Second Annual Victorville Time Trial, Road Race, and Criterium April 7th-9th 2017. There will be SoCal Cup Points for PRO 1/2 Cat 3 and Women Pro 1/2/3.

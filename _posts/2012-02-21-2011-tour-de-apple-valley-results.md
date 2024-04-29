@@ -1,11 +1,11 @@
 ---
 title: "2011 Tour de Apple Valley results"
-date: '2012-02-21T22:38:34-08:00'
+date: "2012-02-21T22:38:34-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 The results are now available for the 2011 Tour de Apple Valley.  

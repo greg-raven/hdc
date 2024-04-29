@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist seriously injured by hit-and-run driver in Victorville"
-date: '2021-05-19T14:14:26-07:00'
+date: "2021-05-19T14:14:26-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — A 30-year-old bicyclist was seriously injured after he was hit by a hit-and-run driver in Victorville.

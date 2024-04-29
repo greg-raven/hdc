@@ -1,9 +1,9 @@
 ---
 title: "Repaving complete on Dale Evans Parkway, Joshua Road"
-date: '2013-03-04T05:25:02-08:00'
+date: "2013-03-04T05:25:02-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Repaving is complete on Dale Evans Parkway between Johnson Road and the I-15, as well as on Joshua Road between CA 18 and Standing Rock Road.  

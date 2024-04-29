@@ -1,9 +1,9 @@
 ---
 title: "Lights for night riding"
-date: '2010-11-28T16:06:15-08:00'
+date: "2010-11-28T16:06:15-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Recent studies have shown that multiple lights on your bike are more visible to drivers than a single super-bright light.  

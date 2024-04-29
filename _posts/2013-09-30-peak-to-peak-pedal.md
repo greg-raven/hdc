@@ -1,9 +1,9 @@
 ---
 title: "Peak to Peak Pedal"
-date: '2013-09-30T06:57:09-07:00'
+date: "2013-09-30T06:57:09-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 The 2013 [Peak to Peak Pedal](http://usarc.org/peak-to-peak-pedal), a charity bike ride from Big Bear to Mammoth in support of the [United States Adaptive Recreation Center](http://usarc.org/) (USARC), starts October 9th.  

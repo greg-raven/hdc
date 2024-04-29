@@ -1,9 +1,9 @@
 ---
 title: "Over $10k of merchandise stolen from local bicycle shop"
-date: '2016-01-21T09:07:16-08:00'
+date: "2016-01-21T09:07:16-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Authorities: No suspect information or arrests

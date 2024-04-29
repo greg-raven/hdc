@@ -1,9 +1,9 @@
 ---
 title: "U.S. spends 1.2 billion on cycling and walking initiatives"
-date: '2010-06-10T21:36:41-07:00'
+date: "2010-06-10T21:36:41-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 The Obama administration more than doubled spending on cycling and walking initiatives to $1.2 billion (£810 million) last year as it seeks to coax Americans out of their cars.  

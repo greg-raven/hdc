@@ -1,11 +1,11 @@
 ---
 title: "Cyclists are coming your way"
-date: '2016-10-28T05:19:13-07:00'
+date: "2016-10-28T05:19:13-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Victor Valley Bicycle Tour returns for second year; will honor two local enthusiasts

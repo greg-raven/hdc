@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist hit on Ranchero Road, suffers minor injuries"
-date: '2016-12-10T05:20:06-08:00'
+date: "2016-12-10T05:20:06-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA — A 33-year-old bicyclist was transported to a local hospital after a Friday morning collision on Ranchero Road.

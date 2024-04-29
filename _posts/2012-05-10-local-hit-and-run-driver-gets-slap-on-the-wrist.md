@@ -1,11 +1,11 @@
 ---
 title: "Local hit-and-run driver gets slap on the wrist"
-date: '2012-05-10T15:42:53-07:00'
+date: "2012-05-10T15:42:53-07:00"
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Michael Bruce Slusser'
+- 'Michael Bruce Slusser'
 ---
 
 Michael Bruce Slusser, the person accused of driving the truck that hit local cyclists Tim Moreno and Steve Stearns, has received a slap on the wrist.  

@@ -1,11 +1,11 @@
 ---
 title: "Chuck Hansen High Desert Bicycle Tour stalls"
-date: '2014-08-25T06:56:50-07:00'
+date: "2014-08-25T06:56:50-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 The Chuck Hansen Tour de Apple Valley has been a staple of the High Desert biking world for the past six years, giving local cyclists a chance to enjoy their sport while also raising money for charity.

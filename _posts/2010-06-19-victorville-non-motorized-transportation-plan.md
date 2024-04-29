@@ -1,9 +1,9 @@
 ---
 title: "Victorville non-Motorized Transportation Plan"
-date: '2010-06-19T12:37:12-07:00'
+date: "2010-06-19T12:37:12-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Draft version.  

@@ -1,9 +1,9 @@
 ---
 title: "Crooks steal $33,000 in bikes, accessories"
-date: '2012-04-16T16:39:26-07:00'
+date: "2012-04-16T16:39:26-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE • Jason Conley awoke Sunday morning to find some one had broken into his garage, but when he looked inside he learned thieves bypassed his family’s cars and motorcycle but made off with more than $30,000 in bicycles and a wheel set.  

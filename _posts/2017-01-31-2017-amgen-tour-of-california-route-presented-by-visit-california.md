@@ -1,9 +1,9 @@
 ---
 title: "2017 Amgen Tour of California Route presented by Visit California"
-date: '2017-01-31T06:48:08-08:00'
+date: "2017-01-31T06:48:08-08:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 - Nation’s first men’s cycling race designated as a UCI Worldtour Event. Women’s and Men’s Premier Stage Races Will Bring the World’s Most Talented and Popular Cycling Stars Back to California. Former Champions Kristin Armstrong, Jens Voigt and Freddie Rodriguez Named Official Race Ambassadors

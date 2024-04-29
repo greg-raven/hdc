@@ -1,11 +1,11 @@
 ---
 title: "Amgen Tour of California Stage 7 start"
-date: '2011-05-21T17:48:53-07:00'
+date: "2011-05-21T17:48:53-07:00"
 layout: post
 categories:
-    - 'Event news'
-    - Photos
-    - Videos
+- 'Event news'
+- Photos
+- Videos
 ---
 
 [Here are some photos from the starting area](https://www.dropbox.com/sh/q43e44vpfrn5fix/AAD57eUd-g1BOlN3Kpi7PVDRa?dl=0), and a video of one of the formation laps.  

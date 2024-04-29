@@ -1,9 +1,9 @@
 ---
 title: "Victorville Road Race &amp; Crit June 18th &amp; 19th"
-date: '2016-05-27T07:50:37-07:00'
+date: "2016-05-27T07:50:37-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 Presented By Majestic Cycling

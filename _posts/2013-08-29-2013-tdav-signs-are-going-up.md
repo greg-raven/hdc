@@ -1,11 +1,11 @@
 ---
 title: "2013 TdAV signs are going up"
-date: '2013-08-29T14:55:42-07:00'
+date: "2013-08-29T14:55:42-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 The signs are going up for the 2013 Tour de Apple Valley. Register today to ride. Proceeds go to improving cycling right here in the high desert.  

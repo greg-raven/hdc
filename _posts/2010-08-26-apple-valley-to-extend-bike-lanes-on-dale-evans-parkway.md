@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley to extend bike lanes on Dale Evans Parkway"
-date: '2010-08-26T22:06:04-07:00'
+date: "2010-08-26T22:06:04-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 We just heard about this, so details are a bit sketchy, but word is that the Town of Apple Valley is getting ready to repave Dale Evans Parkway between Waalew at the north and Otoe at the south, adding bike lanes at the same time. This long-needed improvement of “slaughter alley” will connect the existing bike paths on Waalew and Dale Evans south of Otoe. Furthermore, we hear that this will be completed Fall 2010.  

@@ -1,9 +1,9 @@
 ---
 title: "VVBC Ride Around the Bear results"
-date: '2011-06-11T07:01:34-07:00'
+date: "2011-06-11T07:01:34-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Twelve riders from VVBC completed the grueling 100-mile Ride Around the Bear. To give you an idea how difficult this ride is, 393 riders entered, but only 307 finished.  

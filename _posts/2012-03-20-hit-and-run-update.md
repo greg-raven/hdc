@@ -1,11 +1,11 @@
 ---
 title: "Hit-and-run update"
-date: '2012-03-20T06:27:56-07:00'
+date: "2012-03-20T06:27:56-07:00"
 layout: post
 categories:
-    - Information
+- Information
 tags:
-    - 'Michael Bruce Slusser'
+- 'Michael Bruce Slusser'
 ---
 
 At a pre-preliminary court conference today, Michael Bruce Slusser withdrew his plea of not guilty and entered a plea of “no contest” in the hit-and-run of two local cyclists pursuant to a plea deal reached with prosecutors.  

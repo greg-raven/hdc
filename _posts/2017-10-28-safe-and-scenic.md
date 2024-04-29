@@ -1,11 +1,11 @@
 ---
 title: "‘Safe and scenic’"
-date: '2017-10-28T15:01:14-07:00'
+date: "2017-10-28T15:01:14-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 APPLE VALLEY — The air may have been chilly early Saturday morning, but things heated up quickly along the Victor Valley Bicycle Tour routes, says rider Dane Redmond.

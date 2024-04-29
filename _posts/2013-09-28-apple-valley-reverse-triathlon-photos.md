@@ -1,10 +1,10 @@
 ---
 title: "Apple Valley Reverse Triathlon (photos)"
-date: '2013-09-28T13:27:18-07:00'
+date: "2013-09-28T13:27:18-07:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 Here are some of the photos I took of the cyclists at the Apple Valley Reverse Triathlon.  

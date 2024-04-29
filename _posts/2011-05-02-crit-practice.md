@@ -1,9 +1,9 @@
 ---
 title: "Crit practice"
-date: '2011-05-02T20:00:12-07:00'
+date: "2011-05-02T20:00:12-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 Members of the Victor Valley Bicycle Club will be holding a [criterium](http://en.wikipedia.org/wiki/Criterium) practice on Wednesday, May 4th, at 6:00 pm.  

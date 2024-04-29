@@ -1,9 +1,9 @@
 ---
 title: "New Starbucks opens in Apple Valley"
-date: '2011-11-14T15:04:12-08:00'
+date: "2011-11-14T15:04:12-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Given how few good jumping-off points there are for rides in the area, it seems appropriate to mention that a new [Starbucks has opened in Apple Valley](http://www.starbucks.com/store/68574/), at the corner of Highway 18 and Dale Evans Parkway.

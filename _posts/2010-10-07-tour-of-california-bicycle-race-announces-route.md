@@ -1,9 +1,9 @@
 ---
 title: "Tour of California Bicycle Race Announces Route"
-date: '2010-10-07T17:34:58-07:00'
+date: "2010-10-07T17:34:58-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 2 Stages Will to be in L.A. Region  

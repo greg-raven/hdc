@@ -1,10 +1,10 @@
 ---
 title: "Announcing the 2022 Victor Valley Bicycle Tour"
-date: '2022-08-22T07:03:00-07:00'
+date: "2022-08-22T07:03:00-07:00"
 layout: post
 image: /wp-content/uploads/2022/08/202210-vvbt-combined.jpg
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride this year.

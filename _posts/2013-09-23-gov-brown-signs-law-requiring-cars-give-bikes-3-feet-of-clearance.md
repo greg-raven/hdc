@@ -1,9 +1,9 @@
 ---
 title: "Gov. Brown Signs Law Requiring Cars Give Bikes 3 Feet of Clearance"
-date: '2013-09-23T17:23:48-07:00'
+date: "2013-09-23T17:23:48-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 A bill requiring drivers to give bicyclists 3 feet of clearance when passing was signed into California law Monday by Gov. Jerry Brown.

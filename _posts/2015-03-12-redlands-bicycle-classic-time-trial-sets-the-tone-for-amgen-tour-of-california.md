@@ -1,9 +1,9 @@
 ---
 title: "Redlands Bicycle Classic Time Trial sets the tone for Amgen Tour of California"
-date: '2015-03-12T18:53:28-07:00'
+date: "2015-03-12T18:53:28-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 **Big Bear Lake, Calif. March 12, 2015 –** This year, Big Bear Lake hosts the Amgen Tour of California Stage 6 Time Trial that takes place May 15, 2015. This marks the third time in five years Big Bear Lake is a host city for Amgen Tour of California, which is considered the largest and most prestigious road cycling race in the USA. Redlands Bicycle Classic, another premier-domestic race on the USA Cycling National Racing Calendar, has once again included Big Bear as one of its five stages for the third year in a row. Big Bear is set to host the Redlands Bicycle Classic Stage 2 Time Trial Thursday, April 9, 2015. These two elite professional road cycling events held in Big Bear, which are just one month apart, demonstrates Big Bear is well-received by the industry as a premier cycling destination.

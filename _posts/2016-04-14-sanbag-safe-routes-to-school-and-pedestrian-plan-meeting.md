@@ -1,9 +1,9 @@
 ---
 title: "SANBAG Safe Routes to School and Pedestrian Plan Meeting"
-date: '2016-04-14T06:17:41-07:00'
+date: "2016-04-14T06:17:41-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Hello Apple Valley Safe Routes to School Stakeholders,

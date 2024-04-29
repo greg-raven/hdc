@@ -1,10 +1,10 @@
 ---
 title: "Caltrans seeks public input for bicycle and pedestrian improvements"
-date: '2022-04-20T18:46:00-07:00'
+date: "2022-04-20T18:46:00-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
+- Advocacy
+- 'Bike lanes'
 ---
 
 Caltrans District 8 is seeking public input on its draft Active Transportation Plan as the agency works to improve bicycle and pedestrian components on highways across the High Desert and the Inland Empire.

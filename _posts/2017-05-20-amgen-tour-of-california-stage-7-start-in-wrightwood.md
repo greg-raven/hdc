@@ -1,9 +1,9 @@
 ---
 title: "Amgen Tour of California, Stage 7 start in Wrightwood"
-date: '2017-05-20T13:06:46-07:00'
+date: "2017-05-20T13:06:46-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 The start of Stage 7 of the 2017 Amgen Tour of California in Wrightwood seemed to be very poorly attended.

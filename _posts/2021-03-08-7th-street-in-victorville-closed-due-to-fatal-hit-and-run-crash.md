@@ -1,9 +1,9 @@
 ---
 title: "7th Street in Victorville closed due to fatal hit-and-run crash"
-date: '2021-03-08T14:11:00-08:00'
+date: "2021-03-08T14:11:00-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — Authorities in Victorville are looking for a hit-and-run driver that struck and killed a bicyclist early Monday morning.

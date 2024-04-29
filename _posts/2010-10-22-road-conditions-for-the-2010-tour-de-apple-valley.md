@@ -1,11 +1,11 @@
 ---
 title: "Road conditions for the 2010 Tour de Apple Valley"
-date: '2010-10-22T17:29:31-07:00'
+date: "2010-10-22T17:29:31-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 This week’s rains have played havoc with some of the local roads, so in addition to the one-hour-earlier start time and the one-month-later start date, riders will have to contend with some temporary road hazards, mostly in the form of sand, dirt, and gravel on the roadway.  

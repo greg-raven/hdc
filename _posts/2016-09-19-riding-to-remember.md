@@ -1,9 +1,9 @@
 ---
 title: "Riding to remember"
-date: '2016-09-19T15:35:23-07:00'
+date: "2016-09-19T15:35:23-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 - On a Sunday cruise, bicyclists pay tribute to AVHS counselor Pulice

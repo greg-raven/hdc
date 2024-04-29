@@ -1,9 +1,9 @@
 ---
 title: "Beautiful day greets Ride in the Rocks participants in Lucerne Valley"
-date: '2018-11-05T12:33:52-08:00'
+date: "2018-11-05T12:33:52-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 LUCERNE VALLEY — Picture postcard weather set the backdrop for the 10th annual Ride in the Rocks event Saturday morning.

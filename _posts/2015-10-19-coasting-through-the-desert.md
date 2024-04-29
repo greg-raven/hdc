@@ -1,11 +1,11 @@
 ---
 title: "Coasting through the desert"
-date: '2015-10-19T05:12:12-07:00'
+date: "2015-10-19T05:12:12-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 By Matthew Cabe

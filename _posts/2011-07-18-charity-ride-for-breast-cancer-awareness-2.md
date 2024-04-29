@@ -1,9 +1,9 @@
 ---
 title: "Charity ride for breast cancer awareness"
-date: '2011-07-18T05:06:13-07:00'
+date: "2011-07-18T05:06:13-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 [Trek Women](http://goo.gl/BF72B) is holding a local [Breast Cancer Awareness Ride (BCAR)](http://goo.gl/BJnEK) on Saturday, October 8, at 10:00 A.M.  

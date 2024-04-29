@@ -1,9 +1,9 @@
 ---
 title: "Town of Apple Valley bike path plans"
-date: '2014-05-13T15:34:20-07:00'
+date: "2014-05-13T15:34:20-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 BEAR VALLEY ROAD BIKE PATH PROJECT — DESIGN CONTRACT AMENDMENT NO. 1

@@ -1,9 +1,9 @@
 ---
 title: "Tips for National Bicycle Safety Month"
-date: '2022-05-11T07:13:00-07:00'
+date: "2022-05-11T07:13:00-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 In recognition of National Bicycle Safety Month in May, we’d like to share some safety tips for bicyclists and drivers from the Riverside Police Department, which frequently conducts bike safety enforcement operations around the city.

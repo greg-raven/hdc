@@ -1,11 +1,11 @@
 ---
 title: "October rides"
-date: '2012-10-01T07:29:10-07:00'
+date: "2012-10-01T07:29:10-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 October is a busy month for cycling in the high desert.

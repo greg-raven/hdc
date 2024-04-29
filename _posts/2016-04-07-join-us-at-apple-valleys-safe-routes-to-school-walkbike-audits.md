@@ -1,9 +1,9 @@
 ---
 title: "Join us at Apple Valley&rsquo;s Safe Routes to School Walk/Bike Audits"
-date: '2016-04-07T15:50:48-07:00'
+date: "2016-04-07T15:50:48-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Hello Community Members,

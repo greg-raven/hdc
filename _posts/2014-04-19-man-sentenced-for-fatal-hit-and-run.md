@@ -1,9 +1,9 @@
 ---
 title: "Man sentenced for fatal hit-and-run"
-date: '2014-04-19T05:09:22-07:00'
+date: "2014-04-19T05:09:22-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE • A Victorville man was sentenced Friday to 11 years in prison for the hit-and-run crash that killed an Apple Valley bicyclist two years ago.

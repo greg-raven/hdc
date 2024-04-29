@@ -1,7 +1,7 @@
 ---
 id: 1891
 title: "Bicycle laws"
-date: '2010-09-24T20:01:19-07:00'
+date: "2010-09-24T20:01:19-07:00"
 layout: page
 guid: 'http://localhost/wordpress/'
 ---

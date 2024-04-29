@@ -1,9 +1,9 @@
 ---
 title: "Bikes may be allowed on AV park paths"
-date: '2008-06-09T21:27:48-07:00'
+date: "2008-06-09T21:27:48-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 APPLE VALLEY — It may soon be OK to ride a bicycle on paths in Apple Valley’s parks, if the Town Council approves an updated ordinance tonight.  

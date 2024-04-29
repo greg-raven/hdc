@@ -1,9 +1,9 @@
 ---
 title: "Traveltalks: Around the World in California (video)"
-date: '2010-09-11T19:18:35-07:00'
+date: "2010-09-11T19:18:35-07:00"
 layout: post
 categories:
-    - Videos
+- Videos
 ---
 
 This 1947 MGM production by James A. FitzPatrick shows off various features and attractions of California. In this clip FitzPatrick talks about Hans Ort, Cycle King of the West, and his bicycle tours of Beverly Hills (and Hollywood?).

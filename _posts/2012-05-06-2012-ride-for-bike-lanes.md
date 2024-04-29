@@ -1,10 +1,10 @@
 ---
 title: "2012 Ride for Bike Lanes"
-date: '2012-05-06T14:47:29-07:00'
+date: "2012-05-06T14:47:29-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Ride news'
+- Advocacy
+- 'Ride news'
 ---
 
 Help us encourage our elected officials to provide bike lanes on *all* streets in the high desert. We’re meeting at the Lowe’s at Bear Valley and Amargosa (14333 Bear Valley Road, Victorville), and riding East to the US Bank Office in Jess Ranch Marketplace (19201 Bear Valley Road Suite E, Apple Valley).  

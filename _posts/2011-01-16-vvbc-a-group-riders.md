@@ -1,10 +1,10 @@
 ---
 title: "VVBC A group riders"
-date: '2011-01-16T12:47:20-08:00'
+date: "2011-01-16T12:47:20-08:00"
 layout: post
 categories:
-    - Photos
-    - 'Ride news'
+- Photos
+- 'Ride news'
 ---
 
 I was standing by the side of the road this morning with my camera, minding my own business, when who should ride by but the VVBC A group?

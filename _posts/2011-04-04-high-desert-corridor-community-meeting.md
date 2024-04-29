@@ -1,9 +1,9 @@
 ---
 title: "High Desert Corridor community meeting"
-date: '2011-04-04T11:09:22-07:00'
+date: "2011-04-04T11:09:22-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 The Los Angeles County Metropolitan Transportation Authority (Metro) and CalTrans will be holding a meeting April 13 from 6 to 8 PM in the Council Chambers of the Town of Apple Valley to update everyone on the High Desert Corridor (HDC).  

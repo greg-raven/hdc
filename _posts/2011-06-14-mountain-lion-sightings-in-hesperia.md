@@ -1,9 +1,9 @@
 ---
 title: "Mountain lion sightings in Hesperia"
-date: '2011-06-14T06:27:53-07:00'
+date: "2011-06-14T06:27:53-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 A mountain lion has been spotted going in and out of backyards near the Hesperia Golf Course for the last several days, according to residents.  

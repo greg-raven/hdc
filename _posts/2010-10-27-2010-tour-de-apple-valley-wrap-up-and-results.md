@@ -1,11 +1,11 @@
 ---
 title: "2010 Tour de Apple Valley wrap-up and results"
-date: '2010-10-27T22:04:22-07:00'
+date: "2010-10-27T22:04:22-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 On arriving at Civic Center Park in Apple Valley last Saturday for the start, many of us may have yearned for last year’s September start at 8:00 A.M., as opposed to this year’s cold 7:00 A.M. start in the dark. While the sun may technically have been up when the ride started, it was still behind the mountains, and everyone seemed chilled.  

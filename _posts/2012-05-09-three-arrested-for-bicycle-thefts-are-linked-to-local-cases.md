@@ -1,9 +1,9 @@
 ---
 title: "Three arrested for bicycle thefts are linked to local cases"
-date: '2012-05-09T16:42:43-07:00'
+date: "2012-05-09T16:42:43-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Beatriz E. Valenzuela, Staff Writer

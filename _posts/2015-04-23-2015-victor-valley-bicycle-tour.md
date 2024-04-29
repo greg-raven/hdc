@@ -1,11 +1,11 @@
 ---
 title: "2015 Victor Valley Bicycle Tour"
-date: '2015-04-23T06:18:43-07:00'
+date: "2015-04-23T06:18:43-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Last night I attended a board meeting for the 2015 Victor Valley Bicycle Tour (VVBT). Having been on the board of previous high desert bicycle events, I was extremely impressed by the organizers and their preparation even in these early stages, and excited by the progress they have made toward bringing this ride to life.

@@ -1,9 +1,9 @@
 ---
 title: "V3 Time Trial series"
-date: '2013-03-15T06:50:31-07:00'
+date: "2013-03-15T06:50:31-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 The Victor Valley Velo bicycle club will be hosting a year-long time trial series in order to promote a low-key, healthy competition for high desert cyclists.  

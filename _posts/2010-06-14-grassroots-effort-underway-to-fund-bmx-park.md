@@ -1,9 +1,9 @@
 ---
 title: "Grassroots effort underway to fund BMX park"
-date: '2010-06-14T21:40:45-07:00'
+date: "2010-06-14T21:40:45-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 APPLE VALLEY • As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.  

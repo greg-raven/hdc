@@ -1,10 +1,10 @@
 ---
 title: "Biking for breast cancer awareness"
-date: '2013-10-10T07:40:31-07:00'
+date: "2013-10-10T07:40:31-07:00"
 layout: post
 categories:
-    - Information
-    - 'Ride news'
+- Information
+- 'Ride news'
 ---
 
 VICTORVILLE • Hundreds of bicyclists will take to Victor Valley roads together this Saturday in a ride for National Breast Cancer Awareness Month.  

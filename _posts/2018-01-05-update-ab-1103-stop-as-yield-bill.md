@@ -1,11 +1,11 @@
 ---
 title: "Update: AB 1103 stop as yield bill"
-date: '2018-01-05T16:02:06-08:00'
+date: "2018-01-05T16:02:06-08:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 tags:
-    - 'AB 1103'
+- 'AB 1103'
 ---
 
 I just learned that the author has decided to pull the bill from the hearing because there were not enough supporting votes.  

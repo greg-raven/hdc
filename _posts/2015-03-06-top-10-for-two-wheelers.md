@@ -1,10 +1,10 @@
 ---
 title: "Top 10 for two-wheelers"
-date: '2015-03-06T06:20:12-08:00'
+date: "2015-03-06T06:20:12-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
-    - Information
+- 'Bike lanes'
+- Information
 ---
 
 **SACRAMENTO —** California’s jump into the nation’s top 10 bicycle-friendly states and creation of the nation’s largest active transportation program are two achievements highlighted in Caltrans’ annual Non-Motorized Transportation Facilities Report. But while officials lauded the advances, some locals still wonder if the Golden State is doing enough for cyclists.

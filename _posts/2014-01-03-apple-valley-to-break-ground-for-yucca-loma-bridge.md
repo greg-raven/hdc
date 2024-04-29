@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley to break ground for Yucca Loma Bridge"
-date: '2014-01-03T06:07:33-08:00'
+date: "2014-01-03T06:07:33-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 January 10th, 2014, will see the start of the much-anticipated Yucca Loma Bridge, a project more than 40 years in the making. In December, the Town Council awarded a $37.3 million contract to Security Paving, Inc. for the construction of the Yucca Loma Bridge over the Mojave River and Yates Road improvements project. A ground-breaking ceremony is scheduled for Friday, January 10.  

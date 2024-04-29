@@ -1,9 +1,9 @@
 ---
 title: "Hesperians vexed over bike route&#8217;s stop-sign changes"
-date: '2014-06-08T05:02:37-07:00'
+date: "2014-06-08T05:02:37-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • Progress on the area’s longest bicycle trail system is advancing with some unforeseen consequences. Motor vehicle collisions have increased markedly at one intersection following traffic-control changes that are part of the city’s bike-lane plan.

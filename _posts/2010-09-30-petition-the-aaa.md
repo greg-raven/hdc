@@ -1,9 +1,9 @@
 ---
 title: "Petition the AAA"
-date: '2010-09-30T12:46:53-07:00'
+date: "2010-09-30T12:46:53-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 The American Automobile Association (AAA) wants Congress to cut funds that support trail, biking and walking programs in order to funnel that money to the highway system. AAA has forgotten that bicyclists and pedestrians drive, support AAA, pay gas taxes and want balanced transportation systems that provide the choice to get around in a variety of ways.  

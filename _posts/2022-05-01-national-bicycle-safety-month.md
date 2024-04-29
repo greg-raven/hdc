@@ -1,9 +1,9 @@
 ---
 title: "National Bicycle Safety Month"
-date: '2022-05-01T07:10:00-07:00'
+date: "2022-05-01T07:10:00-07:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 National Bicycle Safety Month is celebrated every year in May. During National Bicycle Safety Month, the U.S. Department of Transportation’s National Highway Traffic Safety Administration (N.H.T.S.A.) urges bicyclists and motorists to share the roadways by obeying the traffic laws and respecting each other’s rights. National Bicycle Safety Month was created to remind the public to put “safety first.” Whether you are a beginner, a regular biker, a day-tripper, or an athlete, cycling is good for you. It is a healthy, low-impact exercise that people of all ages can enjoy. It is also fun, cheap, and good for the environment.

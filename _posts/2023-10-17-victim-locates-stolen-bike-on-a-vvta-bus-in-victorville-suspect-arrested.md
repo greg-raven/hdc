@@ -1,9 +1,9 @@
 ---
 title: "Victim locates stolen bike on a VVTA bus in Victorville, suspect arrested"
-date: '2023-10-17T07:06:27-07:00'
+date: "2023-10-17T07:06:27-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 - Man found with narcotics, loaded gun after stealing a bike in Victorville

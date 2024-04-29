@@ -1,9 +1,9 @@
 ---
 title: "Marathoner gets fiancée&#8217;s stolen bike back"
-date: '2013-12-29T15:07:47-08:00'
+date: "2013-12-29T15:07:47-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • With the attitude of an angry mama bear, Vanessa Kline was determined to get her bicycle back after it was stolen.  

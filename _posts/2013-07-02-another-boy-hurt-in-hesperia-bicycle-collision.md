@@ -1,9 +1,9 @@
 ---
 title: "Another boy hurt in Hesperia bicycle collision"
-date: '2013-07-02T18:40:37-07:00'
+date: "2013-07-02T18:40:37-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • A 12-year-old boy suffered major injuries when his bicycle collided with a car in the area of Buckthorn and G avenues on Tuesday afternoon, San Bernardino County Fire Department officials said.  

@@ -1,9 +1,9 @@
 ---
 title: "Spreading the joy: 13th annual bike giveaway provides for children in need"
-date: '2016-12-09T06:02:51-08:00'
+date: "2016-12-09T06:02:51-08:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 VICTORVILLE – Children squealed in delight while each rode their new bicycles around the High Desert Event Center parking lot as the Victorville Parks and Recreation Department held its 13th annual Doris Davies Memorial Bicycle Giveaway Wednesday.

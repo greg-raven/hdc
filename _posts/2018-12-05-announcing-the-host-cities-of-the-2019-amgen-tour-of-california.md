@@ -1,10 +1,10 @@
 ---
 title: "Announcing the host cities of the 2019 Amgen Tour of California"
-date: '2018-12-05T06:46:30-08:00'
+date: "2018-12-05T06:46:30-08:00"
 layout: post
 categories:
-    - 'Event news'
-    - Videos
+- 'Event news'
+- Videos
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9EumaLheLe8?si=UznakvAlMxF42zNM" title="Introducing the 2019 Host Cities | Amgen Tour of California" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

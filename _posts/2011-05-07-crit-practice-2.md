@@ -1,9 +1,9 @@
 ---
 title: "Crit practice"
-date: '2011-05-07T14:42:22-07:00'
+date: "2011-05-07T14:42:22-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 ---
 
 There will be another [criterium](http://en.wikipedia.org/wiki/Criterium) practice on Wednesday, May 11th, at 6:00 pm.  

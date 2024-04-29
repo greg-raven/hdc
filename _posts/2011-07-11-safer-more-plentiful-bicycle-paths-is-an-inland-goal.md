@@ -1,10 +1,10 @@
 ---
 title: "Safer, more plentiful bicycle paths is an Inland goal"
-date: '2011-07-11T15:17:26-07:00'
+date: "2011-07-11T15:17:26-07:00"
 layout: post
 categories:
-    - Advocacy
-    - Information
+- Advocacy
+- Information
 ---
 
 Supporters of cycling said the biggest factor cities can play in promoting biking is offering a safe route.  

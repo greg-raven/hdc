@@ -1,9 +1,9 @@
 ---
 title: "The FC508 is coming this weekend"
-date: '2013-09-30T16:13:13-07:00'
+date: "2013-09-30T16:13:13-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 If you‘re one of those who enjoys driving for hours to catch a moment‘s glimpse of a bike rider or two, this weekend‘s Furnace Creek 508 is for you.

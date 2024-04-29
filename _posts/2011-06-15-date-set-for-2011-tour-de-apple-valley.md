@@ -1,11 +1,11 @@
 ---
 title: "Date set for 2011 Tour de Apple Valley"
-date: '2011-06-15T05:59:12-07:00'
+date: "2011-06-15T05:59:12-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 Pat Hanson has set October 22nd as the date for the 2011 Tour de Apple Valley. Although details are not yet available, this annual event typically includes metric century and metric half-century rides through Apple Valley.  

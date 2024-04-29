@@ -1,10 +1,10 @@
 ---
 title: "The OmniBike Bill"
-date: '2023-01-01T07:46:20-08:00'
+date: "2023-01-01T07:46:20-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
-    - Information
+- 'Bike lanes'
+- Information
 ---
 
 [The OmniBike Bill (AB-1909)](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=202120220AB1909&showamends=false) changes how cars and bike riders share the road. The goals and purpose of the changes were to ensure that cyclists on California streets were safer and more protected, to help cyclists and motorists safely share the road, and to reduce collisions involving bike riders and motorists. The bill makes four significant changes to the vehicle code in California.

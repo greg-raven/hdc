@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley’s cycling-related projects under construction"
-date: '2015-05-27T07:53:04-07:00'
+date: "2015-05-27T07:53:04-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 From the Apple Valley Engineering department.

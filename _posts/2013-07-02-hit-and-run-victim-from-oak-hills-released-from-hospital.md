@@ -1,9 +1,9 @@
 ---
 title: "Hit-and-run victim from Oak Hills released from hospital"
-date: '2013-07-02T18:39:17-07:00'
+date: "2013-07-02T18:39:17-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA • A 16-year-old boy who was struck while riding a bicycle and airlifted to a trauma center last week was released Monday night and is expected to make a full recovery, according to his grandmother.

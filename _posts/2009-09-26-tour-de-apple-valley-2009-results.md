@@ -1,11 +1,11 @@
 ---
 title: "Tour de Apple Valley, 2009 results"
-date: '2009-09-26T18:58:13-07:00'
+date: "2009-09-26T18:58:13-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - TdAV
+- TdAV
 ---
 
 ### Metric Century (62 miles)

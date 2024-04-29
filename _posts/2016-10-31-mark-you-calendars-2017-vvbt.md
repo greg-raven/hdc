@@ -1,11 +1,11 @@
 ---
 title: "Mark your calendars: 2017 VVBT"
-date: '2016-10-31T15:46:19-07:00'
+date: "2016-10-31T15:46:19-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Save the date: October 28, 2017.

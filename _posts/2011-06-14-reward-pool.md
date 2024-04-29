@@ -1,9 +1,9 @@
 ---
 title: "Reward pool"
-date: '2011-06-14T11:16:16-07:00'
+date: "2011-06-14T11:16:16-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 I have set up a special account with Desert Community Bank (DCB) to hold donations for a reward leading to the arrest and conviction of the driver involved in the [hit-and-run on Apple Valley Road last Saturday](https://www.hdcycling.org/2011/06/11/hit-and-run-on-apple-valley-road/).  

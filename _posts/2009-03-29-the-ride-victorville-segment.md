@@ -1,10 +1,10 @@
 ---
 title: "The Ride &#8212; Victorville segment (video)"
-date: '2009-03-29T07:53:43-07:00'
+date: "2009-03-29T07:53:43-07:00"
 layout: post
 categories:
-    - 'Event news'
-    - Videos
+- 'Event news'
+- Videos
 ---
 
 On March 29, 2009, [Phil Keoghan](https://en.wikipedia.org/wiki/Phil_Keoghan) and his entourage rode through the High Desert as part of his quest to “do something” before he turned forty, while raising money to fight MS. He memorialized this quest in a movie called “[The Ride](https://philkeoghan.com/),” a reference to his 40-day bicycle journey across the United States.

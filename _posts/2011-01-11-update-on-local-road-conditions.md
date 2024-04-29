@@ -1,9 +1,9 @@
 ---
 title: "Update on local road conditions"
-date: '2011-01-11T06:06:02-08:00'
+date: "2011-01-11T06:06:02-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 Although the adverse road conditions created by the recent storms weren’t too bad, they were widespread enough that road crews have yet to get everything cleaned up fully. Be prepared for small patches of sand, dirt, and gravel.  

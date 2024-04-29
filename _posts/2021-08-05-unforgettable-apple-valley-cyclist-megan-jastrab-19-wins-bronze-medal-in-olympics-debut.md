@@ -1,9 +1,9 @@
 ---
 title: "‘Unforgettable’: Apple Valley cyclist Megan Jastrab, 19, wins bronze medal in Olympics debut"
-date: '2021-08-05T06:12:00-07:00'
+date: "2021-08-05T06:12:00-07:00"
 layout: post
 categories:
-    - 'Event news'
+- 'Event news'
 ---
 
 If Apple Valley’s Megan Jastrab keeps a journal, a recent entry might read: Went to the Tokyo Summer Olympics, helped my cycling team capture a bronze medal, having a good time.

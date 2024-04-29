@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist injured in early morning crash with car in Victorville"
-date: '2019-06-03T13:24:23-07:00'
+date: "2019-06-03T13:24:23-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — A bicyclist was transported to a local hospital after crashing with a car Monday morning.

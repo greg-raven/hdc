@@ -1,9 +1,9 @@
 ---
 title: "Mojave Riverwalk video"
-date: '2020-01-10T12:05:00-08:00'
+date: "2020-01-10T12:05:00-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The City of Victorville’s Twitter announcement of the opening of the Mojave Riverwalk.

@@ -1,10 +1,10 @@
 ---
 title: "Bicycle Route 66"
-date: '2013-10-10T16:12:42-07:00'
+date: "2013-10-10T16:12:42-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
+- Advocacy
+- 'Bike lanes'
 ---
 
 An exciting proposal to extend the United States Bicycle Route System (AKA USBRS, part of the National Corridor Plan) through our area.

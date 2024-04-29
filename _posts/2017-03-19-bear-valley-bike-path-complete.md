@@ -1,9 +1,9 @@
 ---
 title: "Bear Valley Bike Path complete"
-date: '2017-03-19T15:46:00-07:00'
+date: "2017-03-19T15:46:00-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 APPLE VALLEY — Two separated sections of a bike path on the northern side of Bear Valley Road were recently completed, forging a cyclable connection between Jess Ranch Marketplace and Victor Valley College.

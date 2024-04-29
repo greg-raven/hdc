@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist injured in hit-and-run Wednesday afternoon in Hesperia"
-date: '2022-05-04T14:08:00-07:00'
+date: "2022-05-04T14:08:00-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA, Calif. (VVNG.com) — A bicyclist was transported to a hospital after he was injured in by a hit-and-run driver in Hesperia.

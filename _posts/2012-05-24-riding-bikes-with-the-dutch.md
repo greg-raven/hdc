@@ -1,10 +1,10 @@
 ---
 title: "&#8216;Riding Bikes with the Dutch&#8217;"
-date: '2012-05-24T18:52:26-07:00'
+date: "2012-05-24T18:52:26-07:00"
 layout: post
 categories:
-    - Advocacy
-    - Videos
+- Advocacy
+- Videos
 ---
 
 Filmmaker Michael Bauch showed his 37-minute film, “Riding Bikes with the Dutch,” to the students at Yucca Loma School in Apple Valley tonight.

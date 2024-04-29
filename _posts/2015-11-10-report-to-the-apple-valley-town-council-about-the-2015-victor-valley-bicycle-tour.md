@@ -1,11 +1,11 @@
 ---
 title: "Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour"
-date: '2015-11-10T19:00:23-08:00'
+date: "2015-11-10T19:00:23-08:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 Smitty Smith of the VVBT reports that they raised enough money to donate $12,000 to children’s bicycle safety in Apple Valley, Hesperia, and Victorville.

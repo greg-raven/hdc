@@ -1,9 +1,9 @@
 ---
 title: "Navajo Road in Apple Valley closed after a bicyclist was struck and killed"
-date: '2023-12-19T15:11:01-08:00'
+date: "2023-12-19T15:11:01-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 APPLE VALLEY, Calif. (VVNG.com) — Authorities investigated after a bicyclist was struck and killed Tuesday evening in the Town of Apple Valley.

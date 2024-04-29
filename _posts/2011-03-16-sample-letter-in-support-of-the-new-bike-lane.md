@@ -1,10 +1,10 @@
 ---
 title: "Sample letter in support of the new bike lane"
-date: '2011-03-16T06:09:22-07:00'
+date: "2011-03-16T06:09:22-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
+- Advocacy
+- 'Bike lanes'
 ---
 
 There’s now a new deadline of March 17th to submit letters in support of the new bike lane. Here’s a sample letter:

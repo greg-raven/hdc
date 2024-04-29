@@ -1,9 +1,9 @@
 ---
 title: "AV further mutilates Outer Hwy 18"
-date: '2012-01-02T22:42:07-08:00'
+date: "2012-01-02T22:42:07-08:00"
 layout: post
 categories:
-    - Advocacy
+- Advocacy
 ---
 
 The Town of Apple Valley has further mutilated Outer Highway 18, this time at Kiowa. This mutilation seems to be in support of the Town’s support for the failed high-density housing project on the corner.  

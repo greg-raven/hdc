@@ -1,11 +1,11 @@
 ---
 title: "Rolling out the fun"
-date: '2018-10-27T17:39:00-07:00'
+date: "2018-10-27T17:39:00-07:00"
 layout: post
 categories:
-    - 'Ride news'
+- 'Ride news'
 tags:
-    - VVBT
+- VVBT
 ---
 
 APPLE VALLEY — It was a beautiful Saturday morning at Apple Valley Civic Center as Robert Love and his two children prepared for their ten-mile bicycle ride.

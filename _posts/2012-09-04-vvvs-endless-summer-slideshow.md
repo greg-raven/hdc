@@ -1,9 +1,9 @@
 ---
 title: "VVV&#8217;s endless summer slideshow (video)"
-date: '2012-09-04T05:52:56-07:00'
+date: "2012-09-04T05:52:56-07:00"
 layout: post
 categories:
-    - Videos
+- Videos
 ---
 
 Great photomontage of the Victor Valley Bicycle Club (AKA Victor Valley Velo).

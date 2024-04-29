@@ -1,10 +1,10 @@
 ---
 title: "Mojave Riverwalk Ribbon Cutting Ceremony and Inaugural Bike Ride"
-date: '2019-10-18T05:23:24-07:00'
+date: "2019-10-18T05:23:24-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
-    - 'Ride news'
+- 'Bike lanes'
+- 'Ride news'
 ---
 
 VICTORVILLE, Calif. (VVNG.com) — The City of Victorville will host an event to celebrate the Grand Opening of the Victorville Mojave Riverwalk on Nov. 2.

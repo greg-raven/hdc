@@ -1,9 +1,9 @@
 ---
 title: "Apple Valley BMX Skate Park grand opening Saturday"
-date: '2011-04-22T18:13:02-07:00'
+date: "2011-04-22T18:13:02-07:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 The Apple Valley BMX Skate Park at James A. Woody Park will celebrate its reopening Saturday with a ribbon cutting ceremony at 10:30 a.m. and a pro demonstration at 11 a.m.  

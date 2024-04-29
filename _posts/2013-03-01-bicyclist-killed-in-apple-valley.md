@@ -1,9 +1,9 @@
 ---
 title: "Bicyclist killed in Apple Valley"
-date: '2013-03-01T15:25:26-08:00'
+date: "2013-03-01T15:25:26-08:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 A bicyclist was struck and killed Friday morning as he rode along a busy road in Apple Valley, according to San Bernardino County sheriff’s officials.  

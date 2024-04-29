@@ -1,9 +1,9 @@
 ---
 title: "Rancherias is open again"
-date: '2015-01-03T18:35:27-08:00'
+date: "2015-01-03T18:35:27-08:00"
 layout: post
 categories:
-    - 'Bike lanes'
+- 'Bike lanes'
 ---
 
 Apple Valley seems to have finished the repaving of Rancherias north of Hwy 18, and as a bonus, there are now bike lanes on either side.

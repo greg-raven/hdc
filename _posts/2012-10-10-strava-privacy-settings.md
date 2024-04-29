@@ -1,9 +1,9 @@
 ---
 title: "Strava privacy settings"
-date: '2012-10-10T15:42:20-07:00'
+date: "2012-10-10T15:42:20-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 I may be the last Stava member to discover this, but Strava now has a great privacy feature that allows you to share your GPS ride data while protecting sensitive information.  

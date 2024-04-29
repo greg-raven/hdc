@@ -1,9 +1,9 @@
 ---
 title: "Woman killed after being struck by box truck in Hesperia"
-date: '2021-07-27T05:22:00-07:00'
+date: "2021-07-27T05:22:00-07:00"
 layout: post
 categories:
-    - Information
+- Information
 ---
 
 HESPERIA, Calif. (VVNG.com) — A woman is dead after she was hit by a truck in Hesperia Tuesday afternoon.

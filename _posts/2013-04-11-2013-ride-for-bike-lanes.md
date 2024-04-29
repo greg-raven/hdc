@@ -1,11 +1,11 @@
 ---
 title: "2013 Ride for Bike Lanes"
-date: '2013-04-11T05:54:18-07:00'
+date: "2013-04-11T05:54:18-07:00"
 layout: post
 categories:
-    - Advocacy
-    - 'Bike lanes'
-    - 'Ride news'
+- Advocacy
+- 'Bike lanes'
+- 'Ride news'
 ---
 
 Mark your calendars: The 2013 Ride for Bike Lanes is coming May 6th, 6:00 PM.  
