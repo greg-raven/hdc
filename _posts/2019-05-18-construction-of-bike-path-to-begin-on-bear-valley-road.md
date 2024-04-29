@@ -10,13 +10,13 @@ VICTORVILLE --- Road work is expected over the next several months along a porti
 
 Crews with the City of Victorville will construct the bike path on the north side of Bear Valley Road between Mojave Fish Hatchery Road and Jacaranda Avenue, adjacent to Victor Valley College.
 
-“This bike path will be a combination pedestrian and bike path,” City spokeswoman Sue Jones told the Daily Press. “The bike lane will be separated from the motor vehicle traffic on Bear Valley Road, and it will connect to the Mojave Riverwalk project.”
+"This bike path will be a combination pedestrian and bike path," City spokeswoman Sue Jones told the Daily Press. "The bike lane will be separated from the motor vehicle traffic on Bear Valley Road, and it will connect to the Mojave Riverwalk project."
 
 The work on Bear Valley Road consists of temporary striping to delineate temporary lane shifts in a small section of the roadway. Lanes will be shifted to allow for the bike path work, which is scheduled to begin later this month and last for several months, Jones said.
 
 Even though traffic lanes will be shifted on Bear Valley Road, the number of travel lanes will remain the same with three lanes in each direction. The length of the project is nearly 1,000 feet.
 
-“Right now, the City is working with Southern California Edison to begin work that is located under power lines,” said Jones, who added that the project is 100 percent grant funded.
+"Right now, the City is working with Southern California Edison to begin work that is located under power lines," said Jones, who added that the project is 100 percent grant funded.
 
 In February, City crews began work on a concrete bike trail along the Mojave River near the lower campus of VVC. The work involved grading and prepping the trailhead for the new four-mile Mojave Riverwalk that sits north of Bear Valley Road.
 

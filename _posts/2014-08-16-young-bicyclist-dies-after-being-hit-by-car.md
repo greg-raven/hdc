@@ -14,6 +14,6 @@ Sheriff's officials said investigators determined that Hesperia male was the dri
 
 Sheriff's officials said the Kia proceeded through the intersection on a green traffic signal and struck Arnold as he rode in front of his vehicle.
 
-\[…\]
+\[...\]
 
 Source: vvdailypress.com/article/20140815/NEWS/140819862

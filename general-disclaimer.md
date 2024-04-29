@@ -26,7 +26,7 @@ Each rider is responsible for his or her own safety, regardless of what this sit
 
 ### No Warranties
 
-This website is provided “as is” without any representations or warranties, express or implied. HDCycling.org makes no representations or warranties in relation to this website or the information and materials provided on this website.
+This website is provided "as is" without any representations or warranties, express or implied. HDCycling.org makes no representations or warranties in relation to this website or the information and materials provided on this website.
 
 Without prejudice to the generality of the foregoing paragraph, HDCycling.org does not warrant that:
 
@@ -74,4 +74,4 @@ You further agree that neither HDCycling.org nor its individual contributors can
 
 In summary, you understand that we make absolutely no guarantees regarding your safety or enjoyment as a result of applying this information, as well as the fact that you are solely responsible for the results of any action taken on your part as a result of any given information.
 
-In addition, for all intents and purposes you agree that our content is to be considered “for entertainment purposes only.”
+In addition, for all intents and purposes you agree that our content is to be considered "for entertainment purposes only."

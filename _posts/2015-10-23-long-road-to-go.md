@@ -12,13 +12,13 @@ APPLE VALLEY --- Officials say construction of the Yucca Loma Bridge is 85 to 90
 
 With that said, town spokeswoman Charlene Engeron added that the bridge spanning the Mojave River could be open to traffic in early 2017, even if the widening of Yucca Loma Road isn't concluded at that time.
 
-“We have some federal funding already assigned (for Yucca Loma Road),” Town Engineer Brad Miller told the Daily Press, “but there are certain avenues we have to go down to get awarded contracts.”
+"We have some federal funding already assigned (for Yucca Loma Road)," Town Engineer Brad Miller told the Daily Press, "but there are certain avenues we have to go down to get awarded contracts."
 
 The road-widening job was initially planned to be completed around the same time as the bridge itself, but Miller expects the town will advertise the project in December. He said the projection now is to commence with construction in either March or April of next year. That portion of the overall project will take approximately 10 months.
 
 Bidding for the road-widening project was originally expected to take place this summer, according to a previous Daily Press report.
 
-“As with most projects of this size there are small details that will take time,” Miller said, “(but) we're making very good progress. It's not a critical issue because we're going to be a little behind schedule (with the bridge).”
+"As with most projects of this size there are small details that will take time," Miller said, "(but) we're making very good progress. It's not a critical issue because we're going to be a little behind schedule (with the bridge)."
 
 The schedule for the completion of the 1,600-foot-long bridge has been pushed it back slightly, according to Miller, but he said it will still be close to the original October completion schedule.
 
@@ -26,7 +26,7 @@ The bridge --- essentially three independent bridges connected by joints --- is 
 
 The Green Tree Boulevard extension is in the right-of-way acquisition phase, according to Miller.
 
-“We're waiting on word for the (grant proposal) that we submitted,” Miller said. “All three agencies went to Washington last April to promote the Green Tree extension. We're still waiting to hear what … funds will come our way.”
+"We're waiting on word for the (grant proposal) that we submitted," Miller said. "All three agencies went to Washington last April to promote the Green Tree extension. We're still waiting to hear what ... funds will come our way."
 
 Two potential funding grants were requested in Washington, Miller said. The first was for $20 million, which would fund the project to completion. The second, which would serve as interim funding, was a fallback request of $13 million.
 

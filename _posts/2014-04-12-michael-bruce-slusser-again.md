@@ -14,7 +14,7 @@ If you remember, in May of 2012 Slusser cut a deal with authorities for three ye
 
 Typically, you wouldn't think that probationers would be allowed to leave the country, but apparently Slusser has done just that, without obtaining permission, no less.
 
-We're informed that Slusser has been spotted in Belize, where he apparently spent the week in Belize City. While there, the report is that he told someone who is involved in litigation with him, “You will regret you took me to court because I know where you live.”
+We're informed that Slusser has been spotted in Belize, where he apparently spent the week in Belize City. While there, the report is that he told someone who is involved in litigation with him, "You will regret you took me to court because I know where you live."
 
 Attempts have been made to contact Slusser's parole officer (Tolson), but she seems to be on leave. A phone call to Tolson was forwarded to an Officer Zavala, who was not in, and she never returned the call. An Officer Razo --- who is filling in for Tolson in Slusser's case file --- has been notified about Slusser's travels. After considerably prodding, Razo eventually promised that someone would check if Slusser had left the country, and if so, that a bench warrant would be issued for him. However, Razo did not commit to a time when the probation department would be performing the check, so it could well be after Slusser returns from Belize. Given Officer Razo's seeming apathy on the topic, it's a stretch to image him (or anyone else in the probation department) taking the next step and checking Slusser's passport, but you never know.
 

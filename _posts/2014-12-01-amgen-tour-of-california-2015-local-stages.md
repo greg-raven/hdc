@@ -18,15 +18,15 @@ In the spring, summer and fall it's all about the lake! The centerpiece pictures
 
 Big Bear Lake is where all cultures speak the same language of leisure and outdoor recreation. Elevate your next trip to California and LIVE IT. UP. in Big Bear Lake!
 
-“Big Bear is honored to serve as a time trial for the 2015 Amgen Tour of California. In 2010 and 2012, we served as a mountaintop finish and the Tour helped put Big Bear on the international map for cycling.” --- Mayor Jay Obernolte
+"Big Bear is honored to serve as a time trial for the 2015 Amgen Tour of California. In 2010 and 2012, we served as a mountaintop finish and the Tour helped put Big Bear on the international map for cycling." --- Mayor Jay Obernolte
 
-“Road cycling continues to grow into the cornerstone of our signature outdoor sporting and athletic events. Our unique location and environment make Big Bear the ideal high-altitude venue for training and competition!” --- Mayor Jay Obernolte
+"Road cycling continues to grow into the cornerstone of our signature outdoor sporting and athletic events. Our unique location and environment make Big Bear the ideal high-altitude venue for training and competition!" --- Mayor Jay Obernolte
 
 **Route Information: May 16, 2015 – Stage 7 Start**
 
 Built and owned by the City of Ontario, the Arena opened on October 18, 2008. Citizens Business Bank Arena is a state-of-the-art facility that hosts Ontario Reign ECHL ice hockey and a variety of other sporting competitions, concerts, family shows, special events, and community activities as well as private events. The venue is the biggest and most modern arena within the Inland Empire.
 
-Citizens Business Bank Arena was built on a 37-acre footprint between Haven Avenue and Milliken Avenue and Fourth Street and the I-10 Freeway. Citizens Business Bank Arena includes 9,500 fixed seats with additional “portable” seating risers to accommodate capacities of 11,089 for concerts, 9,736 for ice hockey and 10,832 for basketball. The 225,000 square foot venue will also feature 36 suites located on two levels and a continuous concourse hosting a variety of refreshment stands and merchandise kiosks, a VIP club and other fan amenities.
+Citizens Business Bank Arena was built on a 37-acre footprint between Haven Avenue and Milliken Avenue and Fourth Street and the I-10 Freeway. Citizens Business Bank Arena includes 9,500 fixed seats with additional "portable" seating risers to accommodate capacities of 11,089 for concerts, 9,736 for ice hockey and 10,832 for basketball. The 225,000 square foot venue will also feature 36 suites located on two levels and a continuous concourse hosting a variety of refreshment stands and merchandise kiosks, a VIP club and other fan amenities.
 
 **Route Information: May 16, 2015 – Stage 7 Finish**
 
@@ -36,6 +36,6 @@ Mt. Baldy is located 45 miles from downtown Los Angeles and is a popular locatio
 
 Whether it's the local bighorn sheep or world-class cyclists, fans should have plenty to see when the fierce competition unfolds on this legendary mountain on Saturday, May 16!
 
-“The Amgen Tour de California has done so much to put Mt Baldy and its world class climb in the cycling world spot light. We are honored to be part of the race in 2015 and many others to come.” --- Robby Ellingson, General Manager, Mt Baldy Ski Lifts
+"The Amgen Tour de California has done so much to put Mt Baldy and its world class climb in the cycling world spot light. We are honored to be part of the race in 2015 and many others to come." --- Robby Ellingson, General Manager, Mt Baldy Ski Lifts
 
 For more information: amgentourofcalifornia.com/host-cities?utm\_source=Host+City+Announcement+&amp;utm\_campaign=Crush+Challenge+&amp;utm\_medium=email

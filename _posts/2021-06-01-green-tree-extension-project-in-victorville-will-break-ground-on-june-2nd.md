@@ -22,7 +22,7 @@ Bike lanes will be added throughout the length of the project creating a larger 
 
 The City expects to use nearly 55 million pounds of asphalt and close to two billion pounds of dirt for the bridge and roadway combined.
 
-“To bring an engineering marvel of this magnitude to reality requires not only great engineering but also great vision, teamwork, and collaboration,” said Victorville Mayor, Debra Jones. “We are extremely grateful to the Town of Apple Valley, County of San Bernardino, and San Bernardino County Transportation Authority for helping us make this vision a reality.”
+"To bring an engineering marvel of this magnitude to reality requires not only great engineering but also great vision, teamwork, and collaboration," said Victorville Mayor, Debra Jones. "We are extremely grateful to the Town of Apple Valley, County of San Bernardino, and San Bernardino County Transportation Authority for helping us make this vision a reality."
 
 The Green Tree Extension will be completed for a total cost of approximately $46.8 million. San Bernardino County Transportation Authority will contribute $22.7 million, the City of Victorville $15 million, the Town of Apple Valley nearly $4 million, and the County of San Bernardino approximately $900,000. Additionally, a federal earmark of $4.2 million originally designated for the High Desert Corridor was authorized for the construction of the Green Tree Extension.
 

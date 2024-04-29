@@ -10,7 +10,7 @@ categories:
 
 When passing a bicyclist on a shoulder, drivers in the adjacent lane will have to slide left a lane if available or slow down. Military veterans with specialized license plates will get a perk --- they won't have to pay tolls on roadways and bridges in the Golden State.
 
-\[…\]
+\[...\]
 
 **Protections for bicyclists**
 
@@ -18,10 +18,10 @@ Drivers will have to safely merge to a left lane if available or if not slow dow
 
 This follows the lead of an already established law for motorists passing such vehicles as an emergency one stopped to the side with flashing lights on.
 
-“I think in general this law absolutely make it a little more safe for cyclists,” said Smith, the CHP officer.
+"I think in general this law absolutely make it a little more safe for cyclists," said Smith, the CHP officer.
 
 Also, local governments can no longer require cyclists to get licenses to ride their bikes in those jurisdictions.
 
-\[…\]
+\[...\]
 
 Source: Josh Cain and Nathaniel Percy, [Los Angeles Daily News](https://www.dailynews.com/2022/12/30/bicyclists-get-more-room-vets-get-a-break-on-tolls-and-cops-get-a-law-to-fight-reckless-driving/)

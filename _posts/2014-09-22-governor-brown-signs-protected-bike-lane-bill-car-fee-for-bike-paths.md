@@ -12,7 +12,7 @@ The governor approved [Assembly Bill 1193](https://leginfo.legislature.ca.gov/fa
 
 **State To Create Standards Supporting Protected Bike Lanes**
 
-A.B. 1193, by Assemblymember Phil Ting (D-San Francisco), will require Caltrans to create engineering standards for protected bike lanes, which until now have been discouraged by a complex approval processes and a lack of state guidance. This new class of lane --- called cycletracks, or “class IV bikeways,” in Caltrans terms --- are separated from motor traffic using a physical barrier, such as curbs, planters, or parked cars.
+A.B. 1193, by Assemblymember Phil Ting (D-San Francisco), will require Caltrans to create engineering standards for protected bike lanes, which until now have been discouraged by a complex approval processes and a lack of state guidance. This new class of lane --- called cycletracks, or "class IV bikeways," in Caltrans terms --- are separated from motor traffic using a physical barrier, such as curbs, planters, or parked cars.
 
 Protected bike lanes have been [shown](https://usa.streetsblog.org/2014/06/02/get-ready-for-a-landmark-study-of-americas-protected-bike-lanes/) to increase the number of people bicycling on them, to make cyclists feel safer, and to decrease the number of wrong-way and sidewalk riders on streets that have them.
 

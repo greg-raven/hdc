@@ -8,7 +8,7 @@ categories:
 
 Attention Cycling Enthusiasts!
 
-The Joshua Tree Rotary is pleased to invite everyone to their 16th annual “Bike 4 Shoes” event, a bike ride for “Shoes That Fit,” sponsored by Joshua Tree Rotary.
+The Joshua Tree Rotary is pleased to invite everyone to their 16th annual "Bike 4 Shoes" event, a bike ride for "Shoes That Fit," sponsored by Joshua Tree Rotary.
 
 This is a ride to raise funds to purchase shoes for children in need. Depending on the route you choose, you could be enjoying a challenging but beautiful ride though famous Pioneertown, home of many western movies; the rural town of Landers, home of Giant Rock and the Integratron (watch out for UFOs!); the quaint village of Joshua Tree, a community of artists and musicians and home of the West entrance to the beautiful Joshua Tree National Park; or Yucca Valley, the economic hub of the Morongo Basin.
 

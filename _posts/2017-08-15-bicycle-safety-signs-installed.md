@@ -10,15 +10,15 @@ tags:
 
 APPLE VALLEY --- Bicyclists on the road should be a lot safer after the Victor Valley Bicycle Tour donated hundreds bike safety signs to three High Desert municipalities and the county.
 
-Thurston 'Smitty' Smith, chairman of the VVBT, told the Review the first of 150 “PASS 3 FT MIN” signs have been installed in the Town of Apple Valley. San Bernardino County, along with Hesperia and Victorville, were each given 150 signs that will soon be installed.
+Thurston 'Smitty' Smith, chairman of the VVBT, told the Review the first of 150 "PASS 3 FT MIN" signs have been installed in the Town of Apple Valley. San Bernardino County, along with Hesperia and Victorville, were each given 150 signs that will soon be installed.
 
 The signs reflect the 2013 signing of Assembly Bill 1371, which requires drivers in California to give bicyclists three feet of space before passing. Motorists who violate the law face fines that increase if a collision occurs.
 
-“These signs remind drivers that there is a law on the books that was written to protect bicyclists,” Smith told the Review. “Last year, we donated 4,000 helmets for kids and this year we did signs. This is our way of bringing much needed awareness to bicycle safety in the Victor Valley.”
+"These signs remind drivers that there is a law on the books that was written to protect bicyclists," Smith told the Review. "Last year, we donated 4,000 helmets for kids and this year we did signs. This is our way of bringing much needed awareness to bicycle safety in the Victor Valley."
 
-The first safety sign was installed last week on Central Road near Thunderbird Road in Apple Valley, with the first installation signaling a “small victory” for the town over Hesperia, Smith said.
+The first safety sign was installed last week on Central Road near Thunderbird Road in Apple Valley, with the first installation signaling a "small victory" for the town over Hesperia, Smith said.
 
-“We had a little competition to see who would install their sign first,” Smith said. “I guess the fruits of victory goes to the Town of Apple Valley.”
+"We had a little competition to see who would install their sign first," Smith said. "I guess the fruits of victory goes to the Town of Apple Valley."
 
 Smith said the contributions and the annual tour could not be possible without the support of the local municipalities, residents, businesses and groups. Last year, Apple Valley and the cities of Hesperia and Victorville budgeted $1,250 for the VVBT, with the Hesperia Recreation and Park District contributing $1,000.
 

@@ -22,4 +22,4 @@ This is a developing story and additional information will be updated as it beco
 
 Source: [Victor Valley News Group](https://www.vvng.com/bicyclists-struck-and-killed-tuesday-in-hesperia/)
 
-Original headline: “Bicyclists struck and killed Tuesday in Hesperia”
+Original headline: "Bicyclists struck and killed Tuesday in Hesperia"

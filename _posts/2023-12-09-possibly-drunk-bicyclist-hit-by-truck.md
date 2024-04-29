@@ -16,7 +16,7 @@ He was taken by a ground ambulance to Desert Valley Medical Center for treatment
 
 The driver of the classic Chevy truck, Mike Valdez, 5o, an Oak Hills resident, remained on scene and waited for authorities to arrive.
 
-The driver was on his way to babysit his grandchildren in Hesperia and told Victor Valley News “the man was laying on the ground, I thought he was dead so I started praying, then he just got up and started walking around.”
+The driver was on his way to babysit his grandchildren in Hesperia and told Victor Valley News "the man was laying on the ground, I thought he was dead so I started praying, then he just got up and started walking around."
 
 The name of the 33-year-old bicyclist was not released, just that he was a resident of Victorville.
 

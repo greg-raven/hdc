@@ -6,17 +6,17 @@ categories:
 - 'Event news'
 ---
 
-The Redlands Bicycle Classic is back this week after a two-year coronavirus hiatus with a “new” course, road closures, and plenty of opportunities for public participation.
+The Redlands Bicycle Classic is back this week after a two-year coronavirus hiatus with a "new" course, road closures, and plenty of opportunities for public participation.
 
 The race starts Wednesday, April 20, in Highland.
 
-That “stage is a 'circuit' race, which means the cyclists will be completing numerous laps around the course,” officials said in a mailer to community members. “This will give you an opportunity to see them up close and cheer them on as they pass by your location.”
+That "stage is a 'circuit' race, which means the cyclists will be completing numerous laps around the course," officials said in a mailer to community members. "This will give you an opportunity to see them up close and cheer them on as they pass by your location."
 
 Roads to be closed in Highland include eastbound Base Line, Jack Rabbit Lane, Foxtail Way, Glenheather Drive, Tonner Drive, Orange Street, Sycamore Drive, Webster Street and Church Street. Most of the roads are slated to be closed from 8 a.m. to 3 p.m.
 
 On Thursday, racers will be in Yucaipa and Oak Glen. Some, but not all of the road closures there begin at 8 a.m. and last until 3 p.m. Affected roads in the area include Sunnyside Drive, Crafton Avenue and Oak Glen Road.
 
-“This is a great spectator course, and ends in beautiful Oak Glen, where you can enjoy a slice of fresh apple pie,” officials tweeted on April 14.
+"This is a great spectator course, and ends in beautiful Oak Glen, where you can enjoy a slice of fresh apple pie," officials tweeted on April 14.
 
 Friday is the 9.1-mile Route 66 Time Trial course in the Cajon Pass that was last used in 1996.
 

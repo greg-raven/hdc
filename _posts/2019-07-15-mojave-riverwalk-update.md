@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-The next stage of the Mojave Riverwalk, a concrete bike trail along the Mojave River near the lower campus of Victor Valley College, is approaching completion. (See “City begins building Mojave Riverwalk.”)
+The next stage of the Mojave Riverwalk, a concrete bike trail along the Mojave River near the lower campus of Victor Valley College, is approaching completion. (See "City begins building Mojave Riverwalk.")
 
 According to Sue Jones, the contractor is making finishing touches on the Riverwalk. When these final touches are complete, the Notice of Completion must be approved by the Victorville City Council before they deem this project to be done.
 

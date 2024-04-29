@@ -20,6 +20,6 @@ California law considers electric unicycles as electrically motorized boards, wh
 
 It's uncertain if the unicycle rider was identified or cited as the California Highway Patrol did not return messages on Tuesday.
 
-\[…\]
+\[...\]
 
 Source: Rene Ray De La Cruz, vvdailypress.com/story/news/2024/04/04/electric-unicycle-rider-seen-cruising-down-i-15-in-the-cajon-pass/73187791007/

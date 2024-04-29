@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-Now that the weather is supposedly getting better (for those who don't consider wind to be part of “the weather”), you've probably read stories about how we're going to have another bumper crop of snakes.  
+Now that the weather is supposedly getting better (for those who don't consider wind to be part of "the weather"), you've probably read stories about how we're going to have another bumper crop of snakes.  
   
 Well, here's a heads-up: I saw a juvenile rattler on Johnson Road this morning.
 

@@ -1,5 +1,5 @@
 ---
-title: "Apple Valley&#8217;s cycling-related projects in design"
+title: "Apple Valley's cycling-related projects in design"
 date: "2015-05-27T07:49:58-07:00"
 layout: post
 categories:

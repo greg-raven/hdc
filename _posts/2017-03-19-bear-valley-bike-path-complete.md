@@ -14,7 +14,7 @@ The Town Council approved acceptance of Riverside Construction's work on the the
 
 The two sections comprise the first of a two-phase project. Town spokeswoman Kathie Martin told the Daily Press the original bids were higher than town officials expected, so the project was split between the two municipalities.
 
-“The Jacaranda (Avenue) to (VVC's) upper campus segment is phase 2,” Martin said, “and the City of Victorville is putting together the funding for that portion.”
+"The Jacaranda (Avenue) to (VVC's) upper campus segment is phase 2," Martin said, "and the City of Victorville is putting together the funding for that portion."
 
 Officials in Victorville were not available for comment as City Hall is closed Fridays.
 
@@ -22,6 +22,6 @@ A majority of funding for the town's portion of the project project came from a 
 
 The town awarded a contract to Riverside Construction in September 2016, with work starting in November. Martin spoke to the importance of the Bear Valley Bike path last week.
 
-“(It's) definitely a connector between Jess Ranch Marketplace and VVC,” she said, “as well as an important link to the loop that includes the Mojave Riverwalk and Yucca Loma Bridge.”
+"(It's) definitely a connector between Jess Ranch Marketplace and VVC," she said, "as well as an important link to the loop that includes the Mojave Riverwalk and Yucca Loma Bridge."
 
 Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com/news/20170319/bear-valley-bike-path-complete)

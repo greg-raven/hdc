@@ -16,15 +16,15 @@ But what was supposed to become a bigger and better cycling event this year now 
 
 The Chuck Hansen High Desert Bicycle Tour was slated for October with 100-, 50-, and 25-mile rides through portions of Apple Valley, Hesperia and Victorville. But the event has been canceled. The Hansens say this happened after they complained via email that the planned routes were not rider-friendly and required too many directions.
 
-\[…\]
+\[...\]
 
-“There were complications shifting from a solely Apple Valley event to a regional event,” Victorville City Manager Doug Robertson said in an email. “The committee believed it would be best to work on a safe, successful event in 2015 rather than try to rush the event this year and potentially have a negative experience for the riders we attract from outside the area.”
+"There were complications shifting from a solely Apple Valley event to a regional event," Victorville City Manager Doug Robertson said in an email. "The committee believed it would be best to work on a safe, successful event in 2015 rather than try to rush the event this year and potentially have a negative experience for the riders we attract from outside the area."
 
 Apple Valley Mayor Art Bishop helped the Hansens get the event going, and he said he thinks expanding it to a regional event makes sense, even if it means postponing it for a year.
 
-“From Apple Valley's point of view we're excited about it becoming a regional bike ride,” Bishop said. “To go regional is the right thing, but sometimes the hardest thing.”
+"From Apple Valley's point of view we're excited about it becoming a regional bike ride," Bishop said. "To go regional is the right thing, but sometimes the hardest thing."
 
-\[…\]
+\[...\]
 
 Robertson and Bishop seem convinced the event will return in 2015. But that's still a bitter pill for the Hansens, who point to lost money and the inability to provide charitable support to the Police Activities League this year.
 

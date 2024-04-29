@@ -13,7 +13,7 @@ The Active Transportation Plan identifies locations for future bicycle and pedes
 
 An emphasis would be placed on improving social equity, reconnecting communities and improving access for all modes of transportation, including people who walk and bicycle.
 
-“It's our priority to ensure safe access for all users across our transportation system. This Active Transportation Plan aims to improve safety and access for people who walk, bicycle, and use transit,” said Caltrans District 8 Director Michael Beauchamp. “Improving our active transportation network will result in improved air quality, health, social equity, quality of life, and economic opportunity.”
+"It's our priority to ensure safe access for all users across our transportation system. This Active Transportation Plan aims to improve safety and access for people who walk, bicycle, and use transit," said Caltrans District 8 Director Michael Beauchamp. "Improving our active transportation network will result in improved air quality, health, social equity, quality of life, and economic opportunity."
 
 In the High Desert, the Active Transportation Plan shows the need for great improvement along Palmdale Road/Highway 18 in Victorville, Highway 18 in Apple Valley, Interstate 15, Highway 395, and Highway 247.
 

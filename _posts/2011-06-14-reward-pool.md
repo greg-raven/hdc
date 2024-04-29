@@ -8,10 +8,10 @@ categories:
 
 I have set up a special account with Desert Community Bank (DCB) to hold donations for a reward leading to the arrest and conviction of the driver involved in the [hit-and-run on Apple Valley Road last Saturday](/2011/06/11/hit-and-run-on-apple-valley-road/).  
   
-The name of the account is “Reward Pool Account.” If you wish to donate you have a couple options:
+The name of the account is "Reward Pool Account." If you wish to donate you have a couple options:
 
 - Hand me your donation next time you see me, and I'll make the deposit into this account;
-- Make your check out to “Reward Pool Account” and send it to me at PO Box 1710, Apple Valley, CA 92307, which I will then deposit into this account;
+- Make your check out to "Reward Pool Account" and send it to me at PO Box 1710, Apple Valley, CA 92307, which I will then deposit into this account;
 - Make your check out to me (Greg Raven) and I'll deposit it into this account;
 - Transfer money using Paypal to my account (greg@corax.org), and I'll transfer it to the reward account
 

@@ -1,5 +1,5 @@
 ---
-title: "My (cycling) New Year&#8217;s resolution"
+title: "My (cycling) New Year's resolution"
 date: "2013-03-11T16:30:29-07:00"
 layout: post
 categories:

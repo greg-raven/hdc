@@ -1,5 +1,5 @@
 ---
-title: "Just remember &#8230;"
+title: "Just remember ..."
 date: "2011-02-01T18:07:32-08:00"
 layout: post
 categories:

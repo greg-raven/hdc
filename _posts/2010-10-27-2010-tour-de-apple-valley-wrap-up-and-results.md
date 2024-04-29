@@ -14,7 +14,7 @@ Soon after the ride started, though, the cold began to lose its grip and the pen
 
 There were other differences, too this year.
 
-One such difference was much better support by the sheriffs. There were volunteers or a squad car at many of the major intersections, giving preference to bike traffic. Another was the additional “SAG” stops along the way.
+One such difference was much better support by the sheriffs. There were volunteers or a squad car at many of the major intersections, giving preference to bike traffic. Another was the additional "SAG" stops along the way.
 
 Perhaps the most dramatic difference was that the powers that be allowed the race organizers to cross Highway 18 for the first time in the history of the ride. It was nice to be able to give the metric century riders a change of scenery for the second half of the ride, even though it meant using roads that had yet to be cleared of sand, dirt, gravel, and other debris from our recent storms.
 

@@ -36,7 +36,7 @@ Join the fun by signing up at [Active.com](https://www.active.com/apple-valley-c
 : Contact us through [our FaceBook page](https://www.facebook.com/victorvalleybicycletour).
 
 **Have I heard of VVBT?**
-: Yes! The VVBT provides the “Pass bicycles 3 feet min” signs around the Victor Valley. VVBC also provided the bike fix-it stations on the new bike lane along the Mojave River and at Hesperia Civic Park.
+: Yes! The VVBT provides the "Pass bicycles 3 feet min" signs around the Victor Valley. VVBC also provided the bike fix-it stations on the new bike lane along the Mojave River and at Hesperia Civic Park.
 
 **Are e-bikes allowed?**
 : Yes, class 1 and 2 e-bikes are allowed.

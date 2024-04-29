@@ -16,7 +16,7 @@ Sheriff's spokeswoman Mara Rodriguez told the male victim was transported to the
 
 Rodriguez said the investigation is still active but it appears that a hit and run collision occurred at the location.
 
-“As of right now, the driver of the vehicle is not in custody,” stated the spokeswoman.
+"As of right now, the driver of the vehicle is not in custody," stated the spokeswoman.
 
 Deputies blocked off a stretch of Fifth Avenue while they conducted their investigation.
 

@@ -24,6 +24,6 @@ The roads for the metric half century are better than expected. Taking the route
 
 Other corners looked clearer than they have in weeks, and someone was nice enough to broom off most of the gravel at the right turn from Navajo to Altadena, which should make that downhill turn much nicer. Also, the town has painted the stripes on the new section of Dale Evans Parkway (between Waalew and Otoe), so they seem well ahead of their announced November 17th completion date.
 
-There wasn't time to do the entire “second half” of the metric century, but the bike lane on Apple Valley Road is a disaster area, with incredible amounts of sand, dirt, and gravel having washed onto the roadway. Also, you should approach the descent on Tao with caution, as debris often washes across the roadway here, too.
+There wasn't time to do the entire "second half" of the metric century, but the bike lane on Apple Valley Road is a disaster area, with incredible amounts of sand, dirt, and gravel having washed onto the roadway. Also, you should approach the descent on Tao with caution, as debris often washes across the roadway here, too.
 
 Finally as a reminder, there are port-a-potties on the route at Sycamore Rocks Park (corner of Joshua and South) and Virginia Park (on Central just north of Cahulla).

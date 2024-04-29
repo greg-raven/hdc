@@ -16,7 +16,7 @@ Before our telephone conversation, Conaty sent me this information:
 > 
 > Because the project is only in the project approval/environmental document (PA/ED) phase, there is no available design for the proposed Bike Path. The following characteristics/features are proposed:
 > 
-> - The facility would be a Class 1 Bikeway (Bike Path), as defined in Caltrans' Highway Design Manual (HDM), Chapter 1000\[1\] as a “completely separated right-of-way for the exclusive use of bicycles and pedestrians with cross-flow by motorists minimized.”
+> - The facility would be a Class 1 Bikeway (Bike Path), as defined in Caltrans' Highway Design Manual (HDM), Chapter 1000\[1\] as a "completely separated right-of-way for the exclusive use of bicycles and pedestrians with cross-flow by motorists minimized."
 > - The facility would be constructed parallel to and within right-of-way to be acquired as part of the HDC corridor. The Bike Path would be constructed at an appropriate separation from the motorized transportation uses; no closer than five linear feet from the freeway shoulder with an intervening fence/barrier.
 > - The Bike Path would be designed as a bi-directional, shared-use (i.e., non-motorized uses) facility in accordance with the HDM, Chapter 1000 requirements.
 > - Clear signage would be provided indicating: hours of operation; use restrictions (e.g., motor vehicles prohibited); safety protocol; and emergency contact information.

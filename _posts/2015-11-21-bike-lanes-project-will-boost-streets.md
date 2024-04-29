@@ -14,7 +14,7 @@ Almost all the roads where bike lanes are planned will include a pavement rehabi
 
 According to a city staff report, the LTF will pay 15 to 20 percent of the rehab project on streets that don't need to be widened and a higher percentage on streets that do.
 
-“It's probably stretching our street maintenance dollars by 15 to 20 percent,” City Engineer Brian Gengler said Tuesday.
+"It's probably stretching our street maintenance dollars by 15 to 20 percent," City Engineer Brian Gengler said Tuesday.
 
 The City Council, which was seeing the plan for the first time Tuesday, approved it 4-0, with Mayor Gloria Garcia absent. Over the next five years, the two-prong approach is expected to result in upgrades to major thoroughfares including Bear Valley, La Mesa, Hesperia, Amethyst and El Evado roads and Air Expressway.
 

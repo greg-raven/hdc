@@ -6,13 +6,13 @@ categories:
 - 'Bike lanes'
 ---
 
-VICTORVILLE --- The community is invited to attend a workshop about the City of Victorville's “Complete Streets” improvement project. The workshop will be held June 8 at 4:30 p.m. at Mojave Vista Elementary School.
+VICTORVILLE --- The community is invited to attend a workshop about the City of Victorville's "Complete Streets" improvement project. The workshop will be held June 8 at 4:30 p.m. at Mojave Vista Elementary School.
 
-The “Complete Streets” project would add bike lanes, sidewalks, and ADA-compliant curb ramps along Arrowhead Drive and Seventh Avenue between Green Tree Road and Bear Valley Road. Residents are invited to share their ideas and aspirations for this improvement project at the workshop on June 8.
+The "Complete Streets" project would add bike lanes, sidewalks, and ADA-compliant curb ramps along Arrowhead Drive and Seventh Avenue between Green Tree Road and Bear Valley Road. Residents are invited to share their ideas and aspirations for this improvement project at the workshop on June 8.
 
-At this time, the City of Victorville is applying for a grant to fund the “Complete Streets” improvement project, and the community's input is vital to the grant application process.
+At this time, the City of Victorville is applying for a grant to fund the "Complete Streets" improvement project, and the community's input is vital to the grant application process.
 
-“Complete Streets” is a design concept that enables safe travel on roadways by all users, including motorized vehicles, bicyclists, and pedestrians. As a result, the City plans to widen streets, add bikes lanes, and install sidewalks and ADA-compliant ramping in certain areas.
+"Complete Streets" is a design concept that enables safe travel on roadways by all users, including motorized vehicles, bicyclists, and pedestrians. As a result, the City plans to widen streets, add bikes lanes, and install sidewalks and ADA-compliant ramping in certain areas.
 
 The Arrowhead Drive and Seventh Avenue Complete Streets project is part of Victorville's five-year plan to add bike lanes and pathways throughout the City.
 

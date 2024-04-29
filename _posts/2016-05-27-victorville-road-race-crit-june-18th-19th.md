@@ -18,9 +18,9 @@ Min 50% payout for all purses. Promoter will adjust overall prize list according
 
 \*\* Master 55+60+ and Pro Elite 1-4 will be Scored Separately
 
-RR / RULES AND COURSE: USAC category “D” race and all rules apply. Course is 6.2 miles, loop course a little technical with good asphalt. Course open to business traffic only. All race rules apply. Feed Zone will be on Phantom East by Shay Rd. coming up incline before Nevada.
+RR / RULES AND COURSE: USAC category "D" race and all rules apply. Course is 6.2 miles, loop course a little technical with good asphalt. Course open to business traffic only. All race rules apply. Feed Zone will be on Phantom East by Shay Rd. coming up incline before Nevada.
 
-Crit / RULES AND COURSE: USAC category “D” race and all rules apply. Course is 1.15 miles, 5 corners flat fast with good asphalt. Wheel Pit: Wheel in/ Wheel out. Free lap rule applies.
+Crit / RULES AND COURSE: USAC category "D" race and all rules apply. Course is 1.15 miles, 5 corners flat fast with good asphalt. Wheel Pit: Wheel in/ Wheel out. Free lap rule applies.
 
 REGISTRATION: 6:00am one hour before each scheduled race, closes 15 minutes before each scheduled race time. Same day registration add $10.00 late fee. May register for either race both days, day of. No Refunds Rain or shine. All primes and cash winning must be claimed after each event. Must pay highest race first. Registration and early packet pickup will be at the Green Tree Inn from 4pm to 7pm.
 

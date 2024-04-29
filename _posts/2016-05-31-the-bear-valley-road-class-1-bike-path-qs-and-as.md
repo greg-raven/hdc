@@ -20,7 +20,7 @@ Can't we use these funds for other pressing issues? The funds are from the Trans
 
 Why is the Town of Apple Valley administering the project? The Town is administering the project to efficiently facilitate the construction and administration of a much needed multi-jurisdictional project. The project will be beneficial for student residents of Apple Valley.
 
-How does the project fit into the regional picture? The project is consistent with SanBag's regional “Non-Motorized Transportation Plan”.
+How does the project fit into the regional picture? The project is consistent with SanBag's regional "Non-Motorized Transportation Plan".
 
 What about the River Walk Project? The River Walk Project connects to the proposed Class 1 bike path at Bear Valley Road on the west side of the bridge.
 

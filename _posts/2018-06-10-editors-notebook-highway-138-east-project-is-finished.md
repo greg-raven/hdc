@@ -23,6 +23,6 @@ Of course, this will prove more frustrating to drivers when there is more traffi
 
 So overall, I'm happy with the wideness and straightness of the new road, but sure wish Caltrans would have gone for four lanes instead of two.
 
-\[…\]
+\[...\]
 
 Source: Steve Hunt, [Daily Press](https://www.vvdailypress.com/news/20180609/editors-notebook-highway-138-east-project-is-finished)

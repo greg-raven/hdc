@@ -48,7 +48,7 @@ a) Any person operating a bicycle upon a roadway at a speed less than the normal
 
 1. When overtaking and passing another bicycle or motor vehicle proceeding in the same direction.
 2. When preparing for a left turn at an intersection or into a private road or driveway.
-3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a “substandard width lane” is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
+3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
 
 b) Any person operating a bicycle on a one-way street or highway with two or more marked traffic lanes, may ride as near the left-hand curb or edge of such roadway as practicable.
 

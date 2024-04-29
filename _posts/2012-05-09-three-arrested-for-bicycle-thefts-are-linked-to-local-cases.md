@@ -22,13 +22,13 @@ Investigators said the Herrera brothers and Mejia used Craigslist and Facebook t
 
 The men would identify their targets on Craigslist, officials said. They would contact prospective sellers by using phony names and email addresses and, after establishing a dialogue, the trio would gleem enough information to identify the residences where the bicycles were being kept.
 
-\[…\]
+\[...\]
 
 Investigators believe the men would then sell some of the stolen bicycles to a Los Angeles bicycle shop owned by Melecio Martinez, 33, of Los Angeles. Several of the stolen items were located at Martinez's shop, Los Angeles officials said.
 
 Detectives said the thieves scanned Craigslist and Facebook to prey on the growing online bicycling community who share photos of their bikes and look for parts on the Internet.
 
-\[…\]
+\[...\]
 
 Source: vvdailypress.com/articles/cases-34399-arrested-three.html
 

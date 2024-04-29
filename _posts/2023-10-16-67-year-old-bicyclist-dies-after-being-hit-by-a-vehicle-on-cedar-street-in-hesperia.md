@@ -18,13 +18,13 @@ A silver Lexus traveling westbound collided with Arayata as he rode on his bike 
 
 Eugene was rushed to the hospital in critical condition and despite life-saving measures, he succumbed to his injuries.
 
-Eugene's family said he lived 3 blocks away from the accident site and he had retired just 3 months ago to collect SSI but still worked so he could cover this year's home tax. “They have lived there for 20 years. He loved fishing and riding his bike all around the area as most people probably see him riding around,” stated Richard, Eugene's brother-in-law.
+Eugene's family said he lived 3 blocks away from the accident site and he had retired just 3 months ago to collect SSI but still worked so he could cover this year's home tax. "They have lived there for 20 years. He loved fishing and riding his bike all around the area as most people probably see him riding around," stated Richard, Eugene's brother-in-law.
 
 According to his family, Euegen's organs would be donated to help save others.
 
 A nearby resident named Shana Aguilera spoke to Hugo with VVNG and said it's a huge problem with people always driving fast on Cedar Street.
 
-“There is no definition line for lanes, so oftentimes cars travel through the center or to the sides depending on where vehicles are parked,” stated Shawna
+"There is no definition line for lanes, so oftentimes cars travel through the center or to the sides depending on where vehicles are parked," stated Shawna
 
 Shawna said neighbors would like to see speed humps or stop signs installed because the street is dangerous.
 

@@ -6,13 +6,13 @@ categories:
 - Advocacy
 ---
 
-National Bicycle Safety Month is celebrated every year in May. During National Bicycle Safety Month, the U.S. Department of Transportation's National Highway Traffic Safety Administration (N.H.T.S.A.) urges bicyclists and motorists to share the roadways by obeying the traffic laws and respecting each other's rights. National Bicycle Safety Month was created to remind the public to put “safety first.” Whether you are a beginner, a regular biker, a day-tripper, or an athlete, cycling is good for you. It is a healthy, low-impact exercise that people of all ages can enjoy. It is also fun, cheap, and good for the environment.
+National Bicycle Safety Month is celebrated every year in May. During National Bicycle Safety Month, the U.S. Department of Transportation's National Highway Traffic Safety Administration (N.H.T.S.A.) urges bicyclists and motorists to share the roadways by obeying the traffic laws and respecting each other's rights. National Bicycle Safety Month was created to remind the public to put "safety first." Whether you are a beginner, a regular biker, a day-tripper, or an athlete, cycling is good for you. It is a healthy, low-impact exercise that people of all ages can enjoy. It is also fun, cheap, and good for the environment.
 
 ## History of National Bicycle Safety Month
 
 National Bicycle Awareness Month was first celebrated in 1956. The League of American Bicyclists proposed encouraging healthy exercise by riding bikes. The first bicycle was built in 1839 by a Scottish blacksmith, Kirkpatrick Macmillan. After his invention, various European inventors added elements familiar to today's bike, such as the rear-wheel-drive and hand-operated brakes. This invention helped to ease transportation then and is still doing so now. It is the most efficient human-powered means of transportation regarding the energy a person must expend to travel a given distance.
 
-National Bicycle Awareness Month campaigns have focused on bicycle safety in recent years. Many states in America have taken up this initiative to encourage cycling. For example, Florida encourages its residents to ride bicycles to work for one week in a “Bike To Work” initiative. The other states that show frequent participation in National Bicycle Safety Month include Austin, Boston, Pasadena, and Portland. In addition, several events are sponsored all over the country in local communities to encourage bicycle riding and promote safety awareness.
+National Bicycle Awareness Month campaigns have focused on bicycle safety in recent years. Many states in America have taken up this initiative to encourage cycling. For example, Florida encourages its residents to ride bicycles to work for one week in a "Bike To Work" initiative. The other states that show frequent participation in National Bicycle Safety Month include Austin, Boston, Pasadena, and Portland. In addition, several events are sponsored all over the country in local communities to encourage bicycle riding and promote safety awareness.
 
 Bicycles influence humanity as they are used by people from all walks of life – from mailmen to sales assistants, police officers, paramedics, and others. They also help reduce traffic congestion, air pollution, and noise pollution. Therefore, motorists and cyclists are encouraged to celebrate National Bicycle Safety Month, which is good for healthy living and society.
 
@@ -34,11 +34,11 @@ Cars gave people more personal freedom and access to jobs and services.
 
 **How did Kirkpatrick Macmillan make the bicycle?**
 
-Macmillan saw someone riding a “Velocipede” and decided to build one for himself.
+Macmillan saw someone riding a "Velocipede" and decided to build one for himself.
 
 **What was the original bicycle called?**
 
-It was called the “Penny-Farthing.”
+It was called the "Penny-Farthing."
 
 ## How to Observe National Bicycle Safety Month
 

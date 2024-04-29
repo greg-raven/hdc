@@ -14,7 +14,7 @@ According to a sheriff's news release, the bicyclist identified as 59-year-old M
 
 Sparling was transferred to a local hospital where he succumbed to his injuries.
 
-“Deputies were able to identify the vehicle by a California license plate left at the scene,” stated the news release.
+"Deputies were able to identify the vehicle by a California license plate left at the scene," stated the news release.
 
 Erika Romero-Aguilar was identified as the driver of the SUV and her whereabouts are unknown. Officials confirmed the Navigator was found abandoned at Pilot Truck Stop on Highway 395 near Joshua Street in Hesperia.
 

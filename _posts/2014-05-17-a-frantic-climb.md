@@ -14,7 +14,7 @@ Hundreds lined the final kilometer along Tabletop Mountain Road in Wrightwood --
 
 Neal Thomas traveled from Phoenix to don a neon-yellow wig to cheer riders as they approached the last kilometer of the stage's final 17-mile climb.
 
-“I do it to stay young” Thomas said. “I turned 60 this year, and this keeps me young.”
+"I do it to stay young" Thomas said. "I turned 60 this year, and this keeps me young."
 
 Thomas has spent the last 10 years traveling to Europe to chase riders, hoping to make his way into highlight videos. This year he chose to track down the Tour of California before embarking on a bike ride across the U.S.
 

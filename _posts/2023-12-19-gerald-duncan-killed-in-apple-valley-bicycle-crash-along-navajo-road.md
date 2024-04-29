@@ -22,22 +22,22 @@ The incident remains under investigation.
 
 Our roads pose a unique danger for bicycle riders. According to the Insurance Institute for Highway Safety, 854 cyclists died in accidents with motor vehicles, accounting for 2 percent of traffic fatalities.
 
-“Bicyclists are particularly vulnerable on the road, and many factors can contribute to serious crashes,” said Candice Bond, a Managing Partner with Bond Legal and an experienced bicycle accident attorney.
+"Bicyclists are particularly vulnerable on the road, and many factors can contribute to serious crashes," said Candice Bond, a Managing Partner with Bond Legal and an experienced bicycle accident attorney.
 
-“It is imperative to come to a determination of the exact cause of these types of accidents. An attorney has the resources to review applicable insurance coverage, hire expert witnesses, run background checks, and locate witnesses. We carefully guide the family of the victim through the process.”
+"It is imperative to come to a determination of the exact cause of these types of accidents. An attorney has the resources to review applicable insurance coverage, hire expert witnesses, run background checks, and locate witnesses. We carefully guide the family of the victim through the process."
 
 Bond noted that in cases such as this, it is important to have an independent investigation conducted sooner than later to preserve any evidence.
 
-“In addition to a police report, an attorney will carefully review what may have contributed to the crash,” said Bond.
+"In addition to a police report, an attorney will carefully review what may have contributed to the crash," said Bond.
 
 **WRONGFUL DEATH CLAIM**
 
 Pending the results of any investigations, the family members of Gerald Duncan may be entitled to a wrongful death claim. Survivors of wrongful death victims may seek damages for loss of companionship, pain and suffering, and emotional distress following a catastrophic accident.
 
-Stefano Formica, of counsel at Bond Legal, said, “Grieving families of victims are sometimes overwhelmed by the legal processes that are in place to protect their rights.”
+Stefano Formica, of counsel at Bond Legal, said, "Grieving families of victims are sometimes overwhelmed by the legal processes that are in place to protect their rights."
 
-“An attorney can be a valuable and compassionate resource to help guide a family during this difficult time, and ensure that those left behind receive the restitution they are entitled to.”
+"An attorney can be a valuable and compassionate resource to help guide a family during this difficult time, and ensure that those left behind receive the restitution they are entitled to."
 
-\[…\]
+\[...\]
 
 Source: Michael Hussain, thelegaladvocate.com/news/breaking/gerald-duncan-hit-killed-bicycle-crash-navajo-road-apple-valley

@@ -6,11 +6,11 @@ categories:
 - Advocacy
 ---
 
-\[…\] Any time you ride in the dark, always remember that “light makes right.”  
+\[...\] Any time you ride in the dark, always remember that "light makes right."  
   
-Angelo “Andy” Douglas Azzato, 47, was found dead on the side of the road on Nov. 7 after apparently being struck and killed by a hit-and-run driver.
+Angelo "Andy" Douglas Azzato, 47, was found dead on the side of the road on Nov. 7 after apparently being struck and killed by a hit-and-run driver.
 
-“Most likely it happened sometime in the night,” said California Highway Patrol Officer Robert Grieve.
+"Most likely it happened sometime in the night," said California Highway Patrol Officer Robert Grieve.
 
 The case reminded me of a recent close call I'd rather not have happen again.
 
@@ -18,7 +18,7 @@ I was driving one night when I nearly wiped out a young cyclist who was riding o
 
 Until the cyclist came fully into my headlights, all I saw was a flash of white and orange. By the time he came into full view of my headlights I had gone from 40 mph to about 15 mph or so, and he was much too close for comfort as he crossed the street. My evening would have been filled with much less stress had he been riding with at least a plain white T-shirt. If so, I may have seen him from another 20 yards out.
 
-“In most bicycle collisions visibility is a factor,” California Highway Patrol Officer Matt Hunt said. “For overall bicycle safety, making yourself visible is paramount.”
+"In most bicycle collisions visibility is a factor," California Highway Patrol Officer Matt Hunt said. "For overall bicycle safety, making yourself visible is paramount."
 
 In my experience, motorists are constantly balancing distractions and real driving dangers as they drive at speeds usually above the posted speed limit. A bicycle takes up a small percentage of a driver's field of vision. If you're clothed in camouflage, or drab clothing that matches the environment, you draw even less attention from a motorist.
 

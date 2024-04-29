@@ -14,13 +14,13 @@ But Martin said that date has been continued to Feb. 1 to account for the Califo
 
 Work has not started on that stretch of the riverwalk because the extension now requires approval from the San Bernardino County Flood Control District, according to Martin.
 
-“We're on their agenda for next week,” Martin said.
+"We're on their agenda for next week," Martin said.
 
-\[…\]
+\[...\]
 
 And while the town awaits approval from the flood district, crews recently focused work on a stretch of the anticipated pathway situated behind the Jess Ranch Marketplace, between Best Buy and Cinemark. Black Friday played a role in that decision, according to Martin.
 
-“They worked the northern end (of the riverwalk),” she said, “to get the part behind the shopping center done before Black Friday because they were impacting the parking in the shopping center.”
+"They worked the northern end (of the riverwalk)," she said, "to get the part behind the shopping center done before Black Friday because they were impacting the parking in the shopping center."
 
 On Tuesday, work included placement identification for four rest areas along the trail that will include benches and shade structures.
 

@@ -10,7 +10,7 @@ APPLE VALLEY, Calif. (VVNG.com) --- The San Bernardino County Coroner's Office i
 
 On August 31, 2021, at approximately 12:52 p.m., deputies from the Apple Valley Station, and rescue personnel from the Apple Valley Fire Protection District and American Medical Response responded to a vehicle versus bicyclist collision at the intersection of Pine Ridge Avenue and Jicarilla Road in the Town of Apple Valley.
 
-“Upon arrival, deputies determined a white Ford van was traveling north on Jicarilla Road and the bicyclist was traveling east on Pine Ridge Avenue. The driver of the Ford stopped at the stop sign and proceeded to drive through the intersection, colliding with the bicyclist,” stated a sheriff's news release.
+"Upon arrival, deputies determined a white Ford van was traveling north on Jicarilla Road and the bicyclist was traveling east on Pine Ridge Avenue. The driver of the Ford stopped at the stop sign and proceeded to drive through the intersection, colliding with the bicyclist," stated a sheriff's news release.
 
 Biggs suffered major injuries and was transported to St. Mary Medical Center for treatment where he succumbed to his injuries and was pronounced deceased.
 

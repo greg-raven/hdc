@@ -8,7 +8,7 @@ categories:
 
 LUCERNE VALLEY --- The Ride in the Rocks fundraiser Saturday raised more than $12,000 for local students, organizers said.
 
-This was the fourth running of the event, which features a grueling 22-mile mountain bike ride, a “tame” 10-mile ride and a family 5-mile ride/run/walk.
+This was the fourth running of the event, which features a grueling 22-mile mountain bike ride, a "tame" 10-mile ride and a family 5-mile ride/run/walk.
 
 A large portion of the money will go toward the annual science camp trip for local fifth-graders, according to Millie Rader of the Mitsubishi Cement Corporation Educational ?Foundation, which puts on the event.
 
@@ -20,7 +20,7 @@ Derek Herman from Bear Valley Bikes took third with a time of 1:37.
 
 Between them was a non-pro --- Omya California Plant Manager Peter Sutherland, who finished second in 1:35.
 
-“Peter is a desk jockey,” Rader wrote in an email. “He works 40-plus hours a week running a limestone plant, but he also frequently rides his bike to work at the top of Crystal Creek Road in Lucerne Valley, from his home in Big Bear, and back again.”
+"Peter is a desk jockey," Rader wrote in an email. "He works 40-plus hours a week running a limestone plant, but he also frequently rides his bike to work at the top of Crystal Creek Road in Lucerne Valley, from his home in Big Bear, and back again."
 
 Sutherland was part of a 10-rider Omya team.
 

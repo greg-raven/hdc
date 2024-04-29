@@ -9,7 +9,7 @@ tags:
 - 'Michael Bruce Slusser'
 ---
 
-This morning, Tim “TJ” Moreno and Steve Sterns returned to Apple Valley Road to finish the ride they started on June 11th of this year, a ride [cut short by a hit-and-run driver](/2011/06/11/hit-and-run-on-apple-valley-road/).
+This morning, Tim "TJ" Moreno and Steve Sterns returned to Apple Valley Road to finish the ride they started on June 11th of this year, a ride [cut short by a hit-and-run driver](/2011/06/11/hit-and-run-on-apple-valley-road/).
 
 ![Local riders support Tim and Steve on their return to cycling](/wp-content/uploads/2015/03/20111015-return-riders-600x126.jpg)
 

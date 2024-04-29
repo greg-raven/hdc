@@ -14,7 +14,7 @@ When deputies arrived, they located the victim unresponsive in the roadway and s
 
 The Victorville Station's Major Accident Investigation Team (M.A.I.T.) responded to the scene and assumed the investigation.
 
-According to a news release, “deputies learned the suspect and victim were both traveling west on Mojave Drive in the number two lane, when the suspect collided with the rear tire of the victim's bicycle, causing the victim's fatal injuries.”
+According to a news release, "deputies learned the suspect and victim were both traveling west on Mojave Drive in the number two lane, when the suspect collided with the rear tire of the victim's bicycle, causing the victim's fatal injuries."
 
 The suspect fled the scene prior to deputies' arrival leaving the victim alone to die in the roadway. Sheriff's officials said the identity of the victim is pending next of kin notification.
 
