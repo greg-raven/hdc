@@ -24,4 +24,4 @@ He said they chose the "key city of the High Desert" as his first stop after his
 
 Source: Brooke Edwards, vvdailypress.com/news/victorville-11549-race-across.html
 
-[See a video clip of Keoghan's documentary here]({% link /2009/03/the-ride-victorville-segment.md %} "The Ride --- Victorville segment").
+[See a video clip of Keoghan's documentary here]({% link _posts/2009-03-29-the-ride-victorville-segment.md %} "The Ride --- Victorville segment").

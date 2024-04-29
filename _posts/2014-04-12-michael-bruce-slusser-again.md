@@ -22,7 +22,7 @@ There is video that purports to show Slusser in Belize as of a couple days ago, 
 
 Because of the apparent difficulty in gaining traction with the authorities about this matter, combined with Slusser’s previous behavior and his current threats, the hope is that within the high desert cycling community we can come up with the names and contact information (preferably including e-mail, to facilitate communication from Belize) of others we can contact to confirm or deny the rumors of Slusser’s whereabouts.
 
-If you know anyone who might be in a position to push (or undertake) an investigation of the allegations of Slusser’ recent travels out of the country, please [contact me](/about/contact/ "Contact me") and I will forward the information to the appropriate persons.
+If you know anyone who might be in a position to push (or undertake) an investigation of the allegations of Slusser’ recent travels out of the country, please [contact me]({% link about.html %}) and I will forward the information to the appropriate persons.
 
 <video controls="controls" height="480" width="854">
 <source src="/assets/video/20140400-Slusser-In-Bz.mp4" type="video/mp4">
