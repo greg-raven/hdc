@@ -1,0 +1,11 @@
+---
+title: "Town of Apple Valley bike path plans"
+date: '2014-06-11T15:38:20-07:00'
+layout: post
+categories:
+    - 'Bike lanes'
+---
+
+Adopted budget 2014.
+
+<iframe class="scribd_iframe_embed" data-aspect-ratio="0.7735849056603774" data-auto-height="false" frameborder="0" height="600" id="doc_50634" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/344192486/content?start_page=1&view_mode=scroll&access_key=key-ESfV2GYZag13UVQTK9pC&show_recommendations=true" width="100%"></iframe>

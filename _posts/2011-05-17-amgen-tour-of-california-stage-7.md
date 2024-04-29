@@ -1,0 +1,15 @@
+---
+title: "Amgen Tour of California Stage 7"
+date: '2011-05-17T18:55:55-07:00'
+layout: post
+categories:
+    - 'Event news'
+---
+
+The biggest bicycle race in the United States has a stage in our backyard this Saturday, May 21st. And it’s not just any stage: Stage 7 of the 2011 Amgen Tour of California will be the ultimate test of the riders’ resolve to capture the yellow jersey.  
+  
+Did they leave it all on the road in the previous stage or did they hold back enough to survive one of the most difficult stages in the history of bicycle racing in the USA? It’s been called the Queen’s Stage and the first true mountain top finish in the Amgen Tour of California’s history. It has been compared to the epic stages of the European Grand Tours. This is the training ground for many of the local racers in southern California, but only a handful has done the entire route and none has done it after six days of racing over 700 miles! There is no question that the winner of the 2011 Amgen Tour of California will be decided on the final 15 switchbacks to the finish on Mt Baldy.
+
+The race begins in the college town of Claremont. Two neutral circuits in Claremont will get the riders ready for the first climb of the day. Just 3.5 miles from the start, the riders will face an eight mile climb to the Village of Baldy and their first King of the Mountain (KOM). An acute left turn at the summit will provide them another mile of climbing up Glendora Ridge Road. From here they have 12 miles of narrow and twisting roads that gradually transition to a fast and technical descent down the backside of Glendora Mountain Road. The vistas are spectacular throughout the Angeles National Forest. Another descent down East Fork will take the riders to Highway 39 and the town of Azusa. Heading east, the race dips into the City of Glendora for the only Sprint of the day. At this point, the number of flat miles for Stage 7 has dwindled to fewer than two, and there are still nearly 30 miles to the finish.
+
+A left turn onto Glendora Mountain Road and it is “Game On.” The next KOM is a nine mile climb. That is followed by 12 miles of a slight climb back to Baldy Village. A left turn back onto Baldy Road will see the race gain 1,000 feet in just three miles … and the real climbing has not even started! At Ice House Canyon, the route makes a hard left turn and the sign to the ski area points toward the sky. Over the next 2.5 miles, the riders will face ten switchbacks on a road that is so steep that many of the race vehicles cannot make it to the top. At 1.2 miles to go, the road straightens out. The finish line can be seen ahead. At .25 miles to go, the route makes a hard left and the racers face a final five switchbacks to the finish line. This will be the stage where legends are made and the winner is decided.
