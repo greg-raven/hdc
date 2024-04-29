@@ -1,13 +1,12 @@
 ---
-id: 1541
 title: "Re: Cycling"
-date: '2010-09-23T22:00:57-07:00'
 layout: page
-guid: 'http://localhost/wordpress/'
 ---
 
 - [Bicycle laws for the State of California](/re-cycling/california-vehicle-code-laws-pertaining-to-bicycles/) (from the Vehicle Code)
+
 - [Bicycle safety tips](/re-cycling/bicycle-safety-tips/)
+
 - [NHTSA bicycle safety video for adults](/re-cycling/nhtsa-bicycle-safety-video-for-adults/)
 
 ### Other links of interest
