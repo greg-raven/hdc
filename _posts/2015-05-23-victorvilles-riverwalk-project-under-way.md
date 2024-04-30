@@ -1,5 +1,5 @@
 ---
-title: "Victorville&rsquo;s Riverwalk Project under way"
+title: "Victorville's Riverwalk Project under way"
 date: "2015-05-23T07:09:48-07:00"
 layout: post
 categories:

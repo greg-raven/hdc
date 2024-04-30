@@ -40,6 +40,6 @@ The money will be used to purchase permanent bicycle-safety signage to be displa
 
 For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycletour.com.
 
-![20161028-dp-vvbt](/wp-content/uploads/2016/10/20161028-DP-vvbt-300x143.png)
+![2016 Victor Valley Bicycle Tour](/assets/img/2016/10/20161028-DP-vvbt.png)
 
 Source: Matt Cabe, [Daily Press](https://www.vvdailypress.com/news/20161027/bicycle-racers-are-coming-your-way-victor-valley-bicycle-tour-returns-for-2nd-year)

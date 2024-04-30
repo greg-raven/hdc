@@ -10,4 +10,6 @@ tags:
 
 Save the date: October 28, 2017.
 
-![2017-vvbt-announce-1](/wp-content/uploads/2016/10/2017-vvbt-announce-1-300x191.jpg) ![2017-vvbt-announce-2](/wp-content/uploads/2016/10/2017-vvbt-announce-2-300x192.jpg)
+![2017 VVBT 1](/assets/img/2016/10/2017-vvbt-announce-1.jpg) 
+
+![2017 VVBT 2](/assets/img/2016/10/2017-vvbt-announce-2.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "The Bear Valley Road Class 1 Bike Path: Q&rsquo;s and A&rsquo;s"
+title: "The Bear Valley Road Class 1 Bike Path: Q's and A's"
 date: "2016-05-31T16:10:27-07:00"
 layout: post
 categories:
@@ -36,4 +36,10 @@ How much is it going to cost to maintain the bike path?
 
 The Town currently maintains several miles of Class 1 bike paths throughout the Town. When properly designed and constructed, maintenance has been very minimal. Maintenance for Class 1 bikes path is similar to maintaining sidewalks. Because bicycle paths are restricted to non-motorized vehicles and pedestrians, maintenance is less than maintaining streets.
 
-<figure><figcaption>Segment 1: Reata Road to the bridge</figcaption>![segment 1](/assets/img/2016/segment-1.jpg)</figure><figure><figcaption>Segment 2: The bridge to Mojave Fish Hatchery Road</figcaption>![segment 2](/assets/img/2016/segment-2.jpg)</figure><figure><figcaption>Segment 3: Mojave Fish Hatchery Road to the upper campus</figcaption>![segment 3](/assets/img/2016/segment-3.jpg)</figure>**Webmaster note:** It is my understanding that this project has been broken into four separate projects (including the bridge project itself) for funding reasons. The three segments shown above are designated Phase 1, while the bridge project is designated Phase 2.
+![Segment 1: Reata Road to the bridge](/assets/img/2016/segment-1.jpg)
+
+![Segment 2: The bridge to Mojave Fish Hatchery Road](/assets/img/2016/segment-2.jpg)
+
+![Segment 3: Mojave Fish Hatchery Road to the upper campus](/assets/img/2016/segment-3.jpg)
+
+**Webmaster note:** It is my understanding that this project has been broken into four separate projects (including the bridge project itself) for funding reasons. The three segments shown above are designated Phase 1, while the bridge project is designated Phase 2.

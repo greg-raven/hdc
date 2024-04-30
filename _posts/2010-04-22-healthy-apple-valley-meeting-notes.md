@@ -20,11 +20,11 @@ Various committee members volunteered to bring items for the booth (Pam Cupp, An
 
 **Members not in attendance at the meeting can STILL participate by coming to the Civic Center Park --- look for our booth, come on in, and be an advocate for Healthy Apple Valley, by talking to residents! Fair is from 11 a.m.-2 p.m.**
 
-Mon., May 3 --- *[Ride for Bike Lanes](/2010/04/join-the-ride-for-bike-lanes/ "Join the Ride for Bike Lanes")*
+Mon., May 3 --- *[Ride for Bike Lanes]({% post_url /2010-04-25-join-the-ride-for-bike-lanes %})*
 
 Committee members signed up to participate at the end of the ride by distributing a HEALTHY APPLE VALLEY survey and a flyer about HEALTHY APPLE VALLEY.
 
-\*\* Members not in attendance at the meeting can STILL participate by coming to the Jess Ranch parking lot by the AUTO CLUB building from 6:30pm --- 7:00pm.
+\*\* Members not in attendance at the meeting can STILL participate by coming to the Jess Ranch parking lot by the AUTO CLUB building from 6:30 p.m. -- 7:00 p.m.
 
 Allen Christensen will bring the survey and Valerie Smith will bring flyers for distribution.
 

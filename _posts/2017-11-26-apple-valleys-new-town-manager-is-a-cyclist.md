@@ -10,7 +10,7 @@ On Tuesday, November 28, the Apple Valley Town Council will vote to hire Doug Ro
 
 There are also rumors of a shake-up in the Town Council at the next election which, if true, result in a very cyclist-friendly member of the community acquiring a seat on the Town Council.
 
-<figure aria-describedby="caption-attachment-4406" class="wp-caption alignnone" id="attachment_4406" style="width: 459px">![Doug Robertson](/wp-content/uploads/2017/11/Doug-Robertson-459x600.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4406">Doug Robertson</figcaption></figure>
+![Doug Robertson](/assets/img/2017/11/Doug-Robertson.jpg)
 
 Now if Apple Valley could also poach Michele Rivas ...
 
@@ -19,11 +19,19 @@ Douglas B. "Doug" Robertson currently serves as the City Manager for the City of
 The proposed Employment Agreement with Robertson includes:
 
 - Monthly salary of $20,545.00.
+
 - The effective date of the employment agreement will be January 2, 2018.
+
 - Employee benefits will generally be the same as provided to regular full-time employees of the Town.
+
 - Starting balances for administrative leave and sick leave shall each be 40 hours. The accrual rate for vacation, administrative leave, and sick leave shall be at the rate provided for employees with twenty years of service.
+
 - Vehicle allowance of $600 per month.
+
 - Reimbursement for any reasonable and necessary travel and business expenses.
+
 - A health reimbursement arrangement to reimburse premiums for medical, dental and/or vision insurance policies covering employee, his spouse and/or any eligible dependent following separation from the Town equivalent to the total maximum benefit allowance for premiums for insurance coverage under the Town's Benefit Plan (currently $760 per month, subject to change from time-to-time).
+
 - Six months' base salary severance payment for termination without cause and other, limited, circumstances. An additional six months' base salary severance payment into the above-referenced health reimbursement arrangement if terminated within the first five years.
+
 - The Town is not obligated to make deferred compensation contributions on employee's behalf.

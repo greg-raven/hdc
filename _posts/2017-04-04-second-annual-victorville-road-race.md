@@ -39,20 +39,37 @@ Same day license will be available at registration booth. For Cat 5 MEN, Fixed G
 **Fixed Gear Rules**
 
 - Track bikes are required
+
 - Drop bars, with bar tape, plugged ends and without brake levers are required for Road Race &amp; Crit
+
 - A lock-ring securing the cog is required
+
 - All components of the bike must be in good condition
+
 - Excessively large gear ratios are prohibited (determined on a case-by-case basis at the race director's discretion)
+
 - Lights and reflectors are prohibited
+
 - Time trial equipment is prohibited for Road Race and Crit. (Aero spokes, disc wheel, Spinergy, tri-spokes, rims deeper than 90mm, etc)
-- -Time trial equipment is allowed during the Time trial only.
+
+- Time trial equipment is allowed during the Time trial only.
+
 - Fixed-gear conversions are prohibited
+
 - Tubular tires must be installed properly with glue in good condition. Tires must not be glued on race day.
-- Chains and chain rings must match (1/8 to 1/8)
+
+- Chains and chain rings must match (&frac18; to &frac18;)
+
 - Rear axle must sit entirely within the dropout
+
 - Clipless pedals and shoes are required (pedal/toe straps are prohibited)
+
 - Helmets that meet the US DOT, CPSC standard, or European CEN Certification are required
+
 - Jerseys with sleeves are required
+
 - Headphones are prohibited
+
 - Race numbers (bib and/or bike mounted) are mandatory for scorekeeping purposes. Number placement instructions are provided at number pickup
+
 - All USAC Rules apply.

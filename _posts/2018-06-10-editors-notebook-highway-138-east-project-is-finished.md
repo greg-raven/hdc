@@ -2,12 +2,13 @@
 title: "Editor's Notebook: Highway 138 East project is finished"
 date: "2018-06-10T16:07:58-07:00"
 layout: post
-image: /wp-content/uploads/2018/06/SR-138-realignment-940x198.jpg
 categories:
 - 'Bike lanes'
 ---
 
 Without fanfare, Caltrans' contractor finished the Highway 138 East widening project sometime in the last couple of weeks. I knew they were getting close, because about 80 percent of the new road had been open for quite some time.
+
+![Highway 138 realignment](/assets/img/2018/06/SR-138-realignment-940x198.jpg)
 
 Last Sunday, we drove down the hill for lunch and decided to take Summit Valley Road to Highway 138 to Interstate 15 just in case those returning from Vegas had already jammed I-15. Lo and behold, all of the new part of Highway 138 was open for business.
 

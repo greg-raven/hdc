@@ -32,4 +32,4 @@ The City's construction contractor, Skanska USA will break ground on the project
 
 Source: [City of Victorville](https://www.victorvilleca.gov/Home/Components/News/News/759/16)
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2021/10/2021-06-01-map.jpg)<figcaption>Planned route</figcaption></figure>
+![Planned route of the Green Tree Extension](/assets/img/2021/10/2021-06-01-map.jpg)

@@ -16,8 +16,12 @@ This is the third year this tour has been named after Chuck Hanson, an avid Town
 
 Hanson and his wife, Pat, continue to support the event by seeking out donations and sponsorships from local businesses. To participate or get more information, call the Apple Valley Parks and Recreation office at (760) 240-7880.
 
-<figure class="wp-block-image">![2011 Tour de Apple Valley logo](/assets/img/2011/10/11-tour-de-apple-valley.jpg)</figure>- Registration form
+![2011 Tour de Apple Valley logo](/assets/img/2011/10/11-tour-de-apple-valley.jpg)
+
+- Registration form
+
 - Metric century route map
+
 - Metric half-century route map
 
 Source: applevalley.org/Index.aspx?page=333&amp;recordid=788&amp;returnURL=%2fIndex.aspx%3fpage%3d1

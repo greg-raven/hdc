@@ -7,7 +7,7 @@ categories:
 - 'Ride news'
 ---
 
-Dave Nocera set up a [local time trial](/2011/01/16/sunday-morning-time-trial/) so high desert riders wouldn't have to go down the hill (and pay an entry fee). For this first time trial of the series, the riders were Dave Nocera, Greg Nowacki, and Tommie Stephenson.
+Dave Nocera set up a [local time trial]({% post_url 2011-01-16-sunday-morning-time-trial %}) so high desert riders wouldn't have to go down the hill (and pay an entry fee). For this first time trial of the series, the riders were Dave Nocera, Greg Nowacki, and Tommie Stephenson.
 
 The course ran from Virginia Park on Central Road in Apple Valley (just north of Waalew), north to the T intersection of Central and Quarry, and then back --- roughly 7.24 miles.
 

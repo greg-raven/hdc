@@ -20,4 +20,4 @@ Sunday's theft is still under investigation and authorities ask anyone with info
 
 Source: vvdailypress.com/news/steal-33979-victorville-accessories.html
 
-See related stories [here](/2012/05/three-arrested-for-bicycle-thefts-are-linked-to-local-cases/ "Three arrested for bicycle thefts are linked to local cases") and [here](/2012/05/report-california-top-with-cyber-crooks/ "Report: California top with cyber-crooks").
+See related stories [here]({% post_url 2012-05-09-three-arrested-for-bicycle-thefts-are-linked-to-local-cases %}) and [here]({% post_url 2012-05-13-report-california-top-with-cyber-crooks %}).

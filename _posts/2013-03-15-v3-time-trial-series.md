@@ -27,21 +27,21 @@ You may miss one competition and still be eligible for the overall prize, but yo
 
 Please arrive at least 15 minutes before the starting time. Riders will go off at 30-second intervals.
 
-Timing will be [Strava](https://www.strava.com/ "Strava") based. If you are not on Strava please join, or arrange some way of timing yourself.
+Timing will be [Strava](https://www.strava.com) based. If you are not on Strava please join, or arrange some way of timing yourself.
 
 Time trial dates and locations
 | Date | Time | Location |
 |---|---|---|
-| March 26 | 6:00 PM | Deep Creek |
-| April 9 | 6:30 PM | Virginia Park |
-| May 7 | 7:00 PM | Deep Creek |
-| June 11 | 7:00 PM | Virginia Park |
-| July 23 | 7:00 PM | Deep Creek |
-| August 12 | 7:00 PM | Virginia Park |
-| September 9 | 6:30 PM | Deep Creek |
+| March 26 | 6:00 p.m. | Deep Creek |
+| April 9 | 6:30 p.m. | Virginia Park |
+| May 7 | 7:00 p.m. | Deep Creek |
+| June 11 | 7:00 p.m. | Virginia Park |
+| July 23 | 7:00 p.m. | Deep Creek |
+| August 12 | 7:00 p.m. | Virginia Park |
+| September 9 | 6:30 p.m. | Deep Creek |
 
 The start location for the Deep Creek time trials is at the south end of Deep Creek at the end of the road. The course is approximately 6.3 miles in length.
 
-The start location for the Virginia Park time trials is on Central Road at Virginia Park. The course is approximately 7.27 miles in length with approximately 210 feet of climbing. This course has been used before for time trials. You can see the results [here](/2011/01/local-time-trial/ "Sunday morning time trial results"), [here](/2011/07/july-time-trial-results/ "July time trial results"), and [here](/2011/08/august-time-trial-results/ "August time trial results").
+The start location for the Virginia Park time trials is on Central Road at Virginia Park. The course is approximately 7.27 miles in length with approximately 210 feet of climbing. This course has been used before for time trials. You can see the results [here]({% post_url 2011-01-16-local-time-trial %}), [here]({% post_url {% post_url 2011-08-23-august-time-trial-results %}).
 
 For more information, [contact Dave Nocera](mailto:dnocera@vvuhsd.org)

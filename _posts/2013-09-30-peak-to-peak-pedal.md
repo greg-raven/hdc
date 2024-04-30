@@ -12,7 +12,8 @@ The first two of the five stages go through the high desert: Big Bear to Barstow
 
 Best of luck to all the riders participating!
 
-![](/assets/img/2013/09/09-p2p-day-1.jpg)
+![Peak to Peak Pedal, Big Bear to Barstow](/assets/img/2013/09/09-p2p-day-1.jpg)
 
-![](/assets/img/2013/09/10-p2p-day-2.jpg)
-Update: [Here are some photos of the riders going through Lucerne Valley](/2013/10/peak2peak-photos/ "Peak2Peak (photos)").
+![Peak to Peak Pedal, Barstow to Ridgecrest](/assets/img/2013/09/10-p2p-day-2.jpg)
+
+Update: [Here are some photos of the riders going through Lucerne Valley]({% post_url 2013-10-09-peak2peak-photos %}).

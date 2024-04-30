@@ -2,7 +2,6 @@
 title: "Announcing the 2022 Victor Valley Bicycle Tour"
 date: "2022-08-22T07:03:00-07:00"
 layout: post
-image: /wp-content/uploads/2022/08/202210-vvbt-combined.jpg
 categories:
 - 'Event news'
 ---
@@ -12,6 +11,8 @@ The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride t
 Date: October 29, 2022
 
 Start location: Civic Center Park, 14999 Dale Evans Pkwy, Apple Valley, CA 92307
+
+![2022 Victor Valley Bicycle Tour](/assets/img/2022/08/202210-vvbt-combined.jpg)
 
 [Click here to sign up online today](https://www.active.com/apple-valley-ca/cycling/races/victor-valley-bicycle-tour-2021)
 

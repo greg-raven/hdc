@@ -12,7 +12,7 @@ October is a busy month for cycling in the high desert.
 
 Kicking things off from October 6th-8th is the Furnace Creek 508, which runs from Valencia, through California City, Death Valley, Baker, and Kelso, finishing in Twenty-nine Palms. That works out to 508 virtually non-stop miles and 35,000 feet of climbing. Registration is now complete for this ride, but if you're into ultra-marathon, ultra-endurance road cycling, you can park anywhere along the course (including at the time stations) and watch the riders come and go.
 
-Next up on October 13th is the annual [Breast Cancer Awareness Ride](/2012/02/date-set-for-2012-bcar/) (BCAR), sponsored by [Victorville Cycles](https://victorvillecycles.com/). Sign up on-line through Active.com. Save money by signing up before October 4th. Donations are accepted for this cause if you can't make the ride itself.
+Next up on October 13th is the annual [Breast Cancer Awareness Ride]({% post_url 2012-02-07-date-set-for-2012-bcar %}) (BCAR), sponsored by [Victorville Cycles](https://victorvillecycles.com/). Sign up on-line through Active.com. Save money by signing up before October 4th. Donations are accepted for this cause if you can't make the ride itself.
 
 October 20th offers three times the goodness, with three different rides.
 

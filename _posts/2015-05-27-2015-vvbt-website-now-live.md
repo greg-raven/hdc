@@ -10,7 +10,7 @@ tags:
 
 The website for the 2015 Victor Valley Bicycle Tour is up and running.
 
-None of the details has changed from those [previously released](/2015/04/2015-victor-valley-bicycle-tour/), but there are now convenient links for registration, lodging, and sponsorship.
+None of the details has changed from those [previously released]({% post_url 2015-04-23-2015-victor-valley-bicycle-tour %}), but there are now convenient links for registration, lodging, and sponsorship.
 
 Registration is available on-line through Active.
 
