@@ -27,4 +27,4 @@ layout: page
 
 Remember a bicycle is a vehicle. Bicyclists share a complex traffic environment with other larger forms of transportation. Youngsters under age nine lack the physical and mental development to interact safely in that environment.
 
-Don't miss the NHTSA's [bicycle safety video for adults](/re-cycling/nhtsa-bicycle-safety-video-for-adults/).
+Don't miss the NHTSA's [bicycle safety video for adults](/re-cycling/nhtsa-bicycle-safety-video-for-adults.html).
