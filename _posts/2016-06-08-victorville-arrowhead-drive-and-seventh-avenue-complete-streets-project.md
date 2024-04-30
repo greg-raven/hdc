@@ -6,10 +6,10 @@ categories:
 - Advocacy
 ---
 
-Caltrans  
-Division of Local Assistance, MS-1  
-Attention: Chief, Office of Active Transportation and Special Programs  
-P.O. Box 942874  
+Caltrans
+Division of Local Assistance, MS-1
+Attention: Chief, Office of Active Transportation and Special Programs
+P.O. Box 942874
 Sacramento, CA 94274-0001
 
 Re: California Active Transportation Program (ATP) Cycle 3 --- City of Victorville Arrowhead Drive and Seventh Avenue Complete Streets Project
@@ -26,5 +26,5 @@ High Desert Cycling recognizes the many contributions city manager Doug Robertso
 
 Sincerely,
 
-Greg Raven  
+Greg Raven
 greg@hdcycling.org

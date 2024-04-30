@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-APPLE VALLEY --- As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.  
-  
+APPLE VALLEY --- As design plans finally come together for the BMX bike park some locals have sought for half a decade, one hurdle remains: money.
+
 "We don't have funding," said Apple Valley's Parks and Recreation manager Ralph Wright, with an anticipated price tag for the park and related upgrades of $600,000.
 
 The town has to wait until September to hear back on an application seeking $1.5 million from a Proposition 84 grant for improvements at James Woody Park on Navajo Road, including the BMX area planned at the northwest end of the park.

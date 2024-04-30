@@ -12,4 +12,4 @@ For more information, contact the Town at (760) 240-7000 ext. 7530.
 
 [20181011 Village Corridor Enhancement Plan workshop](https://www.scribd.com/document/390781284/20181011-Village-Corridor-Enhancement-Plan#from_embed) on Scribd
 
-<iframe class="scribd_iframe_embed" data-aspect-ratio="null" data-auto-height="true" frameborder="0" height="600" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/390781284/content?start_page=1&view_mode=scroll&show_recommendations=false&access_key=key-2W8oyMTd7wveObqoDWGK" title="20181011 Village Corridor Enhancement Plan" width="100%"></iframe>
+<iframe class="scribd_iframe_embed" data-aspect-ratio="null" data-auto-height="true" height="600" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/390781284/content?start_page=1&view_mode=scroll&show_recommendations=false&access_key=key-2W8oyMTd7wveObqoDWGK" title="20181011 Village Corridor Enhancement Plan" width="100%"></iframe>

@@ -6,8 +6,8 @@ categories:
 - Advocacy
 ---
 
-The Town of Apple Valley has further mutilated Outer Highway 18, this time at Kiowa. This mutilation seems to be in support of the Town's support for the failed high-density housing project on the corner.  
-  
+The Town of Apple Valley has further mutilated Outer Highway 18, this time at Kiowa. This mutilation seems to be in support of the Town's support for the failed high-density housing project on the corner.
+
 As a result, it is no longer possible for either eastbound or westbound traffic on North Outer Highway 18 to continue straight across Kiowa Road.
 
 In the past, the Town of Apple Valley has mutilated Outer Highway 18 in front of St. Mary, Walmart/Albertson's, in front of Target (across the street from Albertson's), and in front of the Historic Apple Valley Inn.

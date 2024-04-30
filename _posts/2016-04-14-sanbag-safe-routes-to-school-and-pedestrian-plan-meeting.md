@@ -16,22 +16,22 @@ The meeting is being held for the general public to learn more about these proje
 
 Please join us at the public meeting and come to our Apple Valley SRTS table:
 
-SANBAG PIPP &amp; SRTS JOINT MEETING  
-April 21, 2016  
-10:00 AM --- 12:00 PM  
-Apple Valley Town Hall  
+SANBAG PIPP &amp; SRTS JOINT MEETING
+April 21, 2016
+10:00 AM --- 12:00 PM
+Apple Valley Town Hall
 14975 Dale Evans Pkwy, Apple Valley, CA 92307
 
 P.S. Feel free to share the SANBAG meeting flyer with your friends and colleagues.
 
 Sincerely,
 
-Leslie Scott Consulting  
-4267 Marina City Drive  
-Suite 912  
-Marina del Rey, CA 90292  
-310-822-3895  
-Leslie@LScottConsulting  
+Leslie Scott Consulting
+4267 Marina City Drive
+Suite 912
+Marina del Rey, CA 90292
+310-822-3895
+Leslie@LScottConsulting
 LesScottCo@aol.com
 
 <iframe class="pdf" src="/assets/pdf/20160414-SanBAG-PIPP-SRTS-Meeting.pdf"></iframe>

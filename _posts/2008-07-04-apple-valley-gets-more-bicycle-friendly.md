@@ -6,8 +6,8 @@ categories:
 - 'Bike lanes'
 ---
 
-APPLE VALLEY --- Finally able to respond to public demand, the Town of Apple Valley is adding bicycle lanes little by little.  
-  
+APPLE VALLEY --- Finally able to respond to public demand, the Town of Apple Valley is adding bicycle lanes little by little.
+
 The latest addition will be on Kiowa Road starting July 14. During work, traffic will be closed between Sitting Bull Road and Yucca Loma Road for a month and traffic will be detoured to Navajo Road. Also a continuous left turn lane will be added to the road.
 
 The Town doesn't have the money to add its planned bike lanes all at once, said Kathie Martin, public information officer for the Town of Apple Valley.

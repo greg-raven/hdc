@@ -7,8 +7,8 @@ categories:
 - 'Ride news'
 ---
 
-VICTORVILLE --- Hundreds of bicyclists will take to Victor Valley roads together this Saturday in a ride for National Breast Cancer Awareness Month.  
-  
+VICTORVILLE --- Hundreds of bicyclists will take to Victor Valley roads together this Saturday in a ride for National Breast Cancer Awareness Month.
+
 "Our first year we had 84 riders, and last year it was 266," said Carol Kraatz, owner of Victorville Cycles. "I have more and more people that want to get involved every year."
 
 This will be Kraatz's fifth year hosting the Trek Breast Cancer Awareness Ride, an event held by Trek Bicycle retailers across the United States. Locally, the 10-mile course begins at Victorville Cycles and ends at Hesperia Civic Center. Riders taking the 25-mile course will continue to Anytime Fitness in Oak Hills.

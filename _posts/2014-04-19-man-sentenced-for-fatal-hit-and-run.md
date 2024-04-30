@@ -28,5 +28,5 @@ Scott has already served nearly two years in jail. With credits for time served 
 
 "My heart goes out to (Scott's) family too," Deborah Epperson said. "There were two families affected by this, not just one."
 
-Source: vvdailypress.com/article/20140419/NEWS/304199998/0/SEARCH  
+Source: vvdailypress.com/article/20140419/NEWS/304199998/0/SEARCH
 By SHEA JOHNSON, STAFF WRITER

@@ -9,10 +9,10 @@ categories:
 
 Apple Valley, Bear Valley Road Bike/Ped Pathway Connector
 
-Malcolm Dougherty  
-CALTRANS Division of Local Assistance  
-1120 N Street, MS 1  
-Attn: Office of Active Transportation and Special Programs  
+Malcolm Dougherty
+CALTRANS Division of Local Assistance
+1120 N Street, MS 1
+Attn: Office of Active Transportation and Special Programs
 Sacramento, CA 95814
 
 Dear Mr. Dougherty:
@@ -37,9 +37,9 @@ Please feel free to contact me should the need arise.
 
 Sincerely,
 
-Greg Raven  
-hdcycling.org  
-greg@hdcycling.org  
+Greg Raven
+hdcycling.org
+greg@hdcycling.org
 Working toward more and better cycling in California's high desert.
 
 cc: Jennifer Heim, Town of Apple Valley

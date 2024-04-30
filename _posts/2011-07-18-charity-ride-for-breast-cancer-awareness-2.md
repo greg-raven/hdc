@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-[Trek Women](https://goo.gl/BF72B) is holding a local [Breast Cancer Awareness Ride (BCAR)](https://goo.gl/BJnEK) on Saturday, October 8, at 10:00 A.M.  
-  
+[Trek Women](https://goo.gl/BF72B) is holding a local [Breast Cancer Awareness Ride (BCAR)](https://goo.gl/BJnEK) on Saturday, October 8, at 10:00 A.M.
+
 There are going to be 10-mile and 25-mile casual rides casual rides, jumping off from [Victorville Cycles](https://goo.gl/hXwsP) at 12408 Hesperia Road in Victorville. The $25 entry fee all goes to the Breast Cancer Research Foundation, and each participant will receive a free gift. The first 100 to sign up even get a free lunch. [Registration is on-line here](https://goo.gl/vaee8) (credit card necessary).
 
 **Ride features**

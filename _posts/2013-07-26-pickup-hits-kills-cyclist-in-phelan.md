@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-PHELAN --- A 29-year-old man riding a bicycle was struck and killed Thursday night on Highway 138 near Gramercy Road in Phelan, according to California Highway Patrol spokesman Matt Hunt.  
-  
+PHELAN --- A 29-year-old man riding a bicycle was struck and killed Thursday night on Highway 138 near Gramercy Road in Phelan, according to California Highway Patrol spokesman Matt Hunt.
+
 The San Bernardino County Fire Department and CHP officers responded to a call of a vehicle versus pedestrian at 11:40 p.m., Hunt said.
 
 Max Deanwallace Abraham was riding his bicycle on the eastbound lane of Highway 138 and was struck from behind by a black Chevrolet Tahoe, also traveling east lane, Hunt said.

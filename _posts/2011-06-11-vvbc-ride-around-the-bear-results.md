@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-Twelve riders from VVBC completed the grueling 100-mile Ride Around the Bear. To give you an idea how difficult this ride is, 393 riders entered, but only 307 finished.  
-  
+Twelve riders from VVBC completed the grueling 100-mile Ride Around the Bear. To give you an idea how difficult this ride is, 393 riders entered, but only 307 finished.
+
 Congratulations to everyone who finished, and thanks to Kevin Bilbee for compiling this information.
 
 | Place | Rider | Time |

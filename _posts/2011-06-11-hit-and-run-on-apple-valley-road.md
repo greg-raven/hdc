@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-This morning on Apple Valley Road around Symeron, a passing truck hit Tim "TJ" Moreno in the back of the head with its mirror. Moreno went down, taking Steve Stearns with him. Stearns "only" has major road rash; Moreno had to be taken to the hospital in Loma Linda.  
-  
+This morning on Apple Valley Road around Symeron, a passing truck hit Tim "TJ" Moreno in the back of the head with its mirror. Moreno went down, taking Steve Stearns with him. Stearns "only" has major road rash; Moreno had to be taken to the hospital in Loma Linda.
+
 The driver of the truck pulled over, and then sped off. There was another vehicle behind the truck, and while it seemed as if it was chasing down the hit-and-run driver, it never returned. Police are looking for a black or green truck with right-side damage from the collision.
 
 There's a lot of information about this on the [VVBC Facebook page](<https://www.facebook.com/home.php?sk=gr ... 83842&ap=1>).

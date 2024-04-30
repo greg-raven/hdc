@@ -28,6 +28,6 @@ Williams said if the frequent collisions don't involve two vehicles, they involv
 
 "Although the intersections are clearly marked, it is feasible that some of the collisions are as a result of the change in the direction of the stop signs," Sheriff's Hesperia Station spokeswoman Susan Rose said. "We tend to be creatures of habit and may have traveled these routes for years. Even on what we consider familiar roadways, it is important for drivers to pay attention."
 
-Source: vvdailypress.com/articles/hesperians-47349-route-sign.html  
-June 08, 2014 2:11 PM  
+Source: vvdailypress.com/articles/hesperians-47349-route-sign.html
+June 08, 2014 2:11 PM
 GARY BRODEUR, STAFF WRITER

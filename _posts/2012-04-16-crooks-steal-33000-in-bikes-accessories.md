@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-VICTORVILLE --- Jason Conley awoke Sunday morning to find some one had broken into his garage, but when he looked inside he learned thieves bypassed his family's cars and motorcycle but made off with more than $30,000 in bicycles and a wheel set.  
-  
+VICTORVILLE --- Jason Conley awoke Sunday morning to find some one had broken into his garage, but when he looked inside he learned thieves bypassed his family's cars and motorcycle but made off with more than $30,000 in bicycles and a wheel set.
+
 Conley, who races in amateur races, noticed his Pinerello Dogma worth about $13,000, his wife's, Pinerello FP7 his Trek Top Fuel and a wheel set had been stolen from his home located near Pacioma and La Mesa roads.
 
 San Bernardino County Sheriff's Victorville station detectives are investigating.

@@ -28,6 +28,6 @@ Visit rideacrossusa.com to follow the team's progress, or visit www.hopeforthewa
 
 View video interviews with some of the cyclists here: https://bcove.me/6xste7c9
 
-Source: vvdailypress.com/article/20140605/NEWS/140609881/0/SEARCH  
-June 05, 2014 5:41 PM  
+Source: vvdailypress.com/article/20140605/NEWS/140609881/0/SEARCH
+June 05, 2014 5:41 PM
 JAMES QUIGG, CHIEF PHOTOGRAPHER

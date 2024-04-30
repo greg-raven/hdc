@@ -26,6 +26,6 @@ The race continues Saturday with an 88.7-mile ride from Santa Clarita to Pasaden
 
 — The Associated Press contributed to this report.
 
-Source: vvdailypress.com/articles/climb-46869-frantic-wrightwood.html  
-May 17, 2014 1:33 PM  
+Source: vvdailypress.com/articles/climb-46869-frantic-wrightwood.html
+May 17, 2014 1:33 PM
 JAMES QUIGG, CHIEF PHOTOGRAPHER

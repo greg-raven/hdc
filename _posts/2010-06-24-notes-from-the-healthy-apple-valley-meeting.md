@@ -41,7 +41,7 @@ The following items were discussed:
 
 **Next Meeting**
 
-> 7/22 3:30 --- 4:30  
+> 7/22 3:30 --- 4:30
 > Town Hall Recreation Center
 
 Any questions or comments please email: healthyav@applevalley.org

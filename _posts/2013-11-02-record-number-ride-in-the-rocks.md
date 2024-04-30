@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-LUCERNE VALLEY --- Some walked or ran, but most participants in Saturday's 5th Annual Ride in the Rocks event soaked up the desert scenery on their mountain bikes.  
-  
+LUCERNE VALLEY --- Some walked or ran, but most participants in Saturday's 5th Annual Ride in the Rocks event soaked up the desert scenery on their mountain bikes.
+
 A record 156 people participated on a glorious fall day that started and finished at Lucerne Valley High School.
 
 "God gave us perfect weather," said co-organizer Millie Rader, an avid mountain biker who spent the morning encouraging participants and ensuring that the event went smoothly.

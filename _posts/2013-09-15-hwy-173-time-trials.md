@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-Looks as though all of us missed this one.  
-  
+Looks as though all of us missed this one.
+
 Pacific Sunset Velo held a time trial on Highway 173 today, one of a series of events they run out of their Ontario base.
 
 According to the Pacific Sunset Velo website (https://psvelo.com), the schedule for 2013 is:

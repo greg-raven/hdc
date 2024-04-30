@@ -37,6 +37,6 @@ In Barstow, a recent update to the General Plan addressed bicycling.
 
 \[...\]
 
-**Source:**  
-By GARY BRODEURSTAFF WRITER  
+**Source:**
+By GARY BRODEURSTAFF WRITER
 vvdailypress.com/article/20150306/NEWS/150309872/12964/NEWS

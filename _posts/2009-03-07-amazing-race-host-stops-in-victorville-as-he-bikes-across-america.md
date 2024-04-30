@@ -6,8 +6,8 @@ categories:
 - 'Event news'
 ---
 
-VICTORVILLE --- The host of the Emmy-winning reality show Amazing Race is embarking on a cross-country bike trek. His first stop? Victorville.  
-  
+VICTORVILLE --- The host of the Emmy-winning reality show Amazing Race is embarking on a cross-country bike trek. His first stop? Victorville.
+
 "This is quite insane," Phil Keoghan said with a laugh, of his planned 3,700-mile trip.
 
 A main focus of the journey is raising awareness and funds for the Multiple Sclerosis Society. Keoghan has a family member affected by the disease and said he has long supported the charity through his California cycling team.

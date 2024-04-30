@@ -7,8 +7,8 @@ categories:
 - 'Ride news'
 ---
 
-After a popular High Desert bicyclist was killed during a recent morning ride, a group of bike riders are hoping that this year's "Bike Ride for Bike Lanes" ride will bring more awareness to drivers who share the road with them.  
-  
+After a popular High Desert bicyclist was killed during a recent morning ride, a group of bike riders are hoping that this year's "Bike Ride for Bike Lanes" ride will bring more awareness to drivers who share the road with them.
+
 Kevin Olin, 56, was struck and killed by the driver of a Chevrolet Tahoe as he rode along Apple Valley Road on March 1, San Bernardino County Sheriff's officials said.
 
 "When I heard about the man who died, my first thought was it could have been me," said Chuck Hanson, 82, who has pedaled nearly 400,000 miles over the years. "This is why we have these rides, to let everybody know that bikes and vehicles can share the road together."

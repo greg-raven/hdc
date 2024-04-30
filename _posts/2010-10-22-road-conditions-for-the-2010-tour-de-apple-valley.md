@@ -8,8 +8,8 @@ tags:
 - TdAV
 ---
 
-This week's rains have played havoc with some of the local roads, so in addition to the one-hour-earlier start time and the one-month-later start date, riders will have to contend with some temporary road hazards, mostly in the form of sand, dirt, and gravel on the roadway.  
-  
+This week's rains have played havoc with some of the local roads, so in addition to the one-hour-earlier start time and the one-month-later start date, riders will have to contend with some temporary road hazards, mostly in the form of sand, dirt, and gravel on the roadway.
+
 The roads for the metric half century are better than expected. Taking the route from the start:
 
 - The intersection at Thunderbird and Navajo is pretty dirty (no turn)

@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-For you mountain bikers, the 5th Annual Ride In The Rocks Fundraiser is coming up on November 2nd, 2013.  
-  
+For you mountain bikers, the 5th Annual Ride In The Rocks Fundraiser is coming up on November 2nd, 2013.
+
 This event is sponsored by Mitsubishi Cement Corporation Educational Foundation to benefit Lucerne Valley Schools. It features four different events:
 
 - 22 Mile Challenge

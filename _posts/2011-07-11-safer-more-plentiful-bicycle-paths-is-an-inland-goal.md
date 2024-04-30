@@ -7,8 +7,8 @@ categories:
 - Information
 ---
 
-Supporters of cycling said the biggest factor cities can play in promoting biking is offering a safe route.  
-  
+Supporters of cycling said the biggest factor cities can play in promoting biking is offering a safe route.
+
 "The issue is safety and if we want to create a commuter ethic we need to give them safety," said Jane Block, a member of Riverside's bicycle advisory committee.
 
 She said cycling often gets lost in how to develop safe roads and trails. The ideal, she said, would be a Class A system --- a dedicated bike trail free of cars and pedestrians, in all local cities.

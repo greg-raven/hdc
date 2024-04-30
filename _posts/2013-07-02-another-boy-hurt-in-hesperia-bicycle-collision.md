@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-HESPERIA --- A 12-year-old boy suffered major injuries when his bicycle collided with a car in the area of Buckthorn and G avenues on Tuesday afternoon, San Bernardino County Fire Department officials said.  
-  
+HESPERIA --- A 12-year-old boy suffered major injuries when his bicycle collided with a car in the area of Buckthorn and G avenues on Tuesday afternoon, San Bernardino County Fire Department officials said.
+
 It was the third traffic collision involving a juvenile on a bicycle in Hesperia in less than a week.
 
 San Bernardino County Sheriff's and Fire Department personnel responded to the scene at approximately 3:15 p.m.

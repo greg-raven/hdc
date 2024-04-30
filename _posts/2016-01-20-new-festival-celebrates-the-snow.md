@@ -6,10 +6,10 @@ categories:
 - 'Event news'
 ---
 
-Snowshoe Races and Fat Bike Rides Headline Inaugural Winter Festival  
+Snowshoe Races and Fat Bike Rides Headline Inaugural Winter Festival
 Big Bear Lake, Calif. --- El Niño is off to a great start this winter, bringing much needed snow to Southern California's mountain region. The recent boost of snow has inspired organizers of Big Bear Cycling and Open Air Big Bear to produce the inaugural Big Bear Winter Festival, which features fat bike rides and snowshoe races on professionally groomed, snow-covered US Forest Service roads and single track trails. Big Bear Winter Festival is Saturday, February 27 and Sunday, February 28 at Snow Summit Resort with two sporting events as the main attractions, Fat Bike Big Bear and Snowshoe Big Bear.
 
-![fat bike on snow](/assets/img/2016/fat-bike-on-snow.jpg)  
+![fat bike on snow](/assets/img/2016/fat-bike-on-snow.jpg)
 Snowshoe Big Bear kicks off Big Bear Winter Festival on Saturday, February 27 at 8 a.m. with three different snowshoe races of 5k, 10k and 22k. The races challenge athletes from the sound of the gun all the way to the finish line. It begins at the base of Snow Summit and ascends onto professionally- groomed forest trails west of the resort. The course meanders through the woods and descends back to the base of Snow Summit to a welcoming, festive atmosphere.
 
 Fat bikes, which are becoming the hottest trend in winter sports, set the stage Saturday afternoon at 1 p.m. Participants have a choice to ride four designated routes of 6, 10, 14 and 18 miles on groomed courses by Snow Summit's groomers. Fat Bike Big Bear is the only organized fat bike ride in California. It's limited to fat bikes only with a minimum 4" tire width (tire studs OK). Both events have well-marked routes with a fully-staffed radio team and aid stations positioned throughout the course. There is a no-host bar and barbeque happening all day that includes music and vendor expo. Both snowshoe and fat bike rentals are available on site or can be reserved in advanced online at SnowShoeBigBear.com (for snowshoes) or FatBikeBigBear.com (for fat bikes). Please note, fat bike rentals are limited and it's highly recommended to reserve in advance.

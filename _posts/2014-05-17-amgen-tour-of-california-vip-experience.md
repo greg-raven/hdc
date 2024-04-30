@@ -6,8 +6,8 @@ categories:
 - 'Event news'
 ---
 
-Stage 7 --- Santa Clarita to Pasadena  
-  
+Stage 7 --- Santa Clarita to Pasadena
+
 Apple Valley resident and one-time track cyclist John Hill contacted representatives of the [Amgen Tour of California](https://www.amgentourofcalifornia.com/) to recommend Apple Valley as a host city for a future stage. Their response was to invite him and one other person to attend a stage of the 2014 Amgen Tour as their VIP guests. John contacted me to accompany him.
 
 We selected Stage 7, a road race stage from Santa Clarita to Pasadena, primarily because with the driving involved to get there and back, Saturday seemed a better travel day than the Friday stage (Santa Clarita to Wrightwood).

@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-APPLE VALLEY --- It may soon be OK to ride a bicycle on paths in Apple Valley's parks, if the Town Council approves an updated ordinance tonight.  
-  
+APPLE VALLEY --- It may soon be OK to ride a bicycle on paths in Apple Valley's parks, if the Town Council approves an updated ordinance tonight.
+
 The update will outlaw smoking, increase safety requirements in the skate park and clarify penalties for violating codes, but give a bit more leeway to bicyclists and skateboarders who are using the park's paved pathways responsibly. Town officials said the ordinance essentially makes official several policies they've already been trying to enforce.
 
 "We want to make sure we are encouraging the right uses of our parks," Councilman Scott Nassif said.

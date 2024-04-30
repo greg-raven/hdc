@@ -7,8 +7,8 @@ categories:
 - 'Ride news'
 ---
 
-The High Desert Cyclists invite you to join the Bike Ride for Bike lanes, Monday, May 2, 2011.  
-  
+The High Desert Cyclists invite you to join the Bike Ride for Bike lanes, Monday, May 2, 2011.
+
 Meet in the parking lot by Lowes and Baja Fresh in Victorville at 6:00 PM. The ride starts at 6:15 PM, ending approximately six miles down Bear Valley Road at the AAA Automobile Club office in the Jess Ranch Marketplace. If you choose to ride, you must wear a helmet.
 
 Snacks will be provided by Healthy Apple Valley.

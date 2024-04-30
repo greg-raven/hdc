@@ -14,7 +14,7 @@ Here's the first radio ad for the Victor Valley Bicycle Tour. It should be airin
 <source src="/assets/audio/VVBT-reserve-today-music-dry.mp3" type="audio/mpeg"></source>
 </audio>
 
-![Kat Country](/assets/img/2015/09/kat-country.jpg)  
-![Talk 960](/assets/img/2015/09/talk-960.jpg)  
-![106.5 The Fox](/assets/img/2015/09/the-fox.jpg)  
+![Kat Country](/assets/img/2015/09/kat-country.jpg)
+![Talk 960](/assets/img/2015/09/talk-960.jpg)
+![106.5 The Fox](/assets/img/2015/09/the-fox.jpg)
 ![Y102](/assets/img/2015/09/y102.jpg)

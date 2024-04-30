@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-The number of loose dogs on Quarry Road has been way down for several months, but apparently this is still dependent on the luck of the draw, rather than on any conscientiousness on the part of the resident of the house just west of Dale Evans Parkway. In fact, even when the owners are in the yard, they exercise little control over dogs that chase cyclists, and the dogs themselves don't act as if they have training of any sort.  
-  
+The number of loose dogs on Quarry Road has been way down for several months, but apparently this is still dependent on the luck of the draw, rather than on any conscientiousness on the part of the resident of the house just west of Dale Evans Parkway. In fact, even when the owners are in the yard, they exercise little control over dogs that chase cyclists, and the dogs themselves don't act as if they have training of any sort.
+
 There seem to be up to a dozen dogs, and at least half of them will chase you if they feel like it.
 
 There are two problems with reporting these instances, though.

@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-A bicyclist was struck and killed Friday morning as he rode along a busy road in Apple Valley, according to San Bernardino County sheriff's officials.  
-  
+A bicyclist was struck and killed Friday morning as he rode along a busy road in Apple Valley, according to San Bernardino County sheriff's officials.
+
 At approximately 10:13 a.m., sheriff's deputies from the Apple Valley station responded to a call of man on a bicycle who had been struck by a sports utility vehicle while riding along Apple Valley Road near Quantico Road, sheriff's spokeswoman Trish Hill wrote in a news release.
 
 A Chevrolet Tahoe traveling north on Apple Valley Road struck bicyclist Kevin Olin, 56, who was also traveling north in the designated bike lane, the release stated.

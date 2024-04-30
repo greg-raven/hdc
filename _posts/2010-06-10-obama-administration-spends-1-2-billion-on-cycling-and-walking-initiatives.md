@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-The Obama administration more than doubled spending on cycling and walking initiatives to $1.2 billion (£810 million) last year as it seeks to coax Americans out of their cars.  
-  
+The Obama administration more than doubled spending on cycling and walking initiatives to $1.2 billion (£810 million) last year as it seeks to coax Americans out of their cars.
+
 Spending on biking and walking projects rose from less than $600 million (£407 million) in 2008, according to the Federal Highway Administraion. Twenty years ago, the federal government was spending only $6 million a year on such projects.
 
 The new focus on biking and walking represents a turnaround from the administration of President George W Bush. Mary Peters, transportation secretary under Bush, dismissed biking paths and trails as projects that "really are not transportation," saying they had no place in federal transportation policy.

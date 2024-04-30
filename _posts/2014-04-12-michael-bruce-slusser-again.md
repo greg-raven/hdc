@@ -8,8 +8,8 @@ tags:
 - 'Michael Bruce Slusser'
 ---
 
-It seems that [Michael Bruce Slusser](/tag/michael-bruce-slusser/) is back in the news again.  
-  
+It seems that [Michael Bruce Slusser](/tag/michael-bruce-slusser/) is back in the news again.
+
 If you remember, in May of 2012 Slusser cut a deal with authorities for three years' probation for running down local cyclists Tim Moreno and Steve Stearns with his truck (and leaving the scene of the accident) while under the influence.
 
 Typically, you wouldn't think that probationers would be allowed to leave the country, but apparently Slusser has done just that, without obtaining permission, no less.

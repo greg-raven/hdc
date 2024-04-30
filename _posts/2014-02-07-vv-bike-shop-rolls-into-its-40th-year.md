@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-VICTORVILLE --- After four decades of economic highs and lows, one High Desert business is not only standing, but thriving.  
-  
+VICTORVILLE --- After four decades of economic highs and lows, one High Desert business is not only standing, but thriving.
+
 Kevin and Carol Kraatz, owners of Victorville Cycles, are celebrating their shop's 40th year of operation in Victorville. They recently moved into a 3,200-square-foot building near Spring Valley Lake.
 
 "We have a great community that has supported us from that tiny shop in downtown Victorville," said Kevin Kraatz, 48, who took over the shop from his parents, Frank and Joyce, in 1995. "My parents got involved in cycling in the '60s, so as a family we've moved past our 50th year in the biking world."

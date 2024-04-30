@@ -6,8 +6,8 @@ categories:
 - Advocacy
 ---
 
-\[...\] Any time you ride in the dark, always remember that "light makes right."  
-  
+\[...\] Any time you ride in the dark, always remember that "light makes right."
+
 Angelo "Andy" Douglas Azzato, 47, was found dead on the side of the road on Nov. 7 after apparently being struck and killed by a hit-and-run driver.
 
 "Most likely it happened sometime in the night," said California Highway Patrol Officer Robert Grieve.

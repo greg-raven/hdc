@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-I may be the last Stava member to discover this, but Strava now has a great privacy feature that allows you to share your GPS ride data while protecting sensitive information.  
-  
+I may be the last Stava member to discover this, but Strava now has a great privacy feature that allows you to share your GPS ride data while protecting sensitive information.
+
 In the upper right-hand corner of the Strava page (after you've signed in), you'll see your name. Underneath your name is a menu with an option marked "Settings." Within the Settings section is the "Privacy" section.
 
 Here, you can enter your home and office addresses (for example), and Strava will blank out the published route for 500-1000m around these points.

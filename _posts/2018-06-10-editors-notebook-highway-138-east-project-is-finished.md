@@ -7,8 +7,8 @@ categories:
 - 'Bike lanes'
 ---
 
-Without fanfare, Caltrans' contractor finished the Highway 138 East widening project sometime in the last couple of weeks. I knew they were getting close, because about 80 percent of the new road had been open for quite some time.  
-  
+Without fanfare, Caltrans' contractor finished the Highway 138 East widening project sometime in the last couple of weeks. I knew they were getting close, because about 80 percent of the new road had been open for quite some time.
+
 Last Sunday, we drove down the hill for lunch and decided to take Summit Valley Road to Highway 138 to Interstate 15 just in case those returning from Vegas had already jammed I-15. Lo and behold, all of the new part of Highway 138 was open for business.
 
 It's a pleasure to not have to navigate the switchbacks anymore and will cut a few minutes off anyone's trip to or from Silverwood Lake, but we encountered a situation that I fear is proof that Caltrans should have opted for two lanes in each direction, at a minimum.

@@ -8,8 +8,8 @@ tags:
 - TdAV
 ---
 
-On arriving at Civic Center Park in Apple Valley last Saturday for the start, many of us may have yearned for last year's September start at 8:00 A.M., as opposed to this year's cold 7:00 A.M. start in the dark. While the sun may technically have been up when the ride started, it was still behind the mountains, and everyone seemed chilled.  
-  
+On arriving at Civic Center Park in Apple Valley last Saturday for the start, many of us may have yearned for last year's September start at 8:00 A.M., as opposed to this year's cold 7:00 A.M. start in the dark. While the sun may technically have been up when the ride started, it was still behind the mountains, and everyone seemed chilled.
+
 Soon after the ride started, though, the cold began to lose its grip and the penumbral roads began to lighten. Being able to ride for 20 minutes or so before the sun finally appeared turned out to be a good thing, as the pack was able to get well into it before having to squint to see the roads stretching eastward from the starting point.
 
 There were other differences, too this year.

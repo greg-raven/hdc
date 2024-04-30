@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-After pondering how many flats I typically get while cycling around the High Desert, I realized what my New Year's Cycling Resolution should be.  
-  
+After pondering how many flats I typically get while cycling around the High Desert, I realized what my New Year's Cycling Resolution should be.
+
 I've been getting a flat about once for every three rides.
 
 Therefore, I resolve to check my tires for stickers and other puncturing objects each time after I return home. I'm already wiping down my chain, so an extra minute or two spent checking the tires might help catch a thorn that's embedded into the tire, but not yet made it through the tube.

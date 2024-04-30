@@ -6,22 +6,22 @@ categories:
 - Advocacy
 ---
 
-I made a presentation to the Apple Valley Town Council last night (Tuesday, March 26th) about adding rumble strips to bike lanes.  
-  
+I made a presentation to the Apple Valley Town Council last night (Tuesday, March 26th) about adding rumble strips to bike lanes.
+
 Here is the text of my presentation:
 
 > There are several roads around Apple Valley that now have bike lanes. I, as a cyclist, very much appreciate them. Unfortunately, Apple Valley Road --- which should be one of our safest passageways given its generous vehicle and bike lanes --- has seen two bad accidents in the past couple of years.
-> 
+>
 > I mentioned this to a cycling friend the other day, and his response was immediate: "Are there rumble strips?" he asked.
-> 
+>
 > Now, for the drunk who ran down Tim Moreno and Steve Stearns, rumble strips might not have made a difference, although perhaps they would have prompted his passenger to intervene in time to prevent the collision.
-> 
+>
 > For the "distracted driver" who struck and killed Kevin Olin, though, the rumble strips might have been enough to return the driver's attention to the proper operation of his vehicle, and Mr. Olin might still be with us.
-> 
+>
 > Therefore, I request that the Town cut rumble strips into the asphalt alongside each current and future bike lane. Furthermore, I request that these rumble strips to be on the "vehicle side" of the bike-lane line. That is, the rumble strips should not encroach into the bike lane, which already seems to be too narrow to prevent vehicular mayhem from occurring to its users.
-> 
+>
 > I know as a cyclist that rumble strips are not fun to ride on, even when crossing them as you sometimes must. Therefore, I am attaching copies of an analysis of installing rumble strips, which covers the inclusion of passing zones that are accessible to bicycle traffic without diminishing their effectiveness in guiding wayward motor vehicles back into their proper lane.
-> 
+>
 > Attached: [Analysis of Gap Patterns in Longitudinal Rumble Strips to Accommodate Bicycle Travel](https://www.richardcmoeur.com/docs/rumblgap.pdf).
 
 It was perhaps fortunate that I followed a gentleman who has been after the Town Council for months (years?) about safety on Apple Valley Road. He pointed out that the mandatory road surveys have not been done properly, so that traffic conditions, cross streets, driveways, population density, and other factors have been misstated. His recommendation seems to be to lower the speed limit on Apple Valley Road, and as part of his presentation he mentioned that a pedestrian had been struck by a car recently.

@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-The Victor Valley Velo bicycle club will be hosting a year-long time trial series in order to promote a low-key, healthy competition for high desert cyclists.  
-  
+The Victor Valley Velo bicycle club will be hosting a year-long time trial series in order to promote a low-key, healthy competition for high desert cyclists.
+
 The series will run from March through September with one time trial per month. Medals and ribbons will be awarded for individual time trials. There will be a trophy and prizes for overall winners.
 
 There will be different classes of competition:

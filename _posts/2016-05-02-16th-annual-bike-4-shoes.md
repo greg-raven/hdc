@@ -18,9 +18,9 @@ Join them for this very special event in our magical desert home, and feel free 
 
 For more information, see the flyer below or contact:
 
-Jacqueline Guevara  
-jacque.guevara@gmail.com  
-President Elect 16-17  
+Jacqueline Guevara
+jacque.guevara@gmail.com
+President Elect 16-17
 Joshua Tree Rotary
 
 ![bike4shoes.jpg](/wp-content/uploads/2016/05/bike4shoes.jpg)

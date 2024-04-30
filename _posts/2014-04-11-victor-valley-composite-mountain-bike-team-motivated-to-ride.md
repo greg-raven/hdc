@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-The tires sloshed through the wet sandy soil as a series of lycra-clad teens climbed their way up a steep trail between the Joshua trees and juniper bushes. At the top they were greeted with a view spanning the entire Summit Valley and San Bernardino National Forest. The way down was faster with a couple yells of joy. This ride, south of Hesperia, is a typical practice for the Victor Valley composite mountain biking team.  
-  
+The tires sloshed through the wet sandy soil as a series of lycra-clad teens climbed their way up a steep trail between the Joshua trees and juniper bushes. At the top they were greeted with a view spanning the entire Summit Valley and San Bernardino National Forest. The way down was faster with a couple yells of joy. This ride, south of Hesperia, is a typical practice for the Victor Valley composite mountain biking team.
+
 This is not a team focused on winning leagues, titles or championships. It is a team focused on riding bikes as much as possible and racing on race day.
 
 "If it's cold out, well, we're practicing, if it's hot out we're practicing, if it's windy, rainy, it doesn't matter," said team director Eddie Rea. "These guys are into it, they want to ride their bikes."

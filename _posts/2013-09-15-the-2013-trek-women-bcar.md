@@ -6,8 +6,8 @@ categories:
 - 'Ride news'
 ---
 
-Victorville Cycles is once again hosting the local [Breast Cancer Awareness Ride](https://www.trekbikes.com/us/en/community/rides/breast_cancer_awareness_ride/).  
-  
+Victorville Cycles is once again hosting the local [Breast Cancer Awareness Ride](https://www.trekbikes.com/us/en/community/rides/breast_cancer_awareness_ride/).
+
 THE RIDE
 
 At 10:00AM on Saturday October 12th, over 100 participating Trek dealers across the United States and Canada will join together to raise awareness for breast cancer research, treatment, and prevention by hosting 10- and 25-mile casual, family-friendly bike rides. Their goal is to have more than 10,000 women, men, and children from across the nation all riding on the same day at the same time in a healthy and friendly environment, uniting together to show support for breast cancer patients and survivors by sharing challenges, celebrating victories, and fighting for a cure.
@@ -16,7 +16,7 @@ THE LOCATION
 
 The ride will start and finish at Victorville Cycles. The address is:
 
-[12408 Hesperia Rd #4  
+[12408 Hesperia Rd #4
 Victorville CA 92395](https://victorvillecycles.com/storelocator/)
 
 THE ROUTE

@@ -8,9 +8,9 @@ tags:
 - TdAV
 ---
 
-This year's Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!  
-  
-![2012 Tour de Apple Valley](/assets/img/2012/02/16-tour-de-apple-valley.png)  
+This year's Tour de Apple Valley is scheduled for October 20th at 7:00 AM. Sign up now!
+
+![2012 Tour de Apple Valley](/assets/img/2012/02/16-tour-de-apple-valley.png)
 The routes have changed from previous years. There are now going to be three rides, 10 miles, 25 miles, and 50 miles.
 
 All rides start at 10:00 AM, with the 50-mile riders leaving first, then the 25-mile riders, then the 10-mile family riders. On-site registration starts at 8:30.
@@ -25,13 +25,13 @@ You can save by pre-registering by Friday, October 5th. Each participant will be
 
 Ride start location:
 
-> Apple Valley Civic Center Park  
-> 14999 Dale Evans Parkway  
+> Apple Valley Civic Center Park
+> 14999 Dale Evans Parkway
 > Apple Valley, CA 92307
 
 Mail payments and entry forms to:
 
-> The Chuck Hanson Foundation / Tour de Apple Valley  
+> The Chuck Hanson Foundation / Tour de Apple Valley
 > PO Box 9999, Apple Valley, CA 92307
 
 Make checks payable to:

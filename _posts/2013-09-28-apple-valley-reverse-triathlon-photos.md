@@ -7,8 +7,8 @@ categories:
 - 'Ride news'
 ---
 
-Here are some of the photos I took of the cyclists at the Apple Valley Reverse Triathlon.  
-  
+Here are some of the photos I took of the cyclists at the Apple Valley Reverse Triathlon.
+
 [Staging area (47 photos)](https://www.flickr.com/photos/gregraven/sets/72157635989454386/)
 
 **Turn-around point**

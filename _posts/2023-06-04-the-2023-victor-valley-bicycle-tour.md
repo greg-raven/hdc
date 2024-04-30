@@ -20,7 +20,7 @@ Join the fun by signing up at [Active.com](https://www.active.com/apple-valley-c
 
 ## Frequently Asked Questions:
 
-**Is the Victor Valley Bicycle Tour a for-profit company?** 
+**Is the Victor Valley Bicycle Tour a for-profit company?**
 : No, the Victor Valley Bicycle Tour is not a for-profit community organization. All funds received for events come solely from registration fees and donations from local municipalities, businesses and other community donors. These fees/donations will provide for the full cost of the event as well as providing events, service, and improvements to the Victor Valley.
 
 **Who handles the Victor Valley Bicycle Tour's money?**

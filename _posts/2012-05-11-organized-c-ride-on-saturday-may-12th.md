@@ -16,5 +16,5 @@ To my knowledge, this is only the second organized "C" ride in the last several 
 
 [Here is the VVBC Facebook page](https://www.facebook.com/groups/84235983842/?ref=bookmarks "VVBC"), which contains ride announcements and other local cycling news.
 
-If you're too fast for a "C" ride, the VVBC also offers faster "B" and  
+If you're too fast for a "C" ride, the VVBC also offers faster "B" and
 still faster "A" rides on Saturday and Sunday. [Here is the website of the Victor Valley Bicycle Club](https://www.facebook.com/groups/84235983842/?ref=bookmarks "VVBC") (VVBC) with all the details.

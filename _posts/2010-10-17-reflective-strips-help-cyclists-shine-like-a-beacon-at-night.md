@@ -6,8 +6,8 @@ categories:
 - Information
 ---
 
-CYCLISTS wearing bright fluorescent clothing at night are not as safe as they think, especially when sharing the road with older drivers, a study shows.  
-  
+CYCLISTS wearing bright fluorescent clothing at night are not as safe as they think, especially when sharing the road with older drivers, a study shows.
+
 A \[...\] study looked at whether clothing influenced cyclists' visibility. It found older drivers failed to see riders dressed in black or in fluorescent clothing. Younger drivers were more likely to see a rider in fluorescent clothing, but overall only 15 per cent saw the bright colour and just 2 per cent saw a rider wearing black.
 
 Drivers saw riders wearing a reflective vest and reflectors on their ankles and knees 90 per cent of the time.

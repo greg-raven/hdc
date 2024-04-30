@@ -6,16 +6,16 @@ categories:
 - 'Bike lanes'
 ---
 
-Had a great conversation this afternoon with Dan Conaty, who works as the Principal Environmental Planner at Parsons. Conaty also mentioned that he had had a good conversation with John Teegarden, president of VV Bike Club, yesterday.  
-  
+Had a great conversation this afternoon with Dan Conaty, who works as the Principal Environmental Planner at Parsons. Conaty also mentioned that he had had a good conversation with John Teegarden, president of VV Bike Club, yesterday.
+
 From what I gathered, Parsons has been retained by [CalTrans](https://www.dot.ca.gov/hq/LocalPrograms/bike/homepage.htm) to conduct (very) preliminary studies regarding adding a bike path to the [High Desert Corridor (HDC) project](https://www.metro.net/projects/high-desert-corridor/), that is in the planning stages to connect Palmdale with Apple Valley. The bike path would join the planned freeway, and possibly a rail line.
 
 Before our telephone conversation, Conaty sent me this information:
 
 > While the entire HDC freeway project is being planned to extend 63 miles between SR 18 in the Town of Apple Valley and SR 14 in the City of Palmdale, the bicycle facility as currently proposed would parallel the proposed freeway across only 41 miles of mostly open desert, between U.S. 395 on the east to the Palmdale Transportation Center (39000 Clock Tower Plaza Drive East) on the west. At both ends of the proposed bicycle facility, it is intended that connections would be made with either existing or planned bicycle facilities within the respective municipalities. Land uses in the project vicinity mostly consist of undeveloped/vacant properties, but there are also agriculture, residential, commercial, industrial, resource/utility, recreation, and government uses.
-> 
+>
 > Because the project is only in the project approval/environmental document (PA/ED) phase, there is no available design for the proposed Bike Path. The following characteristics/features are proposed:
-> 
+>
 > - The facility would be a Class 1 Bikeway (Bike Path), as defined in Caltrans' Highway Design Manual (HDM), Chapter 1000\[1\] as a "completely separated right-of-way for the exclusive use of bicycles and pedestrians with cross-flow by motorists minimized."
 > - The facility would be constructed parallel to and within right-of-way to be acquired as part of the HDC corridor. The Bike Path would be constructed at an appropriate separation from the motorized transportation uses; no closer than five linear feet from the freeway shoulder with an intervening fence/barrier.
 > - The Bike Path would be designed as a bi-directional, shared-use (i.e., non-motorized uses) facility in accordance with the HDM, Chapter 1000 requirements.

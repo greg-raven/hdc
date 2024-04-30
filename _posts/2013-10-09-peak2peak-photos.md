@@ -7,8 +7,8 @@ categories:
 - 'Ride news'
 ---
 
-Here are some photos of this year's Peak2Peak riders going through Lucerne Valley.  
-  
+Here are some photos of this year's Peak2Peak riders going through Lucerne Valley.
+
 Approaching Lucerne Valley
 
 [![Peak to Peak Pedal / Set 1](https://farm3.staticflickr.com/2859/10179238324_f48dcd6a7c_z.jpg)](https://www.flickr.com/photos/gregraven/albums/72157636373350523 "Peak to Peak Pedal / Set 1")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script>

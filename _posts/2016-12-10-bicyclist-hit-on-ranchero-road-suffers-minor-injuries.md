@@ -14,7 +14,7 @@ San Bernardino County Fire Department personnel found the bicyclist in the road 
 
 A Hesperia Unified School District officer was on scene at approximately 7:30 a.m., along with two pickup trucks, on the side of the road. There was also significant amount of shattered glass on the road. However, traffic was flowing smoothly near the scene at 7:30 a.m.
 
-Hunt said the bicyclist, a Victorville resident, was riding on Topaz Avenue and was struck by a westbound 1965 Chevrolet C-10 on Ranchero Road driven by a 50-year-old Oak Hills man. Hunt said the man served to the right but was unable to avoid the collision.  
+Hunt said the bicyclist, a Victorville resident, was riding on Topaz Avenue and was struck by a westbound 1965 Chevrolet C-10 on Ranchero Road driven by a 50-year-old Oak Hills man. Hunt said the man served to the right but was unable to avoid the collision.
 The crash remained under investigation Friday afternoon, Hunt said.
 
 Source: Jose Quintero, Daily Press
