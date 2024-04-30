@@ -134,7 +134,3 @@ No person in any vehicle shall throw or discharge from or upon any road, highway
 No person shall throw or deposit upon a highway any bottle, can garbage, glass, wire, nails, paper or any substance likely to injure or cause damage to traffic using the highway.
 
 In addition to these state laws, many communities have local ordinances. Check with your local police department regarding bicycle registration, licensing, and regulations (sidewalk riding, etc.) in your area.
-
----
-
-For more about California Vehicle Codes and bicycles, [click here](https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/fast_facts/ffdl37).

@@ -8,7 +8,7 @@ categories:
 
 Had a great conversation this afternoon with Dan Conaty, who works as the Principal Environmental Planner at Parsons. Conaty also mentioned that he had had a good conversation with John Teegarden, president of VV Bike Club, yesterday.
 
-From what I gathered, Parsons has been retained by [CalTrans](https://www.dot.ca.gov/hq/LocalPrograms/bike/homepage.htm) to conduct (very) preliminary studies regarding adding a bike path to the [High Desert Corridor (HDC) project](https://www.metro.net/projects/high-desert-corridor/), that is in the planning stages to connect Palmdale with Apple Valley. The bike path would join the planned freeway, and possibly a rail line.
+From what I gathered, Parsons has been retained by [CalTrans](https://www.dot.ca.gov) to conduct (very) preliminary studies regarding adding a bike path to the [High Desert Corridor (HDC) project](https://www.metro.net), that is in the planning stages to connect Palmdale with Apple Valley. The bike path would join the planned freeway, and possibly a rail line.
 
 Before our telephone conversation, Conaty sent me this information:
 
