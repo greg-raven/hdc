@@ -30,4 +30,4 @@ All proceeds gathered from the event will be used to fund children's bicycle saf
 
 For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycletour.com.
 
-[Read the full story here](https://www.vvdailypress.com/article/20151018/NEWS/151019793/12967/LIFESTYLE).
+[Read the full story here](https://www.vvdailypress.com)

@@ -28,4 +28,4 @@ Part Two of the project will include the addition of bike lanes along Hesperia R
 
 The bike lane loop, comprised of Class II bike lanes, will be about 7 miles in length and will be designated with signage throughout Old Town.
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com/news/20190517/construction-of-bike-path-to-begin-on-bear-valley-road)
+Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)

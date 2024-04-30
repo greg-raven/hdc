@@ -18,6 +18,6 @@ October 20th offers three times the goodness, with three different rides.
 
 First up is the annual Chuck Hanson Tour de Apple Valley. Although this year marks the first time there will be a family ride, the big change is that the Chuck Hanson Foundation (a not-for-profit 501c3) is taking over the operational aspects from AV Pal, which means that proceeds now will go toward cycling-related causes and activities. If you can't ride, you can volunteer to help, donate money, or become a sponsor. Sign up on-line through Active.com.
 
-Next up is the [Antelope Valley High Desert Fall Century in Palmdale](https://www.highdesertcyclists.com/). There are 25-, 62-, and 100-mile rides available. Register through Active.com.
+Next up is the Antelope Valley High Desert Fall Century in Palmdale. There are 25-, 62-, and 100-mile rides available. Register through Active.com.
 
 If off-road cycling is your thing, check out Ride in the Rocks. Register on-line through Active.com.

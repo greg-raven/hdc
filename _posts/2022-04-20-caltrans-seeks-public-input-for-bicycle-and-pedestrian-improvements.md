@@ -29,4 +29,4 @@ The public review period for this draft Plan Summary Report began on April 20 an
 
 For more information about the Caltrans Active Transportation Plans, visit [catplan.org](https://www.catplan.org).
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com/story/news/2022/04/20/caltrans-improve-bike-and-pedestrian-components-high-desert/7388857001/?a=a&utm_source=vvdailypress-Daily%20Briefing&utm_medium=email&utm_campaign=daily_briefing&utm_term=hero&utm_content=CALIFORNIA-VICTORVILLE-NLETTER65)
+Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)

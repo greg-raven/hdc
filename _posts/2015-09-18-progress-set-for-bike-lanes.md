@@ -26,6 +26,4 @@ The cost for the agreement with David Evans was included in the city's Capital I
 
 Measure I is the half-cent sales tax used for transportation improvements and was approved by San Bernardino County voters in 2004.
 
-Shea Johnson may be reached at 760-955-5368 or SJohnson@VVDaily-Press.com. Follow him on Twitter at @DP\_Shea.
-
-Source: [Daily Press](https://www.vvdailypress.com/)
+Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com)

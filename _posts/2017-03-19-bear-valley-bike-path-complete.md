@@ -24,4 +24,4 @@ The town awarded a contract to Riverside Construction in September 2016, with wo
 
 "(It's) definitely a connector between Jess Ranch Marketplace and VVC," she said, "as well as an important link to the loop that includes the Mojave Riverwalk and Yucca Loma Bridge."
 
-Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com/news/20170319/bear-valley-bike-path-complete)
+Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com)

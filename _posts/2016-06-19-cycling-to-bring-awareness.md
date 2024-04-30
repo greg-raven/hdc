@@ -30,4 +30,4 @@ Dean said all the men who cycled are members of the organization ranging between
 
 O'Leary said it has been a very good experience for him so far and he is humbled to take part in this experience "We're excited to have been in Victorville on this new route. Everybody had been practicing really hard all week and we've been getting the guys in shape. We're all here to have a good time and it's all about having a fun time. It's been a great day,"
 
-Source: Monica Solano, [Daily Press](https://www.vvdailypress.com/)
+Source: Monica Solano, [Daily Press](https://www.vvdailypress.com)

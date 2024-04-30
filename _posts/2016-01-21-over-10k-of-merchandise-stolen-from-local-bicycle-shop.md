@@ -26,4 +26,4 @@ Kraatz said the store has been in business since 1974 and Tuesday's burglary was
 
 Anyone with information regarding this incident is urged to contact the Victorville Sheriff's station at 760-241-2911.
 
-Source: Paola Baker, [Daily Press](https://www.vvdailypress.com/article/20160120/NEWS/160129970)
+Source: Paola Baker, [Daily Press](https://www.vvdailypress.com)

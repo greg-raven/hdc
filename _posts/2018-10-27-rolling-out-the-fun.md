@@ -40,6 +40,6 @@ It was Conde's first time at the bicycle tour, but he said he and his family are
 
 "We're definitely doing this again," Conde said, grinning.
 
-For bike routes and general information on the VVBT, visit www.victorvalleybicycletour.com.
+For bike routes and general information on the VVBT, visit [www.victorvalleybicycletour.com](http://www.victorvalleybicycletour.com).
 
-Source: Paola Baker, Daily Press (https://www.vvdailypress.com/news/20181027/rolling-out-fun)
+Source: Paola Baker, [Daily Press](https://www.vvdailypress.com)

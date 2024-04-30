@@ -14,4 +14,4 @@ One lane will be open in each direction for the duration of the work, unless ext
 
 Source: [CalTrans](https://sv08data.dot.ca.gov/memos/files/comalert/041417_0.pdf) (PDF)
 
-See also: [Caltrans project in Apple Valley to begin Monday](https://www.vvdailypress.com/news/20170414/caltrans-project-in-apple-valley-to-begin-monday)
+See also: [Caltrans project in Apple Valley to begin Monday](https://www.vvdailypress.com)

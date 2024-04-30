@@ -16,4 +16,4 @@ The organization says it's thankful to the City of Victorville for allowing the 
 
 Sanchez says that Majestic Cycling has been hosting this event in so many different elements that bring some challenges to the riders. He says it's either cold, windy, or hot, but anticipates that they continue to host these racing events in Victorville for many years to come.
 
-Source: [HD Daily News](https://www.hddailynews.com/news/local/cycling-event-pedals-through-victorville-for-its-6th-year/article_a2a35096-9365-11ec-80b8-7b7383c73d6d.html)
+Source: HD Daily News

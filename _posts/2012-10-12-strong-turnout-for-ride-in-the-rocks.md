@@ -30,4 +30,4 @@ A small army of volunteers and sponsors made the event possible. Lucerne Valley 
 
 Sponsors included: Mitsubishi Cement Corporation Educational Foundation, the Daily Press, The Leader, Mitsubishi Cement Corporation, ICR Staffing Services, Gresham Savage, Out of this World BBQ, High Desert Party Rentals, Team Big Bear, Lucerne Valley Self Storage, Chains Required, Safety Employees Benefit Association (SEBA), Victorville Motors, Lucerne Valley Market and Hardware, Hi-Grade Materials, Kangan Water, Lucerne Valley Lions Club, Janette and Jason Graham, L.V. Community Church, Otwell Racing, Spankey---s, Raw Revolution, Apex Logistics, LLC, Specialty Minerals, Inc., Omya California, Butcher's Block and Bear Valley Bikes.
 
-Source: Kris Reilly, Daily Press (https://www.vvdailypress.com/article/20121024/NEWS/310249979)
+Source: Kris Reilly, [Daily Press](https://www.vvdailypress.com)

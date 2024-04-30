@@ -28,4 +28,4 @@ The first phase includes a four-mile paved bicycle and pedestrian path from Bear
 
 The path will eventually connect to the Yucca Loma Bridge.
 
-Source: [Daily Press](https://www.vvdailypress.com/article/20151025/NEWS/151029815)
+Source: [Daily Press](https://www.vvdailypress.com)

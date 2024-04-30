@@ -34,4 +34,4 @@ Victorville City Manager Doug Robertson, a member of the Facebook group, tried t
 
 "The reason it's a four-year plan is many of the lanes will be added after repaving the road," he wrote. "If we were to just stripe what we have it wouldn't take long but the lanes wouldn't be used due to pavement quality."
 
-Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com/article/20150523/NEWS/150529852)
+Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com)

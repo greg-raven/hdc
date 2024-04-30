@@ -16,4 +16,4 @@ The $296,703 increase was the result of additional work requested by town staff 
 
 \[...\]
 
-Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com/article/20160620/NEWS/160629965/12964/NEWS)
+Source: Matthew Cabe, [Daily Press](https://www.vvdailypress.com)
