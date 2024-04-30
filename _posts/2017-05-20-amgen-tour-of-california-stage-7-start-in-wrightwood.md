@@ -22,7 +22,7 @@ On a personal note, it was weird not having the traditional Michelob Ultra Podiu
 
 Here's what the start looked like. Note how thin the crowd is.
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="473" loading="lazy" src="https://www.youtube.com/embed/XWVX6AAqKn4?feature=oembed" title="2017 Amgen Tour of California, Stage 7" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWVX6AAqKn4?si=pQHpkOU9IdkB80Iv" title="Amgen Tour of California, Stage 7 start in Wrightwood" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I had a feeling that attendance might be down after watching the previous-days' Big Bear Lake individual time trial (Stage 6) on TV, but it was still shocking to see how few turned out for this event.
 

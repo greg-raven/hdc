@@ -9,17 +9,87 @@ categories:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9EumaLheLe8?si=UznakvAlMxF42zNM" title="Introducing the 2019 Host Cities | Amgen Tour of California" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| Stage 1 | Men's Overall Start | Sun, May 12 | Sacramento |
-|---|---|---|---|
-| Stage 2 | Men's Start | Mon, May 13 | Rancho Cordova |
-| Stage 2 | Men's Finish | Mon, May 13 | South Lake Tahoe |
-| Stage 3 | Men's Start | Tues, May 14 | Stockton |
-| Stage 3 | Men's Finish | Tue, May 14 | Morgan Hill |
-| Stage 4 | Men's Start | Wed, May 15 | WeatherTech Raceway Laguna Seca |
-| Stage 4 | Men's Finish | Wed, May 15 | Morro Bay |
-| Stage 5 | Men's Start | Thu, May 16 | Pismo Beach |
-| Stage 5 | Men's Finish | Thu, May 16 | Ventura |
-| Stage 6 | Men's Start | Fri, May 17 | [Ontario](https://www.amgentourofcalifornia.com/host-cities/ontario) |
-| Stage 6 | Men's Finish | Fri, May 17 | [Mt. Baldy](https://www.amgentourofcalifornia.com/host-cities/mt-baldy) |
-| Stage 7 | Men's Start | Sat, May 18 | [Santa Clarita](https://www.amgentourofcalifornia.com/host-cities/santa-clarita) |
-| Stage 7 | Men's Overall Finish | Sat, May 18 | [Pasadena](https://www.amgentourofcalifornia.com/host-cities/pasadena) |
+<table>
+<thead>
+<tr>
+<th>Stage 1</th>
+<th>Men's Overall Start</th>
+<th>Sun, May 12</th>
+<th>Sacramento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stage 2</td>
+<td>Men's Start</td>
+<td>Mon, May 13</td>
+<td>Rancho Cordova</td>
+</tr>
+<tr>
+<td>Stage 2</td>
+<td>Men's Finish</td>
+<td>Mon, May 13</td>
+<td>South Lake Tahoe</td>
+</tr>
+<tr>
+<td>Stage 3</td>
+<td>Men's Start</td>
+<td>Tues, May 14</td>
+<td>Stockton</td>
+</tr>
+<tr>
+<td>Stage 3</td>
+<td>Men's Finish</td>
+<td>Tue, May 14</td>
+<td>Morgan Hill</td>
+</tr>
+<tr>
+<td>Stage 4</td>
+<td>Men's Start</td>
+<td>Wed, May 15</td>
+<td>WeatherTech Raceway Laguna Seca</td>
+</tr>
+<tr>
+<td>Stage 4</td>
+<td>Men's Finish</td>
+<td>Wed, May 15</td>
+<td>Morro Bay</td>
+</tr>
+<tr>
+<td>Stage 5</td>
+<td>Men's Start</td>
+<td>Thu, May 16</td>
+<td>Pismo Beach</td>
+</tr>
+<tr>
+<td>Stage 5</td>
+<td>Men's Finish</td>
+<td>Thu, May 16</td>
+<td>Ventura</td>
+</tr>
+<tr>
+<td>Stage 6</td>
+<td>Men's Start</td>
+<td>Fri, May 17</td>
+<td><a href="https://www.amgentourofcalifornia.com/host-cities/ontario">Ontario</a></td>
+</tr>
+<tr>
+<td>Stage 6</td>
+<td>Men's Finish</td>
+<td>Fri, May 17</td>
+<td><a href="https://www.amgentourofcalifornia.com/host-cities/mt-baldy">Mt. Baldy</a></td>
+</tr>
+<tr>
+<td>Stage 7</td>
+<td>Men's Start</td>
+<td>Sat, May 18</td>
+<td><a href="https://www.amgentourofcalifornia.com/host-cities/santa-clarita">Santa Clarita</a></td>
+</tr>
+<tr>
+<td>Stage 7</td>
+<td>Men's Overall Finish</td>
+<td>Sat, May 18</td>
+<td><a href="https://www.amgentourofcalifornia.com/host-cities/pasadena">Pasadena</a></td>
+</tr>
+</tbody>
+</table>

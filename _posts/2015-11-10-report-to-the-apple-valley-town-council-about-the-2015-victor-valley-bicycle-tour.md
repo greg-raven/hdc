@@ -14,12 +14,12 @@ The tentative date for next year's event is October 29, 2016.
 
 Part 1:
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="473" loading="lazy" src="https://www.youtube.com/embed/s5P_qlkTJWg?feature=oembed" title="20151110 VVBT report (part 1)" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5P_qlkTJWg?si=AMUaOYbhbt8tfrcn" title="Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Part 2:
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="473" loading="lazy" src="https://www.youtube.com/embed/lE5ZexpEc_Q?feature=oembed" title="Victor Valley Bicycle Tour 2015" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lE5ZexpEc_Q?si=0c3PDP3VwUAi51jD" title="Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Part 3:
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="473" loading="lazy" src="https://www.youtube.com/embed/enX4vjP6Fes?feature=oembed" title="20151110 VVBT report (part 3)" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/enX4vjP6Fes?si=kZXIK094T9YCH2Ow" title="Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

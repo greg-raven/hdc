@@ -8,4 +8,4 @@ tags:
 - VVBT
 ---
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" height="630" loading="lazy" src="https://www.youtube.com/embed/v84jgCv99LE?feature=oembed" title="20160614 VVBT update" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v84jgCv99LE?si=t4sjUSfxcsIV2yY3" title="Smitty Smith updates the Town Council of Apple Valley on the VVBT" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
