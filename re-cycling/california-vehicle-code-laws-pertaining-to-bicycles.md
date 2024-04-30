@@ -36,11 +36,11 @@ c. No person shall operate upon any highway a bicycle which is of such a size as
 
 d. Every bicycle operated upon any highway during darkness shall be equipped with the following:
 
-    1. A lamp emitting a white light which illuminates the highway and is visible from a distance of 300 feet to the front and the sides of the bicycle.
-    
-    2. A red reflector mounted on the rear of the bicycle and visible from 500 feet to the rear of the bicycle.
-    
-    3. A white or yellow reflector mounted on each pedal visible 200 feet to the front and rear of the bicycle and a white or red reflector on each side to the rear of the center of the bicycle, except bicycles which are equipped with reflectorized tires on the front and the rear need not be equipped with side reflectors. All reflectorized tires must meet DMV requirements.
+  1. A lamp emitting a white light which illuminates the highway and is visible from a distance of 300 feet to the front and the sides of the bicycle.
+  
+  2. A red reflector mounted on the rear of the bicycle and visible from 500 feet to the rear of the bicycle.
+  
+  3. A white or yellow reflector mounted on each pedal visible 200 feet to the front and rear of the bicycle and a white or red reflector on each side to the rear of the center of the bicycle, except bicycles which are equipped with reflectorized tires on the front and the rear need not be equipped with side reflectors. All reflectorized tires must meet DMV requirements.
 
 e. A lamp or lamp combination, emitting a white light, attached to the operator and visible from a distance of 300 feet in front and from the sides of the bicycle, may be used in place of a lamp attached to the bike.
 
@@ -48,11 +48,11 @@ e. A lamp or lamp combination, emitting a white light, attached to the operator 
 
 a. Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at such time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:
 
-    1. When overtaking and passing another bicycle or motor vehicle proceeding in the same direction.
-    
-    2. When preparing for a left turn at an intersection or into a private road or driveway.
-    
-    3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
+  1. When overtaking and passing another bicycle or motor vehicle proceeding in the same direction.
+  
+  2. When preparing for a left turn at an intersection or into a private road or driveway.
+  
+  3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
 
 b. Any person operating a bicycle on a one-way street or highway with two or more marked traffic lanes, may ride as near the left-hand curb or edge of such roadway as practicable.
 
@@ -74,11 +74,11 @@ No person operating a bicycle shall carry any package, bundle, or article which 
 
 a. Whenever a bicycle lane has been established on a roadway, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction shall ride in the bicycle lane, except under the following situations.
 
-    1. When overtaking or passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if such overtaking and passing cannot be done safely within the lane.
-    
-    2. When preparing for a left turn at an intersection or into a private road or driveway.
+  1. When overtaking or passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if such overtaking and passing cannot be done safely within the lane.
+  
+  2. When preparing for a left turn at an intersection or into a private road or driveway.
 
-    3. When necessary to leave the lane to avoid debris or other hazardous conditions.
+  3. When necessary to leave the lane to avoid debris or other hazardous conditions.
 
 b. No operator of a bicycle shall leave a bicycle lane until it can be done safely and then only after giving an appropriate hand signal in the event that any vehicle might be affected by the movement.
 
