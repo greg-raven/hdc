@@ -12,4 +12,4 @@ The V3/Victor Valley Velo group on Garmin Connect is private, so rides you share
 
 [You can find the group's page here](https://connect.garmin.com/group/230105).
 
-See the [Links page](/links.html) for the Victor Valley Bicycle Club's existing groups on Strava and Facebook.
+See the [Links page](/re-cycling/links.html) for the Victor Valley Bicycle Club's existing groups on Strava and Facebook.

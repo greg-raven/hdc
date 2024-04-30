@@ -18,6 +18,6 @@ Through investigation, the suspect was identified as Osmin Reyes Machado, a 53-y
 
 Anyone with information about this investigation is asked to contact Deputy S. Lenihan at the Victorville Police Department at (760) 241-2911 or Sheriff's Dispatch at (760) 956-5001. Callers wishing to remain anonymous are urged to call the We-Tip Hotline at 1-800-78CRIME (27463) or you may leave information on the We-Tip website at www.wetip.com.
 
-RELATED ARTICLE: [7th Street in Victorville closed due to fatal hit-and-run crash](/2021/03/7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash/)
+RELATED ARTICLE: [7th Street in Victorville closed due to fatal hit-and-run crash]({% post_url 2021-03-08-7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash %})
 
 Source: [Victor Valley News Group](https://www.vvng.com/driver-accused-of-killing-a-victorville-man-in-hit-and-run-crash-arrested/)

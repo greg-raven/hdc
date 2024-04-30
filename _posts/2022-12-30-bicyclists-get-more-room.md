@@ -6,7 +6,7 @@ categories:
 - 'Bike lanes'
 ---
 
-[A new law taking effect Jan. 1](/2023/01/the-omnibike-bill/) requires motorists to slow down and, whenever possible, move over one lane when encountering a bicyclist headed in the same direction on any public right-of-way. If a lane is unavailable to ensure buffer space for the bicyclist, the law requires that the driver reduce speed and trail the rider until it is safe to go around him or her without creating a hazard.
+[A new law taking effect Jan. 1]({% post_url 2023-01-01-the-omnibike-bill %}) requires motorists to slow down and, whenever possible, move over one lane when encountering a bicyclist headed in the same direction on any public right-of-way. If a lane is unavailable to ensure buffer space for the bicyclist, the law requires that the driver reduce speed and trail the rider until it is safe to go around him or her without creating a hazard.
 
 When passing a bicyclist on a shoulder, drivers in the adjacent lane will have to slide left a lane if available or slow down. Military veterans with specialized license plates will get a perk --- they won't have to pay tolls on roadways and bridges in the Golden State.
 

@@ -11,7 +11,7 @@ tags:
 
 This morning, Tim "TJ" Moreno and Steve Sterns returned to Apple Valley Road to finish the ride they started on June 11th of this year, a ride [cut short by a hit-and-run driver]({% post_url 2011-06-11-hit-and-run-on-apple-valley-road %}).
 
-![Local riders support Tim and Steve on their return to cycling](/assets/img/2015/03/20111015-return-riders-600x126.jpg)
+![Local riders support Tim and Steve on their return to cycling](/assets/img/2015/03/20111015-return-riders.jpg)
 
 A large contingent of local riders joined Tim and Steve at the parking lot of the Apple Valley Home Depot at 8:00 a.m. It was inspiring to see everyone there to support Tim and Steve.
 
