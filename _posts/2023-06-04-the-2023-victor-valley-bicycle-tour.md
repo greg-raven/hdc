@@ -16,7 +16,7 @@ October 28, 2023 --- Apple Valley Civic Center, CA
 
 - [Grand Tour --- 62 Mile](https://victorvalleybicycletour.com/62mile.php) (starts at 8:00 a.m.)
 
-Join the fun by signing up at [Active.com](https://www.active.com/apple-valley-ca/cycling/races/victor-valley-bicycle-tour-2021)
+Join the fun by signing up at [Active.com](https://www.active.com)
 
 ## Frequently Asked Questions:
 

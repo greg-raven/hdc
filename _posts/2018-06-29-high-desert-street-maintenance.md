@@ -6,7 +6,7 @@ categories:
 - Information
 ---
 
-I noticed that the Comprehensive Annual Financial Reports for both [Hesperia](https://www.cityofhesperia.us/DocumentCenter/View/14686/2016-17-CAFR?bidId=) and [Apple Valley](https://www.auditav.org/cafr/20171228-toav-2016-2017-cafr) include figures for how many miles of roadway have been resurfaced (Adelanto and Victorville seem not to include these figures).
+I noticed that the Comprehensive Annual Financial Reports for both [Hesperia](https://www.cityofhesperia.us/DocumentCenter/View/14686/2016-17-CAFR?bidId=) and [Apple Valley](https://www.auditav.org/cafr/20171228-toav-2016-2017-cafr.html) include figures for how many miles of roadway have been resurfaced (Adelanto and Victorville seem not to include these figures).
 
 The following table sheds some light on why cycling conditions are so marginal.
 

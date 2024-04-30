@@ -10,4 +10,4 @@ In partnership with Victor Valley College, the Town of Apple Valley is applying 
 
 Thank you for your time and opinion!
 
-[Click here to take the survey](https://www.surveymonkey.com/r/V8FG5KG).
+[Click here to take the survey](https://www.surveymonkey.com).

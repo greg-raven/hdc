@@ -12,4 +12,4 @@ The first 19 riders who sign up using coupon code FIRST19 will receive a 50% dis
 
 ![2019 Victor Valley Bicycle Tour](/assets/img/2019/04/victor-valley-bicycle-tour.png)
 
-[Click here to register online at Active.com](https://www.active.com/apple-valley-ca/cycling/victor-valley-bicycle-tour-2019).
+[Click here to register online at Active.com](https://www.active.com).

@@ -26,4 +26,4 @@ Victorville CA 92395](https://maps.google.com/maps?q=12408+Hesperia+Rd+%234,+Vic
 
 **REGISTRATION**
 
-[Click Here to Register on-line](https://www.active.com/cycling/victorville-ca/trek-breast-cancer-awareness-ride-victorville-cycles-2012).
+[Click Here to Register on-line](https://www.active.com).

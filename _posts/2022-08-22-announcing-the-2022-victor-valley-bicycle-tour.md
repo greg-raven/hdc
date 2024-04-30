@@ -14,7 +14,7 @@ Start location: Civic Center Park, 14999 Dale Evans Pkwy, Apple Valley, CA 92307
 
 ![2022 Victor Valley Bicycle Tour](/assets/img/2022/08/202210-vvbt-combined.jpg)
 
-[Click here to sign up online today](https://www.active.com/apple-valley-ca/cycling/races/victor-valley-bicycle-tour-2021)
+[Click here to sign up online today](https://www.active.com)
 
 Once again, all routes will start from beautiful Apple Valley. Apple Valley has some of the best roads in Southern California. The ride is fully supported with various support vehicles and sag stops. Each rider will receive a complimentary gift bag and T-shirt.
 
@@ -32,8 +32,8 @@ The [Tour 30-mile ride](https://ridewithgps.com/routes/36058784) starts at 8:30 
 
 The [Family Fun 10-mile ride](https://ridewithgps.com/routes/35871975) starts at 10:00 a.m.
 
-[Routes for 2022](https://www.victorvalleybicycletour.com/routes/)
+[Routes for 2022](https://www.victorvalleybicycletour.com)
 
-[About the VVBT](https://www.victorvalleybicycletour.com/about-us-faq/)
+[About the VVBT](https://www.victorvalleybicycletour.com)
 
 Plenty of parking available at the start / finish location.
