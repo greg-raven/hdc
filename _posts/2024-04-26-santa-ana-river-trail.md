@@ -19,6 +19,6 @@ The trail is 60% complete, with two significant gaps, from Green River Road in O
 
 The grant agreement is with the California State Coastal Conservancy. Work should be done by the end of January 2026.
 
-![Santa Ana River Trail in Redlands](/hdc/assets/img/2024/04/2024-04-26-santa-ana-river-trail.jpg "Santa Ana River Trail in Redlands")
+![Santa Ana River Trail in Redlands](/assets/img/2024/04/2024-04-26-santa-ana-river-trail.jpg "Santa Ana River Trail in Redlands")
 
 Source: Madison Hart, sbcounty.gov/Uploads/CAO/_NewsClips/Content/News_Clips_April_29.pdf

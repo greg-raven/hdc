@@ -11,7 +11,7 @@ description: Working toward more and better cycling in California's high desert.
 
 theme: minima
 
-url: https://greg-raven.GitHub.io/hdc
+url: https://www.hdcycling.org
 
 plugins:
   - jekyll-archives

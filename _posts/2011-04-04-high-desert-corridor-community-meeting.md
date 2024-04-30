@@ -8,7 +8,7 @@ categories:
 
 The Los Angeles County Metropolitan Transportation Authority (Metro) and CalTrans will be holding a meeting April 13 from 6 to 8 PM in the Council Chambers of the Town of Apple Valley to update everyone on the High Desert Corridor (HDC).
 
-Depending on where Metro and CalTrans decide to put the HDC, there will be anywhere from minimal to maximum impact on cycling in Apple Valley. [Here is a map showing the alternative routes under consideration](https://www.metro.net/projects_studies/hdc/images/HDC_Map.pdf) (PDF). Therefore, we urge all cyclists in the high desert to attend these meetings.
+Depending on where Metro and CalTrans decide to put the HDC, there will be anywhere from minimal to maximum impact on cycling in Apple Valley. [Here is a map showing the alternative routes under consideration](https://www.metro.net/projects_studies/images_Map.pdf) (PDF). Therefore, we urge all cyclists in the high desert to attend these meetings.
 
 **Location:**
 
@@ -23,7 +23,7 @@ Apple Valley, CA 92307
 
 **Live webcast:**
 
-Go to [metro.net/hdc](https://www.metro.net/projects/high-desert-corridor/).
+Go to [metro.net](https://www.metro.net/projects/high-desert-corridor/).
 
 **On the web:**
 
