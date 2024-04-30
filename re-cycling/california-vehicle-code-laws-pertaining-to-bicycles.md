@@ -28,29 +28,33 @@ Provides that it is unlawful to ride a bicycle upon a street or highway while un
 
 #### Equipment Requirements. VC 21201
 
-a) No person shall operate a bicycle on a roadway unless it is equipped with a brake which will enable the operator to make one braked wheel skid on dry, level, clean pavement.
+a. No person shall operate a bicycle on a roadway unless it is equipped with a brake which will enable the operator to make one braked wheel skid on dry, level, clean pavement.
 
-b) No person shall operate on the highway any bicycle equipped with handlebars so raised that the operator must elevate their hands above the level of their shoulders in order to grasp the normal steering grip area.
+b. No person shall operate on the highway any bicycle equipped with handlebars so raised that the operator must elevate their hands above the level of their shoulders in order to grasp the normal steering grip area.
 
-c) No person shall operate upon any highway a bicycle which is of such a size as to prevent the operator from safely stopping the bicycle, supporting it in an upright position with at least one foot on the ground, and restarting it in a safe manner.
+c. No person shall operate upon any highway a bicycle which is of such a size as to prevent the operator from safely stopping the bicycle, supporting it in an upright position with at least one foot on the ground, and restarting it in a safe manner.
 
-d) Every bicycle operated upon any highway during darkness shall be equipped with the following:
+d. Every bicycle operated upon any highway during darkness shall be equipped with the following:
 
-1. A lamp emitting a white light which illuminates the highway and is visible from a distance of 300 feet to the front and the sides of the bicycle.
-2. A red reflector mounted on the rear of the bicycle and visible from 500 feet to the rear of the bicycle.
-3. A white or yellow reflector mounted on each pedal visible 200 feet to the front and rear of the bicycle and a white or red reflector on each side to the rear of the center of the bicycle, except bicycles which are equipped with reflectorized tires on the front and the rear need not be equipped with side reflectors. All reflectorized tires must meet DMV requirements.
+    1. A lamp emitting a white light which illuminates the highway and is visible from a distance of 300 feet to the front and the sides of the bicycle.
+    
+    2. A red reflector mounted on the rear of the bicycle and visible from 500 feet to the rear of the bicycle.
+    
+    3. A white or yellow reflector mounted on each pedal visible 200 feet to the front and rear of the bicycle and a white or red reflector on each side to the rear of the center of the bicycle, except bicycles which are equipped with reflectorized tires on the front and the rear need not be equipped with side reflectors. All reflectorized tires must meet DMV requirements.
 
-e) A lamp or lamp combination, emitting a white light, attached to the operator and visible from a distance of 300 feet in front and from the sides of the bicycle, may be used in place of a lamp attached to the bike.
+e. A lamp or lamp combination, emitting a white light, attached to the operator and visible from a distance of 300 feet in front and from the sides of the bicycle, may be used in place of a lamp attached to the bike.
 
 #### Duty of Bicycle Operator: Operation On Roadway. VC 21202
 
-a) Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at such time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:
+a. Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at such time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:
 
-1. When overtaking and passing another bicycle or motor vehicle proceeding in the same direction.
-2. When preparing for a left turn at an intersection or into a private road or driveway.
-3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
+    1. When overtaking and passing another bicycle or motor vehicle proceeding in the same direction.
+    
+    2. When preparing for a left turn at an intersection or into a private road or driveway.
+    
+    3. When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.
 
-b) Any person operating a bicycle on a one-way street or highway with two or more marked traffic lanes, may ride as near the left-hand curb or edge of such roadway as practicable.
+b. Any person operating a bicycle on a one-way street or highway with two or more marked traffic lanes, may ride as near the left-hand curb or edge of such roadway as practicable.
 
 #### Hitching Rides. VC 21203
 
@@ -58,9 +62,9 @@ No person riding upon any motorcycle, motorized bicycle, bicycle, coaster, rolle
 
 #### Riding On Bicycle. VC 21204
 
-a) No person operating a bicycle on a highway shall ride other than on a permanent and regular attached seat.
+a. No person operating a bicycle on a highway shall ride other than on a permanent and regular attached seat.
 
-b) No person operating a bicycle on a highway shall allow anyone to ride as a passenger other than on a separate attached seat. If the passenger is four years old or younger or weighs 40 pounds or less, the seat shall adequately retain the passenger in place and protect him/her from the bicycle's moving parts.
+b. No person operating a bicycle on a highway shall allow anyone to ride as a passenger other than on a separate attached seat. If the passenger is four years old or younger or weighs 40 pounds or less, the seat shall adequately retain the passenger in place and protect him/her from the bicycle's moving parts.
 
 #### Carrying Articles. VC 21205
 
@@ -68,14 +72,15 @@ No person operating a bicycle shall carry any package, bundle, or article which 
 
 #### Permitted Movements from Bicycle Lanes. VC 21208
 
-a) Whenever a bicycle lane has been established on a roadway, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction shall ride in the bicycle lane, except under the following situations.
+a. Whenever a bicycle lane has been established on a roadway, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction shall ride in the bicycle lane, except under the following situations.
 
-1. When overtaking or passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if such overtaking and passing cannot be done safely within the lane.
+    1. When overtaking or passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if such overtaking and passing cannot be done safely within the lane.
+    
+    2. When preparing for a left turn at an intersection or into a private road or driveway.
 
-1. When preparing for a left turn at an intersection or into a private road or driveway.
-2. When necessary to leave the lane to avoid debris or other hazardous conditions.
+    3. When necessary to leave the lane to avoid debris or other hazardous conditions.
 
-b) No operator of a bicycle shall leave a bicycle lane until it can be done safely and then only after giving an appropriate hand signal in the event that any vehicle might be affected by the movement.
+b. No operator of a bicycle shall leave a bicycle lane until it can be done safely and then only after giving an appropriate hand signal in the event that any vehicle might be affected by the movement.
 
 #### Parking. VC 21210
 
@@ -95,16 +100,18 @@ A bicycle operated on a roadway or highway shoulder shall be operated in the sam
 
 #### Bicycling on Freeways VC 21960
 
-a) The Department of Transportation and local authorities may prohibit or restrict the use of freeways or any portion thereof by bicycles.
+a. The Department of Transportation and local authorities may prohibit or restrict the use of freeways or any portion thereof by bicycles.
 
-b) Such prohibitory regulations shall be effective when appropriate signs giving notice thereof are erected upon the freeway and the approaches thereto.
+b. Such prohibitory regulations shall be effective when appropriate signs giving notice thereof are erected upon the freeway and the approaches thereto.
 
 #### Hand Signals. VC 22111
 
 All required signals given by hand and arm shall be given in the following manner:
 
 1. Left turn --- hand and arm extended horizontally beyond the side of the bicycle.
+
 2. Right turn --- left hand and arm extended upward beyond the side of the bicycle or right hand and arm extended horizontally to the right side of the bicycle.
+
 3. Stop or sudden decrease of speed signal --- left hand and arm extended downward beyond the side of the bicycle.
 
 #### Toll Crossing. VC 23330
@@ -117,11 +124,11 @@ No person operating any vehicle, including a bicycle shall wear any headset cove
 
 #### License Requirement. VC 39002
 
-a) A city or county may adopt a bicycle licensing ordinance or resolution providing that no resident shall operate any bicycle on any street, road, highway, or other public property within the city of county, unless such bicycle is licensed in accordance with this division. \[**Note:** Apple Valley does not require a bicycle license.\]
+a. A city or county may adopt a bicycle licensing ordinance or resolution providing that no resident shall operate any bicycle on any street, road, highway, or other public property within the city of county, unless such bicycle is licensed in accordance with this division. \[**Note:** Apple Valley does not require a bicycle license.\]
 
-b) Any bicycle not licensed under this division may be additionally regulated or licensed pursuant to local ordinance or may be licensed upon request of the owner.
+b. Any bicycle not licensed under this division may be additionally regulated or licensed pursuant to local ordinance or may be licensed upon request of the owner.
 
-c) It is illegal for any person to to tamper with, destroy, mutilate or alter any license indicia (marking) or registration form or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency's identifying symbol on any bicycle frame licensed under the provision of this division.
+c. It is illegal for any person to to tamper with, destroy, mutilate or alter any license indicia (marking) or registration form or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency's identifying symbol on any bicycle frame licensed under the provision of this division.
 
 #### Throwing Substances On Highways Or Adjoining Areas. VC 23111 7 23112
 
