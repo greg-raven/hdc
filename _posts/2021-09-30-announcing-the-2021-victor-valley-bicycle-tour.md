@@ -6,7 +6,7 @@ categories:
 - 'Ride news'
 ---
 
-![2021 Victor Valley Bicycle Tour](/assets/img/2021/09/vvbt-600x338.jpg)
+![2021 Victor Valley Bicycle Tour](/assets/img/2021/09/vvbt.jpg)
 
 The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride this year. There are a few changes this year such as routes, lunch, and more. If you haven't signed up yet, use coupon code VVBT2021 at checkout to save $5.
 

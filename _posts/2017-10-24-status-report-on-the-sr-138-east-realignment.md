@@ -8,7 +8,7 @@ categories:
 
 CalTrans crews are hard at work "realigning" State Route 138 east (A.K.A. Highway 138, A.K.A. Rim of the World Highway) from 1.9 miles east of Interstate 15 (A.K.A. I-15) to just west of Post Office Road. Apparently, "realignment" is CalTrans-speak for scrapping the previous road and replacing it with something completely different.
 
-![Highway 138 realignment](/assets/img/2017/10/sr-138-east-construction-940x198.jpg)
+![Highway 138 realignment](/assets/img/2017/10/sr-138-east-construction.jpg)
 
 The existing highway configuration has many nonstandard horizontal and vertical curves and grades as steep as 15%. The existing pavement is between 21 and 28 feet in width, no paved shoulders, and narrow or nonexistent earth shoulders. The existing highway configuration is one of the worst I personally know of in California, with the possible exception of that short stretch of 9 Mile Canyon Road in Inyokern that is one lane wide for two-way traffic.
 
