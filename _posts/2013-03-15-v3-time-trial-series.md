@@ -42,6 +42,6 @@ Time trial dates and locations
 
 The start location for the Deep Creek time trials is at the south end of Deep Creek at the end of the road. The course is approximately 6.3 miles in length.
 
-The start location for the Virginia Park time trials is on Central Road at Virginia Park. The course is approximately 7.27 miles in length with approximately 210 feet of climbing. This course has been used before for time trials. You can see the results [here]({% post_url 2011-01-16-local-time-trial %}), [here]({% post_url {% post_url 2011-08-23-august-time-trial-results %}).
+The start location for the Virginia Park time trials is on Central Road at Virginia Park. The course is approximately 7.27 miles in length with approximately 210 feet of climbing. This course has been used before for time trials. You can see the results [here]({% post_url 2011-01-16-local-time-trial %}), [here]({% post_url 2011-08-23-august-time-trial-results %}).
 
 For more information, [contact Dave Nocera](mailto:dnocera@vvuhsd.org)
