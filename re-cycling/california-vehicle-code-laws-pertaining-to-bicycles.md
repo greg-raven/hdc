@@ -1,9 +1,6 @@
 ---
-id: 1891
 title: "Bicycle laws"
-date: "2010-09-24T20:01:19-07:00"
 layout: page
-guid: 'https://localhost/wordpress/'
 ---
 
 ### California Vehicle Code laws pertaining to bicycles
@@ -12,7 +9,7 @@ Safe bicycling involves more than wearing the proper safety equipment and keepin
 
 The following are important excerpts from the California Vehicle Code (VC) relating to the operation and equipping of bicycles.
 
-> **Note:** Some of the sections of the laws listed above have been reworded slightly and/or abbreviated. For exact language, refer to the referenced sections in the California Vehicle Code.
+> **Note:** Some of the sections of the laws have been reworded slightly and/or abbreviated. For exact language, refer to the referenced sections in the California Vehicle Code.
 
 #### Bicycle Defined. VC 231
 

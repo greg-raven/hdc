@@ -1,9 +1,6 @@
 ---
-id: 4270
 title: "Taming the Bicycle, by Mark Twain"
-date: "2016-05-23T16:43:36-07:00"
 layout: page
-guid: '/?page_id=4270'
 ---
 
 (from *What is Man? and Other Essays.* Written about 1893.)
