@@ -34,7 +34,7 @@ But you have ceased to mind the going down by this time; you are getting to ligh
 
 And now you come to the voluntary dismount; you learned the other kind first of all. It is quite easy to tell one how to do the voluntary dismount; the words are few, the requirement simple, and apparently undifficult; let your left pedal go down till your left leg is nearly straight, turn your wheel to the left, and get off as you would from a horse. It certainly does sound exceedingly easy; but it isn't. I don't know why it isn't but it isn't. Try as you may, you don't get down as you would from a horse, you get down as you would from a house afire. You make a spectacle of yourself every time.
 
-II
+**II**
 
 During the eight days I took a daily lesson of an hour and a half. At the end of this twelve working-hours' apprenticeship I was graduated --- in the rough. I was pronounced competent to paddle my own bicycle without outside help. It seems incredible, this celerity of acquirement. It takes considerably longer than that to learn horseback-riding in the rough.
 
