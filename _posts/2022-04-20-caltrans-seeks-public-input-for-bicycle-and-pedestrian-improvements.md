@@ -29,4 +29,4 @@ The public review period for this draft Plan Summary Report began on April 20 an
 
 For more information about the Caltrans Active Transportation Plans, visit [catplan.org](https://www.catplan.org).
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)
+Source: Rene Ray De La Cruz, [*Daily Press*](https://www.vvdailypress.com)

@@ -38,4 +38,4 @@ This year's event aimed to include more families as cycling units, further bring
 
 "We have different lengths of rides to incorporate people, from advanced to beginners, so people who haven't tried can come and try it now," Rivas said. "And once you come out, you see how fun it is. It creates community."
 
-Source: Martial Haprov, [Daily Press](https://www.vvdailypress.com)
+Source: Martial Haprov, [*Daily Press*](https://www.vvdailypress.com)

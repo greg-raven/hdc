@@ -32,4 +32,4 @@ All proceeds from the Tour will be used to promote California's "3 feet for safe
 
 The money will be used to purchase permanent bicycle-safety signage to be displayed throughout the High Desert's three largest municipalities.
 
-Source: Monica Solano, [Daily Press](https://www.vvdailypress.com)
+Source: Monica Solano, [*Daily Press*](https://www.vvdailypress.com)

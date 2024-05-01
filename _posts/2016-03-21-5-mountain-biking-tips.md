@@ -20,4 +20,4 @@ Here are five tips or things to remember when participating in mountain biking h
 
 5. It's not about the bike. Don't go gear crazy, but get the best bike that suits your needs. Too often I see people riding inexpensive bicycles with lots of poorly made fancy options. I'd recommend most riders in the desert spend at least $1,500 -$2,000 on your second bike. Ride every day for a year and you'll learn what features you want and what type of bike will suit your riding style. A beginning cyclist should concentrate on a simple and conservative bike, in the $600-$900 range. Then choose your long-term bike based on how you ride, not what's trendy or in fashion. Its also very easy to overspend on a fancy bike that sits in a garage 350 days. Also, make sure to get a helmet.
 
-Source: James Quigg, [Daily Press](https://www.vvdailypress.com)
+Source: James Quigg, [*Daily Press*](https://www.vvdailypress.com)

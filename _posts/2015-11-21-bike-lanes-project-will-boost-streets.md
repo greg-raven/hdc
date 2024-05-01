@@ -24,4 +24,4 @@ Gengler has previously acknowledged the city has lagged behind other municipalit
 
 Of the total project cost, $8 million will come from the city's local transportation fund while the remaining $4 million will be paid for by grants, the staff report said.
 
-Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com)
+Source: Shea Johnson, [*Daily Press*](https://www.vvdailypress.com)

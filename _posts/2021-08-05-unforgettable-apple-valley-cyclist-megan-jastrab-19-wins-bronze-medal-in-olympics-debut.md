@@ -80,4 +80,4 @@ The Women's Madison final is scheduled for 1:15 p.m. PDT Friday.
 
 NBC is home to the Olympic Games, which may be viewed on local NBC stations for primetime coverage. The games are also streamed online at NBCOlympics.com, NBCSports.com and Peacock, NBC's streaming platform.
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)
+Source: Rene Ray De La Cruz, [*Daily Press*](https://www.vvdailypress.com)

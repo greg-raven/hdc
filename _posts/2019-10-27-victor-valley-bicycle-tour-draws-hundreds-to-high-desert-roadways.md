@@ -36,4 +36,4 @@ With the event growing each year, Smith said the proceeds will "always go to som
 
 The tour is set to return next year. Visit [VictorValleyBicycleTour.com](http://www.victorvalleybicycletour.com) for more information.
 
-Source: Joselyn Villalobos, [Daily Press](https://www.vvdailypress.com)
+Source: Joselyn Villalobos, [*Daily Press*](https://www.vvdailypress.com)

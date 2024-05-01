@@ -40,4 +40,4 @@ The 70-mile route starts at the Apple Valley Civic Center Park and goes along Ri
 
 For bike routes and general information on the VVBT, visit [www.victorvalleybicycletour.com](http://www.victorvalleybicycletour.com).
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)
+Source: Rene Ray De La Cruz, [*Daily Press*](https://www.vvdailypress.com)

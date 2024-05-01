@@ -42,4 +42,4 @@ For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycl
 
 ![2016 Victor Valley Bicycle Tour](/assets/img/2016/10/20161028-DP-vvbt.png)
 
-Source: Matt Cabe, [Daily Press](https://www.vvdailypress.com)
+Source: Matt Cabe, [*Daily Press*](https://www.vvdailypress.com)

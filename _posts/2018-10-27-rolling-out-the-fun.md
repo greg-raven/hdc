@@ -42,4 +42,4 @@ It was Conde's first time at the bicycle tour, but he said he and his family are
 
 For bike routes and general information on the VVBT, visit [www.victorvalleybicycletour.com](http://www.victorvalleybicycletour.com).
 
-Source: Paola Baker, [Daily Press](https://www.vvdailypress.com)
+Source: Paola Baker, [*Daily Press*](https://www.vvdailypress.com)

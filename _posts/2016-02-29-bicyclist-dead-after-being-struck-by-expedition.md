@@ -16,4 +16,4 @@ The crash shut down Mariposa Road between Yates and Nisqualli roads for hours Mo
 
 The crash is under investigation by the Victorville Sheriff's Station Major Accident Investigation Team.
 
-Source: Paola Baker, [Daily Press](https://www.vvdailypress.com)
+Source: Paola Baker, [*Daily Press*](https://www.vvdailypress.com)

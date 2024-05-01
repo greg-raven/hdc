@@ -26,4 +26,4 @@ Besides donating thousands of dollars annually for science camp participation, t
 
 To view photos of the event, visit www.rideintherocks.com.
 
-Source: Peter Day, [Daily Press](https://www.vvdailypress.com)
+Source: Peter Day, [*Daily Press*](https://www.vvdailypress.com)

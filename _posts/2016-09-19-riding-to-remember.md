@@ -32,4 +32,4 @@ Bilbee, amazed at her riding prowess and acknowledging how she inspired him to w
 
 "I just sat on my bed for 10 minutes," he recalled, "didn't know how to react."
 
-Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com)
+Source: Shea Johnson, [*Daily Press*](https://www.vvdailypress.com)

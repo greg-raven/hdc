@@ -78,4 +78,4 @@ For a man who still comes in on his days off to process orders, nobody is quite 
 
 "I don't think the High Desert could have survived without him," said Diane Godden, who became a decades-long friend of the Puleikis' after shopping at Hi-Desert Bikes. "I don't even think we have another bike shop in Hesperia at all."
 
-Source: Susan Monaghan, [Daily Press](https://www.vvdailypress.com)
+Source: Susan Monaghan, [*Daily Press*](https://www.vvdailypress.com)

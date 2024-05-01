@@ -24,4 +24,4 @@ Close to 13 sponsors and volunteers throughout the High Desert pitched in for th
 
 "It's a great event and my daughter was really excited to get her bike and she and I found a lot of familiar and friendly faces in the room from her school who also received bikes," said Cheyanna Sparks, 26, of Victorville. "This is a great way to spread some holiday cheer."
 
-Source: Monica Solano, [Daily Press](https://www.vvdailypress.com)
+Source: Monica Solano, [*Daily Press*](https://www.vvdailypress.com)

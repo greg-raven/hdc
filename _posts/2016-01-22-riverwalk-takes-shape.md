@@ -26,4 +26,4 @@ Almost all the roads where bike lanes are planned within the 44-mile initiative 
 
 As for the Riverwalk plan, City Manager Doug Robertson said Tuesday that "a portion of this project is on existing city streets, most of which are already in good condition."
 
-Source: Shea Johnson, [Daily Press](https://www.vvdailypress.com)
+Source: Shea Johnson, [*Daily Press*](https://www.vvdailypress.com)

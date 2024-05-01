@@ -34,4 +34,4 @@ In 2017, the Town of Apple Valley completed a portion of its new concrete Riverw
 
 Future plans for the town include the Riverwalk extending along the river's eastern flank from the Bear Valley Road Bridge north to the Yucca Loma Bridge.
 
-Source: Rene Ray De La Cruz, [Daily Press](https://www.vvdailypress.com)
+Source: Rene Ray De La Cruz, [*Daily Press*](https://www.vvdailypress.com)
