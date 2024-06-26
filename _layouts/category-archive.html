@@ -1,0 +1,13 @@
+---
+layout: base
+---
+
+<h1>Uncommon sense about &lsquo;{{ page.title }}&rsquo;</h1>
+
+<ul class="posts">
+  {% for post in page.posts %}
+  <li>
+    <a class="post-links" href="{{ post.url }}">{{ post.title | smartify }}</a>
+  </li>
+  {% endfor %}
+</ul>

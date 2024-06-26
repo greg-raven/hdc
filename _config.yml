@@ -11,7 +11,7 @@ description: Working toward more and better cycling in California's high desert.
 
 theme: minima
 
-url: https://www.hdcycling.org
+url: "https://www.hdcycling.org" # the base hostname & protocol for your site
 
 plugins:
   - jekyll-archives
@@ -28,8 +28,8 @@ jekyll-archives:
     category: category-archive
     tags: tag-archive
   permalinks:
-    tags: '/tag/:name/'
-    category: '/category/:name/'
+    tags: "/tag/:name/"
+    category: "/category/:name/"
 
 # Theme-specific settings
 
