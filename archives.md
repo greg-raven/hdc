@@ -10,3 +10,7 @@ layout: page
     </li>
   {% endfor %}
 </ul>
+
+---
+
+{% include files-on-this-site.html %}
