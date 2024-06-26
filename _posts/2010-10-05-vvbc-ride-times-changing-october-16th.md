@@ -1,6 +1,5 @@
 ---
 title: "VVBC ride times changing October 16th"
-date: "2010-10-05T04:19:18-07:00"
 layout: post
 categories:
 - 'Ride news'

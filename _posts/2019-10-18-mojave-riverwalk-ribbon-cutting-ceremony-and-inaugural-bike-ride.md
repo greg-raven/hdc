@@ -1,6 +1,5 @@
 ---
 title: "Mojave Riverwalk Ribbon Cutting Ceremony and Inaugural Bike Ride"
-date: "2019-10-18T05:23:24-07:00"
 layout: post
 categories:
 - 'Bike lanes'
@@ -31,4 +30,4 @@ Questions about the Fun Run/Walk and Bike Ride can be directed to (760) 245-5551
 
 You can also visit the events Facebook page for more info: Mojave Riverwalk Grand Opening &amp; Celebration
 
-Source: [Victor Valley News Group](https://www.vvng.com/victorville-city-hosting-mojave-riverwalk-grand-opening-celebration/)
+Source: Victor Valley News Group (VVNG.com), vvng.com/victorville-city-hosting-mojave-riverwalk-grand-opening-celebration/

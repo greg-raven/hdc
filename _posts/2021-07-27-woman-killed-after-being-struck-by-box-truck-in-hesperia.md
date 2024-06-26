@@ -1,6 +1,5 @@
 ---
 title: "Woman killed after being struck by box truck in Hesperia"
-date: "2021-07-27T05:22:00-07:00"
 layout: post
 categories:
 - Information
@@ -20,6 +19,6 @@ The roadway is expected to remain closed for several hours as the Hesperia Sheri
 
 This is a developing story and additional information will be updated as it becomes available.
 
-Source: [Victor Valley News Group](https://www.vvng.com/bicyclists-struck-and-killed-tuesday-in-hesperia/)
+Source: Victor Valley News Group (VVNG.com), vvng.com/bicyclists-struck-and-killed-tuesday-in-hesperia/
 
 Original headline: "Bicyclists struck and killed Tuesday in Hesperia"

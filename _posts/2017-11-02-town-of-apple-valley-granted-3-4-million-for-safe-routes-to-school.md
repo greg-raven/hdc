@@ -1,6 +1,5 @@
 ---
 title: "Town of Apple Valley granted $3.4 million for safe routes to school"
-date: "2017-11-02T15:08:04-07:00"
 layout: post
 categories:
 - 'Bike lanes'

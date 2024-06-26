@@ -1,6 +1,5 @@
 ---
 title: "Winter road conditions"
-date: "2011-01-01T07:27:51-08:00"
 layout: post
 categories:
 - Information

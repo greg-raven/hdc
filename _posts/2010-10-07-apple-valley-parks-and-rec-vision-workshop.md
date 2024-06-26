@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley Parks and Rec Vision Workshop"
-date: "2010-10-07T07:38:37-07:00"
 layout: post
 categories:
 - 'Bike lanes'

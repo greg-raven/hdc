@@ -1,6 +1,5 @@
 ---
 title: "Registration is now open for the 2019 Victor Valley Bicycle Tour"
-date: "2019-04-10T07:18:04-07:00"
 layout: post
 categories:
 - 'Ride news'

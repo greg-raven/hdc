@@ -1,6 +1,5 @@
 ---
 title: "Ride in the Rocks"
-date: "2013-09-30T07:54:49-07:00"
 layout: post
 categories:
 - 'Ride news'

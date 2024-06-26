@@ -1,6 +1,5 @@
 ---
 title: "Bicyclists get more room"
-date: "2022-12-30T06:29:02-08:00"
 layout: post
 categories:
 - 'Bike lanes'

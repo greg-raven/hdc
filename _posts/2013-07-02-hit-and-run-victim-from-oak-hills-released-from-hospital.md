@@ -1,6 +1,5 @@
 ---
 title: "Hit-and-run victim from Oak Hills released from hospital"
-date: "2013-07-02T18:39:17-07:00"
 layout: post
 categories:
 - Information

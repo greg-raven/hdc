@@ -1,6 +1,5 @@
 ---
 title: "BMX allowed at James A. Woody Park"
-date: "2011-04-10T05:23:01-07:00"
 layout: post
 categories:
 - Advocacy

@@ -1,6 +1,5 @@
 ---
 title: "Teen airlifted with critical injuries after Hesperia hit-and-run"
-date: "2013-07-01T18:49:47-07:00"
 layout: post
 categories:
 - Information

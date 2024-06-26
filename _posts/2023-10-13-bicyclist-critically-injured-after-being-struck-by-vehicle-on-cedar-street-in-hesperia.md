@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist critically injured after being struck by vehicle on Cedar Street in Hesperia"
-date: "2023-10-13T15:41:10-07:00"
 layout: post
 categories:
 - Information
@@ -16,4 +15,4 @@ The Lexus sedan involved in the collision sustained major damage to the passenge
 
 The California Highway Patrol Victorville Station is handling the investigation into the collision. A request for additional information was not made available at the time of this article.
 
-Source: Victor Valley News Group, vvng.com/bicyclist-critically-injured-after-being-struck-by-vehicle-on-cedar-street-in-hesperia/
+Source: Victor Valley News Group (VVNG.com), vvng.com/bicyclist-critically-injured-after-being-struck-by-vehicle-on-cedar-street-in-hesperia/

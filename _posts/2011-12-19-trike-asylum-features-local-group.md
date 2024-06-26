@@ -1,6 +1,5 @@
 ---
 title: "Trike Asylum features local group"
-date: "2011-12-19T04:40:51-08:00"
 layout: post
 categories:
 - Information

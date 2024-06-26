@@ -1,6 +1,5 @@
 ---
 title: "Adelanto City Council meeting"
-date: "2011-02-21T05:31:08-08:00"
 layout: post
 categories:
 - Advocacy

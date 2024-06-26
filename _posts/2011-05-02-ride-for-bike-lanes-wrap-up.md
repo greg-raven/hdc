@@ -1,6 +1,5 @@
 ---
 title: "Ride for bike lanes wrap-up"
-date: "2011-05-02T19:55:22-07:00"
 layout: post
 categories:
 - Advocacy

@@ -1,6 +1,5 @@
 ---
 title: "Crit practice --- group photo"
-date: "2011-06-22T18:25:21-07:00"
 layout: post
 categories:
 - Photos

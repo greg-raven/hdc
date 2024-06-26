@@ -1,6 +1,5 @@
 ---
 title: "7th Street in Victorville closed due to fatal hit-and-run crash"
-date: "2021-03-08T14:11:00-08:00"
 layout: post
 categories:
 - Information
@@ -18,4 +17,4 @@ Seventh Street will be closed in both directions for several hours while the She
 
 Anyone with information is asked to call the Victorville Police Department at 760-241-2911.
 
-Source: [Victor Valley News Group](https://www.vvng.com/7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash/)
+Source: Victor Valley News Group (VVNG.com), vvng.com/7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash/

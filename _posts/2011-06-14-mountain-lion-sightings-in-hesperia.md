@@ -1,6 +1,5 @@
 ---
 title: "Mountain lion sightings in Hesperia"
-date: "2011-06-14T06:27:53-07:00"
 layout: post
 categories:
 - Information

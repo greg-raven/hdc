@@ -1,6 +1,5 @@
 ---
 title: "Healthy Apple Valley meeting notes, June 2010"
-date: "2010-06-24T23:30:58-07:00"
 layout: post
 categories:
 - 'Healthy High Desert'

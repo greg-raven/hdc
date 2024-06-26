@@ -1,6 +1,5 @@
 ---
 title: "Announcing the 2021 Victor Valley Bicycle Tour"
-date: "2021-09-30T04:40:38-07:00"
 layout: post
 categories:
 - 'Ride news'
@@ -10,7 +9,6 @@ categories:
 
 The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride this year. There are a few changes this year such as routes, lunch, and more. If you haven't signed up yet, use coupon code VVBT2021 at checkout to save $5.
 
-Date: October 30, 2021
 
 Start location: Civic Center Park, 14999 Dale Evans Pkwy, Apple Valley, CA 92307
 

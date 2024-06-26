@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist found dead on Highway 18 in Lucerne Valley"
-date: "2013-11-07T13:40:27-08:00"
 layout: post
 categories:
 - Information

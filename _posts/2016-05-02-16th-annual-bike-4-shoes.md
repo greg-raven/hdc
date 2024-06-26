@@ -1,6 +1,5 @@
 ---
 title: "16th annual Bike 4 Shoes"
-date: "2016-05-02T10:05:24-07:00"
 layout: post
 categories:
 - 'Ride news'

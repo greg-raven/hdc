@@ -1,6 +1,5 @@
 ---
 title: "Tips for National Bicycle Safety Month"
-date: "2022-05-11T07:13:00-07:00"
 layout: post
 categories:
 - Information

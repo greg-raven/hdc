@@ -1,6 +1,5 @@
 ---
 title: "Electric unicycle rider seen cruising down Interstate 15 in the Cajon Pass"
-date: "2024-04-04T06:49:41-07:00"
 layout: post
 categories:
 - Information

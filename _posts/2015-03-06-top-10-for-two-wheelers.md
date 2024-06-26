@@ -1,6 +1,5 @@
 ---
 title: "Top 10 for two-wheelers"
-date: "2015-03-06T06:20:12-08:00"
 layout: post
 categories:
 - 'Bike lanes'

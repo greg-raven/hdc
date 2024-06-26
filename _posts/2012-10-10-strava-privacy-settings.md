@@ -1,6 +1,5 @@
 ---
 title: "Strava privacy settings"
-date: "2012-10-10T15:42:20-07:00"
 layout: post
 categories:
 - Information

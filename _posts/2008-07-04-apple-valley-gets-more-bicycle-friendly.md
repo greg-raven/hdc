@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley gets more bicycle-friendly"
-date: "2008-07-04T21:30:56-07:00"
 layout: post
 categories:
 - 'Bike lanes'

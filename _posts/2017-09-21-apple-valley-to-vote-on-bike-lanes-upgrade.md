@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley to vote on bike lanes upgrade"
-date: "2017-09-21T13:59:37-07:00"
 layout: post
 categories:
 - 'Bike lanes'

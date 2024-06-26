@@ -1,6 +1,5 @@
 ---
 title: "VVBC BCAR pre-ride"
-date: "2010-10-05T04:22:34-07:00"
 layout: post
 categories:
 - 'Ride news'

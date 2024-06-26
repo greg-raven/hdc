@@ -1,6 +1,5 @@
 ---
 title: "Rancherias is open again"
-date: "2015-01-03T18:35:27-08:00"
 layout: post
 categories:
 - 'Bike lanes'

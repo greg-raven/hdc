@@ -1,6 +1,5 @@
 ---
 title: "AV Triathlon event to close roads"
-date: "2013-09-20T14:28:22-07:00"
 layout: post
 categories:
 - 'Ride news'

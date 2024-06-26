@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley's incoming Town Manager is a cyclist"
-date: "2017-11-26T15:04:33-08:00"
 layout: post
 categories:
 - Information

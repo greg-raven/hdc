@@ -1,6 +1,5 @@
 ---
 title: "AV further mutilates Outer Hwy 18"
-date: "2012-01-02T22:42:07-08:00"
 layout: post
 categories:
 - Advocacy

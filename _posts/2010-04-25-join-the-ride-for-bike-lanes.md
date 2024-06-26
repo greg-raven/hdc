@@ -1,6 +1,5 @@
 ---
 title: "Join the Ride for Bike Lanes"
-date: "2010-04-25T11:58:42-07:00"
 layout: post
 categories:
 - 'Ride news'

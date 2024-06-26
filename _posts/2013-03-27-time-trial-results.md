@@ -1,6 +1,5 @@
 ---
 title: "Time trial results"
-date: "2013-03-27T04:56:33-07:00"
 layout: post
 categories:
 - 'Ride news'

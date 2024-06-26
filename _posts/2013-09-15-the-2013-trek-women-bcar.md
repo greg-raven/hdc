@@ -1,6 +1,5 @@
 ---
 title: "The 2013 Trek Women BCAR"
-date: "2013-09-15T15:11:32-07:00"
 layout: post
 categories:
 - 'Ride news'

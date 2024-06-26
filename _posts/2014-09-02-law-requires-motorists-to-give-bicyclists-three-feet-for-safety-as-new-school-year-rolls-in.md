@@ -1,6 +1,5 @@
 ---
 title: "Law requires motorists to give bicyclists three feet for safety as new school year rolls in"
-date: "2014-09-02T14:10:15-07:00"
 layout: post
 categories:
 - 'Bike lanes'

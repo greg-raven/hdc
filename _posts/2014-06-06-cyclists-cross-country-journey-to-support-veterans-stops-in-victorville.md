@@ -1,6 +1,5 @@
 ---
 title: "Cyclists' cross-country journey to support veterans stops in Victorville"
-date: "2014-06-06T13:46:45-07:00"
 layout: post
 categories:
 - 'Event news'

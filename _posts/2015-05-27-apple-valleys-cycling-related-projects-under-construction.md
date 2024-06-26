@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley's cycling-related projects under construction"
-date: "2015-05-27T07:53:04-07:00"
 layout: post
 categories:
 - Information
@@ -14,14 +13,12 @@ This project is the first component of the overall Yucca Loma Road/Yates Road/Gr
 
 Start of construction: February 2014
 Estimated end of construction: September 2015
-Status Update: 11/18/2014
-
+Status Up
 RANCHERIAS ROAD REHABILITATION PROJECT
 
 This project consists of the reconstruction of Rancherias Road between Highway 18 and Zuni Road. The road will be widened to 44 feet and will add a center turn lane and bike lanes.
 
 Start of construction: October 27, 2014
 Estimated end of construction: January 9, 2015
-Status Update: 11/18/2014
-
+Status Up
 Source: applevalley.org/Index.aspx?page=592

@@ -1,6 +1,5 @@
 ---
 title: "Kiowa closure"
-date: "2011-06-16T06:02:17-07:00"
 layout: post
 categories:
 - Information

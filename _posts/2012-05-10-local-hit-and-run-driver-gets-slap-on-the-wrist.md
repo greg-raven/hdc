@@ -1,6 +1,5 @@
 ---
 title: "Local hit-and-run driver gets slap on the wrist"
-date: "2012-05-10T15:42:53-07:00"
 layout: post
 categories:
 - Information

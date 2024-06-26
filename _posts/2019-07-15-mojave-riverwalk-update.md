@@ -1,6 +1,5 @@
 ---
 title: "Mojave Riverwalk update"
-date: "2019-07-15T15:32:23-07:00"
 layout: post
 categories:
 - 'Bike lanes'

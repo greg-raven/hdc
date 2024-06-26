@@ -1,6 +1,5 @@
 ---
 title: "Snakes on a road"
-date: "2011-06-02T14:14:59-07:00"
 layout: post
 categories:
 - Information

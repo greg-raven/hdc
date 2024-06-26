@@ -1,6 +1,5 @@
 ---
 title: "VVBT discount still available"
-date: "2023-10-06T05:17:23-07:00"
 layout: post
 categories:
 - 'Event news'

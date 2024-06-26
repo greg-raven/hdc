@@ -1,6 +1,5 @@
 ---
 title: "Caltrans settles environment lawsuit, cancels high desert freeway project"
-date: "2019-10-02T13:53:00-07:00"
 layout: post
 categories:
 - 'Bike lanes'

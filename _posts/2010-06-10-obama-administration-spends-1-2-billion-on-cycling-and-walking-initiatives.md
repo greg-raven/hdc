@@ -1,6 +1,5 @@
 ---
 title: "U.S. spends 1.2 billion on cycling and walking initiatives"
-date: "2010-06-10T21:36:41-07:00"
 layout: post
 categories:
 - Information

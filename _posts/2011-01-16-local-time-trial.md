@@ -1,6 +1,5 @@
 ---
 title: "Sunday morning time trial results"
-date: "2011-01-16T13:29:21-08:00"
 layout: post
 categories:
 - Photos

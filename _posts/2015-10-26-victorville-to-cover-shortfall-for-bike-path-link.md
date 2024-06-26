@@ -1,6 +1,5 @@
 ---
 title: "Victorville to cover shortfall for bike path link"
-date: "2015-10-26T05:14:22-07:00"
 layout: post
 categories:
 - 'Bike lanes'

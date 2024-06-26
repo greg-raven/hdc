@@ -1,6 +1,5 @@
 ---
 title: "Amgen Tour of California VIP experience"
-date: "2014-05-17T17:19:21-07:00"
 layout: post
 categories:
 - 'Event news'

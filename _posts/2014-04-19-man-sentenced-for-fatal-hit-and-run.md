@@ -1,6 +1,5 @@
 ---
 title: "Man sentenced for fatal hit-and-run"
-date: "2014-04-19T05:09:22-07:00"
 layout: post
 categories:
 - Information

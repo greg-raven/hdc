@@ -1,6 +1,5 @@
 ---
 title: "Photos from the 2009 Tour de Apple Valley"
-date: "2009-09-26T11:14:29-07:00"
 layout: post
 categories:
 - Photos

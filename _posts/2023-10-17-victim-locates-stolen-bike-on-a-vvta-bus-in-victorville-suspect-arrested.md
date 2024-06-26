@@ -1,6 +1,5 @@
 ---
 title: "Victim locates stolen bike on a VVTA bus in Victorville, suspect arrested"
-date: "2023-10-17T07:06:27-07:00"
 layout: post
 categories:
 - Information
@@ -26,4 +25,4 @@ Geovani Galeano was arrested and booked into the High Desert Detention Center in
 
 The investigation is ongoing and anyone with information is asked to contact Deputy Jay Ko at Victor Valley Sheriff's Station, 760-552-6800. Callers can remain anonymous and contact We-Tip at 800-78CRIME or www.wetip.com.
 
-Source: Victor Valley News Group, vvng.com/victim-locates-stolen-bike-on-a-vvta-bus-in-victorville-suspect-arrested/
+Source: Victor Valley News Group (VVNG.com), vvng.com/victim-locates-stolen-bike-on-a-vvta-bus-in-victorville-suspect-arrested/

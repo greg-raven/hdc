@@ -1,6 +1,5 @@
 ---
 title: "Caltrans pulls plug on High Desert Corridor freeway effort"
-date: "2019-10-11T13:50:00-07:00"
 layout: post
 categories:
 - 'Bike lanes'

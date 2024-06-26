@@ -1,6 +1,5 @@
 ---
 title: "All-around strength"
-date: "2010-11-28T15:58:52-08:00"
 layout: post
 categories:
 - Information

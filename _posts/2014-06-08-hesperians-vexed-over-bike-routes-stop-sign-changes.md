@@ -1,6 +1,5 @@
 ---
 title: "Hesperians vexed over bike route's stop-sign changes"
-date: "2014-06-08T05:02:37-07:00"
 layout: post
 categories:
 - Information

@@ -1,6 +1,5 @@
 ---
 title: "The TdAV Family Ride is back"
-date: "2013-09-14T14:58:40-07:00"
 layout: post
 categories:
 - 'Ride news'

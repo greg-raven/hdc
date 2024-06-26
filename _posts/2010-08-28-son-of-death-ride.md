@@ -1,6 +1,5 @@
 ---
 title: "Son of Death Ride"
-date: "2010-08-28T22:11:41-07:00"
 layout: post
 categories:
 - 'Event news'

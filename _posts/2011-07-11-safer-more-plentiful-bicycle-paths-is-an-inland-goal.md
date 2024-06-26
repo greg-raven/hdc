@@ -1,6 +1,5 @@
 ---
 title: "Safer, more plentiful bicycle paths is an Inland goal"
-date: "2011-07-11T15:17:26-07:00"
 layout: post
 categories:
 - Advocacy

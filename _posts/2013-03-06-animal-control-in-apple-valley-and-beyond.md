@@ -1,6 +1,5 @@
 ---
 title: "Animal control in Apple Valley and beyond"
-date: "2013-03-06T05:35:36-08:00"
 layout: post
 categories:
 - Information

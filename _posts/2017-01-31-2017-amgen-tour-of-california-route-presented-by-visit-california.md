@@ -1,6 +1,5 @@
 ---
 title: "2017 Amgen Tour of California Route presented by Visit California"
-date: "2017-01-31T06:48:08-08:00"
 layout: post
 categories:
 - 'Event news'

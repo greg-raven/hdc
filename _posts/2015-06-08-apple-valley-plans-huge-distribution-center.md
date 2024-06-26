@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley plans huge new distribution center"
-date: "2015-06-08T09:33:17-07:00"
 layout: post
 categories:
 - Information

@@ -1,6 +1,5 @@
 ---
 title: "Victor Valley Bicycle Tour PSA: Patience"
-date: "2018-10-17T04:54:31-07:00"
 layout: post
 categories:
 - Advocacy

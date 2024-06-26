@@ -1,6 +1,5 @@
 ---
 title: "Hwy 173 Time Trials"
-date: "2013-09-15T14:50:18-07:00"
 layout: post
 categories:
 - 'Ride news'

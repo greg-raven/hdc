@@ -1,6 +1,5 @@
 ---
 title: "August time trial results"
-date: "2011-08-23T19:06:00-07:00"
 layout: post
 categories:
 - 'Ride news'

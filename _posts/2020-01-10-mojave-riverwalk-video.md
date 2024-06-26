@@ -1,6 +1,5 @@
 ---
 title: "Mojave Riverwalk video"
-date: "2020-01-10T12:05:00-08:00"
 layout: post
 categories:
 - 'Bike lanes'

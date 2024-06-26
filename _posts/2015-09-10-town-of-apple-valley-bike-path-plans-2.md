@@ -1,6 +1,5 @@
 ---
 title: "Town of Apple Valley bike path plans"
-date: "2015-09-10T16:21:49-07:00"
 layout: post
 categories:
 - 'Bike lanes'

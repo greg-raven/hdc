@@ -1,6 +1,5 @@
 ---
 title: "2015 Victor Valley Bicycle Tour update"
-date: "2015-09-03T09:09:25-07:00"
 layout: post
 categories:
 - 'Ride news'

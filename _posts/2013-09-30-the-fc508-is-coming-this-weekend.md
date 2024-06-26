@@ -1,6 +1,5 @@
 ---
 title: "The FC508 is coming this weekend"
-date: "2013-09-30T16:13:13-07:00"
 layout: post
 categories:
 - 'Event news'

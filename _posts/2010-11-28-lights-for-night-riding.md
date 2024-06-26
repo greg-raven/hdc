@@ -1,6 +1,5 @@
 ---
 title: "Lights for night riding"
-date: "2010-11-28T16:06:15-08:00"
 layout: post
 categories:
 - Information

@@ -1,6 +1,5 @@
 ---
 title: "Traveltalks: Around the World in California (video)"
-date: "2010-09-11T19:18:35-07:00"
 layout: post
 categories:
 - Videos

@@ -1,6 +1,5 @@
 ---
 title: "VVV's endless summer slideshow (video)"
-date: "2012-09-04T05:52:56-07:00"
 layout: post
 categories:
 - Videos

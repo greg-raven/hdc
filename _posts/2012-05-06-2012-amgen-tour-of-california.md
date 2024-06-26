@@ -1,6 +1,5 @@
 ---
 title: "2012 Amgen Tour of California"
-date: "2012-05-06T14:55:08-07:00"
 layout: post
 categories:
 - 'Event news'

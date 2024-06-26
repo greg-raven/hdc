@@ -1,6 +1,5 @@
 ---
 title: "Smitty Smith updates the Town Council of Apple Valley on the VVBT"
-date: "2016-06-14T19:24:00-07:00"
 layout: post
 categories:
 - 'Ride news'

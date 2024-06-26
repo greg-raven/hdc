@@ -1,6 +1,5 @@
 ---
 title: "4th Annual Victor Valley Bicycle Tour set for Saturday"
-date: "2018-10-25T09:36:23-07:00"
 layout: post
 categories:
 - 'Ride news'

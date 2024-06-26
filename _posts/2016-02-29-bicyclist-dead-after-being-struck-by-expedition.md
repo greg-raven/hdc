@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist dead after being struck by Expedition"
-date: "2016-02-29T16:37:29-08:00"
 layout: post
 categories:
 - Information

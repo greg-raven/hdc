@@ -1,6 +1,5 @@
 ---
 title: "Victorville Cycles has moved"
-date: "2014-01-28T13:54:10-08:00"
 layout: post
 categories:
 - Information

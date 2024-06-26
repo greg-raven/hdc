@@ -1,6 +1,5 @@
 ---
 title: "BCAR follow-up"
-date: "2011-10-08T07:01:59-07:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "Yucca Loma Bridge opening slated for May"
-date: "2016-12-25T16:41:25-08:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "Improved bike lanes coming to Apple Valley"
-date: "2013-12-19T15:48:34-08:00"
 layout: post
 categories:
 - 'Bike lanes'

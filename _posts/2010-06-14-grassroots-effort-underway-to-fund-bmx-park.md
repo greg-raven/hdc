@@ -1,6 +1,5 @@
 ---
 title: "Grassroots effort underway to fund BMX park"
-date: "2010-06-14T21:40:45-07:00"
 layout: post
 categories:
 - Information

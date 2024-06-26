@@ -1,6 +1,5 @@
 ---
 title: "Bears bring bikes"
-date: "2015-12-03T16:54:18-08:00"
 layout: post
 categories:
 - Information

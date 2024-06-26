@@ -1,6 +1,5 @@
 ---
 title: "Signs are up for the Tour de Apple Valley"
-date: "2010-09-29T12:47:17-07:00"
 layout: post
 categories:
 - 'Ride news'

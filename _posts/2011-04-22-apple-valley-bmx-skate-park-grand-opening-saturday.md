@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley BMX Skate Park grand opening Saturday"
-date: "2011-04-22T18:13:02-07:00"
 layout: post
 categories:
 - 'Bike lanes'

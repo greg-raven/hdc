@@ -1,6 +1,5 @@
 ---
 title: "Bicycle safety signs installed"
-date: "2017-08-15T18:28:05-07:00"
 layout: post
 categories:
 - 'Bike lanes'

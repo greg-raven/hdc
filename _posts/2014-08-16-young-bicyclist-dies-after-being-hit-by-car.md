@@ -1,6 +1,5 @@
 ---
 title: "Young bicyclist dies after being hit by car"
-date: "2014-08-16T05:48:11-07:00"
 layout: post
 categories:
 - Information

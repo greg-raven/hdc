@@ -1,6 +1,5 @@
 ---
 title: "Coroner IDs bicyclist struck and killed Tuesday in Apple Valley"
-date: "2021-09-01T14:09:59-07:00"
 layout: post
 categories:
 - Information
@@ -20,4 +19,4 @@ The intersection of Pine Ridge Avenue and Jicarilla Road was closed for approxim
 
 Anyone with information or anyone who may have witnessed the collision is asked to contact Deputy R. Grissom or Deputy J. Malocco at the Apple Valley Sheriff's Station at (760) 240-7400 of Sheriff's Dispatch at (760) 956-5001. Callers wishing to remain anonymous are urged to call the We-Tip Hotline at 1-800-78CRIME (27463) or you may leave the information on the We-Tip website at www.wetip.com.
 
-Source: [Victor Valley News Group](https://www.vvng.com/coroner-ids-bicyclist-struck-and-killed-tuesday-in-apple-valley/?utm_source=VVNG+Newsletter&utm_campaign=2da17a1144-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_f396826d4a-2da17a1144-167415565&ct=t(RSS_EMAIL_CAMPAIGN))
+Source: Victor Valley News Group (VVNG.com), vvng.com/coroner-ids-bicyclist-struck-and-killed-tuesday-in-apple-valley/

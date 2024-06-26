@@ -1,6 +1,5 @@
 ---
 title: "Highway 18 Corridor Study"
-date: "2018-04-27T16:47:13-07:00"
 layout: post
 categories:
 - 'Bike lanes'

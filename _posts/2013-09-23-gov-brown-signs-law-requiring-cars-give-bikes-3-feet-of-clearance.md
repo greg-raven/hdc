@@ -1,6 +1,5 @@
 ---
 title: "Gov. Brown Signs Law Requiring Cars Give Bikes 3 Feet of Clearance"
-date: "2013-09-23T17:23:48-07:00"
 layout: post
 categories:
 - 'Bike lanes'

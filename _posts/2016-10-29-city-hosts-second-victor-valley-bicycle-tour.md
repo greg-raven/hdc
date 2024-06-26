@@ -1,6 +1,5 @@
 ---
 title: "City hosts second Victor Valley Bicycle Tour"
-date: "2016-10-29T18:44:23-07:00"
 layout: post
 categories:
 - 'Ride news'

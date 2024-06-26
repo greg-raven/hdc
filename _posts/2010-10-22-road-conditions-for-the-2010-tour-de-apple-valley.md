@@ -1,6 +1,5 @@
 ---
 title: "Road conditions for the 2010 Tour de Apple Valley"
-date: "2010-10-22T17:29:31-07:00"
 layout: post
 categories:
 - 'Ride news'

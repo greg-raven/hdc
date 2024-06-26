@@ -1,6 +1,5 @@
 ---
 title: "HDC: Now faster than Sam Whittingham"
-date: "2014-11-19T07:02:27-08:00"
 layout: post
 categories:
 - Information

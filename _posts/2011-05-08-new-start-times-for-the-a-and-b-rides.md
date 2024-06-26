@@ -1,6 +1,5 @@
 ---
 title: "New start times for the A and B rides"
-date: "2011-05-08T05:55:37-07:00"
 layout: post
 categories:
 - 'Ride news'

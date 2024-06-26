@@ -1,6 +1,5 @@
 ---
 title: "Bike fitting"
-date: "2011-02-18T15:40:19-08:00"
 layout: post
 categories:
 - Information

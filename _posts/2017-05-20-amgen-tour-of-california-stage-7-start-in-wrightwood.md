@@ -1,6 +1,5 @@
 ---
 title: "Amgen Tour of California, Stage 7 start in Wrightwood"
-date: "2017-05-20T13:06:46-07:00"
 layout: post
 categories:
 - 'Event news'

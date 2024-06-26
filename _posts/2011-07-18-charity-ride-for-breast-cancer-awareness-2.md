@@ -1,6 +1,5 @@
 ---
 title: "Charity ride for breast cancer awareness"
-date: "2011-07-18T05:06:13-07:00"
 layout: post
 categories:
 - 'Ride news'

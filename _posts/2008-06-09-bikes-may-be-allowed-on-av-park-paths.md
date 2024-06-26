@@ -1,6 +1,5 @@
 ---
 title: "Bikes may be allowed on AV park paths"
-date: "2008-06-09T21:27:48-07:00"
 layout: post
 categories:
 - Information

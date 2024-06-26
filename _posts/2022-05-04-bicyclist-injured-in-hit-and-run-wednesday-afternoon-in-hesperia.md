@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist injured in hit-and-run Wednesday afternoon in Hesperia"
-date: "2022-05-04T14:08:00-07:00"
 layout: post
 categories:
 - Information
@@ -22,4 +21,4 @@ Deputies blocked off a stretch of Fifth Avenue while they conducted their invest
 
 Anyone with information is asked to contact the Hesperia Police Department at 760-947-1500. Additional information will be updated as it becomes available.
 
-Source: [Victor Valley News Group](https://www.vvng.com/bicyclist-injured-in-hit-and-run-wednesday-afternoon-in-hesperia/?utm_source=VVNG+Newsletter&utm_campaign=108d37ce67-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_f396826d4a-108d37ce67-167415565&ct=t(RSS_EMAIL_CAMPAIGN))
+Source: Victor Valley News Group (VVNG.com), vvng.com/bicyclist-injured-in-hit-and-run-wednesday-afternoon-in-hesperia/

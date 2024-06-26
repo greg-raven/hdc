@@ -1,6 +1,5 @@
 ---
 title: "Rolling out the fun"
-date: "2018-10-27T17:39:00-07:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "October rides"
-date: "2012-10-01T07:29:10-07:00"
 layout: post
 categories:
 - 'Ride news'

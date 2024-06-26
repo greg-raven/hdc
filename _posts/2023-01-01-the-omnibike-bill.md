@@ -1,6 +1,5 @@
 ---
 title: "The OmniBike Bill"
-date: "2023-01-01T07:46:20-08:00"
 layout: post
 categories:
 - 'Bike lanes'

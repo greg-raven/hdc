@@ -1,6 +1,5 @@
 ---
 title: "The Ride: Victorville segment (video)"
-date: "2009-03-29T07:53:43-07:00"
 layout: post
 categories:
 - 'Event news'

@@ -1,6 +1,5 @@
 ---
 title: "Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour"
-date: "2015-11-10T19:00:23-08:00"
 layout: post
 categories:
 - 'Ride news'

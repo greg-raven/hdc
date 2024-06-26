@@ -1,6 +1,5 @@
 ---
 title: "Letter to the editor: Road safety"
-date: "2017-11-20T06:32:32-08:00"
 layout: post
 categories:
 - 'Bike lanes'

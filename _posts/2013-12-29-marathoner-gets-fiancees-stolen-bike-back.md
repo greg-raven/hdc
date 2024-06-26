@@ -1,6 +1,5 @@
 ---
 title: "Marathoner gets fiancée's stolen bike back"
-date: "2013-12-29T15:07:47-08:00"
 layout: post
 categories:
 - Information

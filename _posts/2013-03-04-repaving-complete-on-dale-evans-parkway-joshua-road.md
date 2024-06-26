@@ -1,6 +1,5 @@
 ---
 title: "Repaving complete on Dale Evans Parkway, Joshua Road"
-date: "2013-03-04T05:25:02-08:00"
 layout: post
 categories:
 - Information

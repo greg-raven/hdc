@@ -1,6 +1,5 @@
 ---
 title: "New signage for the 2013 TdAV"
-date: "2013-09-03T15:02:54-07:00"
 layout: post
 categories:
 - 'Ride news'

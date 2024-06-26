@@ -1,6 +1,5 @@
 ---
 title: "Chuck Hansen High Desert Bicycle Tour stalls"
-date: "2014-08-25T06:56:50-07:00"
 layout: post
 categories:
 - 'Ride news'

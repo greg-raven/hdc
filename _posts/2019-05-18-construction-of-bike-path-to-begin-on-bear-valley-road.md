@@ -1,6 +1,5 @@
 ---
 title: "Construction of bike path to begin on Bear Valley Road"
-date: "2019-05-18T05:01:02-07:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "2022 Redlands Bicycle Classic: Here's what you need to know"
-date: "2022-04-19T17:10:50-07:00"
 layout: post
 categories:
 - 'Event news'

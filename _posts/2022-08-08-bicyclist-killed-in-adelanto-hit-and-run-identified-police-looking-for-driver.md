@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist killed in Adelanto hit-and-run identified, police looking for driver"
-date: "2022-08-08T15:16:00-07:00"
 layout: post
 categories:
 - Information
@@ -22,4 +21,4 @@ The investigation is ongoing and a photo of Erika Romero-Aguilar was released to
 
 Callers can remain anonymous and contact We-Tip at 800-78CRIME or www.wetip.com.
 
-Source: [Victor Valley News Group](https://www.vvng.com/bicyclist-killed-in-adelanto-hit-and-run-identified-police-looking-for-driver/)
+Source: Victor Valley News Group (VVNG.com), vvng.com/bicyclist-killed-in-adelanto-hit-and-run-identified-police-looking-for-driver/

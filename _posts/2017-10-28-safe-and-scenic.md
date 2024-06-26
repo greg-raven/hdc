@@ -1,6 +1,5 @@
 ---
 title: "'Safe and scenic'"
-date: "2017-10-28T15:01:14-07:00"
 layout: post
 categories:
 - 'Ride news'

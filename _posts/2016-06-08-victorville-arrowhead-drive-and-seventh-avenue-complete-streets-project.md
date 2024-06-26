@@ -1,6 +1,5 @@
 ---
 title: "Victorville Arrowhead Drive and Seventh Avenue Complete Streets Project"
-date: "2016-06-08T05:21:49-07:00"
 layout: post
 categories:
 - Advocacy

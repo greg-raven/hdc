@@ -1,6 +1,5 @@
 ---
 title: "Annual bike ride coming to High Desert"
-date: "2013-10-09T07:36:11-07:00"
 layout: post
 categories:
 - Information

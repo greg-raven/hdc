@@ -1,6 +1,5 @@
 ---
 title: "Healthy Apple Valley Active Transportation Sub-committee minutes"
-date: "2010-05-13T23:33:15-07:00"
 layout: post
 categories:
 - 'Healthy High Desert'

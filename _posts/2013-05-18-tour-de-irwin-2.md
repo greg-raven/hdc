@@ -1,6 +1,5 @@
 ---
 title: "Tour de Irwin"
-date: "2013-05-18T18:27:55-07:00"
 layout: post
 categories:
 - 'Ride news'

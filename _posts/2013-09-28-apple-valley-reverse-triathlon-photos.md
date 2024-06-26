@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley Reverse Triathlon (photos)"
-date: "2013-09-28T13:27:18-07:00"
 layout: post
 categories:
 - Photos

@@ -1,6 +1,5 @@
 ---
 title: "Beautiful day greets Ride in the Rocks participants in Lucerne Valley"
-date: "2018-11-05T12:33:52-08:00"
 layout: post
 categories:
 - 'Ride news'

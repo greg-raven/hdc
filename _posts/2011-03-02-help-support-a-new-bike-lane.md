@@ -1,6 +1,5 @@
 ---
 title: "Help support a new bike lane"
-date: "2011-03-02T06:34:16-08:00"
 layout: post
 categories:
 - 'Bike lanes'

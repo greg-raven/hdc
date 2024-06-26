@@ -1,6 +1,5 @@
 ---
 title: "Wrightwood to Newcomb Ranch ride"
-date: "2011-04-11T17:15:57-07:00"
 layout: post
 categories:
 - 'Ride news'

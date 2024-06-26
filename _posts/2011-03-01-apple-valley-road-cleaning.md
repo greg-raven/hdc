@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley Road cleaning"
-date: "2011-03-01T07:25:45-08:00"
 layout: post
 categories:
 - Information

@@ -1,6 +1,5 @@
 ---
 title: "For Riverwalk design, review ongoing"
-date: "2016-12-26T16:39:26-08:00"
 layout: post
 categories:
 - 'Bike lanes'

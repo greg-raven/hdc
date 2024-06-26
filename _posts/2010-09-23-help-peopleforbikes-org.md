@@ -1,6 +1,5 @@
 ---
 title: "Help PeopleForBikes.org"
-date: "2010-09-23T22:31:30-07:00"
 layout: post
 categories:
 - Advocacy

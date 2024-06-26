@@ -1,6 +1,5 @@
 ---
 title: "Man airlifted for mountain bike injuries in Hesperia"
-date: "2013-02-01T18:23:53-08:00"
 layout: post
 categories:
 - Information

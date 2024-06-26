@@ -1,6 +1,5 @@
 ---
 title: "Public notice"
-date: "2013-10-15T05:10:44-07:00"
 layout: post
 categories:
 - Advocacy

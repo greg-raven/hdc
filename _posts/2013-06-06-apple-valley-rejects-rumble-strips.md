@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley rejects rumble strips"
-date: "2013-06-06T06:32:57-07:00"
 layout: post
 categories:
 - Advocacy
@@ -21,8 +20,7 @@ Here is his report:
 >
 > To: Honorable Mayor and Town Council
 >
-> Date: April 9, 2013
->
+> >
 > From: Brad Miller, Town Engineer
 >
 > Item No: \_\_\_\_\_\_\_\_\_
@@ -53,4 +51,4 @@ Here is his report:
 >
 > **FISCAL IMPACT:** None
 >
-> Council Meeting Date: 04/09/2013
+> Council Meeting 

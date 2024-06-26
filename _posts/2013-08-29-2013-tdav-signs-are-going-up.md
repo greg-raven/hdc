@@ -1,6 +1,5 @@
 ---
 title: "2013 TdAV signs are going up"
-date: "2013-08-29T14:55:42-07:00"
 layout: post
 categories:
 - 'Ride news'

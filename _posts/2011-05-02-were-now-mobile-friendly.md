@@ -1,6 +1,5 @@
 ---
 title: "We're now mobile-friendly"
-date: "2011-05-02T04:19:34-07:00"
 layout: post
 categories:
 - Information

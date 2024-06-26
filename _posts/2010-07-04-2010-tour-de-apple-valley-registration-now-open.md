@@ -1,6 +1,5 @@
 ---
 title: "2010 Tour de Apple Valley registration now open"
-date: "2010-07-04T12:18:33-07:00"
 layout: post
 categories:
 - 'Ride news'

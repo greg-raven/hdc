@@ -1,6 +1,5 @@
 ---
 title: "Organized &#8216;C' Ride on Saturday, May 12th"
-date: "2012-05-11T15:43:00-07:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "2018 Victor Valley Bicycle Tour is today"
-date: "2018-10-27T03:57:59-07:00"
 layout: post
 categories:
 - 'Ride news'

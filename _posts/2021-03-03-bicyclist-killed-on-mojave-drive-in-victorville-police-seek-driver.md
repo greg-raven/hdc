@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist killed on Mojave Drive in Victorville; Police seek driver"
-date: "2021-03-03T15:06:45-08:00"
 layout: post
 categories:
 - Information
@@ -22,4 +21,4 @@ M.A.I.T. Investigators are working to gather evidence and speak to any witnesses
 
 Witnesses wishing to remain anonymous are urged to contact the We-Tip hotline at 909-987-5005.
 
-Source: [Daily News](https://www.vvng.com/bicyclist-killed-on-mojave-drive-in-victorville-police-seek-driver/?utm_source=VVNG+Newsletter&utm_campaign=eb4d30c66f-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_f396826d4a-eb4d30c66f-167415565&ct=t(RSS_EMAIL_CAMPAIGN))
+Source: Daily News, vvng.com/bicyclist-killed-on-mojave-drive-in-victorville-police-seek-driver/

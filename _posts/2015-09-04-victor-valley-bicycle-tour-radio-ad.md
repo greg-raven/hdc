@@ -1,6 +1,5 @@
 ---
 title: "2015 Victor Valley Bicycle Tour radio ad"
-date: "2015-09-04T04:48:42-07:00"
 layout: post
 categories:
 - 'Ride news'

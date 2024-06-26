@@ -1,6 +1,5 @@
 ---
 title: "Driver accused of killing a Victorville man in hit-and-run crash arrested"
-date: "2021-03-21T14:14:10-07:00"
 layout: post
 categories:
 - Information
@@ -20,4 +19,4 @@ Anyone with information about this investigation is asked to contact Deputy S. L
 
 RELATED ARTICLE: [7th Street in Victorville closed due to fatal hit-and-run crash]({% post_url 2021-03-08-7th-street-in-victorville-closed-due-to-fatal-hit-and-run-crash %})
 
-Source: [Victor Valley News Group](https://www.vvng.com/driver-accused-of-killing-a-victorville-man-in-hit-and-run-crash-arrested/)
+Source: Victor Valley News Group (VVNG.com), vvng.com/driver-accused-of-killing-a-victorville-man-in-hit-and-run-crash-arrested/

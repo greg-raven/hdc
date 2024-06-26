@@ -1,6 +1,5 @@
 ---
 title: "Peak to Peak Pedal"
-date: "2013-09-30T06:57:09-07:00"
 layout: post
 categories:
 - 'Ride news'
@@ -16,4 +15,4 @@ Best of luck to all the riders participating!
 
 ![Peak to Peak Pedal, Barstow to Ridgecrest](/assets/img/2013/09/10-p2p-day-2.jpg)
 
-Update: [Here are some photos of the riders going through Lucerne Valley]({% post_url 2013-10-09-peak2peak-photos %}).
+Up

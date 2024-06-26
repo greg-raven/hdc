@@ -1,6 +1,5 @@
 ---
 title: "HDC bike lane?"
-date: "2011-04-14T06:21:26-07:00"
 layout: post
 categories:
 - Advocacy

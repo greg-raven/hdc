@@ -1,6 +1,5 @@
 ---
 title: "Bicyclists unite to bring awareness to drivers"
-date: "2013-04-28T05:26:49-07:00"
 layout: post
 categories:
 - Advocacy

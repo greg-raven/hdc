@@ -1,6 +1,5 @@
 ---
 title: "Motorcyclist who identifies as bicyclist sets world cycling records"
-date: "2021-06-24T04:55:00-07:00"
 layout: post
 categories:
 - Videos

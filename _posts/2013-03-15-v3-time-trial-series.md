@@ -1,6 +1,5 @@
 ---
 title: "V3 Time Trial series"
-date: "2013-03-15T06:50:31-07:00"
 layout: post
 categories:
 - 'Ride news'

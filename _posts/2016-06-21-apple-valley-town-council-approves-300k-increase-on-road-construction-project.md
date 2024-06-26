@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley Town Council approves $300K increase on road construction project"
-date: "2016-06-21T06:05:04-07:00"
 layout: post
 categories:
 - 'Bike lanes'

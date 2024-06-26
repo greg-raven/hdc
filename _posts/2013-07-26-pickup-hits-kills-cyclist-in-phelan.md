@@ -1,6 +1,5 @@
 ---
 title: "Pickup hits, kills cyclist in Phelan"
-date: "2013-07-26T18:44:10-07:00"
 layout: post
 categories:
 - Information

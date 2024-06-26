@@ -1,6 +1,5 @@
 ---
 title: "Record number Ride in the Rocks"
-date: "2013-11-02T07:28:59-07:00"
 layout: post
 categories:
 - 'Ride news'

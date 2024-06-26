@@ -1,6 +1,5 @@
 ---
 title: "Bike ride for bike lanes"
-date: "2011-04-19T15:55:40-07:00"
 layout: post
 categories:
 - 'Bike lanes'

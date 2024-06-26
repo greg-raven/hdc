@@ -1,6 +1,5 @@
 ---
 title: "Town of Apple Valley completes Safe Routes to School projects"
-date: "2021-02-22T05:08:00-08:00"
 layout: post
 categories:
 - 'Bike lanes'

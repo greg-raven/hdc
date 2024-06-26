@@ -1,6 +1,5 @@
 ---
 title: "Victorville bicycle workshop"
-date: "2016-06-03T05:01:04-07:00"
 layout: post
 categories:
 - 'Bike lanes'

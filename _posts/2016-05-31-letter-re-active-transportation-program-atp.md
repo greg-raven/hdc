@@ -1,6 +1,5 @@
 ---
 title: "Letter RE: Active Transportation Program (ATP)"
-date: "2016-05-31T16:55:26-07:00"
 layout: post
 categories:
 - Advocacy

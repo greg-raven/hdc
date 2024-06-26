@@ -1,6 +1,5 @@
 ---
 title: "Tour de Apple Valley registrations open for individual or tandem riders"
-date: "2011-10-11T14:41:42-07:00"
 layout: post
 categories:
 - 'Ride news'

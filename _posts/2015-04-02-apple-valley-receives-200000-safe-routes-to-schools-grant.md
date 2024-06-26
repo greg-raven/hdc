@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley receives $200,000 Safe Routes to Schools grant"
-date: "2015-04-02T09:42:22-07:00"
 layout: post
 categories:
 - 'Bike lanes'

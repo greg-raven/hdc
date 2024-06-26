@@ -1,6 +1,5 @@
 ---
 title: "Progress set for bike lanes"
-date: "2015-09-18T07:30:38-07:00"
 layout: post
 categories:
 - 'Bike lanes'

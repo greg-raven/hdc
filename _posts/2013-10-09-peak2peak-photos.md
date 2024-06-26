@@ -1,6 +1,5 @@
 ---
 title: "Peak2Peak (photos)"
-date: "2013-10-09T18:31:59-07:00"
 layout: post
 categories:
 - Photos

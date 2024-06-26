@@ -1,6 +1,5 @@
 ---
 title: "Green Tree extension project in Victorville will break ground on June 2nd"
-date: "2021-06-01T14:12:00-07:00"
 layout: post
 categories:
 - 'Bike lanes'

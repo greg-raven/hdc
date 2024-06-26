@@ -1,6 +1,5 @@
 ---
 title: "Dale Evans Bike Lane Kick-Off"
-date: "2010-12-07T06:44:01-08:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "New festival celebrates the snow"
-date: "2016-01-20T08:57:40-08:00"
 layout: post
 categories:
 - 'Event news'

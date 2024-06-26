@@ -1,6 +1,5 @@
 ---
 title: "Dontril Biggs dies in bicycle accident on Pine Ridge Avenue"
-date: "2021-08-31T05:10:00-07:00"
 layout: post
 categories:
 - Information

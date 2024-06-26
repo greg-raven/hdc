@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley Town Council meeting"
-date: "2013-03-27T05:25:52-07:00"
 layout: post
 categories:
 - Advocacy

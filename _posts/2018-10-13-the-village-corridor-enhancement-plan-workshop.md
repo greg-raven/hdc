@@ -1,6 +1,5 @@
 ---
 title: "The Village Corridor Enhancement Plan workshop"
-date: "2018-10-13T07:07:22-07:00"
 layout: post
 categories:
 - 'Bike lanes'

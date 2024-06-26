@@ -1,6 +1,5 @@
 ---
 title: "Sample letter in support of the new bike lane"
-date: "2011-03-16T06:09:22-07:00"
 layout: post
 categories:
 - Advocacy

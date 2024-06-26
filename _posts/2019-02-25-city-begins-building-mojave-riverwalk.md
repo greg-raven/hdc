@@ -1,6 +1,5 @@
 ---
 title: "City begins building Mojave Riverwalk"
-date: "2019-02-25T07:06:00-08:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "Navajo Road in Apple Valley closed after a bicyclist was struck and killed"
-date: "2023-12-19T15:11:01-08:00"
 layout: post
 categories:
 - Information
@@ -22,4 +21,4 @@ At approximately 6:30 pm, another vehicle versus pedestrian call was reported, t
 
 The investigation is being handled by the Apple Valley police department and additional information will be updated as it becomes available.
 
-Source: https://www.vvng.com/navajo-road-in-apple-valley-closed-after-a-bicyclist-was-struck-and-killed/
+Source: Source: Victor Valley News Group (VVNG.com), vvng.com/navajo-road-in-apple-valley-closed-after-a-bicyclist-was-struck-and-killed/

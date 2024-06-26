@@ -1,6 +1,5 @@
 ---
 title: "2013 Breast Cancer Awareness Ride (photos)"
-date: "2013-10-12T16:19:38-07:00"
 layout: post
 categories:
 - Photos

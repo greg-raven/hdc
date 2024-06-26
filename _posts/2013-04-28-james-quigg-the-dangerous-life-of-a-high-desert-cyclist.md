@@ -1,6 +1,5 @@
 ---
 title: "James Quigg: The dangerous life of a High Desert cyclist"
-date: "2013-04-28T05:36:13-07:00"
 layout: post
 categories:
 - Information

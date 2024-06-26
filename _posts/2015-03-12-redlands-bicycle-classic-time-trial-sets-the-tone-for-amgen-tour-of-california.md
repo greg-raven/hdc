@@ -1,6 +1,5 @@
 ---
 title: "Redlands Bicycle Classic Time Trial sets the tone for Amgen Tour of California"
-date: "2015-03-12T18:53:28-07:00"
 layout: post
 categories:
 - 'Event news'

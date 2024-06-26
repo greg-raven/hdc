@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley to break ground for Yucca Loma Bridge"
-date: "2014-01-03T06:07:33-08:00"
 layout: post
 categories:
 - Information

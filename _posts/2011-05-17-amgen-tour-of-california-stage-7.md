@@ -1,6 +1,5 @@
 ---
 title: "Amgen Tour of California Stage 7"
-date: "2011-05-17T18:55:55-07:00"
 layout: post
 categories:
 - 'Event news'

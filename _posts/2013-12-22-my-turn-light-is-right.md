@@ -1,6 +1,5 @@
 ---
 title: "My Turn: Light is right"
-date: "2013-12-22T06:36:32-08:00"
 layout: post
 categories:
 - Advocacy

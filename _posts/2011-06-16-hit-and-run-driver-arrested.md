@@ -1,6 +1,5 @@
 ---
 title: "Hit-and-run driver arrested"
-date: "2011-06-16T06:05:50-07:00"
 layout: post
 categories:
 - Information

@@ -1,6 +1,5 @@
 ---
 title: "Strong turnout for Ride in the Rocks"
-date: "2012-10-12T09:31:42-07:00"
 layout: post
 categories:
 - 'Ride news'

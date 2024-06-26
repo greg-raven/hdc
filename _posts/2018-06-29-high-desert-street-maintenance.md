@@ -1,6 +1,5 @@
 ---
 title: "High desert street maintenance"
-date: "2018-06-29T08:10:59-07:00"
 layout: post
 categories:
 - Information

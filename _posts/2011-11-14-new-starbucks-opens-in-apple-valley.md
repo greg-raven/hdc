@@ -1,6 +1,5 @@
 ---
 title: "New Starbucks opens in Apple Valley"
-date: "2011-11-14T15:04:12-08:00"
 layout: post
 categories:
 - Information

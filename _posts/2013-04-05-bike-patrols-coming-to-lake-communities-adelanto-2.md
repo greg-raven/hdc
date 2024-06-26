@@ -1,6 +1,5 @@
 ---
 title: "Bike patrols coming to lake communities, Adelanto"
-date: "2013-04-05T18:17:23-07:00"
 layout: post
 categories:
 - Information

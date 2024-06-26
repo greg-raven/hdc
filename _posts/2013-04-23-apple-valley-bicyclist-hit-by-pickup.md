@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley bicyclist hit by pickup"
-date: "2013-04-23T10:30:03-07:00"
 layout: post
 categories:
 - Information

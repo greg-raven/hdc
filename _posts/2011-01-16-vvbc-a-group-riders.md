@@ -1,6 +1,5 @@
 ---
 title: "VVBC A group riders"
-date: "2011-01-16T12:47:20-08:00"
 layout: post
 categories:
 - Photos

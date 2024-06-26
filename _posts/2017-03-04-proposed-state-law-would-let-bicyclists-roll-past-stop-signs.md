@@ -1,6 +1,5 @@
 ---
 title: "Proposed state law would let bicyclists roll past stop signs"
-date: "2017-03-04T05:28:16-08:00"
 layout: post
 categories:
 - Advocacy

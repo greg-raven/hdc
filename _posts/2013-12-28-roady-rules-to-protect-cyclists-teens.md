@@ -1,6 +1,5 @@
 ---
 title: "Roady rules to protect cyclists, teens"
-date: "2013-12-28T05:11:40-08:00"
 layout: post
 categories:
 - Information

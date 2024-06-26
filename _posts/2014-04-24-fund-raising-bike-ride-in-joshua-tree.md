@@ -1,6 +1,5 @@
 ---
 title: "Fund-raising bike ride in Joshua Tree"
-date: "2014-04-24T05:56:44-07:00"
 layout: post
 categories:
 - 'Ride news'

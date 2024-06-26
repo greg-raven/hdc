@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley introduces paramedic bicycle program"
-date: "2014-08-08T05:41:49-07:00"
 layout: post
 categories:
 - Information

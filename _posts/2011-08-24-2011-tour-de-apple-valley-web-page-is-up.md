@@ -1,6 +1,5 @@
 ---
 title: "2011 Tour de Apple Valley web page is up"
-date: "2011-08-24T14:00:12-07:00"
 layout: post
 categories:
 - 'Ride news'

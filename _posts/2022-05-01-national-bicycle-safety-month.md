@@ -1,6 +1,5 @@
 ---
 title: "National Bicycle Safety Month"
-date: "2022-05-01T07:10:00-07:00"
 layout: post
 categories:
 - Advocacy

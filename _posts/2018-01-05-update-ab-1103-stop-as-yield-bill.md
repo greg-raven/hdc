@@ -1,7 +1,5 @@
 ---
-title: "Update: AB 1103 stop as yield bill"
-date: "2018-01-05T16:02:06-08:00"
-layout: post
+title: "Uplayout: post
 categories:
 - Advocacy
 tags:

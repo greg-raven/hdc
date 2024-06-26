@@ -1,6 +1,5 @@
 ---
 title: "Riding to remember"
-date: "2016-09-19T15:35:23-07:00"
 layout: post
 categories:
 - 'Ride news'

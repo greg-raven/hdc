@@ -1,6 +1,5 @@
 ---
 title: "Bike lane safety"
-date: "2013-03-11T16:48:23-07:00"
 layout: post
 categories:
 - 'Bike lanes'

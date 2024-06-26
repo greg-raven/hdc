@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley road work"
-date: "2011-05-14T05:30:04-07:00"
 layout: post
 categories:
 - Information

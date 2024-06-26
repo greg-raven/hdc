@@ -1,6 +1,5 @@
 ---
 title: "Recumbent Cycle-Con"
-date: "2013-10-17T16:17:29-07:00"
 layout: post
 categories:
 - 'Event news'

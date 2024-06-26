@@ -1,6 +1,5 @@
 ---
 title: "NHTSA Bicycle Safety Tips for Adults (video)"
-date: "2006-10-09T19:52:08-07:00"
 layout: post
 categories:
 - Information

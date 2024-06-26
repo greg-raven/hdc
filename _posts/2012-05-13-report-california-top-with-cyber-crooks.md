@@ -1,6 +1,5 @@
 ---
 title: "Report: California top with cyber-crooks"
-date: "2012-05-13T16:48:37-07:00"
 layout: post
 categories:
 - Information

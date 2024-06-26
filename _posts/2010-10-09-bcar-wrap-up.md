@@ -1,6 +1,5 @@
 ---
 title: "BCAR wrap-up (updated)"
-date: "2010-10-09T15:32:54-07:00"
 layout: post
 categories:
 - Photos

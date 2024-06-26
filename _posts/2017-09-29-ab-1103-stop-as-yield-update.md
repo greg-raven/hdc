@@ -1,6 +1,5 @@
 ---
 title: "AB 1103 stop as yield update"
-date: "2017-09-29T13:47:33-07:00"
 layout: post
 categories:
 - Advocacy

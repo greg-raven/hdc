@@ -1,6 +1,5 @@
 ---
 title: "High Desert Corridor community meeting"
-date: "2011-04-04T11:09:22-07:00"
 layout: post
 categories:
 - Advocacy

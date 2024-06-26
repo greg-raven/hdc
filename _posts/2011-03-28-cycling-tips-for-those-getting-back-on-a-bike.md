@@ -1,6 +1,5 @@
 ---
 title: "Cycling tips for those getting back on a bike"
-date: "2011-03-28T15:53:41-07:00"
 layout: post
 categories:
 - Information

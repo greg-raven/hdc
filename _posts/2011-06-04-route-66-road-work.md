@@ -1,6 +1,5 @@
 ---
 title: "Route 66 road work"
-date: "2011-06-04T16:13:26-07:00"
 layout: post
 categories:
 - Information

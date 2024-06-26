@@ -1,6 +1,5 @@
 ---
 title: "Cyclists of all levels ride for LV schools"
-date: "2014-11-09T07:18:26-08:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "'Riding Bikes with the Dutch'"
-date: "2012-05-24T18:52:26-07:00"
 layout: post
 categories:
 - Advocacy

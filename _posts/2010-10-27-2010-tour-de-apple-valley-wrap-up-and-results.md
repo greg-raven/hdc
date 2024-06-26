@@ -1,6 +1,5 @@
 ---
 title: "2010 Tour de Apple Valley wrap-up and results"
-date: "2010-10-27T22:04:22-07:00"
 layout: post
 categories:
 - 'Ride news'

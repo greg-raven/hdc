@@ -1,6 +1,5 @@
 ---
 title: "Coyote sighting"
-date: "2011-06-27T18:39:13-07:00"
 layout: post
 categories:
 - Information

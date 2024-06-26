@@ -1,6 +1,5 @@
 ---
 title: "Possibly drunk bicyclist hit by truck"
-date: "2023-12-09T14:16:32-08:00"
 layout: post
 categories:
 - Information

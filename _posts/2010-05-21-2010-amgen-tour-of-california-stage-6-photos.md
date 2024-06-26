@@ -1,6 +1,5 @@
 ---
 title: "2010 Amgen Tour of California: Stage 6 photos"
-date: "2010-05-21T01:37:45-07:00"
 layout: post
 categories:
 - 'Event news'

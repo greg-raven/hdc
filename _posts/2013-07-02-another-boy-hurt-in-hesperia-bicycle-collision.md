@@ -1,6 +1,5 @@
 ---
 title: "Another boy hurt in Hesperia bicycle collision"
-date: "2013-07-02T18:40:37-07:00"
 layout: post
 categories:
 - Information

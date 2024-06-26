@@ -1,6 +1,5 @@
 ---
 title: "VV bike shop rolls into its 40th year"
-date: "2014-02-07T05:13:28-08:00"
 layout: post
 categories:
 - Information

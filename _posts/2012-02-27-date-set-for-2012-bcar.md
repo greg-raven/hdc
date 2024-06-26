@@ -1,6 +1,5 @@
 ---
 title: "Date set for 2012 BCAR"
-date: "2012-02-27T22:35:12-08:00"
 layout: post
 categories:
 - 'Ride news'

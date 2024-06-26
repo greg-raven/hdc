@@ -1,6 +1,5 @@
 ---
 title: "Mojave Riverwalk South completion pushed to February"
-date: "2016-11-30T04:58:08-08:00"
 layout: post
 categories:
 - 'Bike lanes'

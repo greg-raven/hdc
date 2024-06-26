@@ -1,6 +1,5 @@
 ---
 title: "Second Annual Victorville Road Race"
-date: "2017-04-04T08:07:04-07:00"
 layout: post
 categories:
 - 'Event news'

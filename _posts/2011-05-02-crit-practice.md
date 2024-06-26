@@ -1,6 +1,5 @@
 ---
 title: "Crit practice"
-date: "2011-05-02T20:00:12-07:00"
 layout: post
 categories:
 - 'Ride news'

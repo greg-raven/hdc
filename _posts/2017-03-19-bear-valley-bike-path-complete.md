@@ -1,6 +1,5 @@
 ---
 title: "Bear Valley Bike Path complete"
-date: "2017-03-19T15:46:00-07:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "Governor Brown signs protected bike lane bill, car fee for bike paths"
-date: "2014-09-22T04:37:36-07:00"
 layout: post
 categories:
 - 'Bike lanes'

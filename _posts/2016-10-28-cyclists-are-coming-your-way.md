@@ -1,6 +1,5 @@
 ---
 title: "Cyclists are coming your way"
-date: "2016-10-28T05:19:13-07:00"
 layout: post
 categories:
 - 'Ride news'

@@ -1,6 +1,5 @@
 ---
 title: "Proposed HDC bike path"
-date: "2013-05-16T15:59:32-07:00"
 layout: post
 categories:
 - 'Bike lanes'

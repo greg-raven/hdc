@@ -1,6 +1,5 @@
 ---
 title: "The 2023 Victor Valley Bicycle Tour"
-date: "2023-06-04T05:47:00-07:00"
 layout: post
 categories:
 - Events

@@ -1,6 +1,5 @@
 ---
 title: "Announcing the host cities of the 2019 Amgen Tour of California"
-date: "2018-12-05T06:46:30-08:00"
 layout: post
 categories:
 - 'Event news'

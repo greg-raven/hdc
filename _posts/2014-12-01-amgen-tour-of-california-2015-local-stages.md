@@ -1,6 +1,5 @@
 ---
 title: "Amgen Tour of California 2015 local stages"
-date: "2014-12-01T08:06:28-08:00"
 layout: post
 categories:
 - 'Event news'

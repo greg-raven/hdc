@@ -1,6 +1,5 @@
 ---
 title: "Hit-and-run update"
-date: "2012-03-20T06:27:56-07:00"
 layout: post
 categories:
 - Information

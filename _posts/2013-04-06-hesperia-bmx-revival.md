@@ -1,6 +1,5 @@
 ---
 title: "Hesperia BMX revival"
-date: "2013-04-06T05:50:42-07:00"
 layout: post
 categories:
 - Information

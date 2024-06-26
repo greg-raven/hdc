@@ -1,6 +1,5 @@
 ---
 title: "Michael Bruce Slusser, again"
-date: "2014-04-12T06:07:59-07:00"
 layout: post
 categories:
 - Information

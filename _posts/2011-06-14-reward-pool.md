@@ -1,6 +1,5 @@
 ---
 title: "Reward pool"
-date: "2011-06-14T11:16:16-07:00"
 layout: post
 categories:
 - Information

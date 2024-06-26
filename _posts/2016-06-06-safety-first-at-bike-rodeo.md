@@ -1,6 +1,5 @@
 ---
 title: "Safety first at bike rodeo"
-date: "2016-06-06T04:55:25-07:00"
 layout: post
 categories:
 - 'Ride news'

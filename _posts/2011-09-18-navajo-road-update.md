@@ -1,6 +1,5 @@
 ---
 title: "Navajo Road update"
-date: "2011-09-18T06:54:51-07:00"
 layout: post
 categories:
 - Information

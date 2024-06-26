@@ -1,6 +1,5 @@
 ---
 title: "Dale Evans Parkway update, September 22nd"
-date: "2010-09-22T22:03:06-07:00"
 layout: post
 categories:
 - 'Bike lanes'

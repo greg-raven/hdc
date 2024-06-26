@@ -1,6 +1,5 @@
 ---
 title: "The return of Tim and Steve"
-date: "2011-10-15T13:44:56-07:00"
 layout: post
 categories:
 - Photos

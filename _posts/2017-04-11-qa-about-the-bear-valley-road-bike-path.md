@@ -1,6 +1,5 @@
 ---
 title: "Q&#038;A about the Bear Valley Road bike path"
-date: "2017-04-11T06:51:54-07:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "Update on local road conditions"
-date: "2011-01-11T06:06:02-08:00"
 layout: post
 categories:
 - Information

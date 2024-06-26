@@ -1,6 +1,5 @@
 ---
 title: "Bicyclist injured in early morning crash with car in Victorville"
-date: "2019-06-03T13:24:23-07:00"
 layout: post
 categories:
 - Information
@@ -18,4 +17,4 @@ The bicyclist sustained injuries to his ankle and no other injuries were reporte
 
 The cause of the accident is under investigation by the Victorville Police Department.
 
-Source: Victor Valley News Group (VVNG.com)
+Source: Victor Valley News Group (VVNG.com), vvng.com/bicyclist-injured-in-early-morning-crash-with-car-in-victorville/

@@ -1,6 +1,5 @@
 ---
 title: "Caltrans seeks public input for bicycle and pedestrian improvements"
-date: "2022-04-20T18:46:00-07:00"
 layout: post
 categories:
 - Advocacy

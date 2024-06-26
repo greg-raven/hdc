@@ -1,6 +1,5 @@
 ---
 title: "CalTrans clean-up on Hwy 18"
-date: "2011-03-22T07:48:21-07:00"
 layout: post
 categories:
 - Information

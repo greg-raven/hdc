@@ -1,6 +1,5 @@
 ---
 title: "Victor Valley Bicycle Tour draws hundreds to High Desert roadways"
-date: "2019-10-27T06:46:57-07:00"
 layout: post
 categories:
 - 'Event news'

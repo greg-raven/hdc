@@ -1,6 +1,5 @@
 ---
 title: "Victor Valley composite mountain bike team motivated to ride"
-date: "2014-04-11T14:25:11-07:00"
 layout: post
 categories:
 - Information

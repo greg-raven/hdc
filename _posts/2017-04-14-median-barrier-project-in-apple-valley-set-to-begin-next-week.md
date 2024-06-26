@@ -1,6 +1,5 @@
 ---
 title: "Median barrier project in Apple Valley set to begin next week"
-date: "2017-04-14T18:06:10-07:00"
 layout: post
 categories:
 - Information

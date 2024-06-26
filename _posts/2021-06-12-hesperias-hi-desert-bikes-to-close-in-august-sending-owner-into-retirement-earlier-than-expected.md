@@ -1,6 +1,5 @@
 ---
 title: "Hesperia's Hi-Desert Bikes to close in August, sending owner into retirement earlier than expected"
-date: "2021-06-12T06:55:00-07:00"
 layout: post
 categories:
 - Information

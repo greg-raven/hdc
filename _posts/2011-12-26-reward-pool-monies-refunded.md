@@ -1,6 +1,5 @@
 ---
 title: "Reward pool monies refunded"
-date: "2011-12-26T22:43:00-08:00"
 layout: post
 categories:
 - Advocacy

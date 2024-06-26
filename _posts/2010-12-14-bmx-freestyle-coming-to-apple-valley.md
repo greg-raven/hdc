@@ -1,6 +1,5 @@
 ---
 title: "BMX Freestyle coming to Apple Valley"
-date: "2010-12-14T07:33:29-08:00"
 layout: post
 categories:
 - Information

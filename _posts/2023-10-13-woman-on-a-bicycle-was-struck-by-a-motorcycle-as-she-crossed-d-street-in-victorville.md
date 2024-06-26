@@ -1,6 +1,5 @@
 ---
 title: "Woman on a bicycle was struck by a motorcycle as she crossed D Street in Victorville"
-date: "2023-10-13T15:42:48-07:00"
 layout: post
 categories:
 - Information
@@ -16,4 +15,4 @@ The motorcycle rider remained at the scene and cooperated with police.
 
 No additional information was available and the Victorville Police Department is handling the investigation into the collision.
 
-Source: Victor Valley News Group, vvng.com/woman-on-a-bicycle-was-struck-by-a-motorcycle-as-she-crossed-d-street-in-victorville/
+Source: Victor Valley News Group (VVNG.com), vvng.com/woman-on-a-bicycle-was-struck-by-a-motorcycle-as-she-crossed-d-street-in-victorville/

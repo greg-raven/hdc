@@ -1,6 +1,5 @@
 ---
 title: "Community looks for answers after bike crashes"
-date: "2013-07-07T18:47:34-07:00"
 layout: post
 categories:
 - Information

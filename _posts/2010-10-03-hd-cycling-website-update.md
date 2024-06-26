@@ -1,6 +1,5 @@
 ---
 title: "HD Cycling website update"
-date: "2010-10-03T12:56:26-07:00"
 layout: post
 categories:
 - Information

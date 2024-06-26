@@ -1,6 +1,5 @@
 ---
 title: "Survey: Bear Valley Road Bike/Pedestrian Pathway Connector"
-date: "2016-05-30T16:26:22-07:00"
 layout: post
 categories:
 - 'Bike lanes'

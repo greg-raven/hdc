@@ -1,6 +1,5 @@
 ---
 title: "Sunday morning time trial set"
-date: "2011-01-16T07:31:44-08:00"
 layout: post
 categories:
 - 'Ride news'

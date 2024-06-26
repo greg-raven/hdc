@@ -1,6 +1,5 @@
 ---
 title: "2015 Victor Valley Bicycle Tour"
-date: "2015-04-23T06:18:43-07:00"
 layout: post
 categories:
 - 'Ride news'
@@ -10,8 +9,7 @@ tags:
 
 Last night I attended a board meeting for the 2015 Victor Valley Bicycle Tour (VVBT). Having been on the board of previous high desert bicycle events, I was extremely impressed by the organizers and their preparation even in these early stages, and excited by the progress they have made toward bringing this ride to life.
 
-Before I go any further, save this date: Saturday, October 24, 2015.
-
+Before I go any further, save this 
 ![VVBT](/assets/img/2015/04/vvbt15.png)
 
 The 2015 VVBT will offer five route options. These are:

@@ -1,6 +1,5 @@
 ---
 title: "VVBC Ride Around the Bear results"
-date: "2011-06-11T07:01:34-07:00"
 layout: post
 categories:
 - 'Ride news'

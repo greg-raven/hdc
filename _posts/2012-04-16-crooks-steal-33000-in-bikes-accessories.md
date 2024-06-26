@@ -1,6 +1,5 @@
 ---
 title: "Crooks steal $33,000 in bikes, accessories"
-date: "2012-04-16T16:39:26-07:00"
 layout: post
 categories:
 - Information

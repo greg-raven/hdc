@@ -1,6 +1,5 @@
 ---
 title: "Editor's Notebook: Highway 138 East project is finished"
-date: "2018-06-10T16:07:58-07:00"
 layout: post
 categories:
 - 'Bike lanes'

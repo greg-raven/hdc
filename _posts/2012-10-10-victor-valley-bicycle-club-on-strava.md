@@ -1,6 +1,5 @@
 ---
 title: "Victor Valley Bicycle Club on Strava"
-date: "2012-10-10T15:25:42-07:00"
 layout: post
 categories:
 - Advocacy

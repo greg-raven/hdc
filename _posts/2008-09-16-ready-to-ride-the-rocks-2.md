@@ -1,6 +1,5 @@
 ---
 title: "Ready to Ride the Rocks"
-date: "2008-09-16T18:45:06-07:00"
 layout: post
 categories:
 - 'Ride news'

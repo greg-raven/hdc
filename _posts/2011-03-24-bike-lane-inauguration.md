@@ -1,6 +1,5 @@
 ---
 title: "Bike lane inauguration"
-date: "2011-03-24T19:29:21-07:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "Spreading the joy: 13th annual bike giveaway provides for children in need"
-date: "2016-12-09T06:02:51-08:00"
 layout: post
 categories:
 - Advocacy

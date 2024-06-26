@@ -1,6 +1,5 @@
 ---
 title: "Status report on the SR-138 (East) realignment"
-date: "2017-10-24T16:05:37-07:00"
 layout: post
 categories:
 - Information

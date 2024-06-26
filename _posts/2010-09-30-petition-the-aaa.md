@@ -1,6 +1,5 @@
 ---
 title: "Petition the AAA"
-date: "2010-09-30T12:46:53-07:00"
 layout: post
 categories:
 - Advocacy

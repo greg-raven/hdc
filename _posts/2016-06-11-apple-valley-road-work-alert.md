@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley road work alert"
-date: "2016-06-11T11:02:30-07:00"
 layout: post
 categories:
 - Information

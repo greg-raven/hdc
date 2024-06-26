@@ -1,6 +1,5 @@
 ---
 title: "Long road to go"
-date: "2015-10-23T06:13:34-07:00"
 layout: post
 categories:
 - Information

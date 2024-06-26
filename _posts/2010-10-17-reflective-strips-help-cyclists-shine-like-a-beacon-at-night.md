@@ -1,6 +1,5 @@
 ---
 title: "Reflective strips help cyclists shine like a beacon at night"
-date: "2010-10-17T05:25:15-07:00"
 layout: post
 categories:
 - Information

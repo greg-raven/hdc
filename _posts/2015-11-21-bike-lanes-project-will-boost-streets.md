@@ -1,6 +1,5 @@
 ---
 title: "Bike lanes project will boost streets"
-date: "2015-11-21T05:24:48-08:00"
 layout: post
 categories:
 - 'Bike lanes'

@@ -1,6 +1,5 @@
 ---
 title: "July time trial results"
-date: "2011-07-26T21:45:16-07:00"
 layout: post
 categories:
 - Photos

@@ -1,6 +1,5 @@
 ---
 title: "Support AB 1103 (Stop as Yield Bill)"
-date: "2017-08-06T15:36:24-07:00"
 layout: post
 categories:
 - Advocacy

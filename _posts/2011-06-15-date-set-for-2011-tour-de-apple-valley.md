@@ -1,6 +1,5 @@
 ---
 title: "Date set for 2011 Tour de Apple Valley"
-date: "2011-06-15T05:59:12-07:00"
 layout: post
 categories:
 - 'Ride news'

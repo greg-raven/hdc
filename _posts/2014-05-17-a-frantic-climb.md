@@ -1,6 +1,5 @@
 ---
 title: "A frantic climb"
-date: "2014-05-17T05:04:39-07:00"
 layout: post
 categories:
 - 'Event news'

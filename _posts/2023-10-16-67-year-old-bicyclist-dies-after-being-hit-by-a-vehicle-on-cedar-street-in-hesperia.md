@@ -1,6 +1,5 @@
 ---
 title: "67-year-old bicyclist dies after being hit by a vehicle on Cedar Street in Hesperia"
-date: "2023-10-16T07:09:09-07:00"
 layout: post
 categories:
 - Information
@@ -30,4 +29,4 @@ Shawna said neighbors would like to see speed humps or stop signs installed beca
 
 The investigation into the collision is being handled by the Hesperia Police Department.
 
-Source: Victor Valley News Group, vvng.com/67-year-old-bicyclist-dies-after-being-hit-by-a-vehicle-on-cedar-street-in-hesperia/
+Source: Victor Valley News Group (VVNG.com), vvng.com/67-year-old-bicyclist-dies-after-being-hit-by-a-vehicle-on-cedar-street-in-hesperia/

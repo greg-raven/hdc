@@ -1,6 +1,5 @@
 ---
 title: "Photos from the 2010 Tour de Apple Valley"
-date: "2010-10-27T12:15:34-07:00"
 layout: post
 categories:
 - Photos

@@ -1,6 +1,5 @@
 ---
 title: "Digital Bicycle Route 66 now available"
-date: "2015-06-21T09:53:46-07:00"
 layout: post
 categories:
 - Information

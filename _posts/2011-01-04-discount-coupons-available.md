@@ -1,6 +1,5 @@
 ---
 title: "Discount coupons available"
-date: "2011-01-04T08:44:44-08:00"
 layout: post
 categories:
 - Information

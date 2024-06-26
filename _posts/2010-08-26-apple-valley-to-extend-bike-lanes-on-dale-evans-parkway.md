@@ -1,6 +1,5 @@
 ---
 title: "Apple Valley to extend bike lanes on Dale Evans Parkway"
-date: "2010-08-26T22:06:04-07:00"
 layout: post
 categories:
 - 'Bike lanes'

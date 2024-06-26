@@ -1,6 +1,5 @@
 ---
 title: "2010 Ride for Bike Lanes wrap-up"
-date: "2010-05-03T11:59:37-07:00"
 layout: post
 categories:
 - Photos

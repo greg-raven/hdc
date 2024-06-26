@@ -1,6 +1,5 @@
 ---
 title: "Ride 2 Freedom passes through Victor Valley"
-date: "2015-06-14T08:07:44-07:00"
 layout: post
 categories:
 - 'Event news'

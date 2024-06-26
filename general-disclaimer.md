@@ -1,6 +1,5 @@
 ---
 title: "General disclaimer"
-date: "2014-12-14T16:17:29-08:00"
 layout: page
 ---
 

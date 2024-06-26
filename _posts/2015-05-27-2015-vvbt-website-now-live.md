@@ -1,6 +1,5 @@
 ---
 title: "2015 VVBT website now live"
-date: "2015-05-27T07:33:14-07:00"
 layout: post
 categories:
 - 'Ride news'

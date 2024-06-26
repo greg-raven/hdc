@@ -1,6 +1,5 @@
 ---
 title: "Hit-and-run on Apple Valley Road"
-date: "2011-06-11T18:16:52-07:00"
 layout: post
 categories:
 - Information

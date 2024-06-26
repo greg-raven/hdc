@@ -1,6 +1,5 @@
 ---
 title: "5 mountain biking tips"
-date: "2016-03-21T05:23:06-07:00"
 layout: post
 categories:
 - Information

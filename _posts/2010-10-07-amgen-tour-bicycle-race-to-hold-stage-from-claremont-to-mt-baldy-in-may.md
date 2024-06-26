@@ -1,6 +1,5 @@
 ---
 title: "Amgen Tour bicycle race to hold stage from Claremont to Mt. Baldy in May"
-date: "2010-10-07T18:06:22-07:00"
 layout: post
 categories:
 - 'Event news'
