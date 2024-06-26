@@ -1,9 +1,9 @@
 ---
-title: "Uplayout: post
+title: "Thanks to those who supported AB 1103
 categories:
 - Advocacy
 tags:
-- 'AB 1103'
+- AB 1103
 ---
 
 I just learned that the author has decided to pull the bill from the hearing because there were not enough supporting votes.
