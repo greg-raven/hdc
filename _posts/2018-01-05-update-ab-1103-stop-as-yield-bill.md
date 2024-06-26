@@ -1,5 +1,5 @@
 ---
-title: "Thanks to those who supported AB 1103
+title: "Update: AB 1103 stop as yield bill"
 categories:
 - Advocacy
 tags:
@@ -12,4 +12,8 @@ This is very disappointing to me. I thought a bipartisan bill would have a good 
 
 Thanks to all who offered their support.
 
-Walt Seifert
+Walt Seifert<br>
+Sacramento Trailnet<br>
+PO Box 19463<br>
+Sacramento, CA 95819<br>
+(916) 455-7561

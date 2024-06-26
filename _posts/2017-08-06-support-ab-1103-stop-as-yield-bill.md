@@ -40,9 +40,9 @@ We have an opportunity to pass Stop-As-Yield in California. Here is a letter I r
 >
 > Thanks very much.
 >
-> Walt Seifert
-> Executive Director
-> Sacramento Trailnet
+> Walt Seifert<br>
+> Executive Director<br>
+> Sacramento Trailnet<br>
 > (916) 455-7561
 
 ---

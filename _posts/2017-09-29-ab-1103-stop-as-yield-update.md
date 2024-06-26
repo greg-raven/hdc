@@ -71,8 +71,8 @@ If you've got suggestions or ideas about any of this, please let me know.
 
 Thanks again,
 
-Walt Seifert
-Sacramento Trailnet
-PO Box 19463
-Sacramento, CA 95819
+Walt Seifert<br>
+Sacramento Trailnet<br>
+PO Box 19463<br>
+Sacramento, CA 95819<br>
 (916) 455-7561
