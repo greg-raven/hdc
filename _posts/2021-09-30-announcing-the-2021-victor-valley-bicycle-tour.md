@@ -24,7 +24,7 @@ For the most up to date information on the 6th Victor Valley Bicycle Tour, pleas
 
 ## Event details and schedule
 
-[Click here to see our Rider Guide from 2019](https://drive.google.com/file/d/1WjYh1k5yTOo9CRCBhqQJi70mbPglr18Z/view?usp=sharing)! (2021 version is coming soon!)
+Click here to see our Rider Guide from 2019! (2021 version is coming soon!)
 
 Plenty of parking available at the start and finish location.
 
