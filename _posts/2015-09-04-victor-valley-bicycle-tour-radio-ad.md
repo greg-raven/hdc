@@ -2,7 +2,7 @@
 title: "2015 Victor Valley Bicycle Tour radio ad"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

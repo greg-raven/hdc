@@ -3,7 +3,7 @@ title: "Annual bike ride coming to High Desert"
 layout: post
 categories:
 - Information
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

@@ -3,7 +3,7 @@ title: "Photos from the Breast Cancer Awareness Ride"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 [Here are some photos](https://www.dropbox.com/sh/5nhhqtejx1ccoee/AAD6ci3l8yJ4h5H2mgiwH83ka?dl=0) from the 2012 Breast Cancer Awareness Ride (BCAR), which took place on Saturday, October 13th, at Victorville Cycles.

@@ -2,7 +2,7 @@
 title: "City hosts second Victor Valley Bicycle Tour"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

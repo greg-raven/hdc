@@ -2,7 +2,7 @@
 title: "Announcing the 2021 Victor Valley Bicycle Tour"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 ![2021 Victor Valley Bicycle Tour](/assets/img/2021/09/vvbt.jpg)

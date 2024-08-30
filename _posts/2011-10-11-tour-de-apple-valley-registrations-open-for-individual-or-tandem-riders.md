@@ -2,7 +2,7 @@
 title: "Tour de Apple Valley registrations open for individual or tandem riders"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

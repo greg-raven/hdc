@@ -2,7 +2,7 @@
 title: "Chuck Hansen High Desert Bicycle Tour stalls"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

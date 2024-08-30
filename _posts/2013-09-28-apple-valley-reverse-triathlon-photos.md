@@ -3,7 +3,7 @@ title: "Apple Valley Reverse Triathlon (photos)"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 Here are some of the photos I took of the cyclists at the Apple Valley Reverse Triathlon.

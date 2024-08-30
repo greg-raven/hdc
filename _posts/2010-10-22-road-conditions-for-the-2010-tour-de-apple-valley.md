@@ -2,7 +2,7 @@
 title: "Road conditions for the 2010 Tour de Apple Valley"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

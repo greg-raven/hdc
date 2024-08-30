@@ -2,7 +2,7 @@
 title: "Time trial results"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Here are the results from Tuesday night's time trial on Deep Creek Road.

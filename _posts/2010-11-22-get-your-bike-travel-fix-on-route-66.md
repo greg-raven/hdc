@@ -2,7 +2,7 @@
 title: "Get Your Bike Travel Fix on Route 66"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 *Adventure Cycling's planned 2,400-mile bicycle-friendly route will revitalize the "Main Street of America" --- this time with touring cyclists.*

@@ -2,7 +2,7 @@
 title: "4th Annual Victor Valley Bicycle Tour set for Saturday"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

@@ -4,7 +4,7 @@ layout: post
 categories:
 - Advocacy
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 The 2011 Bike Ride for Bike Lanes along Bear Valley Road from Victorville to Apple Valley went smoothly this afternoon, thanks to organizers Pat and Chuck Hanson, with the able assistance of Apple Valley town councilmember Barb Stanton.

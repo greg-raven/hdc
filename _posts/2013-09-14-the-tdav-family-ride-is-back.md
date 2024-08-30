@@ -2,7 +2,7 @@
 title: "The TdAV Family Ride is back"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

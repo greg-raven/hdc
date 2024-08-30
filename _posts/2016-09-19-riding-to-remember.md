@@ -2,7 +2,7 @@
 title: "Riding to remember"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 - On a Sunday cruise, bicyclists pay tribute to AVHS counselor Pulice

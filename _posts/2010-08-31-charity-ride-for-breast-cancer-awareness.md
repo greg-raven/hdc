@@ -2,7 +2,7 @@
 title: "Charity ride for breast cancer awareness"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 [Trek Women](https://www.trekbikes.com/women/) is holding a Breast Cancer Awareness Ride on Saturday, October 9, at 10:00 a.m. There are going to be 10-mile and 25-mile casual rides, jumping off from [Victorville Cycles](https://victorvillecycles.com/) at 12408 Hesperia Road in Victorville. The $25 entry fee all goes to the Breast Cancer Research Foundation, and each participant will receive a free gift. The first 100 to sign up even get a free lunch. Registration is on-line here.

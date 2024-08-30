@@ -3,7 +3,7 @@ title: "VVBT special Independence Day discount"
 layout: post
 categories:
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

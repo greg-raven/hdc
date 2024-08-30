@@ -2,7 +2,7 @@
 title: "Ready to Ride the Rocks"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 LUCERNE VALLEY --- Preparations are well under way for this year's Ride in the Rocks mountain biking competition, an event that organizers hope will bring riders from all over the West Coast.

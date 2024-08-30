@@ -2,7 +2,7 @@
 title: "Join the Ride for Bike Lanes"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 The High Desert Cycling Association is putting on a ride to highlight the need for more bike lanes in the High Desert. The ride takes place Monday, May 3, 2010, at 6:00 P.M.

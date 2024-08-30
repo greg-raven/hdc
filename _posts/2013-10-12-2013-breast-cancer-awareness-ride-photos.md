@@ -3,7 +3,7 @@ title: "2013 Breast Cancer Awareness Ride (photos)"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 Here are some photos from this year's Breast Cancer Awareness Ride, ably hosted by [Victorville Cycles](https://victorvillecycles.com/).

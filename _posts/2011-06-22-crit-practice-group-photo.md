@@ -3,7 +3,7 @@ title: "Crit practice --- group photo"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 Here's the Wednesday crit practice crew just before take-off.

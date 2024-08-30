@@ -2,7 +2,7 @@
 title: "Registration is now open for the 2019 Victor Valley Bicycle Tour"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 The 5th Victor Valley Bicycle Tour is scheduled for October 26, 2019, starting again at Civic Center Park in Apple Valley.

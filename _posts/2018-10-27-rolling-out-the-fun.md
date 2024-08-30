@@ -2,7 +2,7 @@
 title: "Rolling out the fun"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

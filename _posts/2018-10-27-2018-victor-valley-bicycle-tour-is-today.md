@@ -2,7 +2,7 @@
 title: "2018 Victor Valley Bicycle Tour is today"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

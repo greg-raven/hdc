@@ -2,7 +2,7 @@
 title: "Coasting through the desert"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

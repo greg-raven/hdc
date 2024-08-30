@@ -2,7 +2,7 @@
 title: "Date set for 2012 TdAV"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

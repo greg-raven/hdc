@@ -2,7 +2,7 @@
 title: "2010 Tour de Apple Valley wrap-up and results"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

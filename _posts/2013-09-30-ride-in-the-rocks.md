@@ -2,7 +2,7 @@
 title: "Ride in the Rocks"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 For you mountain bikers, the 5th Annual Ride In The Rocks Fundraiser is coming up on November 2nd, 2013.

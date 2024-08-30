@@ -2,7 +2,7 @@
 title: "Mark your calendars: 2017 VVBT"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

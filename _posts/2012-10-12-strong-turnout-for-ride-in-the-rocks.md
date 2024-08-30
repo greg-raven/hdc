@@ -2,7 +2,7 @@
 title: "Strong turnout for Ride in the Rocks"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 LUCERNE VALLEY --- The Ride in the Rocks fundraiser Saturday raised more than $12,000 for local students, organizers said.

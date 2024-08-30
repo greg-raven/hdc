@@ -2,7 +2,7 @@
 title: "Tour de Irwin"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 The Tour de Irwin is coming up (Saturday, May 18th). This is an actual race (as opposed to a ride).

@@ -2,7 +2,7 @@
 title: "2015 Victor Valley Bicycle Tour update"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

@@ -2,7 +2,7 @@
 title: "2013 TdAV signs are going up"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

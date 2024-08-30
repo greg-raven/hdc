@@ -2,7 +2,7 @@
 title: "Fund-raising bike ride in Joshua Tree"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 We just received word of a fund-raising bike ride coming up on May 3rd in the Joshua Tree area, put on by the Rotary Club there. Here are the details:

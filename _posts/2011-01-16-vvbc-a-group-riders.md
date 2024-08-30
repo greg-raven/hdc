@@ -3,7 +3,7 @@ title: "VVBC A group riders"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 I was standing by the side of the road this morning with my camera, minding my own business, when who should ride by but the VVBC A group?

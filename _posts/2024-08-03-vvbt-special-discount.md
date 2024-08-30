@@ -3,7 +3,7 @@ title: "VVBT special August discount"
 layout: post
 categories:
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

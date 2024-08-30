@@ -2,7 +2,7 @@
 title: "New signage for the 2013 TdAV"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

@@ -2,7 +2,7 @@
 title: "August time trial results"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Here are the results of this month's time trial, courtesy Dave Nocera.

@@ -2,7 +2,7 @@
 title: "16th annual Bike 4 Shoes"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Attention Cycling Enthusiasts!

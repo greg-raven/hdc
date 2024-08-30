@@ -2,7 +2,7 @@
 title: "2010 Tour de Apple Valley registration now open"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

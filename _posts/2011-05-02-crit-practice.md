@@ -2,7 +2,7 @@
 title: "Crit practice"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Members of the Victor Valley Bicycle Club will be holding a [criterium](https://en.wikipedia.org/wiki/Criterium) practice on Wednesday, May 4th, at 6:00 pm.

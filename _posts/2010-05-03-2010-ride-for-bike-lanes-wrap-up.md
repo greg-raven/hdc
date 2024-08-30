@@ -3,7 +3,7 @@ title: "2010 Ride for Bike Lanes wrap-up"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 - Videos
 ---
 

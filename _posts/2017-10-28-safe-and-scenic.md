@@ -2,7 +2,7 @@
 title: "'Safe and scenic'"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

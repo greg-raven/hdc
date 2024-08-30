@@ -2,7 +2,7 @@
 title: "Crit practice"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 There will be another [criterium](https://en.wikipedia.org/wiki/Criterium) practice on Wednesday, May 11th, at 6:00 pm.

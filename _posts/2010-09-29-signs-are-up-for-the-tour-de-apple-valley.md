@@ -2,7 +2,7 @@
 title: "Signs are up for the Tour de Apple Valley"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

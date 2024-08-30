@@ -2,7 +2,7 @@
 title: "Hwy 173 Time Trials"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Looks as though all of us missed this one.

@@ -2,7 +2,7 @@
 title: "2015 VVBT website now live"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

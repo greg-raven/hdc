@@ -2,7 +2,7 @@
 title: "Cyclists of all levels ride for LV schools"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 LUCERNE VALLEY --- Riders of all ability levels converged in Lucerne Valley on Saturday morning for one purpose: to help local students.

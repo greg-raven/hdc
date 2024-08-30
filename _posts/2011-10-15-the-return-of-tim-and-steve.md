@@ -3,7 +3,7 @@ title: "The return of Tim and Steve"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 tags:
 - 'Michael Bruce Slusser'
 ---

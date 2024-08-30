@@ -2,7 +2,7 @@
 title: "October rides"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

@@ -2,7 +2,7 @@
 title: "Tour de Irwin"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 Here's your opportunity to ride Fort Irwin without having to enlist.

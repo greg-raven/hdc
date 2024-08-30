@@ -2,7 +2,7 @@
 title: "Smitty Smith updates the Town Council of Apple Valley on the VVBT"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

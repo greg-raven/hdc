@@ -2,7 +2,7 @@
 title: "Cyclists are coming your way"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - VVBT
 ---

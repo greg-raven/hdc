@@ -3,7 +3,7 @@ title: "Bike ride for bike lanes"
 layout: post
 categories:
 - 'Bike lanes'
-- 'Ride news'
+- Ride news
 ---
 
 The High Desert Cyclists invite you to join the Bike Ride for Bike lanes, Monday, May 2, 2011.

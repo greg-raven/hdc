@@ -2,7 +2,7 @@
 title: "Charity ride for breast cancer awareness"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 ---
 
 [Trek Women](https://www.trekbikes.com/us/en_US/) is holding a local Breast Cancer Awareness Ride (BCAR) on Saturday, October 8, at 10:00 a.m.

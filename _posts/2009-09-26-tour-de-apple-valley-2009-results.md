@@ -2,7 +2,7 @@
 title: "Tour de Apple Valley, 2009 results"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

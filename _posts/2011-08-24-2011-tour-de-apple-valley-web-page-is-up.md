@@ -2,7 +2,7 @@
 title: "2011 Tour de Apple Valley web page is up"
 layout: post
 categories:
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---

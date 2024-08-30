@@ -3,7 +3,7 @@ title: "Peak2Peak (photos)"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 Here are some photos of this year's Peak2Peak riders going through Lucerne Valley.

@@ -3,7 +3,7 @@ title: "July time trial results"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 ---
 
 Here are the results of this month's time trial. There was a slight breeze, but the temperature and humidity seemed just about perfect. The length of the course is approximately 7.24 miles.

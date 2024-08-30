@@ -3,7 +3,7 @@ title: "Photos from the 2012 Tour de Apple Valley"
 layout: post
 categories:
 - Photos
-- 'Ride news'
+- Ride news
 tags:
 - TdAV
 ---
