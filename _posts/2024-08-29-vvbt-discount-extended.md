@@ -1,5 +1,5 @@
 ---
-title: "Early Bird price and discount of the 2024 Victor Valley Bicycle Tour extended to include Labor Day"
+title: "Early Bird price and discount of the 2024 VVBT extended to include Labor Day"
 layout: post
 categories:
 - Ride news
