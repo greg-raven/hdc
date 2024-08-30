@@ -3,7 +3,7 @@ title: "Apple Valley rejects rumble strips"
 layout: post
 categories:
 - Advocacy
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Brad Miller, engineer for the Town of Apple Valley, has advised the town council to reject the use of rumble strips alongside existing bike lanes to aid in the protection of cyclists.

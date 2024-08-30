@@ -2,7 +2,7 @@
 title: "The FC508 is coming this weekend"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 If you're one of those who enjoys driving for hours to catch a moment's glimpse of a bike rider or two, this weekend's Furnace Creek 508 is for you.

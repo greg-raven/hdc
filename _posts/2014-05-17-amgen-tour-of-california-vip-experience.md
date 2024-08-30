@@ -2,7 +2,7 @@
 title: "Amgen Tour of California VIP experience"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 Stage 7 --- Santa Clarita to Pasadena

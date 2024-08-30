@@ -2,7 +2,7 @@
 title: "Law requires motorists to give bicyclists three feet for safety as new school year rolls in"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 SACRAMENTO, Calif. --- With children heading back to school, motorists should expect to see more children riding to and from school on their bicycles. The California Highway Patrol (CHP) would like to remind the public that on September 16, 2014, a new law affecting motorists and bicyclists takes effect.

@@ -2,7 +2,7 @@
 title: "Amgen Tour bicycle race to hold stage from Claremont to Mt. Baldy in May"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 CLAREMONT --- One of cycling's well-known races will be rolling up and over Inland Valley foothills in May.

@@ -2,7 +2,7 @@
 title: "Caltrans pulls plug on High Desert Corridor freeway effort"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The California Department of Transportation \[Caltrans\] rather quietly last month pulled the plug on the long-in-the-works plans for the 63-mile Desert Corridor Freeway that was to link California State Route 14 in Palmdale and State Route 18 in Apple Valley.

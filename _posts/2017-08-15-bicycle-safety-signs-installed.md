@@ -2,7 +2,7 @@
 title: "Bicycle safety signs installed"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 tags:
 - VVBT
 ---

@@ -2,7 +2,7 @@
 title: "Improved bike lanes coming to Apple Valley"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Keeping a focus on improving its roadways, the Town of Apple Valley has carved out a plan to upgrade and lengthen 34.45 miles of bicycle lanes that would include uniformed signage and clear markings for the Town's system of Class 2 bicycle lanes.

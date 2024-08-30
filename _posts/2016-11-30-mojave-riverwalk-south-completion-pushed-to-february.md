@@ -2,7 +2,7 @@
 title: "Mojave Riverwalk South completion pushed to February"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 APPLE VALLEY --- The nearly 3-mile-long walking path atop the eastern bank of the Mojave River is approximately 60 percent complete, but the finish date has been pushed several weeks to accommodate an extension of the project to the town's southern border.

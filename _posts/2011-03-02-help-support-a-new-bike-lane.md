@@ -2,7 +2,7 @@
 title: "Help support a new bike lane"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The Town of Apple Valley needs community support to build a new bike lane.

@@ -2,7 +2,7 @@
 title: "The Bear Valley Road Class 1 Bike Path: Q's and A's"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 - From the Town of Apple Valley

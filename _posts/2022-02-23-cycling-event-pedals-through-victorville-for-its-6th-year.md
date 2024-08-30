@@ -2,7 +2,7 @@
 title: "Cycling event pedals through Victorville for its 6th year"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 A cycling event took place over the weekend in Victorville.

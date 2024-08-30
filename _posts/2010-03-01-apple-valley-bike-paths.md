@@ -2,7 +2,7 @@
 title: "Apple Valley bike paths"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Current as of March 2010.

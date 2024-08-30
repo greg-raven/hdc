@@ -2,7 +2,7 @@
 title: "Amgen Tour of California Stage 7"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 The biggest bicycle race in the United States has a stage in our backyard this Saturday, May 21st. And it's not just any stage: Stage 7 of the 2011 Amgen Tour of California will be the ultimate test of the riders' resolve to capture the yellow jersey.

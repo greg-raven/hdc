@@ -2,7 +2,7 @@
 title: "Victorville bicycle workshop"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 VICTORVILLE --- The community is invited to attend a workshop about the City of Victorville's "Complete Streets" improvement project. The workshop will be held June 8 at 4:30 p.m. at Mojave Vista Elementary School.

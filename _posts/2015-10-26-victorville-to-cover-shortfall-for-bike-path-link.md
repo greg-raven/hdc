@@ -2,7 +2,7 @@
 title: "Victorville to cover shortfall for bike path link"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Apple Valley-led project seen as critical connector in eventual network of bikeways

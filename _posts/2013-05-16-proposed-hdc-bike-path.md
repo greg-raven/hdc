@@ -2,7 +2,7 @@
 title: "Proposed HDC bike path"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Had a great conversation this afternoon with Dan Conaty, who works as the Principal Environmental Planner at Parsons. Conaty also mentioned that he had had a good conversation with John Teegarden, president of VV Bike Club, yesterday.

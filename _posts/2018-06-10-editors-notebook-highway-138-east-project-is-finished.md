@@ -2,7 +2,7 @@
 title: "Editor's Notebook: Highway 138 East project is finished"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Without fanfare, Caltrans' contractor finished the Highway 138 East widening project sometime in the last couple of weeks. I knew they were getting close, because about 80 percent of the new road had been open for quite some time.

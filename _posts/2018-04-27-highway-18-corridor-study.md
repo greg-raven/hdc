@@ -2,7 +2,7 @@
 title: "Highway 18 Corridor Study"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The Town of Apple Valley is seeking input on a Corridor Study project on Highway 18 in the Apple Valley Village (AKA The Village) area.

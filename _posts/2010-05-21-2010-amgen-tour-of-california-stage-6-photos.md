@@ -2,7 +2,7 @@
 title: "2010 Amgen Tour of California: Stage 6 photos"
 layout: post
 categories:
-- 'Event news'
+- Event news
 - Photos
 ---
 

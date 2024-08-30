@@ -2,7 +2,7 @@
 title: "Victorville non-Motorized Transportation Plan"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Draft version.

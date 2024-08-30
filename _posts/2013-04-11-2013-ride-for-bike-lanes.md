@@ -3,7 +3,7 @@ title: "2013 Ride for Bike Lanes"
 layout: post
 categories:
 - Advocacy
-- 'Bike lanes'
+- Bike lanes
 - Ride news
 ---
 

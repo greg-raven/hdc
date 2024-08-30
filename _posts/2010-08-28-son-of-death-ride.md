@@ -2,7 +2,7 @@
 title: "Son of Death Ride"
 layout: post
 categories:
-- 'Event news'
+- Event news
 - Photos
 ---
 

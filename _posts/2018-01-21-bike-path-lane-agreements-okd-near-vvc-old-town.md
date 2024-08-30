@@ -2,7 +2,7 @@
 title: "Bike path, lane agreements OK'd near VVC, Old Town"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 VICTORVILLE --- The City Council this week unanimously approved construction and maintenance agreements with stakeholders for bike pathway as part of the Mojave Riverwalk project.

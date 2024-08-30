@@ -2,7 +2,7 @@
 title: "Amgen Tour of California 2015 local stages"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 **Route Information: May 15, 2015 --- Stage 6 Time Trial**

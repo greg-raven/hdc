@@ -2,7 +2,7 @@
 title: "Apple Valley Town Council approves $300K increase on road construction project"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 - Work will include overlay of Dale Evans Parkway, widening of Ramona Road

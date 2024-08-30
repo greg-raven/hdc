@@ -2,7 +2,7 @@
 title: "Victorville's Riverwalk Project under way"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 VICTORVILLE --- Explaining a major push to boost the city's bicycle and pedestrian-friendly infrastructure, City Engineer Brian Gengler acknowledged last week it was one area where Victorville trailed neighboring municipalities.

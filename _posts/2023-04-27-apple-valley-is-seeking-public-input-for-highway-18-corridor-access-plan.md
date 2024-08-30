@@ -2,7 +2,7 @@
 title: "Apple Valley is seeking public input for Highway 18 Corridor Access Plan"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The Town of Apple Valley is seeking public input for its Corridor Connections Highway 18 Access Plan.

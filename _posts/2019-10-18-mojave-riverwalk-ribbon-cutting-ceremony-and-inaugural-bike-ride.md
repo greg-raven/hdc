@@ -2,7 +2,7 @@
 title: "Mojave Riverwalk Ribbon Cutting Ceremony and Inaugural Bike Ride"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 - Ride news
 ---
 

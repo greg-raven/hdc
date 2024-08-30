@@ -2,7 +2,7 @@
 title: "Top 10 for two-wheelers"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 - Information
 ---
 

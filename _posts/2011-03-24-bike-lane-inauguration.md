@@ -2,7 +2,7 @@
 title: "Bike lane inauguration"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 - Photos
 ---
 

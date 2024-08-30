@@ -2,7 +2,7 @@
 title: "Town of Apple Valley bike path plans"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 BEAR VALLEY BIKE PATH --- PROJECT NO. 2012-03

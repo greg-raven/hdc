@@ -2,7 +2,7 @@
 title: "Apple Valley receives $200,000 Safe Routes to Schools grant"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The Town of Apple Valley has been awarded funding for a grant that will improve transportation routes for students traveling to and from school. The grant will focus on "high risk" schools and their surrounding roads, enabling more students to safely walk or ride their bike to class. The grant does not provide funding for any construction to take place, however, it will allow an evaluation for 10 K-8 grade schools that will focus on the risks and options necessary to improve these routes.

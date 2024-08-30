@@ -2,7 +2,7 @@
 title: "New festival celebrates the snow"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 Snowshoe Races and Fat Bike Rides Headline Inaugural Winter Festival

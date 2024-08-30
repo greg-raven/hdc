@@ -2,7 +2,7 @@
 title: "Bike ride for bike lanes"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 - Ride news
 ---
 

@@ -2,7 +2,7 @@
 title: "2012 Amgen Tour of California"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 The Amgen Tour of California starts Sunday, May 13, with a local stage on Friday, May 18.

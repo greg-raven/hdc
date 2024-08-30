@@ -4,7 +4,7 @@ layout: post
 categories:
 - Advocacy
 tags:
-- 'AB 1103'
+- AB 1103
 ---
 
 Dear AB 1103 supporter,

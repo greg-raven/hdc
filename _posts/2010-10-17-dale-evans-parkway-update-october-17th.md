@@ -2,7 +2,7 @@
 title: "Dale Evans Parkway update, October 17th"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Dale Evans Parkway has now been completely repaved between Otoe and Waalew, although it has yet to be striped. It seems much wider now, so there should be plenty of room for the bike lanes.

@@ -2,7 +2,7 @@
 title: "Riverwalk takes shape"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 - Funding for final design approved; 11 miles of bike infrastructure is part of a wider overhaul

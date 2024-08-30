@@ -3,7 +3,7 @@ title: "Sample letter in support of the new bike lane"
 layout: post
 categories:
 - Advocacy
-- 'Bike lanes'
+- Bike lanes
 ---
 
 There's now a new deadline of March 17th to submit letters in support of the new bike lane. Here's a sample letter:

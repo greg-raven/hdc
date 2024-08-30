@@ -2,7 +2,7 @@
 title: "2022 Redlands Bicycle Classic: Here's what you need to know"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 The Redlands Bicycle Classic is back this week after a two-year coronavirus hiatus with a "new" course, road closures, and plenty of opportunities for public participation.

@@ -2,7 +2,7 @@
 title: "The Ride: Victorville segment (video)"
 layout: post
 categories:
-- 'Event news'
+- Event news
 - Videos
 ---
 

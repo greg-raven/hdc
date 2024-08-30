@@ -2,7 +2,7 @@
 title: "SANBAG Safe Routes to School and Pedestrian Plan Meeting"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Hello Apple Valley Safe Routes to School Stakeholders,

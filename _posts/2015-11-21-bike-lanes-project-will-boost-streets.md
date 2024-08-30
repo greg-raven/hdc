@@ -2,7 +2,7 @@
 title: "Bike lanes project will boost streets"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Five-year plan's funding mechanism will help road rehabs

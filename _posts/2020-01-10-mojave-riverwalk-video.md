@@ -2,7 +2,7 @@
 title: "Mojave Riverwalk video"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The City of Victorville's Twitter announcement of the opening of the Mojave Riverwalk.

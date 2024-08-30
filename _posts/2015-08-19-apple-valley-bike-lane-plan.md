@@ -2,7 +2,7 @@
 title: "Apple Valley bike lane plan"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 From the State of the Town address (Council member Curt Emick).

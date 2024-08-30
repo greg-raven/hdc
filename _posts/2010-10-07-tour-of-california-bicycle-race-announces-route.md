@@ -2,7 +2,7 @@
 title: "Tour of California Bicycle Race Announces Route"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 2 Stages Will to be in L.A. Region

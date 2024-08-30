@@ -2,7 +2,7 @@
 title: "Bear Valley bike path update"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 A press release from the Town of Apple Valley reads:

@@ -2,7 +2,7 @@
 title: "Governor Brown signs protected bike lane bill, car fee for bike paths"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Governor Jerry Brown signed two bills on Saturday that will make it easier for California cities to build better bike infrastructure.

@@ -2,7 +2,7 @@
 title: "Town of Apple Valley completes Safe Routes to School projects"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Apple Valley, CA --- Feb. 22, 2021: When children resume in-person learning again at Mariana Academy, Sandia Academy , Apple Valley High School, and Rio Vista School of Applied Learning, they can walk or bike to school easier now that construction is complete on projects designed to improve access along commonly used routes to these schools.

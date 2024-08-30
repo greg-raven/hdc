@@ -2,7 +2,7 @@
 title: "Amgen Tour of California Stage 7 start"
 layout: post
 categories:
-- 'Event news'
+- Event news
 - Photos
 - Videos
 ---

@@ -2,7 +2,7 @@
 title: "Town of Apple Valley bike path plans"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 BEAR VALLEY ROAD BIKE PATH PROJECT --- MEMORANDUM OF UNDERSTANDING BETWEEN THE COLLEGE AND THE TOWN

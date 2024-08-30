@@ -2,7 +2,7 @@
 title: "2021 Redlands Bicycle Classic canceled as organizers focus on 2022"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 The 2021 Redlands Bicycle Classic has been canceled, organizers announced this week, despite hopes earlier in the year for a possible fall event.

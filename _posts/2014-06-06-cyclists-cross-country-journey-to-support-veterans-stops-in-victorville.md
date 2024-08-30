@@ -2,7 +2,7 @@
 title: "Cyclists' cross-country journey to support veterans stops in Victorville"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 VICTORVILLE --- After Tracy Draper and her team of cyclists finished a 109-mile bicycle ride with 6,000 feet of climbing, a room normally used for belly dancing at Hook Community Center was an amazing place for a good night's sleep.

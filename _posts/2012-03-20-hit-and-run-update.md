@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- 'Michael Bruce Slusser'
+- Michael Bruce Slusser
 ---
 
 At a pre-preliminary court conference today, Michael Bruce Slusser withdrew his plea of not guilty and entered a plea of "no contest" in the hit-and-run of two local cyclists pursuant to a plea deal reached with prosecutors.

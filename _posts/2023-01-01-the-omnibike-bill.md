@@ -2,7 +2,7 @@
 title: "The OmniBike Bill"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 - Information
 ---
 

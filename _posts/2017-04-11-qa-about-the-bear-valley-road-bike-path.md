@@ -2,7 +2,7 @@
 title: "Q&#038;A about the Bear Valley Road bike path"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 After the opening of the Bear Valley Road bike path, I reached out to Richard Berger and Kathie Martin at the Town of Apple Valley for more information. This is what I received from Kathie Martin:

@@ -2,7 +2,7 @@
 title: "Announcing the host cities of the 2019 Amgen Tour of California"
 layout: post
 categories:
-- 'Event news'
+- Event news
 - Videos
 ---
 

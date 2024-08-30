@@ -2,7 +2,7 @@
 title: "Letter to the editor: Road safety"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The seemingly endless resurfacing project on Apple Valley Road, has me wondering who the project manager is. My project managing experience comes from being involved with space track stations and major Communication sites. This project has so many loose ends I am glad my name isn't connected with it.

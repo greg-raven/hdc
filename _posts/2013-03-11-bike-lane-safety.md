@@ -2,7 +2,7 @@
 title: "Bike lane safety"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 I was fortunate to have dinner with Tim Brummer over the weekend. Brummer is the brain behind [Lightning Cycle Dynamics](https://www.lightningbikes.com) in Lompoc. He's been designing, building, and racing record-setting bikes for decades, giving him more cycling experience than anyone else I can think of off the top of my head.

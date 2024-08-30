@@ -2,7 +2,7 @@
 title: "Apple Valley to vote on bike lanes upgrade"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 The Apple Valley Town Council will be voting at the September 22 council meeting to award a contract to All American Asphalt for the Townwide Class II Bikeway Upgrade --- Project No. 2016-03.

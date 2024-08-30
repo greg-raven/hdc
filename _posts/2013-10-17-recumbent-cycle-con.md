@@ -2,7 +2,7 @@
 title: "Recumbent Cycle-Con"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 This isn't really specific to high-desert cycling, but for anyone who has been wondering if a recumbent might be a good alternative choice of cycles, Recumbent Cycle-Con is returning to the Fairplex in Pomona from Friday, November 1st, through Sunday, November 3rd.

@@ -2,7 +2,7 @@
 title: "Join us at Apple Valley's Safe Routes to School Walk/Bike Audits"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 Hello Community Members,

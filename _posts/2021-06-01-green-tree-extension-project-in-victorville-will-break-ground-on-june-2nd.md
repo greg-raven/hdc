@@ -2,7 +2,7 @@
 title: "Green Tree extension project in Victorville will break ground on June 2nd"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 VICTORVILLE, Calif. --- Today, the City of Victorville announced that it will break ground on its Green Tree Extension on June 2.

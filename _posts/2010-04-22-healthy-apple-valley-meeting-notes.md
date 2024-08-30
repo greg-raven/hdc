@@ -2,7 +2,7 @@
 title: "Healthy Apple Valley meeting notes, April 2010"
 layout: post
 categories:
-- 'Healthy High Desert'
+- Healthy High Desert
 ---
 
 Committee members in attendance:

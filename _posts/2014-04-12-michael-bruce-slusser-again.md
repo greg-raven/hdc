@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- 'Michael Bruce Slusser'
+- Michael Bruce Slusser
 ---
 
 It seems that Michael Bruce Slusser is back in the news again.

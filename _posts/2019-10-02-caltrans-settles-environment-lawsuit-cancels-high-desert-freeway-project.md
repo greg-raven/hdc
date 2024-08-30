@@ -2,7 +2,7 @@
 title: "Caltrans settles environment lawsuit, cancels high desert freeway project"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 A recent court settlement spells the end for the planned High Desert Corridor Freeway. Bryn Lindblad, deputy director of Climate Resolve --- one of the plaintiffs --- calls the settlement "a victory for smart planning \[and against\] climate change." Climate Resolve estimates that the freeway would have resulted in four million additional miles being driven every day. Those tailpipes would have contributed major greenhouse gas emissions, exacerbating the planet's climate emergency.

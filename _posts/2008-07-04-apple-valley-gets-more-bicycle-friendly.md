@@ -2,7 +2,7 @@
 title: "Apple Valley gets more bicycle-friendly"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 APPLE VALLEY --- Finally able to respond to public demand, the Town of Apple Valley is adding bicycle lanes little by little.

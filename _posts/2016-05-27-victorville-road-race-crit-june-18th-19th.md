@@ -2,7 +2,7 @@
 title: "Victorville Road Race &amp; Crit June 18th &amp; 19th"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 Presented By Majestic Cycling

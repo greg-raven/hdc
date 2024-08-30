@@ -2,7 +2,7 @@
 title: "City begins building Mojave Riverwalk"
 layout: post
 categories:
-- 'Bike lanes'
+- Bike lanes
 ---
 
 VICTORVILLE --- Crews have begun work on a concrete bike trail along the Mojave River near the lower campus of Victor Valley College.

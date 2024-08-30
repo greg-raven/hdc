@@ -2,7 +2,7 @@
 title: "Cycling to bring awareness"
 layout: post
 categories:
-- 'Event news'
+- Event news
 ---
 
 Journey of Hope team to raise funds, bring awareness for those struggling with disabilities

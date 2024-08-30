@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- 'Michael Bruce Slusser'
+- Michael Bruce Slusser
 ---
 
 The man authorities believe injured two bicyclists over the weekend then fled the scene was arrested late Wednesday night, San Bernardino County Sheriff's Apple Valley station officials said.

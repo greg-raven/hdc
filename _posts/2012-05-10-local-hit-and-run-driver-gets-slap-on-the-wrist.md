@@ -4,7 +4,7 @@ layout: post
 categories:
 - Information
 tags:
-- 'Michael Bruce Slusser'
+- Michael Bruce Slusser
 ---
 
 Michael Bruce Slusser, the person accused of driving the truck that hit local cyclists Tim Moreno and Steve Stearns, has received a slap on the wrist.

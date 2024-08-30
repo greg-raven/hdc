@@ -3,7 +3,7 @@ title: "Bicycle Route 66"
 layout: post
 categories:
 - Advocacy
-- 'Bike lanes'
+- Bike lanes
 ---
 
 An exciting proposal to extend the United States Bicycle Route System (AKA USBRS, part of the National Corridor Plan) through our area.

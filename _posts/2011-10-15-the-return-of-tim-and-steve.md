@@ -5,7 +5,7 @@ categories:
 - Photos
 - Ride news
 tags:
-- 'Michael Bruce Slusser'
+- Michael Bruce Slusser
 ---
 
 This morning, Tim "TJ" Moreno and Steve Sterns returned to Apple Valley Road to finish the ride they started on June 11th of this year, a ride [cut short by a hit-and-run driver]({% post_url 2011-06-11-hit-and-run-on-apple-valley-road %}).
