@@ -19,7 +19,6 @@ url: "https://www.hdcycling.org"
 plugins:
   - jekyll-archives
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
 

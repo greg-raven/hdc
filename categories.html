@@ -9,7 +9,7 @@ layout: base
 
 {% for category in categories_sorted %}
 <!-- for each category, create an anchor by using the category name as an id -->
-<div id="{{ category[0] }}">
+<div id="{{ category[0] | slugify }}">
   <h2> {{ category[0] }} </h2> <!-- create a category heading -->
 
   <ul> <!-- create the list of posts -->

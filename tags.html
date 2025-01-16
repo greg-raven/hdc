@@ -9,7 +9,7 @@ layout: base
 
 {% for tagitem in tags_sorted %}
 <!-- for each tag, create an anchor by using the tag name as an id -->
-<div id="{{ tagitem[0] }}">
+<div id="{{ tagitem[0] | slugify }}">
   <h2> {{ tagitem[0] }} </h2> <!-- create a tag heading -->
 
   <ul> <!-- create the list of posts -->
