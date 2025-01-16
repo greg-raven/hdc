@@ -1,12 +1,10 @@
 ---
-layout: base
+title: Categories
+layout: page
 ---
-
-<h1>Categories</h1>
 
 {% assign categories_sorted = site.categories | sort %}
 {% assign posts_sorted = site.posts | sort: 'title' %}
-
 {% for category in categories_sorted %}
 <!-- for each category, create an anchor by using the category name as an id -->
 <div id="{{ category[0] | slugify }}">
