@@ -23,9 +23,6 @@ Because of the apparent difficulty in gaining traction with the authorities abou
 
 If you know anyone who might be in a position to push (or undertake) an investigation of the allegations of Slusser' recent travels out of the country, please [contact me]({% link about.html %}) and I will forward the information to the appropriate persons.
 
-<video controls="controls" height="480" width="854">
-<source src="/assets/video/20140400-Slusser-In-Bz.mp4" type="video/mp4">
-</source>
-</video>
+<video controls height="480" width="854"><source src="/assets/video/20140400-Slusser-In-Bz.mp4" type="video/mp4"></source></video>
 
 Is this Michael Bruce Slusser at 3:00 PM on April 8th, 2014, in front of 91 North Front Street, Belize City, Belize?
