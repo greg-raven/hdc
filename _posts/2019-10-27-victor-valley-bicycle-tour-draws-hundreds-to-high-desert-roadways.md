@@ -2,7 +2,9 @@
 title: "Victor Valley Bicycle Tour draws hundreds to High Desert roadways"
 layout: post
 categories:
-- Event news
+- Ride news
+tags:
+- VVBT
 ---
 
 - The 5th annual event, which played out Saturday, included locals and professionals who rode to promote bicycle safety.

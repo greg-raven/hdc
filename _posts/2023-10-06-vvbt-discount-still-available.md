@@ -2,7 +2,9 @@
 title: "VVBT discount still available"
 layout: post
 categories:
-- Event news
+- Ride news
+tags:
+- VVBT
 ---
 
 [The Victor Valley Bicycle Tour](https://victorvalleybicycletour.com) is excited to announce a 10% discount. To avail of this offer, please use the discount code VVBT2023 before October 17, 2023, [while registering here](https://www.active.com).
