@@ -2,7 +2,7 @@
 title: "Apple Valley Corridor Connections: Highway 18 Access Plan"
 layout: post
 categories:
-- information
+- Information
 ---
 
 - The Town of Apple Valley wants to create a better-connected  Highway 18 throughout Apple Valley.

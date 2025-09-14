@@ -2,7 +2,7 @@
 title: "Reflective clothing might make it harder for cars to not hit pedestrians"
 layout: post
 categories:
-- information
+- Information
 ---
 
 - This is probably something automakers should look into.

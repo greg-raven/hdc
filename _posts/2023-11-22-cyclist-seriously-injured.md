@@ -2,7 +2,7 @@
 title: "Bicyclist seriously injured in Hesperia collision on Main Street"
 layout: post
 categories:
-- information
+- Information
 ---
 
 Hesperia, Calif. (VVNG.com) --- A male bicyclist was airlifted to a trauma center on Wednesday, November 22, 2023, after being struck by a vehicle near the intersection of Main Street and 8th Avenue, close to America's Tire.

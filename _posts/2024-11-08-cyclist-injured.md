@@ -2,7 +2,7 @@
 title: "Bicyclist critically injured in collision with pickup truck in Victorville"
 layout: post
 categories:
-- information
+- Information
 ---
 
 VICTORVILLE, Calif. (VVNG.com) --- A bicyclist struck by a pick up truck was critically injured Friday night in the City Of Victorville. 

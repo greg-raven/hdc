@@ -2,7 +2,7 @@
 title: "Wear a helmet"
 layout: post
 categories:
-- information
+- Information
 ---
 
 Celebrity chef Gordon Ramsay stresses the importance of wearing a helmet while cycling.

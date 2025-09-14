@@ -2,7 +2,7 @@
 title: "Bicyclist critically injured after hit-and-run crash on Outer Highway 18"
 layout: post
 categories:
-- information
+- Information
 ---
 
 A bicyclist sustained critical injuries after a hit-and-run crash in the Town of Apple Valley, San Bernardino County, on Thursday evening, November 21, 2024.

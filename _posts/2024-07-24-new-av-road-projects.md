@@ -2,7 +2,7 @@
 title: "New Apple Valley road projects"
 layout: post
 categories:
-- information
+- Information
 ---
 
 The Town of Apple Valley's recent budget adoption includes a summary of proposed and ongoing improvement projects, with details on how they will be funded, how they are progressing and what the estimated costs are.

@@ -2,7 +2,7 @@
 title: "Bicyclist suffers major injuries after being struck by a vehicle in Apple Valley"
 layout: post
 categories:
-- information
+- Information
 ---
 
 APPLE VALLEY, Calif. (VVNG.com) --- A bicyclist was critically injured after he was hit by a vehicle Monday night in Apple Valley.
