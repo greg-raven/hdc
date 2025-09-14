@@ -1,8 +1,10 @@
 ---
-title: "Announcing the 2022 Victor Valley Bicycle Tour"
+title: "Announcing the 2022 VVBT"
 layout: post
 categories:
 - Event news
+tags:
+- VVBT
 ---
 
 The Victor Valley Bicycle Tour (VVBT) is looking forward to another great ride this year.
