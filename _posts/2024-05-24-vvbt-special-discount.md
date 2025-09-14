@@ -1,5 +1,5 @@
 ---
-title: "VVBT special Memorial Day discount"
+title: "VVBT 2024 special Memorial Day discount"
 layout: post
 categories:
 categories:

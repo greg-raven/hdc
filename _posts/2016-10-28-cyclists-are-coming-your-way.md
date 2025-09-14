@@ -4,10 +4,11 @@ layout: post
 categories:
 - Ride news
 tags:
+- TdAV
 - VVBT
 ---
 
-Victor Valley Bicycle Tour returns for second year; will honor two local enthusiasts
+Victor Valley Bicycle Tour (VVBT) returns for second year; will honor two local enthusiasts
 
 Cyclists are expected at the starting line Saturday for the 2nd annual Victor Valley Bicycle Tour, which is being held in honor of two local bicycle enthusiasts who died this year.
 

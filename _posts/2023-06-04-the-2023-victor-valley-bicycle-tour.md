@@ -1,5 +1,5 @@
 ---
-title: "The 2023 Victor Valley Bicycle Tour"
+title: "The 2023 VVBT"
 layout: post
 categories:
 - Ride news

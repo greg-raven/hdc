@@ -1,5 +1,5 @@
 ---
-title: "VVBT Flashsale this weekend"
+title: "VVBT 2024 Flashsale this weekend"
 layout: post
 categories:
 - Ride news

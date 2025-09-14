@@ -1,5 +1,5 @@
 ---
-title: "2015 Victor Valley Bicycle Tour update"
+title: "2015 VVBT update"
 layout: post
 categories:
 - Ride news

@@ -1,5 +1,5 @@
 ---
-title: "VVBT special Independence Day discount"
+title: "VVBT 2024 special Independence Day discount"
 layout: post
 categories:
 categories:

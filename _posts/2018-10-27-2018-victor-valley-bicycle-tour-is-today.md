@@ -1,5 +1,5 @@
 ---
-title: "2018 Victor Valley Bicycle Tour is today"
+title: "2018 VVBT is today"
 layout: post
 categories:
 - Ride news

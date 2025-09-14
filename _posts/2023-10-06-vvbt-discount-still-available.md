@@ -1,5 +1,5 @@
 ---
-title: "VVBT discount still available"
+title: "VVBT 2023 discount still available"
 layout: post
 categories:
 - Ride news

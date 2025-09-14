@@ -1,5 +1,5 @@
 ---
-title: "Victor Valley Bicycle Tour draws hundreds to High Desert roadways"
+title: "VVBT 2019 draws hundreds to High Desert roadways"
 layout: post
 categories:
 - Ride news

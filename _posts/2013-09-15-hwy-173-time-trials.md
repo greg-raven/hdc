@@ -12,8 +12,11 @@ Pacific Sunset Velo held a time trial on Highway 173 today, one of a series of e
 According to the Pacific Sunset Velo website (https://psvelo.com), the schedule for 2013 is:
 
 - Sunday, September 15
+
 - Sunday, October 13
+
 - Thanksgiving Day, November 28
+
 - Sunday, December 8
 
 I've e-mailed them in hopes of getting more notice next time. Whatever I get, I'll post here.

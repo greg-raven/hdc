@@ -1,5 +1,5 @@
 ---
-title: "Happy Coffee Days from VVBT"
+title: "Happy Coffee Days from VVBT 2024"
 layout: post
 categories:
 - Ride news

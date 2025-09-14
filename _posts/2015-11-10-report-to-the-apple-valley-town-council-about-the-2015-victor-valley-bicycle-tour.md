@@ -1,5 +1,5 @@
 ---
-title: "Report to the Apple Valley town council about the 2015 Victor Valley Bicycle Tour"
+title: "Report to the Apple Valley town council about the 2015 VVBT"
 layout: post
 categories:
 - Ride news
@@ -7,7 +7,7 @@ tags:
 - VVBT
 ---
 
-Smitty Smith of the VVBT reports that they raised enough money to donate $12,000 to children's bicycle safety in Apple Valley, Hesperia, and Victorville.
+Smitty Smith of the Victor Valley Bicycle Tour (VVBT) reports that they raised enough money to donate $12,000 to children's bicycle safety in Apple Valley, Hesperia, and Victorville.
 
 The tentative date for next year's event is October 29, 2016.
 
