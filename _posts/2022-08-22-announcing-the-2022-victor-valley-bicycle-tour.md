@@ -20,7 +20,7 @@ Once again, all routes will start from beautiful Apple Valley. Apple Valley has 
 
 The mission of the Victor Valley Bicycle Tour is to raise awareness of safe bicycling in our communities and to promote cycling as a healthy lifestyle for both recreation and transportation.
 
-For the most up to date information on the 6th Victor Valley Bicycle Tour, please visit the [VVBT website](https://www.victorvalleybicycletour.com) or [Facebook page](https://www.facebook.com/victorvalleybicycletour).
+For the most up to date information on the 6th Victor Valley Bicycle Tour, please visit the [VVBT website](https://www.http://victorvalleybicycletour.com) or [Facebook page](https://www.facebook.com/victorvalleybicycletour).
 
 **Event details and schedule**
 
@@ -32,8 +32,8 @@ The [Tour 30-mile ride](https://ridewithgps.com/routes/36058784) starts at 8:30 
 
 The [Family Fun 10-mile ride](https://ridewithgps.com/routes/35871975) starts at 10:00 a.m.
 
-[Routes for 2022](https://www.victorvalleybicycletour.com)
+[Routes for 2022](https://www.http://victorvalleybicycletour.com)
 
-[About the VVBT](https://www.victorvalleybicycletour.com)
+[About the VVBT](https://www.http://victorvalleybicycletour.com)
 
 Plenty of parking available at the start / finish location.

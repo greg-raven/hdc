@@ -27,6 +27,6 @@ All proceeds gathered from the event will be used to fund children's bicycle saf
 
 \[...\]
 
-For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycletour.com.
+For more information on the Victor Valley Bicycle Tour, visit http://victorvalleybicycletour.com.
 
 [Read the full story here](https://www.vvdailypress.com)

@@ -8,7 +8,7 @@ tags:
 - VVBT
 ---
 
-In observance of Independence Day, the [Victor Valley Bicycle Tour](http://www.victorvalleybicycletour.com) (Saturday, October 26th, 2024) is offering 15% off the registration price from July 2 through July 8, 2024.
+In observance of Independence Day, the [Victor Valley Bicycle Tour](http://www.http://victorvalleybicycletour.com) (Saturday, October 26th, 2024) is offering 15% off the registration price from July 2 through July 8, 2024.
 
 To take advantage of this offer, sign up at <https://www.active.com/orgs/victor-valley-bicycle-tour> using code JUL04.
 

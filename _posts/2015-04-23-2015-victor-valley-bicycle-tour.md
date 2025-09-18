@@ -28,4 +28,4 @@ There will also be start/finish line activities (including a carnival and BMX ex
 
 Registration is not yet set up, but you will be able to register on-line through Active.com, as well as in person at the site, starting the night before the ride.
 
-I will be publishing updates here as I get them, or you can go to the ride's website: VictorValleyBicycleTour.com
+I will be publishing updates here as I get them, or you can go to the ride's website: http://victorvalleybicycletour.com

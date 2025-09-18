@@ -9,4 +9,4 @@ The Victor Valley Bicycle Tour hosted a free children's Bicycle Road-eo on Satur
 
 Source: David Pardo, [*Daily Press*](https://www.vvdailypress.com)
 
-For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycletour.com.
+For more information on the Victor Valley Bicycle Tour, visit http://victorvalleybicycletour.com.

@@ -38,7 +38,7 @@ The money will be used to purchase permanent bicycle-safety signage to be displa
 
 "We're really trying to push public-safety awareness," Smith said. "Keep an eye out for the riders (during the tour). All the riders will be abiding by all the laws. Just be careful and watch out for the riders as this event continues to grow. I'm really looking forward to it."
 
-For more information on the Victor Valley Bicycle Tour, visit victorvalleybicycletour.com.
+For more information on the Victor Valley Bicycle Tour, visit http://victorvalleybicycletour.com.
 
 ![2016 Victor Valley Bicycle Tour](/assets/img/2016/10/20161028-DP-vvbt.png)
 
