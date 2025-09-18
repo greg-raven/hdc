@@ -35,6 +35,6 @@ Hesperia resident Jeff Friend, 50, who has participated in the event each year, 
 
 With the event growing each year, Smith said the proceeds will "always go to something bike-related."
 
-The tour is set to return next year. Visit [http://victorvalleybicycletour.com](http://www.http://victorvalleybicycletour.com) for more information.
+The tour is set to return next year. Visit [http://victorvalleybicycletour.com](http://victorvalleybicycletour.com) for more information.
 
 Source: Joselyn Villalobos, [*Daily Press*](https://www.vvdailypress.com)

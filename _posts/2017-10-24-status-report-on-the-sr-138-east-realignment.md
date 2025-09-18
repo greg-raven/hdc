@@ -17,4 +17,4 @@ This project will improve operational efficiency by taking out some of the curve
 
 Construction began in the Summer of 2016, and the expected completion date is Summer 2018.
 
-For more information, visit the [CalTrans District 8 web page](https://www.dot.ca.gov/d8/index.html).
+For more information, visit the [CalTrans District 8 web page](https://dot.ca.gov/d8/index.html).

@@ -7,13 +7,13 @@ categories:
 
 October 28, 2023 --- Apple Valley Civic Center, CA
 
-[Victor Valley Bicycle Tour](https://http://victorvalleybicycletour.com) is to raise awareness of safe bicycling in our communities and to promote cycling as a healthy lifestyle for both recreation and transportation.
+[Victor Valley Bicycle Tour](http://victorvalleybicycletour.com) is to raise awareness of safe bicycling in our communities and to promote cycling as a healthy lifestyle for both recreation and transportation.
 
-- [Family Fun --- 10 Mile](https://http://victorvalleybicycletour.com/10mile.php) (10:00 a.m.)
+- [Family Fun --- 10 Mile](http://victorvalleybicycletour.com/10mile.php) (10:00 a.m.)
 
-- [The Tour --- 30 Mile](https://http://victorvalleybicycletour.com/30mile.php) (starts at 8:30 a.m.)
+- [The Tour --- 30 Mile](http://victorvalleybicycletour.com/30mile.php) (starts at 8:30 a.m.)
 
-- [Grand Tour --- 62 Mile](https://http://victorvalleybicycletour.com/62mile.php) (starts at 8:00 a.m.)
+- [Grand Tour --- 62 Mile](http://victorvalleybicycletour.com/62mile.php) (starts at 8:00 a.m.)
 
 Join the fun by signing up at [Active.com](https://www.active.com)
 
