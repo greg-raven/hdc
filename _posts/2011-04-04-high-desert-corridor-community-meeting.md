@@ -27,6 +27,6 @@ Go to [metro.net](https://www.metro.net).
 **On the web:**
 
 [HDC website](https://www.metro.net)
-[California Department of Transportation](https://www.dot.ca.gov/dist07/)
+[California Department of Transportation](https://dot.ca.gov/dist07/)
 [Twitter](https://twitter.com/#!/MetroHDC)
 [Facebook](https://www.facebook.com/metrohdc)

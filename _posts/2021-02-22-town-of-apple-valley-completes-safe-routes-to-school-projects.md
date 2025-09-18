@@ -21,4 +21,4 @@ As partners in the Master Plan, AVUSD worked with the Town's design engineers to
 
 For more information on the Safe Routes to Schools Master Plan, call (760) 240-7000, x 7530.
 
-Source: [TOAV](https://www.applevalley.org/Home/Components/News/News/4472/333?backlist=%2f)
+Source: TOAV

@@ -45,7 +45,7 @@ Here is his report:
 >
 > The study was initiated after complaints were received by Arizona DOT from Arizona bicyclists regarding the installation of rumble strips. Rumble strips can have a severe affect on bicycle handling and control. The study investigated the possible use of gaps in rumble strip applications, to allow a bicyclist to transition between the vehicle travel lane and the roadway shoulder.
 >
-> Research of the California Department of Transportation Traffic Manual, the California Manual on Uniform Traffic Control Devices, (MUTCD), and the Federal Highway Administration website for existing application guidelines pertaining to the use of rumble strips in conjunction with Class 2 Bike Lane applications found no results. All rumble strip application guidelines found are for shoulder applications on rural highways, and there are actually cautions in some MUTCD manuals not to use rumble strips in anticipated pedestrian and bicycle use areas.
+> Research of the California Department of Transportation Traffic Manual, the [California Manual on Uniform Traffic Control Devices](https://dot.ca.gov/programs/safety-programs/camutcd), (MUTCD), and the Federal Highway Administration website for existing application guidelines pertaining to the use of rumble strips in conjunction with Class 2 Bike Lane applications found no results. All rumble strip application guidelines found are for shoulder applications on rural highways, and there are actually cautions in some MUTCD manuals not to use rumble strips in anticipated pedestrian and bicycle use areas.
 >
 > As with any traffic control device, uniform and consistent application is essential for achieving maximum benefit for facility users.
 >

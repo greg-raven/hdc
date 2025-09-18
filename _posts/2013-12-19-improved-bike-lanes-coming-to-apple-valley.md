@@ -7,7 +7,7 @@ categories:
 
 Keeping a focus on improving its roadways, the Town of Apple Valley has carved out a plan to upgrade and lengthen 34.45 miles of bicycle lanes that would include uniformed signage and clear markings for the Town's system of Class 2 bicycle lanes.
 
-While the Town had already budgeted $60,000 in Local Transportation Funds to create the plan, the Town was recently awarded nearly $406,000 to implement the improvements that are expected to be complete in two years. The funding is the result of a Highway Safety Improvement Program Grant that will bring the bike lanes up to current [California Manual of Uniform Traffic Control Devices](https://www.dot.ca.gov/hq/traffops/signtech/mutcdsupp/ca_mutcd2012.htm) standards.
+While the Town had already budgeted $60,000 in Local Transportation Funds to create the plan, the Town was recently awarded nearly $406,000 to implement the improvements that are expected to be complete in two years. The funding is the result of a Highway Safety Improvement Program Grant that will bring the bike lanes up to current [California Manual of Uniform Traffic Control Devices](https://dot.ca.gov/programs/safety-programs/camutcd) standards.
 
 "Because Class 2 bike lanes are located along our major arterials, we need to periodically review and update our installations to ensure adherence to MUTCD guidelines. Uniformity of bike lane installations is our best tool to ensure that both motor vehicle drivers and bicyclists have a clear understanding about how they must share the roadway," said Town Engineer Brad Miller.
 
