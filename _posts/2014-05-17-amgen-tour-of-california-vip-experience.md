@@ -25,4 +25,19 @@ I kept expecting them to cut us loose to wander around, but instead, Mo took us 
 
 We don't know what may come of this meeting, or if the Tour of California will ever come through the High Desert. No matter what happens though, our experience shows that AEG does a tremendous job putting on the Tour of California. Thanks Claire, Mo, Allison, Joanne, AEG, and Amgen for this wonderful event and for being such wonderful hosts.
 
-[See more photos here](https://www.dropbox.com/sh/9etdl5a3uvykiwk/AAAMudKuEkyLlVs4YGmvrWWaa).
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-1.jpg "17-amgen-tour-1.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-2.jpg "17-amgen-tour-2.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-3.jpg "17-amgen-tour-3.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-4.jpg "17-amgen-tour-4.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-5.jpg "17-amgen-tour-5.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-6.jpg "17-amgen-tour-6.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-7.jpg "17-amgen-tour-7.jpg")
+
+![Amgen Tour of California Stage 7](/assets/img/2014/05/17-amgen-tour-8.jpg "17-amgen-tour-8.jpg")
+
