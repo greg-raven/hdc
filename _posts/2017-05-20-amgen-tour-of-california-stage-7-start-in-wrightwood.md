@@ -26,3 +26,11 @@ Here's what the start looked like. Note how thin the crowd is.
 I had a feeling that attendance might be down after watching the previous-days' Big Bear Lake individual time trial (Stage 6) on TV, but it was still shocking to see how few turned out for this event.
 
 At least I got a souvenir cowbell from the Lexus Swag Wagon folks.
+
+![Amgen Tour Stage 7 in Wrightwood](/assets/img/2017/05/20-amgen-7-1.jpg "20-amgen-7-1.jpg")
+
+![Amgen Tour Stage 7 in Wrightwood](/assets/img/2017/05/20-amgen-7-2.jpg "20-amgen-7-2.jpg")
+
+![Amgen Tour Stage 7 in Wrightwood](/assets/img/2017/05/20-amgen-7-3.jpg "20-amgen-7-3.jpg")
+
+![Amgen Tour Stage 7 in Wrightwood](/assets/img/2017/05/20-amgen-7-4.jpg "20-amgen-7-4.jpg")
