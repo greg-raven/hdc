@@ -1,3 +1,4 @@
+---
 title: "Apple Valley Reverse Triathlon (start photos)"
 layout: post
 categories:

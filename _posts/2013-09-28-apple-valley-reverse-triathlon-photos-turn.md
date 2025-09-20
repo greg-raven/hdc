@@ -12,7 +12,7 @@ I'm pretty certain that I got a photo of everyone who made it to the turn-around
 
 - [First set]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-turn-01 %}) (100 photos)
 
-- Second set (100 photos)
+- [First set]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-turn-02 %}) (100 photos)
 
 - Third set (100 photos)
 
