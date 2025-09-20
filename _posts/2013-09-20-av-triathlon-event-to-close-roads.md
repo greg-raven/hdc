@@ -14,10 +14,13 @@ Children can participate in a shortened version with a three-quarter mile run, o
 Street closures, which run 6:30 a.m. to 10:15 a.m., include:
 
 - Dale Evans Parkway from Civic Center Park to Waalew Road.
+
 - Dale Evans Parkway and Bell Mountain Road from Waalew to Corwin roads.
+
 - Waalew Road from Corwin Road to Comanche Road.
 
-![](/assets/img/2013/09/28-triathlon.jpg)
+![3rd Annual Apple Valley Reverse Triathlon](/assets/img/2013/09/28-triathlon.jpg)
+
 Access to Highway 18 will be made through Rancherias Road or Corwin Road to the west, and Navajo or Flathead roads to the east.
 
 Citizens on Patrol volunteers will assist residents who live within the closure areas to navigate safely to one of the detour points.

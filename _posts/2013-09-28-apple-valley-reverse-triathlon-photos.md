@@ -6,34 +6,14 @@ categories:
 - Ride news
 ---
 
-Here are some of the photos I took of the cyclists at the Apple Valley Reverse Triathlon.
+![Apple Valley Reverse Triathlon](/assets/img/2013/09/28-staging/28-avrt-staging-001.jpg "28-avrt-staging-001.jpg")
 
-[Staging area (47 photos)](https://www.flickr.com/photos/gregraven/sets/72157635989454386/)
+Here are some of the photos I took of the participants at the 4th Annual Apple Valley Reverse Triathlon.
 
-**Turn-around point**
+[Staging area]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-staging %}) (47 photos)
 
-I'm pretty certain that I got a photo of everyone who made it to the turn-around point on Navajo, so if that describes you, your photo should be here. These photos should all be in chronological order. That is, the first person in the photos is the first guy to the turn-around, and the woman who appears in the last photos is the last rider on the course.
+[Start]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-start %}) (50 photos)
+: I turned my camera on at the last minute during the start of the run, but because it was an afterthought I didn't have it set properly, and I didn't even try to get everyone. As a result, the photos are pretty dodgy.
 
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157635990818713/)
-
-[Turn-around point (173 photos)](https://www.flickr.com/photos/gregraven/sets/72157635990888725/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157635991333104/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636052055316/)
-
-[Turn-around point (196 photos)](https://www.flickr.com/photos/gregraven/sets/72157636053711944/)
-
-[Turn-around point (199 photos)](https://www.flickr.com/photos/gregraven/sets/72157636054354694/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636055988335/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636056295123/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636056252506/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636056647865/)
-
-[Turn-around point (200 photos)](https://www.flickr.com/photos/gregraven/sets/72157636061100254/)
-
-I also turned my camera on at the last minute during the start of the run, but because it was an afterthought I didn't have it set properly, and I didn't even try to get everyone. As a result, the photos are pretty dodgy. However, if you want to check them out, too, you'll find them [here (50 photos)](https://www.flickr.com/photos/gregraven/sets/72157635989731163/).
+[Turn-around point]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-turn %}) (2,168 photos)
+: I'm pretty certain that I got a photo of everyone who made it to the turn-around point on Navajo, so if that describes you, your photo should be here. These photos should all be in chronological order. That is, the first person in the photos is the first guy to the turn-around, and the woman who appears in the last photos is the last rider on the course.
