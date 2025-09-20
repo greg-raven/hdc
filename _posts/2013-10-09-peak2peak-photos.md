@@ -1,12 +1,14 @@
 ---
-title: "Peak2Peak (photos)"
+title: "Peak to Peak (photos)"
 layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- P2P
 ---
 
-Here are some photos of this year's Peak2Peak riders going through Lucerne Valley.
+Here are some photos of this year's Peak to Peak riders going through Lucerne Valley.
 
 - [Approaching Lucerne Valley]({% post_url 2013-10-09-peak2peak-photos-1 %})
 

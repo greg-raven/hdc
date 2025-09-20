@@ -1,12 +1,14 @@
 ---
-title: "Peak2Peak Lucerne Valley SAG stop (photos)"
+title: "Peak to Peak Lucerne Valley SAG stop (photos)"
 layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- P2P
 ---
 
-Here are some photos of this year's Peak2Peak riders at the Lucerne Valley SAG stop.
+Here are some photos of this year's Peak to Peak riders at the Lucerne Valley SAG stop.
 
 ![Lucerne Valley SAG stop](/assets/img/2013/10/09-p2p-201.jpg "09-p2p-201.jpg")
 

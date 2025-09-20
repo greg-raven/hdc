@@ -4,6 +4,8 @@ layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- AVRT
 ---
 
 ![Apple Valley Reverse Triathlon](/assets/img/2013/09/28-staging/28-avrt-staging-001.jpg "28-avrt-staging-001.jpg")
@@ -11,6 +13,7 @@ categories:
 Here are some of the photos I took of the participants at the 4th Annual Apple Valley Reverse Triathlon.
 
 [Staging area]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-staging %}) (47 photos)
+: Everyone arrived and got set up before sunrise. What a scene!
 
 [Start]({% post_url 2013-09-28-apple-valley-reverse-triathlon-photos-start %}) (50 photos)
 : I turned my camera on at the last minute during the start of the run, but because it was an afterthought I didn't have it set properly, and I didn't even try to get everyone. As a result, the photos are pretty dodgy.

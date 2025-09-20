@@ -4,6 +4,8 @@ layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- AVRT
 ---
 
 Here are some of the photos I took of the participants at the start of the 4th Annual Apple Valley Reverse Triathlon.

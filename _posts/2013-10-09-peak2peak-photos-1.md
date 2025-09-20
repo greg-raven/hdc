@@ -1,12 +1,14 @@
 ---
-title: "Peak2Peak approaching Lucerne Valley (photos)"
+title: "Peak to Peak approaching Lucerne Valley (photos)"
 layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- P2P
 ---
 
-Here are some photos of this year's Peak2Peak riders approaching Lucerne Valley.
+Here are some photos of this year's Peak to Peak riders approaching Lucerne Valley.
 
 ![Approaching Lucerne Valley](/assets/img/2013/10/09-p2p-001.jpg "09-p2p-001.jpg")
 

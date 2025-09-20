@@ -1,12 +1,14 @@
 ---
-title: "Peak2Peak Lucerne Valley to Barstow (photos)"
+title: "Peak to Peak Lucerne Valley to Barstow (photos)"
 layout: post
 categories:
 - Photos
 - Ride news
+tags:
+- P2P
 ---
 
-Here are some photos of this year's Peak2Peak riders between Lucerne Valley and Barstow.
+Here are some photos of this year's Peak to Peak riders between Lucerne Valley and Barstow.
 
 ![Lucerne Valley to Barstow](/assets/img/2013/10/09-p2p-301.jpg "09-p2p-301.jpg")
 
