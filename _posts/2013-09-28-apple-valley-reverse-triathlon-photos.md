@@ -8,7 +8,7 @@ tags:
 - AVRT
 ---
 
-![Apple Valley Reverse Triathlon staging area](/assets/img/2013/09/28-avrt-staging-001.jpg "28-avrt-staging-001.jpg")
+![Apple Valley Reverse Triathlon staging area](/assets/img/2013/09/28-avrt.jpg "28-avrt.jpg")
 
 Here are some of the photos I took of the participants at the 4th Annual Apple Valley Reverse Triathlon.
 
