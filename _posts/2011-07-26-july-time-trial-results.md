@@ -78,5 +78,3 @@ Congratulations to each of the riders.
 </table>
 
 ![Victor Valley Velo time trial group](/assets/img/2011/07/26-time-trial.jpg)
-
-[Here are some more photos of this event](https://photos.app.goo.gl/Zn6SybTuEF6mmbsNA).
