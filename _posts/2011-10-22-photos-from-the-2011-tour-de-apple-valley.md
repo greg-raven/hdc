@@ -8,4 +8,6 @@ tags:
 - TdAV
 ---
 
-[![2011 Tour de Apple Valley](https://farm8.staticflickr.com/7414/8930138864_ca3018e2c5_z.jpg)](https://www.flickr.com/photos/15848140@N02/albums/72157633888797786 "2011 Tour de Apple Valley")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script>
+![<# alt text #>](/assets/img/2011/10/2011-10-22-Tour-de-Apple-Valley.jpg "2011-10-22-Tour-de-Apple-Valley.jpg")
+
+[Click here to see photos of this event](https://photos.app.goo.gl/tVFCvB9gb8DHN6F16)
