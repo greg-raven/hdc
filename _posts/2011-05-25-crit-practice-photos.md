@@ -48,5 +48,4 @@ Wednesday evening saw crit practice at the old Lowe's location in Apple Valley.
 
 ![Crit practice at Lowe's](/assets/img/2011/05/05-crit-practice-20.jpg "05-crit-practice-20.jpg")
 
-
 Aaron Christoffersen has posted some of these on the VVBC Facebook page.
