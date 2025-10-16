@@ -14,3 +14,5 @@ This ride starts at the [Lowe's in Victorville](https://maps.google.com/maps/ms?
 All ages are welcomed. Helmets required.
 
 This annual ride promotes the need for more bikes lanes in the high desert.
+
+![2013 Ride for Bike Lanes](/assets/img/2013/04/2013-ride-for-bike-lanes.jpg "2013 Ride for Bike Lanes")

@@ -7,13 +7,13 @@ tags:
 - VVBT
 ---
 
-This fantastic event is fast approaching, but the registration fee will increase by $10 on October 9, 2025, at 11:00 PM.
+This fantastic event is fast approaching, but the registration fee will increase by $10 on October 9, 2025, at 11:00 p.m.
 
 If you still haven't signed up, be certain you take advantage of the Flash Sale today and tomorrow. Get a 15% discount by using the promo code VVBT2025 at checkout. But don't dawdle, as Flash Sale expires Thursday, 10/09/2025, at 11 p.m.
 
 To ensure you receive your event shirt, it is advisable to register before then.
 
-![VVBT T-shirts](/assets/img/2025/2025-09-19-vvbt-t-shirts.jpg "2025-09-19-vvbt-t-shirts.jpg")
+![VVBT T-shirts](/assets/img/2025/2025-09-19-vvbt-t-shirts.jpg "VVBT T-shirts")
 
 Please note that the registration price will increase by $10 after October 9, 2025, so be sure to complete your registration before this date to take advantage of the current pricing.
 
