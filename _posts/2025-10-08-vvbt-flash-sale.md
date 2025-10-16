@@ -7,7 +7,7 @@ tags:
 - VVBT
 ---
 
-This fantastic event is fast approaching, but the registration fee will increase by $10 on October 9, 2025, at 11:00 p.m.
+The Victor Valley Bicycle Tour (VVBT) is fast approaching, but the registration fee will increase by $10 on October 9, 2025, at 11:00 p.m.
 
 If you still haven't signed up, be certain you take advantage of the Flash Sale today and tomorrow. Get a 15% discount by using the promo code VVBT2025 at checkout. But don't dawdle, as Flash Sale expires Thursday, 10/09/2025, at 11 p.m.
 
