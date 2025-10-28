@@ -15,23 +15,32 @@ In addition to the sign-in table, there were pop-ups for Victorville Cycles and 
 
 Before the start of the 60-mile ride, the Adelanto High School Marching Band played the national anthem.
 
-![VVBT 2025 sign-in area](/assets/img/2025/2025-vvbt-1.jpg "2025-vvbt-1.jpg")
+![VVBT 2025 sign-in area](/assets/img/2025/2025-vvbt-1.jpg "VVBT 2025 sign-in area")
+VVBT 2025 sign-in area
 
-![VVBT 2025 Victorville Cycles](/assets/img/2025/2025-vvbt-2.jpg "2025-vvbt-2.jpg")
+![VVBT 2025 Victorville Cycles](/assets/img/2025/2025-vvbt-2.jpg "VVBT 2025 Victorville Cycles")
+VVBT 2025 Victorville Cycles
 
-![VVBT 2025 Ramon Franco Agency](/assets/img/2025/2025-vvbt-3.jpg "2025-vvbt-3.jpg")
+![VVBT 2025 Ramon Franco Agency](/assets/img/2025/2025-vvbt-3.jpg "VVBT 2025 Ramon Franco Agency")
+VVBT 2025 Ramon Franco Agency
 
-![VVBT 2025 lunch area](/assets/img/2025/2025-vvbt-4.jpg "2025-vvbt-4.jpg")
+![VVBT 2025 lunch area](/assets/img/2025/2025-vvbt-4.jpg "VVBT 2025 lunch area")
+VVBT 2025 lunch area
 
-![VVBT 2025 table](/assets/img/2025/2025-vvbt-5.jpg "2025-vvbt-5.jpg")
+![VVBT 2025 sign-in table](/assets/img/2025/2025-vvbt-5.jpg "VVBT 2025 sign-in table")
+VVBT 2025 sign-in table
 
-![VVBT 2025 goodies](/assets/img/2025/2025-vvbt-6.jpg "2025-vvbt-6.jpg")
+![VVBT 2025 rider goodies](/assets/img/2025/2025-vvbt-6.jpg "VVBT 2025 rider goodies")
+VVBT 2025 rider goodies
 
-![VVBT 2025 parking area](/assets/img/2025/2025-vvbt-7.jpg "2025-vvbt-7.jpg")
+![VVBT 2025 parking area](/assets/img/2025/2025-vvbt-7.jpg "VVBT 2025 parking area")
+VVBT 2025 parking area
 
-![VVBT 2025 start/finish line](/assets/img/2025/2025-vvbt-8.jpg "2025-vvbt-8.jpg")
+![VVBT 2025 start/finish line](/assets/img/2025/2025-vvbt-8.jpg "VVBT 2025 start/finish line")
+VVBT 2025 start/finish line
 
-![VVBT 2025 Adelanto High School Marching Band](/assets/img/2025/2025-vvbt-9.jpg "2025-vvbt-9.jpg")
+![VVBT 2025 Adelanto High School Marching Band](/assets/img/2025/2025-vvbt-9.jpg "VVBT 2025 Adelanto High School Marching Band")
+VVBT 2025 Adelanto High School Marching Band
 
-<video controls poster="/assets/img/2025/2025-vvbt-10.jpg"><source src="/assets/video/2025-vvbt-11.mp4" type="video/mp4"></source></video>
+<video controls poster="/assets/img/2025/2025-vvbt-10.jpg" width="800"><source src="/assets/video/2025-vvbt-11.mp4" type="video/mp4"></source></video>
 VVBT 2025 start
