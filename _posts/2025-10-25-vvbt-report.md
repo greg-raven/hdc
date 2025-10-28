@@ -42,5 +42,5 @@ VVBT 2025 start/finish line
 ![VVBT 2025 Adelanto High School Marching Band](/assets/img/2025/2025-vvbt-9.jpg "VVBT 2025 Adelanto High School Marching Band")
 VVBT 2025 Adelanto High School Marching Band
 
-<video controls poster="/assets/img/2025/2025-vvbt-10.jpg"  height="768" width="1024"><source src="https://www.glockspiel.com/hdc/2025-vvbt-11.mp4" type="video/mp4"></source></video>
+<video controls poster="/assets/img/2025/2025-vvbt-10.jpg"  height="555" width="740"><source src="https://www.glockspiel.com/hdc/2025-vvbt-11.mp4" type="video/mp4"></source></video>
 VVBT 2025 start
